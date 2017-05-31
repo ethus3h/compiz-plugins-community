@@ -14,11 +14,6 @@ AC_HEADER_STDC
 AC_CHECK_HEADERS([stdlib.h sys/time.h unistd.h])
 IT_PROG_INTLTOOL([0.35.0])
 AC_CONFIG_MACRO_DIR([m4])
-AM_GNU_GETTEXT([external])
-AM_GNU_GETTEXT_VERSION([0.19])
-GETTEXT_PACKAGE=compiz-plugins-experimental
-AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE,"$GETTEXT_PACKAGE", [Gettext package.])
-AC_SUBST(GETTEXT_PACKAGE)
 
 if test "x$GCC" = "xyes"; then
   case " $CFLAGS " in
