@@ -1,14 +1,14 @@
-# French translation for compiz-plugins-experimental
+# French translation for compiz-plugins
 # Copyright (C) 2007 launchpad.net/compiz
-# This file is distributed under the same license as the compiz-plugins-experimental package.
+# This file is distributed under the same license as the compiz-plugins package.
 # Guillaume Seguin <guillaume@segu.in>, 2007.
 # Tristan RABLAT <tristan.rablat@gmail.com>, 2007, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: compiz-plugins-experimental\n"
-"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
-"experimental/issues\n"
+"Project-Id-Version: compiz-plugins\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
+"community/issues\n"
 "POT-Creation-Date: 2017-01-12 18:19+0300\n"
 "PO-Revision-Date: 2009-06-24 17:59+0200\n"
 "Last-Translator: Alvin Meimoun <alvin.meimoun@laposte.net>\n"

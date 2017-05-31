@@ -1,15 +1,15 @@
-# Finnish translation for compiz-plugins-experimental
+# Finnish translation for compiz-plugins
 # Copyright (C) 2008 launchpad.net/compiz
-# This file is distributed under the same license as the compiz-plugins-experimental package.
+# This file is distributed under the same license as the compiz-plugins package.
 # Birunthan Mohanathas <biru@inbox.com>.
 # Jani Hyytiäinen <janihy@gmail.com>, 2008.
 # Timo Jyrinki <timo.jyrinki@iki.fi>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: compiz-plugins-experimental\n"
-"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
-"experimental/issues\n"
+"Project-Id-Version: compiz-plugins\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
+"community/issues\n"
 "POT-Creation-Date: 2017-01-12 18:19+0300\n"
 "PO-Revision-Date: 2009-08-13 10:27+0200\n"
 "Last-Translator: Timo Jyrinki <timo.jyrinki@iki.fi>\n"

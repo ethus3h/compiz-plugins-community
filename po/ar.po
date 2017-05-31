@@ -1,13 +1,13 @@
-# Arabic translation for compiz-plugins-experimental
+# Arabic translation for compiz-plugins
 # Copyright (C) 2007 Banxoo
-# This file is distributed under the same license as the compiz-plugins-experimental package.
+# This file is distributed under the same license as the compiz-plugins package.
 # Banxoo <banxoo+compiz@gmail.com>, 2007.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: compiz-plugins-experimental\n"
-"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
-"experimental/issues\n"
+"Project-Id-Version: compiz-plugins\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
+"community/issues\n"
 "POT-Creation-Date: 2017-01-12 18:19+0300\n"
 "PO-Revision-Date: 2008-09-29 01:23+0200\n"
 "Last-Translator: maher <s6r@live.com>\n"

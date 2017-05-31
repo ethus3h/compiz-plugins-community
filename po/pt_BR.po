@@ -1,15 +1,15 @@
-# Brazilian Portuguese translation for compiz-plugins-experimental
+# Brazilian Portuguese translation for compiz-plugins
 # Based on Portugal Portuguese translation by Nicolau Gonçalves.
 # Copyright (C) 2007 launchpad.net/compiz
-# This file is distributed under the same license as the compiz-plugins-experimental package.
+# This file is distributed under the same license as the compiz-plugins package.
 # Emerson Ribeiro de Mello <ribmello-compiz@yahoo.com.br>
 # Ricardo Schmidt <r76ricardo@yahoo.com.br>
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: compiz-plugins-experimental\n"
-"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
-"experimental/issues\n"
+"Project-Id-Version: compiz-plugins\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
+"community/issues\n"
 "POT-Creation-Date: 2017-01-12 18:19+0300\n"
 "PO-Revision-Date: 2008-04-18 17:28+0200\n"
 "Last-Translator: Arthur Rodrigues Araruna <araruna@gmail.com>\n"

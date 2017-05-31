@@ -1,15 +1,15 @@
-# Japanese translation for compiz-plugins-experimental
+# Japanese translation for compiz-plugins
 # Copyright (C) 2007 launchpad.net/compiz
-# This file is distributed under the same license as the compiz-plugins-experimental package.
+# This file is distributed under the same license as the compiz-plugins package.
 # Nishio Futoshi <futoshi@momonga-linux.org>, 2007.
 # Yohsuke Ooi <meke@momonga-linux.org>, 2007.
 # TABUCHI Takaaki <tab@momonga-linux.org>, 2007.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: compiz-plugins-experimental\n"
-"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
-"experimental/issues\n"
+"Project-Id-Version: compiz-plugins\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
+"community/issues\n"
 "POT-Creation-Date: 2017-01-12 18:19+0300\n"
 "PO-Revision-Date: 2009-05-10 21:12+0900\n"
 "Last-Translator: jiro kawada <jiro.kawada@gmail.com>\n"
