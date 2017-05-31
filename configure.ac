@@ -128,5 +128,6 @@ images/roach/Makefile
 metadata/Makefile
 src/Makefile
 src/roach/Makefile
+src/rubik/Makefile
 po/Makefile.in
 ])
