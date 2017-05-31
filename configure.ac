@@ -1,6 +1,6 @@
 AC_PREREQ(2.57)
 
-AC_INIT([compiz-plugins-community], [0.8.14], [info@futuramerlin.com])
+AC_INIT([compiz-plugins-community], [0.8.15], [info@futuramerlin.com])
 AM_INIT_AUTOMAKE([1.9 foreign dist-xz no-dist-gzip check-news])
 AC_CONFIG_HEADER([config.h])
 AM_MAINTAINER_MODE
