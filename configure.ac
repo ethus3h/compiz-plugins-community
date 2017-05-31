@@ -123,6 +123,7 @@ AC_SUBST(GL_LIBS)
 
 AC_OUTPUT([
 Makefile
+images/Makefile
 images/roach/Makefile
 metadata/Makefile
 src/Makefile
