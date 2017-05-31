@@ -4,7 +4,7 @@ SUBDIRS = metadata data include src po images
 
 EXTRA_DIST =		   \
 	AUTHORS		    \
-	COPYING		    \
+	LICENSE.md	 \
 	NEWS		    \
 	README.md	    \
 	VERSION		    \

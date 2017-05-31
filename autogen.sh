@@ -5,7 +5,7 @@ srcdir=$(dirname "$0")
 [ -z "$srcdir" ] && srcdir="."
 cd "$srcdir"
 
-PKG_NAME="compiz-plugins-experimental"
+PKG_NAME="compiz-plugins-community"
 
 if [ ! -f "$srcdir/configure.ac" ]; then
     echo -n "**Error**: Directory "\`"$srcdir"\'" does not look like the"
