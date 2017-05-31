@@ -4,7 +4,7 @@ PFLAGS=-module -avoid-version -no-undefined
 librubik_la_LDFLAGS = $(PFLAGS)
 librubik_la_LIBADD = @COMPIZ_LIBS@
 nodist_librubik_la_SOURCES = rubik_options.c rubik_options.h
-dist_librubik_la_SOURCES = rubik.c
+dist_librubik_la_SOURCES = rubik.c rubik-internal.h util.c
 
 BUILT_SOURCES = $(nodist_librubik_la_SOURCES)
 
