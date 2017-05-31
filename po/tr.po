@@ -1,0 +1,5476 @@
+# Turkish translation for compiz-plugins-experimental
+# Copyright (C) 2007 launchpad.net/compiz
+# This file is distributed under the same license as the compiz-plugins-experimental package.
+# Serdar Soytetir <tulliana@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz-plugins-experimental\n"
+"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
+"experimental/issues\n"
+"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"PO-Revision-Date: 2009-03-16 09:21+0100\n"
+"Last-Translator: Onur Koçak <onurkocak_1907@yahoo.co.uk>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Anaglyph"
+msgstr ""
+
+msgid "Anaglyph window and Desktop"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window"
+msgstr "Pencereyi Etkinleştir"
+
+#, fuzzy
+msgid "Start anaglyph window"
+msgstr "Tek Pencere Seç"
+
+#, fuzzy
+msgid "Initiate Screen"
+msgstr "Alev çizimini başlat"
+
+msgid "Start anaglyph screen"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Button"
+msgstr "Başlat (düğme)"
+
+#, fuzzy
+msgid "Start anaglyph active window"
+msgstr "Verilen bir pencereyi etkinleştir"
+
+#, fuzzy
+msgid "Initiate Screen Button"
+msgstr "Alev çizimini başlat"
+
+#, fuzzy
+msgid "Anaglyph Windows"
+msgstr "Çember Pencereleri"
+
+#, fuzzy
+msgid "Windows to be anaglyph by default"
+msgstr "Öntanımlı olarak negatifleştirilecek pencereler"
+
+msgid "Exclude Windows"
+msgstr "Pencereleri Hariç Tut"
+
+#, fuzzy
+msgid "Windows to exclude from anaglyph"
+msgstr "Negatifleştirme dışında tutulacak pencereler"
+
+msgid "Offset"
+msgstr ""
+
+msgid "offset anaglyph"
+msgstr ""
+
+msgid "Increase Desktop deep"
+msgstr ""
+
+#, fuzzy
+msgid "Desaturate"
+msgstr "Doygunluk"
+
+msgid "Mipmaps"
+msgstr ""
+
+#, fuzzy
+msgid "Animations Plus"
+msgstr "Canlandırmalar"
+
+#, fuzzy
+msgid "More window animations"
+msgstr "Pencere dekorasyonlarını filtrele"
+
+msgid "Effect Settings"
+msgstr "Efekt Ayarları"
+
+msgid "Helix"
+msgstr ""
+
+#, fuzzy
+msgid "Helix Number of Twists"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Number of twists to do in the animation"
+msgstr "Canlandırmanın sonundaki pencere açısı."
+
+msgid "Helix Gridsize Y"
+msgstr ""
+
+msgid "Number of blocks in the animation"
+msgstr ""
+
+#, fuzzy
+msgid "Helix Thickness"
+msgstr "Kalınlık"
+
+msgid "Thickness of blocks in the animation"
+msgstr ""
+
+#, fuzzy
+msgid "Spin Direction"
+msgstr "Kar Yönü"
+
+msgid "Direction the strips spin."
+msgstr ""
+
+msgid "Counter-Clockwise"
+msgstr ""
+
+msgid "Clockwise"
+msgstr ""
+
+#, fuzzy
+msgid "Vertical Helix"
+msgstr "Dikey Olarak Döşe"
+
+msgid ""
+"Whether Helix should rotate with its axis up/down or in/out of the screen"
+msgstr ""
+
+msgid "Blinds"
+msgstr ""
+
+msgid "Blinds Number of Half Twists"
+msgstr ""
+
+#, fuzzy
+msgid "Number of half twists to do in the animation"
+msgstr "Canlandırmanın sonundaki pencere açısı."
+
+#, fuzzy
+msgid "Blinds Thickness"
+msgstr "Kalınlık"
+
+msgid "Shatter"
+msgstr ""
+
+#, fuzzy
+msgid "Shatter number of spokes"
+msgstr "Kar Tanelerinin Sayısı"
+
+msgid "Number of spokes (divided by 4) in the animation"
+msgstr ""
+
+#, fuzzy
+msgid "Shatter Number of Tiers"
+msgstr "Parçacık sayısı"
+
+msgid "Number of concentric circles in the animation"
+msgstr ""
+
+msgid "Bonanza"
+msgstr ""
+
+msgid "Number Of Fire Particles"
+msgstr "Ateş Parçacıklarının Sayısı"
+
+msgid "Number of fire particles."
+msgstr "Alevin parçacık sayısı."
+
+msgid "Fire Particle Size"
+msgstr "Ateş Parçacığı Boyutu"
+
+msgid "Fire particle size."
+msgstr "Ateş parçacığı boyutu."
+
+msgid "Fire Particle Life"
+msgstr "Ateş Parçacığı Ömrü"
+
+msgid "Fire particle life."
+msgstr "Ateş parçacığı ömrü."
+
+msgid "Fire Particle Color"
+msgstr "Ateş Rengi"
+
+msgid "Fire particle color."
+msgstr "Ateş rengi."
+
+msgid "Randomly Colored Fire"
+msgstr "Rastgele Renklendirilmiş Alev"
+
+msgid "Have random colors for the fire effect, also known as Mystical Fire."
+msgstr ""
+
+#, fuzzy
+msgid "Simple Animations"
+msgstr "Açma Canlandırması"
+
+msgid "Animations that are simple on the eye"
+msgstr ""
+
+msgid "Fly In"
+msgstr ""
+
+#, fuzzy
+msgid "Fly In Direction"
+msgstr "Katlama Yönü"
+
+msgid "The direction in which the fly in should take place"
+msgstr ""
+
+#, fuzzy
+msgid "UD Direction X"
+msgstr "Katlama Yönü"
+
+msgid "Direction and Distance X for user defined fly in"
+msgstr ""
+
+#, fuzzy
+msgid "UD Direction Y"
+msgstr "Katlama Yönü"
+
+msgid "Direction and Distance Y for user defined fly in"
+msgstr ""
+
+msgid "Fade"
+msgstr "Belirme/Kaybolma"
+
+msgid "Fade when flying in"
+msgstr ""
+
+msgid "Distance"
+msgstr "Uzaklık"
+
+#, fuzzy
+msgid "Distance to fly in"
+msgstr "Uzaklık"
+
+#, fuzzy
+msgid "Rotate In"
+msgstr "Kar Tanelerini Döndür"
+
+#, fuzzy
+msgid "Rotate In Direction"
+msgstr "Hareket Yönü"
+
+msgid "The direction in which the window rotates"
+msgstr ""
+
+#, fuzzy
+msgid "Angle"
+msgstr "Uzak Açı"
+
+msgid "Angle to start from"
+msgstr ""
+
+msgid "Bounce"
+msgstr ""
+
+#, fuzzy
+msgid "Maximum Size"
+msgstr "Küçültülmüşleri Göster"
+
+msgid "Maximum scale factor of window when bouncing"
+msgstr ""
+
+#, fuzzy
+msgid "Minimum Size"
+msgstr "En Küçük Küp Boyutu"
+
+msgid "Minimum scale factor of window when bouncing"
+msgstr ""
+
+#, fuzzy
+msgid "Number of Bounces"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "How many bounces during the animation"
+msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Starting Percent"
+msgstr ""
+
+msgid ""
+"How wide the begginning of the sheet animation should be compared to the end"
+msgstr ""
+
+msgid "Expand Piecewise"
+msgstr ""
+
+#, fuzzy
+msgid "First expand horizontally"
+msgstr "Yatay Olarak Döşe"
+
+msgid "If checked, initially expand horizontally, then vertically"
+msgstr ""
+
+#, fuzzy
+msgid "Initial horizontal size"
+msgstr "Yatay Olarak Döşe"
+
+msgid "Number of pixels initially in horizontal direction"
+msgstr ""
+
+#, fuzzy
+msgid "Initial vertical size"
+msgstr "Ateş parçacığı boyutu."
+
+msgid "Number of pixels initially in vertical direction"
+msgstr ""
+
+#, fuzzy
+msgid "Delay"
+msgstr "Gecikmeyi Göster"
+
+msgid ""
+"Delay between expanding horizontally and vertically (expressed as a fraction)"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+#, fuzzy
+msgid "Cube Atlantis"
+msgstr "Küp Kapakları"
+
+#, fuzzy
+msgid "Render some sea animals inside of the transparent cube"
+msgstr "Saydam küpün içinde balıklar göster"
+
+#, fuzzy
+msgid "Speed factor"
+msgstr "Büyütme basamağı"
+
+msgid "Multiply the speed of the fish by this factor."
+msgstr ""
+
+msgid "Start crabs on bottom"
+msgstr ""
+
+#, fuzzy
+msgid "Start crabs on the bottom of the cube."
+msgstr "Küpün alt kapağını oluştur"
+
+msgid "School similar groups"
+msgstr ""
+
+msgid "Fish in different groups, but of the same type, swim together."
+msgstr ""
+
+msgid "Low detail models"
+msgstr ""
+
+msgid "Use less detailed models for increased performance."
+msgstr ""
+
+#, fuzzy
+msgid "Creature Selection"
+msgstr "Küp Yansıması"
+
+#, fuzzy
+msgid "Type"
+msgstr "Parlama Tipi"
+
+msgid "Type of sea creature."
+msgstr ""
+
+#, fuzzy
+msgid "Color"
+msgstr "Renkler"
+
+#, fuzzy
+msgid "The color of the sea creature."
+msgstr "Sekme çubuğunun kenarlık rengi"
+
+msgid "Number"
+msgstr ""
+
+#, fuzzy
+msgid "The number of the sea creature."
+msgstr "Sekme çubuğunun biçimi"
+
+#, fuzzy
+msgid "Size"
+msgstr "Kaydırma"
+
+#, fuzzy
+msgid "The size of the sea creature."
+msgstr "Sekme çubuğunun biçimi"
+
+#, fuzzy
+msgid "Miscellaneous Selection"
+msgstr "Canlandırma Seçimi"
+
+msgid "Type of sea plant."
+msgstr ""
+
+#, fuzzy
+msgid "The color of the sea plant."
+msgstr "Sekme çubuğunun kenarlık rengi"
+
+#, fuzzy
+msgid "The number of the sea plants."
+msgstr "Sekme çubuğunun biçimi"
+
+#, fuzzy
+msgid "The size of the sea plant."
+msgstr "Sekme çubuğunun biçimi"
+
+msgid "Water / Ground"
+msgstr ""
+
+msgid "Render water"
+msgstr ""
+
+#, fuzzy
+msgid "Render water inside the cube."
+msgstr "Alevin parçacık sayısı."
+
+msgid "Render water wireframe"
+msgstr ""
+
+#, fuzzy
+msgid "Render water wireframe inside the cube."
+msgstr "Alevin parçacık sayısı."
+
+#, fuzzy
+msgid "Render ground"
+msgstr "Arkaplanı Koyulaştır"
+
+#, fuzzy
+msgid "Render ground inside the cube."
+msgstr "Alevin parçacık sayısı."
+
+#, fuzzy
+msgid "Ground color"
+msgstr "Alan rengi (uzak)"
+
+#, fuzzy
+msgid "Color of ground in the cube."
+msgstr "Küpün üst yüzünün rengi"
+
+msgid "Water surface height"
+msgstr ""
+
+#, fuzzy
+msgid "Height of water surface in the cube."
+msgstr "Küpün üst yüzünün rengi"
+
+#, fuzzy
+msgid "Water color"
+msgstr "Sekme Kenarlık Rengi"
+
+#, fuzzy
+msgid "Color of water in the cube."
+msgstr "Küpün üst yüzünün rengi"
+
+msgid "Water/Ground grid smoothness"
+msgstr ""
+
+msgid "Number of subdivisions that create a finer grid."
+msgstr ""
+
+#, fuzzy
+msgid "Waves"
+msgstr "Dalga"
+
+msgid "Render waves"
+msgstr ""
+
+#, fuzzy
+msgid "Render water waves inside the cube."
+msgstr "Alevin parçacık sayısı."
+
+#, fuzzy
+msgid "Ripple effect"
+msgstr "Açma Efekti"
+
+msgid "Semi-randomize light scattering off water waves."
+msgstr ""
+
+#, fuzzy
+msgid "Wave amplitude"
+msgstr "Dalga Aralığı"
+
+msgid "Amplitude of water waves."
+msgstr ""
+
+msgid "Wave frequency"
+msgstr ""
+
+msgid "Frequency of water waves."
+msgstr ""
+
+#, fuzzy
+msgid "Small wave amplitude"
+msgstr "Sihirli Lambanın En Fazla Dalga Genişliği"
+
+msgid "Amplitude of small water waves on the bigger ones."
+msgstr ""
+
+msgid "Small wave frequency"
+msgstr ""
+
+msgid "Frequency of small water waves on the bigger ones."
+msgstr ""
+
+#, fuzzy
+msgid "Display"
+msgstr "Gösterme Süresi"
+
+#, fuzzy
+msgid "Rescale for screen ratio"
+msgstr "Dekorasyonlar için Yansıma"
+
+msgid ""
+"Rescale along the sides of the cube by the ratio of screen width to height."
+msgstr ""
+
+#, fuzzy
+msgid "Lighting"
+msgstr "Ayarlar"
+
+msgid "Rotate lighting"
+msgstr ""
+
+#, fuzzy
+msgid "Preserve light direction when rotating the cube."
+msgstr "Küp döndürülürken pencereleri yükseltir"
+
+msgid "Light inclination"
+msgstr ""
+
+msgid ""
+"The angle of light rays from the horizon in degrees (0 is from the viewer's "
+"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
+"false."
+msgstr ""
+
+msgid "Ambient light"
+msgstr ""
+
+msgid "Component of light coming from all directions equally."
+msgstr ""
+
+msgid "Cube 3D Models"
+msgstr ""
+
+#, fuzzy
+msgid "Render still/animated 3D mesh models inside of the transparent cube"
+msgstr "Saydam küpün içinde balıklar göster"
+
+msgid "Scale all factor"
+msgstr ""
+
+msgid "Scale all the 3D models by this factor."
+msgstr ""
+
+#, fuzzy
+msgid "3D Models"
+msgstr "Yana Kaçma"
+
+#, fuzzy
+msgid "Model"
+msgstr "Yana Kaçma"
+
+msgid "Full path to 3D wavefront (.obj) model file."
+msgstr ""
+
+#, fuzzy
+msgid "Scale factor"
+msgstr "Büyütme basamağı"
+
+msgid "Scale the 3D model by this factor."
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+#, fuzzy
+msgid "X coordinate offset from the center of the cube."
+msgstr "Küpün alt yüzünün rengi"
+
+msgid "Y"
+msgstr ""
+
+#, fuzzy
+msgid "Y coordinate offset from the center of the cube."
+msgstr "Küpün alt yüzünün rengi"
+
+msgid "Z"
+msgstr ""
+
+#, fuzzy
+msgid "Z coordinate offset from the center of the cube."
+msgstr "Küpün alt yüzünün rengi"
+
+#, fuzzy
+msgid "Rotation plane"
+msgstr "Döndürme Açısı"
+
+msgid "Plane of rotation for the 3D model."
+msgstr ""
+
+#, fuzzy
+msgid "Rotation rate"
+msgstr "Döndürme Açısı"
+
+msgid "Rate of rotation of 3D model (in rotations per second)."
+msgstr ""
+
+msgid "Model type"
+msgstr ""
+
+msgid "Type of 3D model (still or animated)."
+msgstr ""
+
+msgid "Frames per second"
+msgstr ""
+
+msgid "Framerate (per second) for the animated series of obj files."
+msgstr ""
+
+msgid "Render front and back sides"
+msgstr ""
+
+msgid ""
+"Renders the front surface and then the back surface. This can be useful for "
+"models which show black spots but can cause a performance hit."
+msgstr ""
+
+#, fuzzy
+msgid "Ambient light intensity"
+msgstr "Yansıma yoğunluğu"
+
+#, fuzzy
+msgid "Diffuse light intensity"
+msgstr "Yansıma yoğunluğu"
+
+msgid ""
+"Component of light coming from the direction set by inclination or from the "
+"viewer if Rotate Lighting is true."
+msgstr ""
+
+msgid "Specular light intensity"
+msgstr ""
+
+msgid ""
+"Highly directional component of light coming from the direction set by "
+"inclination or from the viewer if Rotate Lighting is true."
+msgstr ""
+
+#, fuzzy
+msgid "Loading"
+msgstr "Doldurma"
+
+msgid "Use separate threads"
+msgstr ""
+
+msgid ""
+"Use separate threads to load each model faster and allow other interaction "
+"whilst loading."
+msgstr ""
+
+# FIXED -- 'betroffene' ginge auch
+#, fuzzy
+msgid "Dialog Match"
+msgstr "Pencere Eşlemesi"
+
+msgid "Dialogs which will trigger fading"
+msgstr ""
+
+msgid "Speed"
+msgstr "Hız"
+
+#, fuzzy
+msgid "The speed of the animation"
+msgstr "3D canlandırma hızını değiştir"
+
+msgid "Opacity"
+msgstr "Matlık"
+
+msgid "The Opacity of windows with open dialogs"
+msgstr ""
+
+msgid "Saturation"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "The Saturation of windows with open dialogs"
+msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+msgid "Brightness"
+msgstr "Parlaklık"
+
+#, fuzzy
+msgid "The Brightness of windows with open dialogs"
+msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+msgid "Elements"
+msgstr ""
+
+msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
+msgstr ""
+
+msgid "General"
+msgstr "Genel"
+
+#, fuzzy
+msgid "Global Speed"
+msgstr "Büyütme Hızı"
+
+msgid "Elements speed will be multiplied by this value"
+msgstr ""
+
+msgid "Screen Depth"
+msgstr "Ekran Derinliği"
+
+msgid "How deep into the screen snowflakes can be drawn before being removed"
+msgstr ""
+
+msgid "Apply Screen Transform"
+msgstr ""
+
+msgid "Moves particles with screen transforms when over_windows is enabled"
+msgstr ""
+
+#, fuzzy
+msgid "Draw Over Windows"
+msgstr "Pencereler Üzerinde Kar"
+
+#, fuzzy
+msgid "Elements drawn above windows"
+msgstr "Kar taneleri pencerelerin üzerinde gösterilir"
+
+msgid "Toggle Elements with Keys:"
+msgstr ""
+
+msgid ""
+"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
+"checkboxes."
+msgstr ""
+
+msgid "Snow"
+msgstr "Kar"
+
+msgid "Number Of Snowflakes"
+msgstr "Kar Tanelerinin Sayısı"
+
+msgid "Number of snowflakes"
+msgstr "Kar tanelerinin sayısı"
+
+msgid "Size Of Snowflakes"
+msgstr "Kar Tanelerinin Boyutu"
+
+msgid "Size of snowflakes"
+msgstr "Kar tanelerinin boyutu"
+
+msgid "Snow Speed"
+msgstr "Kar Hızı"
+
+msgid "Speed of falling snow"
+msgstr "Düşen kar tanelerinin hızı"
+
+#, fuzzy
+msgid "Snow sway"
+msgstr "Gecikmeyi Göster"
+
+msgid ""
+"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Snowflakes"
+msgstr "Kar Tanelerini Döndür"
+
+#, fuzzy
+msgid "Toggle snow"
+msgstr "Döşemeyi Aç / Kapat"
+
+msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+# FIXME
+#, fuzzy
+msgid "Toggle Snow"
+msgstr "Yapışkanlığı Aç / Kapat"
+
+msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+msgid "Snow Direction"
+msgstr "Kar Yönü"
+
+msgid "Select snow flake movement direction"
+msgstr "Kar tanelerinin hareket yönünü seç"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "Up"
+msgstr "Yukarı"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Snow Textures"
+msgstr "Kar Dokuları"
+
+msgid "Snow textures"
+msgstr "Kar dokuları"
+
+msgid "Autumn"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of leaves"
+msgstr "Kar Tanelerinin Sayısı"
+
+#, fuzzy
+msgid "Number of leaves"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Size Of leaves"
+msgstr "Kar Tanelerinin Boyutu"
+
+#, fuzzy
+msgid "Size of leaves"
+msgstr "Kar tanelerinin boyutu"
+
+msgid "Sway Of leaves"
+msgstr ""
+
+msgid "sway of leaves"
+msgstr ""
+
+#, fuzzy
+msgid "Leaf Speed"
+msgstr "Yaprak Yayılması"
+
+#, fuzzy
+msgid "Speed of falling leaves"
+msgstr "Düşen kar tanelerinin hızı"
+
+#, fuzzy
+msgid "Rotate Leaves"
+msgstr "Kar Tanelerini Döndür"
+
+# FIXME
+#, fuzzy
+msgid "Toggle Autumn"
+msgstr "Yapışkanlığı Aç / Kapat"
+
+msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Autumn Textures"
+msgstr "Kar Dokuları"
+
+#, fuzzy
+msgid "Autumn textures"
+msgstr "Kar dokuları"
+
+msgid "Bubbles"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of bubbles"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Number of bubbles"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Size Of bubbles"
+msgstr "Kar Tanelerinin Boyutu"
+
+#, fuzzy
+msgid "Size of bubbles"
+msgstr "Kar tanelerinin boyutu"
+
+msgid "Viscosity of liquid"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Bubbles"
+msgstr "Kar Tanelerini Döndür"
+
+#, fuzzy
+msgid "Toggle Bubbles"
+msgstr "Tam Ekran Yap / Yapma"
+
+msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Bubble Textures"
+msgstr "Dokuları Etkinleştir"
+
+#, fuzzy
+msgid "Bubble textures"
+msgstr "Dokuları Etkinleştir"
+
+#, fuzzy
+msgid "Fireflies"
+msgstr "Dosyaları filtreler"
+
+#, fuzzy
+msgid "Number Of fireflies"
+msgstr "Ateş Parçacıklarının Sayısı"
+
+#, fuzzy
+msgid "Number of fireflies"
+msgstr "Alevin parçacık sayısı."
+
+#, fuzzy
+msgid "Size Of fireflies"
+msgstr "Kar Tanelerinin Boyutu"
+
+#, fuzzy
+msgid "Size of fireflies"
+msgstr "Kar tanelerinin boyutu"
+
+#, fuzzy
+msgid "Firefly Speed"
+msgstr "Dosyaları filtreler"
+
+msgid "Speed of firefly lifecycle and movement"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Fireflies"
+msgstr "Kar Tanelerini Döndür"
+
+msgid "When using \"glows\", you definitely want this ON"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Fireflies"
+msgstr "Dosyaları filtreler"
+
+msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies Textures"
+msgstr "Dosyaları filtreler"
+
+#, fuzzy
+msgid "Fireflies textures"
+msgstr "Dosyaları filtreler"
+
+msgid "Stars"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of stars"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Number of stars"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Size Of stars"
+msgstr "Kar Tanelerinin Boyutu"
+
+#, fuzzy
+msgid "Size of stars"
+msgstr "Kar tanelerinin boyutu"
+
+#, fuzzy
+msgid "Star Speed"
+msgstr "Kar Hızı"
+
+#, fuzzy
+msgid "Speed of stars"
+msgstr "Büyütme basamağı"
+
+msgid "Star X Offset"
+msgstr ""
+
+msgid "The X point on the screen where stars should start"
+msgstr ""
+
+msgid "Star Y Offset"
+msgstr ""
+
+msgid "The Y point on the screen where stars should start"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Stars"
+msgstr "Kar Tanelerini Döndür"
+
+# FIXME
+#, fuzzy
+msgid "Toggle Stars"
+msgstr "Yapışkanlığı Aç / Kapat"
+
+msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Star Textures"
+msgstr "Kar Dokuları"
+
+#, fuzzy
+msgid "Star textures"
+msgstr "Kar dokuları"
+
+#, fuzzy
+msgid "Fireflies for Compiz"
+msgstr "Compiz için Kar Efekti"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+#, fuzzy
+msgid "Number Of Fireflies"
+msgstr "Ateş Parçacıklarının Sayısı"
+
+msgid "The maximum number of fireflies allowed on screen"
+msgstr ""
+
+#, fuzzy
+msgid "Size Of Fireflies"
+msgstr "Dosyaları filtreler"
+
+msgid "Update Delay"
+msgstr "Güncelleme Gecikmesi"
+
+msgid ""
+"Delay (in ms) between screen updates. Decreasing this value may make snow "
+"fall more smoothly, but will also increase CPU usage."
+msgstr ""
+
+# FIXME -- We need a better translation for 'Boxing'
+msgid "Screen Boxing"
+msgstr "Ekran Kutulaması"
+
+msgid ""
+"How far outside the screen resolution fireflies can be before being removed. "
+"Needed because of FOV."
+msgstr ""
+
+msgid "How deep into the screen fireflies can be drawn before being removed"
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies Over Windows"
+msgstr "Pencereler Üzerinde Kar"
+
+#, fuzzy
+msgid "Fireflies is drawn above windows"
+msgstr "Kar taneleri pencerelerin üzerinde gösterilir"
+
+#, fuzzy
+msgid "Rotate Flies. Redundant"
+msgstr "Kar Tanelerini Döndür"
+
+#, fuzzy
+msgid "Flies rotate if checked."
+msgstr "Seçilirse kar taneleri döndürülür."
+
+#, fuzzy
+msgid "Fireflies Direction. Redundant"
+msgstr "Ateş yönü."
+
+msgid "Top to Bottom"
+msgstr "Yukarıdan Aşağıya"
+
+msgid "Bottom to Top"
+msgstr "Aşağıdan Yukarıya"
+
+msgid "Right to Left"
+msgstr "Sağdan Sola"
+
+msgid "Left to Right"
+msgstr "Soldan Sağa"
+
+msgid "Enable by default"
+msgstr ""
+
+#, fuzzy
+msgid "Enable fireflies by default."
+msgstr "Öntanımlı olarak filtrelenecek pencereler."
+
+msgid "Textures"
+msgstr "Dokular"
+
+msgid "Debug"
+msgstr "Hata Ayıklama"
+
+msgid "Enable Blending"
+msgstr "Harmanlamayı Etkinleştir"
+
+#, fuzzy
+msgid "Enables alpha blending of flies."
+msgstr "Harmanlamayı Etkinleştir"
+
+msgid "Enable Textures"
+msgstr "Dokuları Etkinleştir"
+
+msgid "Enables textures flies. If not selected, color cradients are used."
+msgstr ""
+
+msgid "Key Bindings"
+msgstr "Kısayollar"
+
+#, fuzzy
+msgid "Firefly toggle key"
+msgstr "Kar açma kapatma tuşu"
+
+msgid "Freely Transformable Windows"
+msgstr ""
+
+#, fuzzy
+msgid "Freely transform windows"
+msgstr "Diğer pencerelerin altında"
+
+#, fuzzy
+msgid "Free Transformation"
+msgstr "Süre"
+
+#, fuzzy
+msgid "Initiate Rotation"
+msgstr "Başlat (düğme)"
+
+#, fuzzy
+msgid "Start Free Rotation"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "Initiate Scaling"
+msgstr "Alev çizimini başlat"
+
+msgid "Reset"
+msgstr ""
+
+#, fuzzy
+msgid "Reset Transformation"
+msgstr "Süre"
+
+msgid "Axis help toggle"
+msgstr ""
+
+#, fuzzy
+msgid "Axis selection helper"
+msgstr "Seçim Rengi"
+
+msgid "Transformation Behavior"
+msgstr ""
+
+#, fuzzy
+msgid "Snap Modifier"
+msgstr "Kopma Kısayolunu Kullanma"
+
+msgid "Use this bindings to enable/disable snapping."
+msgstr ""
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Meta"
+msgstr "Meta"
+
+#, fuzzy
+msgid "Rotation"
+msgstr "Döndürme Açısı"
+
+msgid "Invert Modifier"
+msgstr ""
+
+msgid "Use this bindings to invert the rotation mode."
+msgstr ""
+
+msgid "Manual Transformation"
+msgstr ""
+
+msgid "Scaling"
+msgstr ""
+
+#, fuzzy
+msgid "Scale Up"
+msgstr "Tavan resmini boyutlandır"
+
+msgid "Scale up by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Scale Down"
+msgstr "Büyütme basamağı"
+
+#, fuzzy
+msgid "Scale down by one increment"
+msgstr "Pencereyi tam ekran yap / yapma"
+
+#, fuzzy
+msgid "Rotate Up"
+msgstr "Kar Tanelerini Döndür"
+
+msgid "Rotate up by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Down"
+msgstr "Aşağı Taşı"
+
+msgid "Rotate down by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Left"
+msgstr "Sola Taşı"
+
+msgid "Rotate left by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Right"
+msgstr "Sağa taşı"
+
+msgid "Rotate right by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Clockwise"
+msgstr "Kar Tanelerini Döndür"
+
+msgid "Rotate clockwise by one increment"
+msgstr ""
+
+msgid "Rotate Counter-Clockwise"
+msgstr ""
+
+msgid "Rotate counter-clockwise by one increment"
+msgstr ""
+
+msgid "Snap by default"
+msgstr ""
+
+msgid "Snap to common points by default"
+msgstr ""
+
+#, fuzzy
+msgid "Snap Threshold"
+msgstr "Kopma Tipi"
+
+msgid "Snap to every one of these angles"
+msgstr ""
+
+msgid "Mouse sensitivity"
+msgstr ""
+
+msgid "How sensitive the mouse movement should be"
+msgstr ""
+
+#, fuzzy
+msgid "Scale Mode"
+msgstr "Tavan resmini boyutlandır"
+
+#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
+#, fuzzy
+msgid "How to scale windows"
+msgstr "Kapatılamaz pencereler"
+
+#, fuzzy
+msgid "Allow negative"
+msgstr "Negatif"
+
+msgid "Allow negative scaling"
+msgstr ""
+
+#, fuzzy
+msgid "Maintain aspect ratio"
+msgstr "Segi kipi görünüm oranı"
+
+msgid "Keep aspect ratio constant when scaling"
+msgstr ""
+
+#, fuzzy
+msgid "Minimum scale"
+msgstr "En Küçük Küp Boyutu"
+
+msgid ""
+"How small the scale is allowed to be when 'Allow Negative' is not toggled"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Type"
+msgstr "Döndürme Açısı"
+
+#, fuzzy
+msgid "2D/3D Rotation Type"
+msgstr "Döndürme Açısı"
+
+#, fuzzy
+msgid "Rotation Axis"
+msgstr "Döndürme Açısı"
+
+msgid "How Freely Transformable Windows should determine the rotation axis"
+msgstr ""
+
+#, fuzzy
+msgid "3D Rotation Percentage"
+msgstr "Döndürme Açısı"
+
+msgid "Percentage of the window area used for 3D rotation"
+msgstr ""
+
+#, fuzzy
+msgid "Auto-Zoom"
+msgstr "Otomatik Büyütme"
+
+msgid "Auto-Zoom when rotating so that windows do not get too large"
+msgstr ""
+
+msgid "Disable on Transformed Screen"
+msgstr ""
+
+msgid ""
+"Disable rotation on transformed screen. This prevents ugly looking clipped "
+"windows when the screen is transformed"
+msgstr ""
+
+#, fuzzy
+msgid "Speed of window rotation"
+msgstr "Pencere dekorasyonlarını filtrele"
+
+msgid "How fast the window should rotate"
+msgstr ""
+
+msgid "Rotate increment amount"
+msgstr ""
+
+msgid "How far to rotate a window when rotating an 'increment'"
+msgstr ""
+
+msgid "Scale increment amount"
+msgstr ""
+
+msgid "How much to scale a window by when scaling by an 'increment'"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Input Prevention"
+msgstr ""
+
+#, fuzzy
+msgid "Prevented Input Window Types"
+msgstr "Pencere Tipleri"
+
+#, fuzzy
+msgid "Window types that should be Shaped. Disable problematic windows here"
+msgstr "Matlaştırılması gereken pencere tipleri."
+
+msgid "Prevent input"
+msgstr ""
+
+msgid "Prevent input in transformed windows"
+msgstr ""
+
+msgid "Immediate Moves"
+msgstr ""
+
+msgid ""
+"Don't allow plugins like wobbly to transform the transformed window while "
+"it's being moved"
+msgstr ""
+
+#, fuzzy
+msgid "Helper Options"
+msgstr "Diğer Seçenekler"
+
+#, fuzzy
+msgid "Helper Circle Color"
+msgstr "Ateş Rengi"
+
+#, fuzzy
+msgid "Color of the circle."
+msgstr "Alanın rengi (yakın)."
+
+#, fuzzy
+msgid "Helper Line Color"
+msgstr "Çizgi Rengi"
+
+#, fuzzy
+msgid "Helper line color around the circle"
+msgstr "Seçim dikdörtgeninin çizgi rengi"
+
+#, fuzzy
+msgid "Helper Cross Line Color"
+msgstr "Çizgi Rengi"
+
+#, fuzzy
+msgid "Color of the cross line"
+msgstr "Alanın rengi (yakın)."
+
+msgid "Show 3D rotation circle"
+msgstr ""
+
+msgid "Show click area for 3D rotation"
+msgstr ""
+
+msgid "Show rotation gizmo"
+msgstr ""
+
+msgid "Show rotation axis info"
+msgstr ""
+
+#, fuzzy
+msgid "Show crosshair"
+msgstr "Gecikmeyi Göster"
+
+msgid "Show crosshair (for scaling click regions)"
+msgstr ""
+
+#, fuzzy
+msgid "Show input regions"
+msgstr "Gecikmeyi Göster"
+
+#, fuzzy
+msgid "Show input region rectangle"
+msgstr "Dikdörtgen"
+
+msgid "Color Opacity"
+msgstr "Renk Matlığı"
+
+msgid "Alter window opacity based on color."
+msgstr ""
+
+msgid "Toggle Window Fake ARGB"
+msgstr ""
+
+msgid "Toggle window fake ARGB."
+msgstr ""
+
+# FIXME
+#, fuzzy
+msgid "Toggle Ghost"
+msgstr "Yapışkanlığı Aç / Kapat"
+
+msgid "Toggle ghost for all matching windows"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Ghost Window"
+msgstr "Pencereleri Döşe"
+
+#, fuzzy
+msgid "Toggle ghosting of individual window"
+msgstr "Pencere filtrelemeyi aç /kapa"
+
+msgid "Window Types"
+msgstr "Pencere Tipleri"
+
+#, fuzzy
+msgid "Windows which should become ghosts"
+msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+#, fuzzy
+msgid "Ghost Active Window"
+msgstr "Pencereyi Etkinleştir"
+
+msgid "Whether a ghosted active window will accept input or not"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows only on mousover"
+msgstr "Pencereyi taşınamaz yap"
+
+msgid ""
+"Whether a ghosted window will always be faded or only when the cursor is "
+"over it"
+msgstr ""
+
+#, fuzzy
+msgid "The Opacity of Ghosted Windows"
+msgstr "Soldurulmuş pencerelerin matlığı"
+
+#, fuzzy
+msgid "The Saturation of Ghosted Windows"
+msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+#, fuzzy
+msgid "The Brightness of Ghosted Windows"
+msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+msgid "Mouse switch"
+msgstr ""
+
+msgid "Switch viewport in response to mouse gesture"
+msgstr ""
+
+msgid "Begin Gesture"
+msgstr ""
+
+msgid "Begin Mouse Gesture"
+msgstr ""
+
+msgid "Photowheel"
+msgstr ""
+
+#, fuzzy
+msgid "Render photo turn wheel inside of the transparent cube"
+msgstr "Saydam küpün içinde balıklar göster"
+
+#, fuzzy
+msgid "Photo Textures"
+msgstr "Kar Dokuları"
+
+#, fuzzy
+msgid "Photo textures"
+msgstr "Kar dokuları"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "X Offset"
+msgstr ""
+
+msgid "X Offset (this is width)"
+msgstr ""
+
+msgid "Y Offset"
+msgstr ""
+
+msgid "Y Offset (this is height)"
+msgstr ""
+
+msgid "Z Offset"
+msgstr ""
+
+msgid "Z Offset (this is depth)"
+msgstr ""
+
+msgid "Rotate Around Axis"
+msgstr ""
+
+msgid "Otherwise rotate around its center of cube"
+msgstr ""
+
+#, fuzzy
+msgid "Top Color"
+msgstr "Küp Üst Rengi"
+
+#, fuzzy
+msgid "Color of top face of the photo wheel"
+msgstr "Küpün üst yüzünün rengi"
+
+#, fuzzy
+msgid "Bottom Color"
+msgstr "Küp Alt Rengi"
+
+#, fuzzy
+msgid "Color of bottom face of the photo wheel"
+msgstr "Küpün alt yüzünün rengi"
+
+msgid "Backface Culling"
+msgstr ""
+
+#, fuzzy
+msgid "Enable backface culling"
+msgstr "Odaklama izlemesini etkinleştir"
+
+msgid "Put Plus"
+msgstr ""
+
+#, fuzzy
+msgid "Put Plus window"
+msgstr "Pencereyi yerleştir"
+
+msgid "Put On Viewport"
+msgstr "Masaüstüne Yerleştir"
+
+msgid "Move window to a certain viewport"
+msgstr "Pencereyi belirli bir masaüstüne taşı"
+
+msgid "Bindings"
+msgstr "Bağlayıcılar"
+
+msgid "Put to arbitrary viewport"
+msgstr ""
+
+msgid "Put On Viewport 1"
+msgstr "1. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 1"
+msgstr "Pencereyi 1. masaüstüne taşı"
+
+msgid "Put On Viewport 2"
+msgstr "2. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 2"
+msgstr "Pencereyi 2. masaüstüne taşı"
+
+msgid "Put On Viewport 3"
+msgstr "3. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 3"
+msgstr "Pencereyi 3. masaüstüne taşı"
+
+msgid "Put On Viewport 4"
+msgstr "4. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 4"
+msgstr "Pencereyi 4. masaüstüne taşı"
+
+msgid "Put On Viewport 5"
+msgstr "5. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 5"
+msgstr "Pencereyi 5. masaüstüne taşı"
+
+msgid "Put On Viewport 6"
+msgstr "6. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 6"
+msgstr "Pencereyi 6. masaüstüne taşı"
+
+msgid "Put On Viewport 7"
+msgstr "7. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 7"
+msgstr "Pencereyi 7. masaüstüne taşı"
+
+msgid "Put On Viewport 8"
+msgstr "8. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 8"
+msgstr "Pencereyi 8. masaüstüne taşı"
+
+msgid "Put On Viewport 9"
+msgstr "9. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 9"
+msgstr "Pencereyi 9. masaüstüne taşı"
+
+msgid "Put On Viewport 10"
+msgstr "10. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 10"
+msgstr "Pencereyi 10. masaüstüne taşı"
+
+msgid "Put On Viewport 11"
+msgstr "11. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 11"
+msgstr "Pencereyi 11. masaüstüne taşı"
+
+msgid "Put On Viewport 12"
+msgstr "12. Masaüstüne Yerleştir"
+
+msgid "Move window to viewport 12"
+msgstr "Pencereyi 12. masaüstüne taşı"
+
+msgid "Put to adjacent viewport"
+msgstr ""
+
+msgid "Viewport Left"
+msgstr "Sol Masaüstü"
+
+msgid "Move window to the viewport on the left"
+msgstr "Pencereyi sol masaüstüne taşı"
+
+msgid "Viewport Right"
+msgstr "Sağ Masaüstü"
+
+msgid "Move window to the viewport on the right"
+msgstr "Pencereyi sağ masaüstüne taşı"
+
+msgid "Viewport Top"
+msgstr "Üst Masaüstü"
+
+msgid "Move window to the viewport on the top"
+msgstr "Pencereyi üst masaüstüne taşı"
+
+msgid "Viewport Bottom"
+msgstr "Alt Masaüstü"
+
+msgid "Move window to the viewport on the bottom"
+msgstr "Pencereyi alt masaüstüne taşı"
+
+msgid "Put within viewport"
+msgstr "Masaüstüne yerleştir"
+
+msgid "Put Center"
+msgstr "Ortaya Yerleştir"
+
+msgid "Move window to the center"
+msgstr "Pencereyi merkeze taşı"
+
+msgid "Put Left"
+msgstr "Sola Yerleştir"
+
+msgid "Move window to the left edge"
+msgstr "Pencereyi sol kenara taşı"
+
+msgid "Put Right"
+msgstr "Sağa Yerleştir"
+
+msgid "Move window to the right edge"
+msgstr "Pencereyi sağ kenara taşı"
+
+msgid "Put Top"
+msgstr "Yukarı Yerleştir"
+
+msgid "Move window to the top edge"
+msgstr "Pencereyi üst kenara taşı"
+
+msgid "Put Bottom"
+msgstr "Aşağı Yerleştir"
+
+msgid "Move window to the bottom edge"
+msgstr "Pencereyi alt kenara taşı"
+
+msgid "Put Top Left"
+msgstr "Yukarı Sola Yerleştir"
+
+msgid "Move window to the top left corner"
+msgstr "Pencereyi üst sol köşeye taşı"
+
+msgid "Put Top Right"
+msgstr "Yukarı Sağa Yerleştir"
+
+msgid "Move window to the top right corner"
+msgstr "Pencereyi üst sağ köşeye taşı"
+
+msgid "Put Bottom Left"
+msgstr "Aşağı Sola Yerleştir"
+
+msgid "Move window to the bottom left corner"
+msgstr "Pencereyi alt sol köşeye taşı"
+
+msgid "Put Bottom Right"
+msgstr "Aşağı Sağa Yerleştir"
+
+msgid "Move window to the bottom right corner"
+msgstr "Pencereyi alt sağ köşeye taşı"
+
+msgid "Put on empty regions"
+msgstr ""
+
+msgid "Restore Position"
+msgstr "Geri Yükleme Konumu"
+
+msgid "Move window to the last position"
+msgstr "Pencereyi son konuma taşı"
+
+msgid "Put Pointer"
+msgstr "İşaretçi Konumuna Yerleştir"
+
+msgid "Move window to the pointer position"
+msgstr "Pencereyi işaretçi konumuna taşı"
+
+msgid "Put"
+msgstr "Yerleştirme"
+
+msgid "Move window arbitrarily by passing x, y and type."
+msgstr ""
+
+msgid "Misc. Options"
+msgstr "Diğer Seçenekler"
+
+msgid "Padding"
+msgstr "Doldurma"
+
+msgid "Pad Left"
+msgstr "Sola Doldur"
+
+msgid "Number of pixels from the left edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Right"
+msgstr "Sağa Doldur"
+
+msgid "Number of pixels from the right edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Top"
+msgstr "Üste Doldur"
+
+msgid "Number of pixels from the top edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Bottom"
+msgstr "Alta Doldur"
+
+msgid ""
+"Number of pixels from the bottom edge where the window will come to rest"
+msgstr ""
+
+msgid "Unfocus Window"
+msgstr "Pencereyi Odaklamadan Çıkar"
+
+msgid "Unfocus windows that are moved off the viewport"
+msgstr ""
+
+msgid "Window Center"
+msgstr ""
+
+msgid "Put pointer uses the center of the window"
+msgstr ""
+
+msgid "Avoid Offscreen"
+msgstr ""
+
+msgid "Avoids putting window borders offscreen"
+msgstr ""
+
+msgid "Animation"
+msgstr "Canlandırma"
+
+msgid "Animation speed"
+msgstr "Canlandırma hızı"
+
+msgid "Timestep"
+msgstr "Zaman aralığı"
+
+msgid "Animation timestep"
+msgstr "Canlandırma zamn aralığı"
+
+#, fuzzy
+msgid "Screen Saver"
+msgstr "Ekran Derinliği"
+
+msgid "Initiate"
+msgstr "Başlat"
+
+msgid "Start and stop the screensaver"
+msgstr ""
+
+#, fuzzy
+msgid "Screensaver mode"
+msgstr "Ekran gölgeleri"
+
+#, fuzzy
+msgid "Screensaver mode."
+msgstr "Değiştirici kipi."
+
+#, fuzzy
+msgid "Start Automatically"
+msgstr "Otomatik"
+
+#, fuzzy
+msgid "Start Automatically."
+msgstr "Otomatik"
+
+msgid "After (min)"
+msgstr ""
+
+msgid "After (min)."
+msgstr ""
+
+#, fuzzy
+msgid "Fade In duration (sec)"
+msgstr "Solgunlaştırma/Belirginleştirme Süresi"
+
+#, fuzzy
+msgid "Fade In duration (sec)."
+msgstr "Saniye türünden Solgunlaştırma/Belirginleştirme süresi."
+
+#, fuzzy
+msgid "Fade Out duration (sec)"
+msgstr "Solgunlaştırma/Belirginleştirme Süresi"
+
+#, fuzzy
+msgid "Fade Out duration (sec)."
+msgstr "Saniye türünden Solgunlaştırma/Belirginleştirme süresi."
+
+#, fuzzy
+msgid "Flying windows"
+msgstr "Çember Pencereleri"
+
+#, fuzzy
+msgid "ScreenSaver Windows"
+msgstr "Pencereler Üzerinde Kar"
+
+msgid ":)"
+msgstr ""
+
+msgid "Generate mipmaps"
+msgstr ""
+
+#, fuzzy
+msgid "Attraction Depth"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "Attraction Depth."
+msgstr "Doygunluk"
+
+msgid "Attraction/Repulsion ratio"
+msgstr ""
+
+msgid "Attraction/Repulsion ratio."
+msgstr ""
+
+msgid ""
+"Make windows bounce on the floor, still buggy, but essential with cube "
+"reflexion."
+msgstr ""
+
+#, fuzzy
+msgid "Rotating cube"
+msgstr "Döndürme Açısı"
+
+#, fuzzy
+msgid "Cube rotation speed"
+msgstr "Canlandırma hızı"
+
+msgid "Zoom"
+msgstr "Büyütme"
+
+msgid "Smart Put"
+msgstr ""
+
+#, fuzzy
+msgid "Smart way to fit windows."
+msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+msgid "Apply Smart Put on current window."
+msgstr ""
+
+msgid "Initiate Smartput on current window."
+msgstr ""
+
+msgid "Initiate Smart Put on current window."
+msgstr ""
+
+msgid "Initiate Smartput on current viewport"
+msgstr ""
+
+msgid "Smart Put!!!"
+msgstr ""
+
+msgid "Undo Smart Put on last \"smartputed\" window"
+msgstr ""
+
+msgid "Undo!!!"
+msgstr ""
+
+msgid "Also use apply-key to undo"
+msgstr ""
+
+msgid "If set, you can also use the same key for undo as you use for applying."
+msgstr ""
+
+msgid "Options"
+msgstr "Seçenekler"
+
+#, fuzzy
+msgid "Allow stack windows"
+msgstr "Pencereleri döşe"
+
+msgid "Stack windows on each other if there is no place left to place them."
+msgstr ""
+
+#, fuzzy
+msgid "Allow windows shrink"
+msgstr "Pencereleri döşe"
+
+msgid "Just place the window when the new size is larger than the old one."
+msgstr ""
+
+#, fuzzy
+msgid "Minimal window height"
+msgstr "En büyük pencere boyutu"
+
+msgid "Minimal height that the new window must have at least."
+msgstr ""
+
+#, fuzzy
+msgid "Minimal window width"
+msgstr "En büyük pencere boyutu"
+
+msgid "Minimal width that the new window must have at least."
+msgstr ""
+
+#, fuzzy
+msgid "Window margin"
+msgstr "Pencere eşlemesi"
+
+#, fuzzy
+msgid "The distance between windows."
+msgstr "1. Masaüstüne Geç"
+
+msgid "Snow for Compiz"
+msgstr "Compiz için Kar Efekti"
+
+msgid ""
+"How far outside the screen resolution snow flakes can be before being "
+"removed. Needed because of FOV."
+msgstr ""
+
+msgid "Snow Over Windows"
+msgstr "Pencereler Üzerinde Kar"
+
+msgid "Snow is drawn above windows"
+msgstr "Kar taneleri pencerelerin üzerinde gösterilir"
+
+msgid "Rotate Flakes"
+msgstr "Kar Tanelerini Döndür"
+
+msgid "Flakes rotate if checked."
+msgstr "Seçilirse kar taneleri döndürülür."
+
+msgid "Enable snow by default."
+msgstr ""
+
+msgid "Enables alpha blending of snowflakes."
+msgstr ""
+
+msgid "Enables textured snowflakes. If not selected, color gradients are used."
+msgstr ""
+
+msgid "Snow Toggle"
+msgstr "Kar Efekti Aç / Kapat"
+
+msgid "Snow toggle key"
+msgstr "Kar açma kapatma tuşu"
+
+#, fuzzy
+msgid "Maximum number of snowflakes."
+msgstr "Kar tanelerinin sayısı"
+
+#, fuzzy
+msgid "Size of snowflakes."
+msgstr "Kar tanelerinin boyutu"
+
+#, fuzzy
+msgid "Size of snowman"
+msgstr "Kar tanelerinin boyutu"
+
+#, fuzzy
+msgid "Size of snowman inside the cube."
+msgstr "Alevin parçacık sayısı."
+
+#, fuzzy
+msgid "Stack Window Switcher"
+msgstr "Çember Seçici"
+
+msgid "Key bindings"
+msgstr "Kısayollar"
+
+msgid "Next Window"
+msgstr "Sonraki Pencere"
+
+msgid "Show switcher if not visible and select next window."
+msgstr ""
+
+msgid "Previous Window"
+msgstr "Önceki Pencere"
+
+msgid "Show switcher if not visible and select previous window."
+msgstr ""
+
+msgid "Next Window (All Workspaces)"
+msgstr "Sonraki Pencere (Tüm Çalışma Alanları)"
+
+msgid "Show switcher if not visible and select next window out of all windows."
+msgstr ""
+
+msgid "Previous Window (All Workspaces)"
+msgstr "Önceki Pencere (Tüm Çalışma Alanları)"
+
+msgid ""
+"Show switcher if not visible and select previous window out of all windows."
+msgstr ""
+
+msgid "Next Window (Group)"
+msgstr "Sonraki Pencere (Grup)"
+
+msgid ""
+"Show switcher if not visible and select next window of the current "
+"application."
+msgstr ""
+
+msgid "Previous Window (Group)"
+msgstr "Önceki Pencere (Grup)"
+
+msgid ""
+"Show switcher if not visible and select previous window of the current "
+"application."
+msgstr ""
+
+msgid "Behavior"
+msgstr "Davranış"
+
+msgid "Inactive Window Opacity"
+msgstr "Etkin Olmayan Pencere Matlığı"
+
+msgid ""
+"Amount of opacity (in percent) for windows in the switcher which are not "
+"selected"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate inactive windows"
+msgstr "Verilen bir pencereyi etkinleştir"
+
+#, fuzzy
+msgid "Should not selected windows be rotated"
+msgstr "Pencere başlığı kalın olmalıdır."
+
+#, fuzzy
+msgid "Windows"
+msgstr "3B Pencereler"
+
+#, fuzzy
+msgid "Windows that should be shown in the switcher"
+msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+msgid "Darken Background"
+msgstr "Arkaplanı Koyulaştır"
+
+#, fuzzy
+msgid "Darken background when showing the stack"
+msgstr "Arkaplanı Koyulaştır"
+
+msgid "Show Minimized"
+msgstr "Küçültülmüşleri Göster"
+
+msgid "Show windows that are minimized, shaded or in show desktop mode."
+msgstr ""
+
+#, fuzzy
+msgid "Tilt"
+msgstr "Döşe"
+
+msgid "Tilt angle of the background."
+msgstr ""
+
+msgid "Window title display"
+msgstr ""
+
+msgid "Show Window Title"
+msgstr "Pencere Başlığını Göster"
+
+msgid "Show window title of currently selected window."
+msgstr ""
+
+msgid "Bold Font"
+msgstr "Kalın Yazı Tipi"
+
+msgid "Selects if the window title should be displayed in bold font or not."
+msgstr ""
+
+#, fuzzy
+msgid "Font Family"
+msgstr "Yazıtipi Boyutu"
+
+#, fuzzy
+msgid "Font family for the window title"
+msgstr "Pencere başlığı için yazıtipi boyutu"
+
+msgid "Font Size"
+msgstr "Yazıtipi Boyutu"
+
+msgid "Font size for the window title"
+msgstr "Pencere başlığı için yazıtipi boyutu"
+
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+msgid "Background color for the window title"
+msgstr ""
+
+msgid "Font Color"
+msgstr "Yazıtipi Rengi"
+
+msgid "Font color for the window title"
+msgstr "Pencere başlığı için yazıtipi rengi"
+
+msgid "Text Placement"
+msgstr "Metin Konumlandırma"
+
+msgid "Selects where to place the window title."
+msgstr ""
+
+#, fuzzy
+msgid "On Thumbnail"
+msgstr "Küçük Pencere Genişliği"
+
+msgid "Centered on screen"
+msgstr "Ekranın merkezine ortalanmış"
+
+msgid "Above"
+msgstr "Yukarı"
+
+msgid "Below"
+msgstr "Aşağı"
+
+#, fuzzy
+msgid "Stars for Compiz"
+msgstr "Compiz için Kar Efekti"
+
+#, fuzzy
+msgid "Number Of Stars"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "Maximum number of stars"
+msgstr "En fazla etkin parçacık sayısı"
+
+#, fuzzy
+msgid "Size Of Stars"
+msgstr "Kar Tanelerinin Boyutu"
+
+#, fuzzy
+msgid "Speed of traveling stars"
+msgstr "Düşen kar tanelerinin hızı"
+
+msgid ""
+"How far outside the screen resolution stars can be before being removed. "
+"Needed because of FOV."
+msgstr ""
+
+msgid "How deep into the screen stars can be drawn before being removed"
+msgstr ""
+
+#, fuzzy
+msgid "Stars Over Windows"
+msgstr "Pencereler Üzerinde Kar"
+
+#, fuzzy
+msgid "Stars are drawn above windows"
+msgstr "Kar taneleri pencerelerin üzerinde gösterilir"
+
+#, fuzzy
+msgid "Rotate Flakes. Redundant"
+msgstr "Kar Tanelerini Döndür"
+
+#, fuzzy
+msgid "Snow Direction. Redundant"
+msgstr "Kar Yönü"
+
+#, fuzzy
+msgid "Stars Textures"
+msgstr "Kar Dokuları"
+
+msgid "Images to use as 'stars'"
+msgstr ""
+
+msgid "Enables textures snowflakes. If not selected, color gradients are used."
+msgstr ""
+
+#, fuzzy
+msgid "Stars Toggle"
+msgstr "Kar Efekti Aç / Kapat"
+
+#, fuzzy
+msgid "Stars toggle key"
+msgstr "Kar açma kapatma tuşu"
+
+#, fuzzy
+msgid "Static Windows"
+msgstr "Pencereleri yapışkanlaştır"
+
+msgid "Keep windows such as dock or panels static"
+msgstr ""
+
+# FIXED -- 'betroffene' ginge auch
+msgid "Window Match"
+msgstr "Pencere Eşlemesi"
+
+#, fuzzy
+msgid "Windows that should be kept static during transformations."
+msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+#, fuzzy
+msgid "Swap Windows"
+msgstr "Kopan Pencereler"
+
+#, fuzzy
+msgid "Next window"
+msgstr "Sonraki Pencere"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window"
+msgstr "Önceki Pencere"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "Sonraki Pencere (Tüm Çalışma Alanları)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "Önceki Pencere (Tüm Çalışma Alanları)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Next window (Group)"
+msgstr "Sonraki Pencere (Grup)"
+
+msgid ""
+"Popup switcher if not visible and select next window of the current "
+"application."
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (Group)"
+msgstr "Önceki Pencere (Grup)"
+
+msgid ""
+"Popup switcher if not visible and select previous window of the current "
+"application."
+msgstr ""
+
+#, fuzzy
+msgid "Next window (No popup)"
+msgstr "Sonraki Pencere (Grup)"
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "Önceki Pencere (Grup)"
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+msgid "Next Panel"
+msgstr ""
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "Tek Pencere Seç"
+
+msgid "Prev Panel"
+msgstr ""
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Tek Pencere Seç"
+
+#, fuzzy
+msgid "Switcher speed"
+msgstr "Değiştirici kipi"
+
+#, fuzzy
+msgid "Switcher timestep"
+msgstr "Shift zaman aralığı"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "Filtrelenmiş pencereler"
+
+#, fuzzy
+msgid "Windows that should be shown in switcher"
+msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+msgid "Show minimized windows"
+msgstr "Küçültülmüş pencereleri göster"
+
+#, fuzzy
+msgid "Auto Change Viewport"
+msgstr "Masaüstüne Yerleştir"
+
+msgid "Change to the viewport of the selected window while switching"
+msgstr ""
+
+#, fuzzy
+msgid "Popup Window Delay"
+msgstr "Pencereleri Grupla"
+
+msgid "Time (in s) the popup window should be delayed before appearing"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+# FIXME - pager = ?
+#, fuzzy
+msgid "Amount of saturation in percent"
+msgstr "Uygulamayı sayfalayıcıda gösterme"
+
+#, fuzzy
+msgid "Amount of brightness in percent"
+msgstr "Boyama sırasında arkaplanın parlaklığı"
+
+msgid "Amount of opacity in percent"
+msgstr ""
+
+# FIXME: Herein und Heraus sind noch nicht optimal
+#, fuzzy
+msgid "Icon"
+msgstr "İç"
+
+#, fuzzy
+msgid "Show icon next to thumbnail"
+msgstr "Önzilemelerde Pencere Başlığını Göster."
+
+msgid "Mipmap"
+msgstr ""
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+
+msgid "Row Alignment"
+msgstr ""
+
+msgid "Alignment for rows that are not fully filled"
+msgstr ""
+
+#, fuzzy
+msgid "Centered"
+msgstr "Ortaya Yerleştir"
+
+#, fuzzy
+msgid "Selected Window Highlight"
+msgstr "Pencere Vurgulaması"
+
+#, fuzzy
+msgid "Highlight Mode"
+msgstr "Vurgulama Rengi"
+
+#, fuzzy
+msgid "Mode for highlighting the currently selected window"
+msgstr "O anda odaklanmış pencerenin filtrelemesini aç / kapat."
+
+msgid "Bring Selected To Front"
+msgstr ""
+
+#, fuzzy
+msgid "Show Rectangle"
+msgstr "Dikdörtgen"
+
+#, fuzzy
+msgid "Minimized Window Highlight Rectangle"
+msgstr "Pencere Vurgulaması"
+
+msgid "Where to draw highlight rectangle for minimized windows"
+msgstr ""
+
+#, fuzzy
+msgid "Taskbar Entry"
+msgstr "Görev Çubuğu"
+
+msgid "Original Window Position"
+msgstr ""
+
+msgid "Highlight Color"
+msgstr "Vurgulama Rengi"
+
+#, fuzzy
+msgid "Color of highlight rectangle"
+msgstr "Seçim dikdörtgeninin çizgi rengi"
+
+#, fuzzy
+msgid "Highlight Border Color"
+msgstr "Vurgulama Rengi"
+
+msgid "Color of highlight rectangle border"
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Border Inlay Color"
+msgstr "Vurgulama Rengi"
+
+msgid "Color of inlay in highlight rectangle border"
+msgstr ""
+
+#, fuzzy
+msgid "Throw Windows"
+msgstr "Pencereleri Grupla"
+
+msgid "Windows have a velocity once they are released after moving"
+msgstr ""
+
+#, fuzzy
+msgid "X Velocity Multiplier"
+msgstr "Dalga Aralığı"
+
+#, fuzzy
+msgid "X Velocity Multipler"
+msgstr "Dalga Aralığı"
+
+#, fuzzy
+msgid "Y Velocity Multiplier"
+msgstr "Dalga Aralığı"
+
+#, fuzzy
+msgid "Y Velocity Multipler"
+msgstr "Dalga Aralığı"
+
+#, fuzzy
+msgid "Friction constant"
+msgstr "Ateş hızı"
+
+msgid "How much friction the screen provides"
+msgstr ""
+
+msgid "Constrain X"
+msgstr ""
+
+msgid "Constrain window in display width"
+msgstr ""
+
+msgid "Constrain Y"
+msgstr ""
+
+msgid "Constrain window in display height"
+msgstr ""
+
+msgid "Tile"
+msgstr "Döşe"
+
+msgid "Tile windows"
+msgstr "Pencereleri döşe"
+
+msgid "Tiling Animation Type"
+msgstr "Döşeme Canlandırma Tipi"
+
+msgid "Selects the animation used while tiling"
+msgstr ""
+
+msgid "Filled Outline"
+msgstr ""
+
+msgid "Slide"
+msgstr "Kaydırma"
+
+msgid "Drop From Top"
+msgstr "Yukarıdan Düşür"
+
+msgid "Animation Duration"
+msgstr "Canlandırma Süresi"
+
+msgid "Duration (in ms) of the tiling animation"
+msgstr ""
+
+msgid "Tiling Method For Toggle"
+msgstr ""
+
+msgid "Choose the tiling type you want when using toggle."
+msgstr ""
+
+msgid "Tile Vertically"
+msgstr "Dikey Olarak Döşe"
+
+msgid "Tile Horizontally"
+msgstr "Yatay Olarak Döşe"
+
+msgid "Cascade"
+msgstr "Basamakla"
+
+msgid "Join Windows (EXPERIMENTAL)"
+msgstr "Pencereleri Birleştir (DENEYSEL)"
+
+# FIXME -- Needs better wording
+msgid ""
+"Tries to join the windows together when horizontal, vertical or left tiling "
+"is enabled so that when you resize a window surrounding windows resize "
+"accordingly. This may cause problems if you dont leave them enough space."
+msgstr ""
+
+msgid "Cascade Delta"
+msgstr ""
+
+msgid "Distance between windows when using cascade"
+msgstr ""
+
+# FIXME -- No idea what this is
+msgid "Left Occupancy"
+msgstr ""
+
+# FIXME - I don't really get what this means..
+msgid ""
+"Occupancy percentage for window placed left. This number is percentage of "
+"screen width, which the active window will have it as width when tiled. "
+"Applies to Left tiling type."
+msgstr ""
+
+msgid "Excluded Windows"
+msgstr "Hariç Tutulan Pencereler"
+
+msgid "Windows which should be excluded from tiling"
+msgstr ""
+
+msgid "Tile Windows Vertically"
+msgstr "Pencereleri Dikey Olarak Döşe"
+
+msgid ""
+"Move and resize all visible windows so that they have full height, same "
+"width and occupy whole screen."
+msgstr ""
+
+msgid "Tile Windows Horizontally"
+msgstr "Pencereleri Yatay Olarak Döşe"
+
+msgid ""
+"Move and resize all visible windows so that they have full width, same "
+"height and occupy whole screen."
+msgstr ""
+
+msgid "Tile Windows"
+msgstr "Pencereleri Döşe"
+
+msgid ""
+"Move and resize all visible windows both vertically and horizontally, so "
+"that the occupy whole screen and are in a grid."
+msgstr ""
+
+msgid "Cascade Windows"
+msgstr "Pencereleri Basamakla"
+
+msgid ""
+"Move and resize all visible windows with the delta value set for cascading."
+msgstr ""
+
+msgid "Restore Windows"
+msgstr ""
+
+msgid "Restore windows to their original position they had before tiling."
+msgstr ""
+
+msgid "Toggle Tiling"
+msgstr "Döşemeyi Aç / Kapat"
+
+msgid "Toggle between tile and restore"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Decoration"
+msgstr "Dekorasyonlar için Yansıma"
+
+#, fuzzy
+msgid "Toggles decoration."
+msgstr "Dekorasyonlar için Yansıma"
+
+# FIXME
+#, fuzzy
+msgid "Toggle decoration"
+msgstr "Yönlendirmeyi Aç / Kapat"
+
+msgid "Toggles decoration on/off."
+msgstr ""
+
+msgid "Toggle decoration on desktop"
+msgstr ""
+
+#, fuzzy
+msgid "Toggles decoration of every window on the desktop."
+msgstr "O ekrandaki tüm pencereler için filtrelemeyi aç /kapat."
+
+msgid "Wizard"
+msgstr ""
+
+msgid ""
+"Wastes resources to create fancy particle systems for wizard-wannabes :)"
+msgstr ""
+
+msgid "Toggle all particle effects."
+msgstr ""
+
+#, fuzzy
+msgid "Enable wizard by default."
+msgstr "Öntanımlı olarak filtrelenecek pencereler."
+
+msgid "Gravity"
+msgstr ""
+
+msgid "Global gravity"
+msgstr ""
+
+msgid "Gravity X"
+msgstr ""
+
+#, fuzzy
+msgid "Global horizontal gravity"
+msgstr "Yatay Katlama"
+
+msgid "Gravity Y"
+msgstr ""
+
+msgid "Global vertical gravity"
+msgstr ""
+
+msgid "Point gravity sources"
+msgstr ""
+
+#, fuzzy
+msgid "Strength"
+msgstr "Hareketli bulnıklaştırma direnci."
+
+msgid ""
+"The strength of this gravity source. Use negative values for a repulsing "
+"effect."
+msgstr ""
+
+#, fuzzy
+msgid "Position X"
+msgstr "X-Konumu"
+
+msgid ""
+"The horizontal position of this gravity source. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+#, fuzzy
+msgid "Position Y"
+msgstr "X-Konumu"
+
+msgid ""
+"The vertical position of this gravity source. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The speed of this gravity source. May be ignored or used for initialization, "
+"depending on the movement type."
+msgstr ""
+
+msgid ""
+"The angle for the movement of this gravity source. May be ignored or used "
+"for initialization, depending on the movement type."
+msgstr ""
+
+#, fuzzy
+msgid "Movement Type"
+msgstr "Hareket Yönü"
+
+msgid ""
+"The movement type of this source: Fixed (not moving at all), Mouse Position "
+"(exactly on the core pointer), Follow Mouse (moving towards core pointer at "
+"set speed), Bounce (moving at constant speed, bouncing off the walls) or "
+"Wrap (moving at constant speed, jumping to the opposite side at a wall)."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse Position"
+msgstr "Geri Yükleme Konumu"
+
+#, fuzzy
+msgid "Follow Mouse"
+msgstr "Odakla Gecikmesini Takip Et"
+
+msgid "Wrap"
+msgstr ""
+
+msgid "Emitters"
+msgstr ""
+
+#, fuzzy
+msgid "Active"
+msgstr "Etkinleştir"
+
+msgid ""
+"Since emitters have a lot of options, you can simply deactivate and name "
+"them instead of deleting them."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Trigger"
+msgstr ""
+
+msgid ""
+"The trigger to create particles: Persitent (create particles all the time), "
+"Mouse Movement (create particles when the mouse is being moved), Random Shot "
+"(a single particle burst once in a while), Random Period (randomly turning "
+"on and off particle production) or Notification (a single particle burst on "
+"notification events)."
+msgstr ""
+
+msgid "Persistent"
+msgstr ""
+
+#, fuzzy
+msgid "Mouse Movement"
+msgstr "Büyürme Taşıması"
+
+#, fuzzy
+msgid "Random Shot"
+msgstr "Rastgele"
+
+#, fuzzy
+msgid "Random Period"
+msgstr "Rastgele"
+
+msgid ""
+"The horizontal position of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The vertical position of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+#, fuzzy
+msgid "Emitter Speed"
+msgstr "Değiştirici kipi"
+
+msgid ""
+"The speed of this emitter. May be ignored or used for initialization, "
+"depending on the movement type."
+msgstr ""
+
+msgid "Emitter Angle"
+msgstr ""
+
+msgid ""
+"The angle for the movement of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The movement type of this emitter: Mouse Position (exactly on the core "
+"pointer), Follow Mouse (moving towards core pointer at set speed), Bounce "
+"(moving at constant speed, bouncing off the walls) or Wrap (moving at "
+"constant speed, jumping to the opposite side at a wall)."
+msgstr ""
+
+#, fuzzy
+msgid "Particle count"
+msgstr "Ateş rengi."
+
+msgid "The amount of particles generated each time this emitter is triggered."
+msgstr ""
+
+#, fuzzy
+msgid "Color hue"
+msgstr "Renkler"
+
+msgid ""
+"The color of the particles. This is hue like in HSL colors. It is the center "
+"of the range given below."
+msgstr ""
+
+#, fuzzy
+msgid "Color hue range"
+msgstr "Parlama Rengi Değişimi"
+
+msgid ""
+"The color of the particles can be any value from the hue (given above) plus/"
+"minus this range. A range of 500 means any color."
+msgstr ""
+
+#, fuzzy
+msgid "Color lightness"
+msgstr "Parlaklık"
+
+msgid ""
+"The color of the particles. This is lightness like in HSL colors. It is the "
+"center of the range given below."
+msgstr ""
+
+#, fuzzy
+msgid "Color lightness range"
+msgstr "Seçim dikdörtgeninin çizgi rengi"
+
+msgid ""
+"The color of the particles can be any value from the lightness (given above) "
+"plus/minus this range."
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid ""
+"The alpha (opacity) of the particles. This is the center of the range given "
+"below."
+msgstr ""
+
+msgid "Alpha range"
+msgstr ""
+
+msgid ""
+"The alpha (opacity) of the particles can be any value from the alpha (given "
+"above) plus/minus this range."
+msgstr ""
+
+msgid "X range"
+msgstr ""
+
+msgid "The horizontal range of the particles."
+msgstr ""
+
+msgid "Y range"
+msgstr ""
+
+#, fuzzy
+msgid "The vertical range of the particles."
+msgstr "Sekme çubuğunun kenarlık rengi"
+
+msgid "Circular range"
+msgstr ""
+
+#, fuzzy
+msgid "The circular range of the particles."
+msgstr "Sekme çubuğunun kenarlık rengi"
+
+#, fuzzy
+msgid "X speed"
+msgstr "Çember hızı"
+
+msgid "The horizontal speed of the particles."
+msgstr ""
+
+#, fuzzy
+msgid "Y speed"
+msgstr "Çember hızı"
+
+msgid "The vertical speed of the particles."
+msgstr ""
+
+#, fuzzy
+msgid "Aging speed"
+msgstr "Çember hızı"
+
+msgid "The more negative the sooner particles disappear."
+msgstr ""
+
+#, fuzzy
+msgid "Rotation speed"
+msgstr "Canlandırma hızı"
+
+msgid ""
+"The rotation of the particles can probably only be seen on the really big "
+"ones."
+msgstr ""
+
+msgid "X speed range"
+msgstr ""
+
+msgid "The horizontal speed range of the particles."
+msgstr ""
+
+msgid "Y speed range"
+msgstr ""
+
+msgid "The vertical speed range of the particles."
+msgstr ""
+
+msgid "Circular speed range"
+msgstr ""
+
+msgid "The circular speed range of the particles."
+msgstr ""
+
+#, fuzzy
+msgid "Aging speed range"
+msgstr "Çember hızı"
+
+msgid "The range of aging speeds"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation speed range"
+msgstr "Canlandırma hızı"
+
+#, fuzzy
+msgid "Particle Size"
+msgstr "Ateş Parçacığı Boyutu"
+
+#, fuzzy
+msgid "The size of the particles."
+msgstr "Sekme çubuğunun biçimi"
+
+#, fuzzy
+msgid "Particle Size Range"
+msgstr "Ateş Parçacığı Boyutu"
+
+#, fuzzy
+msgid "The size range of the particles."
+msgstr "Sekme çubuğunun biçimi"
+
+#, fuzzy
+msgid "New Size"
+msgstr "Parlama Boyutu"
+
+#, fuzzy
+msgid "The size of the particles when they are new."
+msgstr "Ekrana alev ya da başka parçacıklar çiz"
+
+msgid "New Size Range"
+msgstr ""
+
+#, fuzzy
+msgid "The size range of the particles when they are new."
+msgstr "Ekrana alev ya da başka parçacıklar çiz"
+
+msgid ""
+"The strength of the gravity effect, these particles have. (See gravity "
+"probability. May be especially resource consuming."
+msgstr ""
+
+msgid "Gravity Range"
+msgstr ""
+
+msgid ""
+"The strength range of the gravity effect, these particles have. (See gravity "
+"probability. May be especially resource consuming."
+msgstr ""
+
+msgid "Gravity Probability"
+msgstr ""
+
+msgid ""
+"The probability that a particle has the gravity effect, that has been set up "
+"above. This value represents gravity particles out of 10000 particles. "
+"(Using gravity on too many particles may be very resource consuming)"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+#, fuzzy
+msgid "Hard limit for particles"
+msgstr "Alevin parçacık sayısı."
+
+msgid "If this hard limit is reached, no new particles are created"
+msgstr ""
+
+#, fuzzy
+msgid "Soft limit for particles"
+msgstr "Alevin parçacık sayısı."
+
+msgid ""
+"This soft limit can be exceeded. If this happens, particles will die faster"
+msgstr ""
+
+#, fuzzy
+msgid "Darken backgound"
+msgstr "Arkaplanı Koyulaştır"
+
+#, fuzzy
+msgid "Darken background under particles"
+msgstr "Arkaplanı Koyulaştır"
+
+msgid "Additive blending"
+msgstr ""
+
+#, fuzzy
+msgid "Additive blending of particles"
+msgstr "Parçacık sayısı"
+
+#, fuzzy
+msgid "New particle time"
+msgstr "Ateş parçacığı ömrü."
+
+msgid ""
+"If the age of a particle is above this value, it is regarded as new and is "
+"especially bright and large. Particles are born at the age of 1.0 and die at "
+"the age of 0.0"
+msgstr ""
+
+#, fuzzy
+msgid "Old particle time"
+msgstr "Ateş parçacığı ömrü."
+
+msgid ""
+"If the age of a particle is below this value, it is regarded as old and "
+"starts to fade. Particles are born at the age of 1.0 and die at the age of "
+"0.0"
+msgstr ""
+
+msgid "Workspace Naming"
+msgstr ""
+
+msgid "Allows assigning descriptions to workspaces"
+msgstr ""
+
+msgid "Names"
+msgstr ""
+
+msgid "Workspace Names"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport"
+msgstr "Üst Masaüstü"
+
+msgid "Number of viewport to be named"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport name"
+msgstr "Sol Masaüstü"
+
+msgid "Display Time"
+msgstr "Gösterme Süresi"
+
+msgid "Timeout (in s) of the name display"
+msgstr ""
+
+msgid "Fade Time"
+msgstr "Belirme Süresi"
+
+msgid "Time (in s) the name display fades out after being shown."
+msgstr ""
+
+#, fuzzy
+msgid "Text Display"
+msgstr "Gösterme Süresi"
+
+msgid "Selects if the text should be displayed in bold font or not."
+msgstr ""
+
+msgid "Font family for the text display."
+msgstr ""
+
+#, fuzzy
+msgid "Font size for the text display."
+msgstr "Pencere başlığı için yazıtipi boyutu"
+
+msgid "Selects where to place the text."
+msgstr ""
+
+#, fuzzy
+msgid "Top of screen"
+msgstr "FPS'yi Ekranda Göster"
+
+#, fuzzy
+msgid "Bottom of screen"
+msgstr "Aşağıdan Yukarıya"
+
+msgid "Colors"
+msgstr "Renkler"
+
+msgid "Background color for the text display."
+msgstr ""
+
+#, fuzzy
+msgid "Font color for the text display."
+msgstr "Pencere başlığı için yazıtipi rengi"
+
+#~ msgid "3D Only On Mouse Rotate"
+#~ msgstr "Sadece Fare ile Döndürüldüğünde 3D"
+
+#~ msgid "3D Windows"
+#~ msgstr "3B Pencereler"
+
+#~ msgid "Bevel Bottom Left"
+#~ msgstr "Sol Alt Eğim"
+
+#~ msgid "Bevel Bottom Right"
+#~ msgstr "Sağ Alt Eğim"
+
+#~ msgid "Bevel Corners"
+#~ msgstr "Köşelere Eğim Ver"
+
+#~ msgid "Bevel Top Left"
+#~ msgstr "Sol Üst Eğim"
+
+#~ msgid "Bevel Top Right"
+#~ msgstr "Sağ Üst Eğim"
+
+#~ msgid "Bevel bottom left corner"
+#~ msgstr "Sol alt köşe eğimi"
+
+#~ msgid "Bevel bottom right corner"
+#~ msgstr "Sağ alt köşe eğimi"
+
+#~ msgid "Bevel top left corner"
+#~ msgstr "Sol üst köşe eğimi"
+
+#~ msgid "Bevel top right corner"
+#~ msgstr "Sağ üst köşe eğimi"
+
+#~ msgid ""
+#~ "Change the amount of space between the windows (in percent of the cube "
+#~ "size)."
+#~ msgstr ""
+#~ "Pencereler arasında bırakılacak alan miktarını değiştir (küp boyutunun "
+#~ "yüzdesine göre)."
+
+#~ msgid "Color of an inactive window's depth"
+#~ msgstr "Etkin olmayan pencerenin derinliğinin rengi"
+
+#, fuzzy
+#~ msgid "Color of the active window's depth"
+#~ msgstr "Etkin pencerenin derinliğinin rengi"
+
+#~ msgid "Elevates windows while rotating the cube"
+#~ msgstr "Küp döndürülürken pencereleri yükseltir"
+
+#~ msgid ""
+#~ "Initiates the 3D display only if rotate is mouse driven. (Ex. You rotate "
+#~ "the cube via the mouse)"
+#~ msgstr "3B görünüm sadece döndürme işlemi fare ile yapılıyorsa başlatılır."
+
+#~ msgid "Minimum Cube Size"
+#~ msgstr "En Küçük Küp Boyutu"
+
+#~ msgid "Minimum cube size (in percent)."
+#~ msgstr "En küçük küp boyutu (yüzde olarak)."
+
+#~ msgid "Roundoff corners for consistency with rounded decorations"
+#~ msgstr ""
+#~ "Köşeleri yuvarlanmış dekorasyonlar ile tutarlı olması için pencere "
+#~ "köşelerini yuvarla"
+
+#, fuzzy
+#~ msgid "Window Color (Active)"
+#~ msgstr "Pencere Başlığı (Etkin)"
+
+#~ msgid "Window Color (Inactive)"
+#~ msgstr "Pencere Rengi (Etkin Olmayan)"
+
+#~ msgid "Window Depth"
+#~ msgstr "Pencere Derinliği"
+
+#~ msgid "Window Space"
+#~ msgstr "Pencere Alanı"
+
+#~ msgid "Window depth"
+#~ msgstr "Pencere derinliği"
+
+#~ msgid "Windows that should be handled by 3D"
+#~ msgstr "3D uygulanacak pencereler"
+
+#~ msgid "ADD Helper"
+#~ msgstr "Karartma Yardımcısı"
+
+#~ msgid ""
+#~ "Make it slightly easier to concentrate by dimming all but the active "
+#~ "window."
+#~ msgstr ""
+#~ "Etkin pencere dışında diğerlerini karartarak etkin pencereye odaklanmayı "
+#~ "kolaylaştırır."
+
+#~ msgid "Toggle AddHelper"
+#~ msgstr "Karartma Yardımcısını Aç / Kapat"
+
+#~ msgid "Airplane"
+#~ msgstr "Kağıt Uçak"
+
+#~ msgid "Airplane Flying Path Length"
+#~ msgstr "Kağıt Uçağın Gideceği Yol Uzunluğu"
+
+#, fuzzy
+#~ msgid "Animation Time Step For Intense Effects"
+#~ msgstr "Canlandırma Zaman Aralığı"
+
+#, fuzzy
+#~ msgid "Animations Add-On"
+#~ msgstr "Canlandırmalar"
+
+#~ msgid "Away Position"
+#~ msgstr "Uzak Konum"
+
+#~ msgid "Beam"
+#~ msgstr "Işıma"
+
+# Vielleicht ein bisschen gewagt aber 'Teleportation' wäre die korrekte Übersetzung - zu lang?
+#~ msgid "Beam Color"
+#~ msgstr "Işıma Rengi"
+
+#~ msgid "Beam Life"
+#~ msgstr "Işıma Süresi"
+
+#~ msgid "Beam Slowdown"
+#~ msgstr "Işıma Yavaşlaması"
+
+#~ msgid "Beam Spacing"
+#~ msgstr "Işıma Aralığı"
+
+# Star-Trek-Referenz im Deutschen sowieso nicht machbar
+#~ msgid "Beam Up"
+#~ msgstr "Işıma"
+
+#~ msgid "Beam Width"
+#~ msgstr "Işıma Genişliği"
+
+#~ msgid "Beam color."
+#~ msgstr "Işıma rengi."
+
+#~ msgid "Beam life."
+#~ msgstr "Işıma süresi."
+
+#~ msgid "Beam slowdown."
+#~ msgstr "Işıma yavaşlaması."
+
+#~ msgid "Beam width."
+#~ msgstr "Işıma genişliği."
+
+# Da der Effekt im Original einen eigenen Namen, trifft's 'Verbrennen' besser als 'Feuer'
+#~ msgid "Burn"
+#~ msgstr "Alev"
+
+#~ msgid "Domino"
+#~ msgstr "Domino"
+
+#~ msgid "Domino Piece Falling Direction"
+#~ msgstr "Domino Taşlarının Düşme Yönü"
+
+#~ msgid "Down"
+#~ msgstr "Aşağı"
+
+#~ msgid "Explode"
+#~ msgstr "Patlama"
+
+#~ msgid "Falling direction for Domino pieces."
+#~ msgstr "Domino parçacıklarının düşme yönü."
+
+#~ msgid "Fire Particle Slowdown"
+#~ msgstr "Alev Parçacığı Yavaşlaması"
+
+#~ msgid "Fire Smoke"
+#~ msgstr "Ateş Dumanı"
+
+#~ msgid "Fire direction"
+#~ msgstr "Ateş yönü"
+
+#~ msgid "Fire particle slowdown."
+#~ msgstr "Alev parçacığı yavaşlaması."
+
+#~ msgid "Fire smoke."
+#~ msgstr "Ateş dumanı."
+
+#~ msgid "Fly to TaskBar on Minimize"
+#~ msgstr "Küçültme sırasında Görev Çubuğuna Uç"
+
+#~ msgid "Fold"
+#~ msgstr "Katlama"
+
+#, fuzzy
+#~ msgid "Fold opening direction for pieces in Razr effect."
+#~ msgstr "Domino parçacıklarının düşme yönü."
+
+#~ msgid "Glass"
+#~ msgstr "Cam"
+
+#, fuzzy
+#~ msgid "Glide 3"
+#~ msgstr "Havadan Süzülme 1"
+
+#~ msgid "Hexagonal"
+#~ msgstr "Altıgen"
+
+# FIXME: Herein und Heraus sind noch nicht optimal
+#~ msgid "In"
+#~ msgstr "İç"
+
+#~ msgid "In-out"
+#~ msgstr "İç-dış"
+
+#~ msgid "Left-right"
+#~ msgstr "Sol-sağ"
+
+#~ msgid "Length of airplane's flying path."
+#~ msgstr "Uçağın uçuş yolunun uzunluğu."
+
+#~ msgid "Movement direction(s) for window pieces."
+#~ msgstr "Pencere parçaları için taşıma yönleri."
+
+#~ msgid "Out"
+#~ msgstr "Dış"
+
+#, fuzzy
+#~ msgid "Razr Fold Opening Direction"
+#~ msgstr "Katlama Yönü"
+
+#~ msgid "Rectangular"
+#~ msgstr "Dikdörtgen"
+
+#, fuzzy
+#~ msgid "Rotation angle of animated window pieces (in degrees)."
+#~ msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+#~ msgid "Skewer"
+#~ msgstr "Şişeleme"
+
+#~ msgid "Skewer Direction"
+#~ msgstr "Şişeleme Yönü"
+
+#~ msgid "Spacing between beams."
+#~ msgstr "Işınlar arasındaki mesafe."
+
+#~ msgid "Tessellation Type"
+#~ msgstr "Mozaik Tipi"
+
+#~ msgid "Tessellation type for exploding window pieces."
+#~ msgstr "Patlayan pencere parçacıkları için mozaik tipi."
+
+#~ msgid "Tessellation type for window pieces."
+#~ msgstr "Pencere parçacıkları için mozaik tipi."
+
+#, fuzzy
+#~ msgid "Thickness of exploding window pieces (in pixels)."
+#~ msgstr "Patlayan pencere parçacıkları için mozaik tipi."
+
+#~ msgid "Up-down"
+#~ msgstr "Yukarı-aşağı"
+
+#~ msgid "Window Grid Height"
+#~ msgstr "Pencere Izgara Yüksekliği"
+
+#~ msgid "Window Grid Width"
+#~ msgstr "Pencere Izgara Genişliği"
+
+#, fuzzy
+#~ msgid "Window folding direction."
+#~ msgstr "Domino Taşlarının Düşme Yönü"
+
+#~ msgid ""
+#~ "All effects are chosen randomly, ignoring the selected effect. If None is "
+#~ "selected for an event, that event won't be animated."
+#~ msgstr ""
+#~ "Bütün efektler rasgele ayarlanacak, eğer efektini kapattığınız bir bölüm "
+#~ "varsa, orada efekt uygulanmayacak."
+
+#~ msgid "Animation Selection"
+#~ msgstr "Canlandırma Seçimi"
+
+#~ msgid "Animation Time Step"
+#~ msgstr "Canlandırma Zaman Aralığı"
+
+#~ msgid "Animation duration in milliseconds for close effect."
+#~ msgstr "Kapatma efekti için milisaniye olarak canlandırma süresi."
+
+#~ msgid "Animation duration in milliseconds for focus effect."
+#~ msgstr "Odaklama efekti için milisaniye olarak canlandırma süresi."
+
+#~ msgid "Animation duration in milliseconds for minimize effect."
+#~ msgstr "Küçültme efekti için milisaniye olarak canlandırma süresi."
+
+#~ msgid "Animation duration in milliseconds for open effect."
+#~ msgstr "Açma efekti için milisaniye olarak canlandırma süresi."
+
+#~ msgid "Animation duration in milliseconds for shade effect."
+#~ msgstr "Gölgeleme efekti için milisaniye olarak canlandırma süresi."
+
+#~ msgid "Close Animation"
+#~ msgstr "Kapatma Canlandırması"
+
+#~ msgid "Close Effect"
+#~ msgstr "Kapatma Efekti"
+
+# 'einklappen' auch möglich
+#~ msgid "Curved Fold"
+#~ msgstr "Eğimli Katlama"
+
+#, fuzzy
+#~ msgid "Curved Fold Amplitude Multiplier"
+#~ msgstr "Eğimli Katlama Genişlemesi"
+
+#~ msgid "Dodge"
+#~ msgstr "Yana Kaçma"
+
+#~ msgid "Dream"
+#~ msgstr "Hayal"
+
+#~ msgid "Duration"
+#~ msgstr "Süre"
+
+#~ msgid "Fixed window interior during the Rollup animation."
+#~ msgstr "Toparlamada Pencerenin İç Yüzünü Onar."
+
+#~ msgid "Focus Animation"
+#~ msgstr "Odaklama Canlandırması"
+
+#~ msgid "Focus Effect"
+#~ msgstr "Odaklama Efekti"
+
+#~ msgid "Glide 1"
+#~ msgstr "Havadan Süzülme 1"
+
+#~ msgid "Glide 2"
+#~ msgstr "Havadan Süzülme 2"
+
+#~ msgid "Horizontal Folds"
+#~ msgstr "Yatay Katlama"
+
+#, fuzzy
+#~ msgid "Horizontal Folds Amplitude Multiplier"
+#~ msgstr "Yatay Katlama Genişlemesi"
+
+#~ msgid "Magic Lamp"
+#~ msgstr "Sihirli Lamba"
+
+#~ msgid "Magic Lamp Grid Y Resolution"
+#~ msgstr "Sihirli Lamba Izgara Y Çözünürlüğü"
+
+#~ msgid "Magic Lamp Max Wave Amplitude"
+#~ msgstr "Sihirli Lambanın En Fazla Dalga Genişliği"
+
+#~ msgid "Magic Lamp Max Waves"
+#~ msgstr "Sihirli Lambanın En Fazla Dalga Sayısı"
+
+#~ msgid "Magic Lamp Min Wave Amplitude"
+#~ msgstr "Sihirli Lambanın En Az Dalga Genişliği"
+
+#~ msgid "Magic Lamp Open Start Width"
+#~ msgstr "Sihirli Lamba Açma Başlama Genişliği"
+
+#~ msgid "Magic Lamp Open/Close Moving End"
+#~ msgstr "Sihirli Lamba Açma/Kapatma Taşıma Sonu"
+
+#~ msgid "Minimize Animation"
+#~ msgstr "Küçültme Canlandırması"
+
+#~ msgid "Minimize Effect"
+#~ msgstr "Küçültme efekti"
+
+#~ msgid "Minimize/Unminimize Only"
+#~ msgstr "Sadece Küçültme / Geri Yükleme"
+
+#~ msgid "Number of Horizontal Folds"
+#~ msgstr "Yatay Katlamaların Sayısı"
+
+#~ msgid "Off"
+#~ msgstr "Kapalı"
+
+#~ msgid "On"
+#~ msgstr "Açık"
+
+#~ msgid "Open Effect"
+#~ msgstr "Açma Efekti"
+
+#~ msgid "Open/Close Only"
+#~ msgstr "Sadece Aç / Kapat"
+
+#~ msgid "Pool"
+#~ msgstr "Havuz"
+
+#~ msgid "Random Animations For All Events"
+#~ msgstr "Tüm Olaylar için Rastgele Canlandırmalar"
+
+#~ msgid "Random Effects"
+#~ msgstr "Rastgele Efektler"
+
+#~ msgid "Roll Up"
+#~ msgstr "Toparlama"
+
+#~ msgid "Rollup Fixed Interior"
+#~ msgstr "Toparlamada Pencereyi Onar"
+
+#~ msgid "Shade Animation"
+#~ msgstr "Gölgeleme Canlandırması"
+
+#~ msgid "Shade Effect"
+#~ msgstr "Gölgeleme Efekti"
+
+#~ msgid "Sidekick"
+#~ msgstr "Yardımcı"
+
+#~ msgid "Sidekick Number of Rotations"
+#~ msgstr "Yardımcının Döndürme Sayısı"
+
+#~ msgid "Sidekick Springiness"
+#~ msgstr "Yardımcı Esnekliği"
+
+#~ msgid "The animation effect shown when closing a window."
+#~ msgstr "Bir pencere kapatılırken uygulanacak efekt."
+
+#~ msgid "The animation effect shown when creating a window."
+#~ msgstr "Bir pencere oluşturulurken uygulanacak efekt."
+
+#~ msgid "The animation effect shown when focusing a window."
+#~ msgstr "Bir pencere odaklanırken uygulanacak efekt."
+
+#~ msgid "The animation effect shown when minimizing a window."
+#~ msgstr "Bir pencere küçültülürken uygulanacak efekt."
+
+#~ msgid "The animation effect shown when shading a window."
+#~ msgstr "Bir pencere gölgelenirken uygulanacak efekt."
+
+#~ msgid "The windows that will be animated."
+#~ msgstr "Canlandırılacak pencereler."
+
+#~ msgid "Use various animations as window effects"
+#~ msgstr "Pencere efekti olarak değişik canlandırmalar kullan"
+
+#~ msgid "Vacuum"
+#~ msgstr "Vakum"
+
+#~ msgid "Vacuum Grid Y Resolution"
+#~ msgstr "Vakum Izagarası Y Çözünürlüğü"
+
+#~ msgid "Vacuum Open Start Width"
+#~ msgstr "Vakum Açma Başlangıç Genişliği"
+
+#~ msgid "Vacuum Open/Close Moving End"
+#~ msgstr "Vakum Açma/Kapatma Taşıma Sonu"
+
+#~ msgid "Wave"
+#~ msgstr "Dalga"
+
+#~ msgid "Wave Width"
+#~ msgstr "Dalga Genişliği"
+
+#~ msgid "Zoom Springiness"
+#~ msgstr "Büyütme Esnekliği"
+
+#~ msgid "Zoom from Center"
+#~ msgstr "Merkezden Büyüt"
+
+#~ msgid "Zoom from center when playing the Sidekick animation."
+#~ msgstr "Yardımcı canlandırması oynatıldığında merkezden büyüt"
+
+#~ msgid "Zoom from center when playing the Zoom animation."
+#~ msgstr "Büyütme canlandırması oynatıldığında merkezden büyüt"
+
+#~ msgid "Zoom to TaskBar on Minimize"
+#~ msgstr "Aşağı almada görev çubuğuna kaydır"
+
+#~ msgid "A simple benchmark plugin"
+#~ msgstr "Basit bir karşılaştırma eklentisi"
+
+#~ msgid "Benchmark"
+#~ msgstr "Karşılaştırma"
+
+#~ msgid "Console Output"
+#~ msgstr "Uçbirim Çıktısı"
+
+#~ msgid "Console output update time"
+#~ msgstr "Uçbirim çıktısı güncelleme süresi"
+
+#~ msgid "Disable Compiz integrated FPS limiter"
+#~ msgstr "Bütünleşik Compiz FPS Sınırlayıcısını Pasifleştir"
+
+#~ msgid "Disable limiter"
+#~ msgstr "Sınırlayıcıyı pasifleştir"
+
+#~ msgid "Display FPS on screen"
+#~ msgstr "FPS'yi Ekranda Göster"
+
+#~ msgid "Enable"
+#~ msgstr "Etkinleştir"
+
+# FIXME
+#~ msgid "Main"
+#~ msgstr "Ana Ayarlar"
+
+#~ msgid "Print FPS to console"
+#~ msgstr "Uçbirime FPS değerini yazdır"
+
+#~ msgid "Screen Output"
+#~ msgstr "Ekran Çıktısı"
+
+#~ msgid "Start benchmark"
+#~ msgstr "Karşılaştırmayı başlat"
+
+#~ msgid "Update time"
+#~ msgstr "Güncelleme süresi"
+
+#~ msgid "X Position of benchmark window"
+#~ msgstr "Karşılaştırma penceresinin yatay konumu"
+
+#~ msgid "X position"
+#~ msgstr "X-Konumu"
+
+#~ msgid "Y Position of benchmark window"
+#~ msgstr "Karşılaştırma penceresinin dikey konumu"
+
+#~ msgid "Y position"
+#~ msgstr "Y-Konumu"
+
+#~ msgid "Bicubic filter"
+#~ msgstr "Çift kübik süzgeci"
+
+#~ msgid "Bicubic texture filtering"
+#~ msgstr "Çift kübik doku süzgeci"
+
+#~ msgid "Color filter"
+#~ msgstr "Renk Filtreleyicisi"
+
+#~ msgid "Exclude windows"
+#~ msgstr "Pencereleri hariç tut"
+
+#~ msgid "Filter colors for accessibility purposes"
+#~ msgstr "Erişilebilirlik amaçlı renk filtreleri"
+
+#~ msgid "Filtered windows"
+#~ msgstr "Filtrelenmiş pencereler"
+
+#~ msgid "Filters files"
+#~ msgstr "Dosyaları filtreler"
+
+#~ msgid "Switch filter"
+#~ msgstr "Filtreyi seç"
+
+#~ msgid "Toggle filtering for currently focused window."
+#~ msgstr "O anda odaklanmış pencerenin filtrelemesini aç / kapat."
+
+#~ msgid "Toggle screen filtering"
+#~ msgstr "Ekran filtrelemeyi aç /kapa"
+
+#~ msgid "Toggle window filtering"
+#~ msgstr "Pencere filtrelemeyi aç /kapa"
+
+#~ msgid "Windows to exclude from filtering."
+#~ msgstr "Filtreleme dışında tutulacak pencereler."
+
+#~ msgid "Activate Crash Handler."
+#~ msgstr "Çökme Yakalayıcısını Etkinleştir."
+
+#~ msgid "Compiz crash handler plugin"
+#~ msgstr "Compiz çökme yakalayıcısı eklentisi"
+
+#~ msgid "Crash Dump Directory"
+#~ msgstr "Çökme Dökümü Dizini"
+
+#~ msgid "Crash handler"
+#~ msgstr "Çökme yakalayıcısı"
+
+#~ msgid "Directory to dump the crash logs to."
+#~ msgstr "Çökme günlük kayıtlarının konulacağı dizin."
+
+#~ msgid "Enable Crash Handler"
+#~ msgstr "Çökme Yakalayıcısını Etkinleştir"
+
+#~ msgid "Start Other Window Manager"
+#~ msgstr "Diğer Pencere Yöneticisini Başlat"
+
+#~ msgid "Start other window manager on Crash."
+#~ msgstr "Çökerse diğer pencere yöneticisini başlat."
+
+#~ msgid "Window Manager Command Line"
+#~ msgstr "Pencere Yöneticisi Komut Satırı"
+
+#~ msgid "Window manager command line. DO NOT ENTER COMPIZ HERE!!!"
+#~ msgstr "Pencere yöneticisi komut satırı. COMPIZ'İ BURAYA GİRMEYİN!!!"
+
+#~ msgid "Adjust bottom face image to rotation"
+#~ msgstr "Taban resmini döndürmeye ayarla"
+
+#~ msgid "Adjust bottom image"
+#~ msgstr "Taban resmini ayarla"
+
+#~ msgid "Adjust top face image to rotation"
+#~ msgstr "Tavan resmini döndürmeye ayarla"
+
+#~ msgid "Adjust top image"
+#~ msgstr "Tavan resmini ayarla"
+
+#~ msgid "Aspect ratio"
+#~ msgstr "Bakış açısı oranı"
+
+#~ msgid "Auto zoom only on Mouse Rotate"
+#~ msgstr "Sadec Fare ile Döndürüldüğünde Otomatik Büyüt"
+
+#~ msgid "Bottom image files"
+#~ msgstr "Alt resim dosyaları"
+
+#~ msgid "Color of the ground (far)."
+#~ msgstr "Alanın rengi (uzak)."
+
+#, fuzzy
+#~ msgid "Compiz cube reflection and deformation"
+#~ msgstr "Compiz Küp Yansıması"
+
+#, fuzzy
+#~ msgid "Cube Reflection and Deformation"
+#~ msgstr "Dekorasyonlar için Yansıma"
+
+#, fuzzy
+#~ msgid "Cube caps"
+#~ msgstr "Küp Kapakları"
+
+# FIXME
+#, fuzzy
+#~ msgid "Cylinder"
+#~ msgstr "Temizle"
+
+#, fuzzy
+#~ msgid "Deform caps"
+#~ msgstr "Süre"
+
+#, fuzzy
+#~ msgid "Deform only on mouse rotate"
+#~ msgstr "Sadec Fare ile Döndürüldüğünde Otomatik Büyüt"
+
+#, fuzzy
+#~ msgid "Deformation mode."
+#~ msgstr "Süre"
+
+#~ msgid "Draw bottom face"
+#~ msgstr "Alt kapağı oluştur"
+
+#~ msgid "Draw bottom face of the cube"
+#~ msgstr "Küpün alt kapağını oluştur"
+
+#~ msgid "Draw top face"
+#~ msgstr "Üst kapağı oluştur"
+
+#~ msgid "Draw top face of the cube"
+#~ msgstr "Küpün üst kapağını oluştur"
+
+#, fuzzy
+#~ msgid "Enabled"
+#~ msgstr "Etkinleştir"
+
+#, fuzzy
+#~ msgid "Give cube a reflective ground."
+#~ msgstr "Compiz Küp Yansıması"
+
+#~ msgid "Ground color(far)"
+#~ msgstr "Alan rengi (uzak)"
+
+#~ msgid "Ground color(near)"
+#~ msgstr "Alan rengi (yakın)"
+
+#~ msgid "Intensity"
+#~ msgstr "Yoğunluk"
+
+#~ msgid "Jumpy"
+#~ msgstr "Gerginleştir"
+
+#~ msgid "Jumpy reflection"
+#~ msgstr "Gerginlik yansıması"
+
+#, fuzzy
+#~ msgid "Maintain bottom aspect ratio"
+#~ msgstr "Segi kipi görünüm oranı"
+
+#, fuzzy
+#~ msgid "Maintain bottom cap image aspect ratio."
+#~ msgstr "Taban resmini döndürmeye ayarla"
+
+#, fuzzy
+#~ msgid "Maintain top cap image aspect ratio."
+#~ msgstr "Tavan resmini döndürmeye ayarla"
+
+#~ msgid "Next bottom image"
+#~ msgstr "Sonraki taban resmi"
+
+#~ msgid "Next top image"
+#~ msgstr "Sonraki tavan resmi"
+
+#~ msgid "Prev bottom image"
+#~ msgstr "Önceki taban resmi"
+
+#~ msgid "Prev top image"
+#~ msgstr "Önceki tavan resmi"
+
+#~ msgid "Reflection"
+#~ msgstr "Yansıma"
+
+#~ msgid "Reflection ground size"
+#~ msgstr "Yansıma alanı boyutu"
+
+#~ msgid "Reflection ground size."
+#~ msgstr "Yansıma alanı boyutu."
+
+#~ msgid "Reflection intensity"
+#~ msgstr "Yansıma yoğunluğu"
+
+#~ msgid "Reflection mode"
+#~ msgstr "Yansıma kipi"
+
+#~ msgid "Reflection mode."
+#~ msgstr "Yansıma kipi."
+
+#~ msgid "Scale bottom image"
+#~ msgstr "Taban resmini boyutlandır"
+
+#, fuzzy
+#~ msgid "Sphere"
+#~ msgstr "Hız"
+
+#~ msgid "Top image files"
+#~ msgstr "Tavan resim dosyaları"
+
+#, fuzzy
+#~ msgid "Draw elements on screen"
+#~ msgstr "Ekranın merkezine ortalanmış"
+
+#, fuzzy
+#~ msgid "Element Image"
+#~ msgstr "Yansıma Resmi"
+
+#, fuzzy
+#~ msgid "Element Title Display"
+#~ msgstr "Pencere Başlığı"
+
+#, fuzzy
+#~ msgid "Element rotation"
+#~ msgstr "Hareket Yönü"
+
+#, fuzzy
+#~ msgid "Element size"
+#~ msgstr "Balina boyutu"
+
+#, fuzzy
+#~ msgid "Element speed"
+#~ msgstr "Pencere taşıma hızı"
+
+#, fuzzy
+#~ msgid "Next Element"
+#~ msgstr "Metin Konumlandırma"
+
+#, fuzzy
+#~ msgid "Previous Element"
+#~ msgstr "Önceki masaüstü"
+
+#, fuzzy
+#~ msgid "Show Title on Toggle"
+#~ msgstr "Kar Efekti Aç / Kapat"
+
+#, fuzzy
+#~ msgid "Size of these elements"
+#~ msgstr "Kar tanelerinin boyutu"
+
+#, fuzzy
+#~ msgid "Toggle Selected Element"
+#~ msgstr "Tam Ekran Yap / Yapma"
+
+#~ msgid "Aspect Ratio"
+#~ msgstr "Görünüm Oranı"
+
+#~ msgid "Button binding to exit expo"
+#~ msgstr "Sergiden çıkmak için düğme kısayolu"
+
+# 'einklappen' auch möglich
+#, fuzzy
+#~ msgid "Curve"
+#~ msgstr "Eğimli Katlama"
+
+# FIXME - is wall really == Wand here? -- Maybe we could use Ebene, Tafel or Brett here?
+#, fuzzy
+#~ msgid "Deformation of the expo wall"
+#~ msgstr "Sergi duvarının uzaklığı"
+
+# FIXME - is wall really == Wand here? -- Maybe we could use Ebene, Tafel or Brett here?
+#~ msgid "Distance of the expo wall"
+#~ msgstr "Sergi duvarının uzaklığı"
+
+#~ msgid "Double click time"
+#~ msgstr "Çift tıklama süresi"
+
+#~ msgid "Drag&amp;drop"
+#~ msgstr "Sürükle & bırak"
+
+#~ msgid "Exit expo"
+#~ msgstr "Sergiden çık"
+
+#~ msgid "Expo"
+#~ msgstr "Sergi"
+
+#~ msgid "Expo Animation"
+#~ msgstr "Sergi Canlandırması"
+
+#~ msgid "Expo Plugin"
+#~ msgstr "Sergi Eklentisi"
+
+#~ msgid "Expo button"
+#~ msgstr "Sergi düğmesi"
+
+#~ msgid "Expo edge"
+#~ msgstr "Sergi gölgesi"
+
+#~ msgid "Expo key"
+#~ msgstr "Sergi tuşu"
+
+#~ msgid "Expo mode aspect ratio"
+#~ msgstr "Segi kipi görünüm oranı"
+
+#~ msgid "Fade + Zoom"
+#~ msgstr "Solgunlaştır + Büyüt"
+
+#~ msgid "Hide panels/docks in expo"
+#~ msgstr "Sergi alanlarında Panelleri ve Yüzen pencereleri gizle"
+
+#~ msgid "Hide panels/docks in expo."
+#~ msgstr "Sergi alanlarında Panelleri ve Yüzen pencereleri gizle."
+
+#~ msgid "Multi Output Mode"
+#~ msgstr "Çoklu Çıktı Kipi"
+
+#~ msgid "Next viewport"
+#~ msgstr "Sonraki masaüstü"
+
+#~ msgid "One big wall"
+#~ msgstr "Bir büyük duvar"
+
+#~ msgid "One wall per output"
+#~ msgstr "Her çıktı için bir duvar"
+
+#~ msgid "Previous viewport"
+#~ msgstr "Önceki masaüstü"
+
+#~ msgid "Reflection Scale"
+#~ msgstr "Yansıma Boyutu"
+
+#, fuzzy
+#~ msgid "Viewport distance"
+#~ msgstr "Masaüstü Değiştirici"
+
+#~ msgid "Vortex"
+#~ msgstr "Burgaç"
+
+#~ msgid "Zoom time"
+#~ msgstr "Büyütme süresi"
+
+#, fuzzy
+#~ msgid "Activate Demanding Attention Window"
+#~ msgstr "Verilen bir pencereyi etkinleştir"
+
+#~ msgid "Activate a given window"
+#~ msgstr "Verilen bir pencereyi etkinleştir"
+
+# FIXME
+#~ msgid "Extra WM Actions"
+#~ msgstr "Daha fazla WM Hareketi"
+
+#~ msgid "Provides less commonly used WM actions"
+#~ msgstr "Az kullanılan Pencere Yönetimi eylemlerini sağlar"
+
+#~ msgid "Toggle Always-On-Top"
+#~ msgstr "Herzaman-En-Üstte Aç/Kapat"
+
+#~ msgid "Toggle window fullscreen"
+#~ msgstr "Pencereyi tam ekran yap / yapma"
+
+# FIXME
+#~ msgid "Toggle window redirect"
+#~ msgstr "Pencere yönlendirmesini aç / kapat"
+
+# FIXME
+#~ msgid "Toggle window stickyness"
+#~ msgstr "Pencere yapışkanlığını aç/ kapat"
+
+# FIXME
+#~ msgid "Enhanced Zoom Desktop"
+#~ msgstr "Gelişmiş Masaüstü Büyütücü"
+
+#, fuzzy
+#~ msgid "Fitting"
+#~ msgstr "Ayarlar"
+
+#~ msgid "Focus Tracking"
+#~ msgstr "Odaklama İzlemesi"
+
+#, fuzzy
+#~ msgid "Minimum zoom factor"
+#~ msgstr "Belirli bir büyütme basamağı 1"
+
+#, fuzzy
+#~ msgid "Mouse Behavior"
+#~ msgstr "Fare Davranışı"
+
+#, fuzzy
+#~ msgid "Panning"
+#~ msgstr "Doldurma"
+
+#, fuzzy
+#~ msgid "Specific Zoom"
+#~ msgstr "Belirli bir büyütme basamağı 1"
+
+#~ msgid "Specific zoom factor 1"
+#~ msgstr "Belirli bir büyütme basamağı 1"
+
+#~ msgid "Specific zoom factor 2"
+#~ msgstr "Belirli bir büyütme basamağı 2"
+
+#~ msgid "Specific zoom factor 3"
+#~ msgstr "Belirli bir büyütme basamağı 3"
+
+#, fuzzy
+#~ msgid "Zoom Box"
+#~ msgstr "Büyütme"
+
+#~ msgid "Zoom In"
+#~ msgstr "Büyüt"
+
+#, fuzzy
+#~ msgid "Zoom In/Out"
+#~ msgstr "Küçült"
+
+#~ msgid "Zoom Out"
+#~ msgstr "Küçült"
+
+#~ msgid "Zoom Specific Level 1"
+#~ msgstr "Belirli Bir Düzeye Büyüt 1"
+
+#~ msgid "Zoom Specific Level 2"
+#~ msgstr "Belirli Bir Düzeye Büyüt 2"
+
+#~ msgid "Zoom Specific Level 3"
+#~ msgstr "Belirli Bir Düzeye Büyüt 3"
+
+#~ msgid "Zoom Timestep"
+#~ msgstr "Büyütme Zaman Aralığı"
+
+#~ msgid "Zoom factor"
+#~ msgstr "Büyütme basamağı"
+
+#~ msgid "Zoom to the specific zoom level 1"
+#~ msgstr "Belirli bir büyütme düzeyine büyüt 1"
+
+#~ msgid "Zoom to the specific zoom level 2"
+#~ msgstr "Belirli bir büyütme düzeyine büyüt 2"
+
+#~ msgid "Zoom to the specific zoom level 3"
+#~ msgstr "Belirli bir büyütme düzeyine büyüt 3"
+
+#~ msgid "Easily access your desktop"
+#~ msgstr "Masaüstünüze kolayca erişin"
+
+#~ msgid "Fade time (in ms)"
+#~ msgstr "Belirme Süresi (ms olarak)"
+
+# FIXME
+#~ msgid "Fade to Desktop"
+#~ msgstr "Masaüstüne Solgunlaştır"
+
+#, fuzzy
+#~ msgid "Add Particle"
+#~ msgstr "Ateş Parçacığı Ömrü"
+
+#~ msgid "Background brightness"
+#~ msgstr "Arkaplan parlaklığı"
+
+#~ msgid "Background brightness during paint"
+#~ msgstr "Boyama sırasında arkaplanın parlaklığı"
+
+# FIXME
+#~ msgid "Clear"
+#~ msgstr "Temizle"
+
+#~ msgid "Clear (button)"
+#~ msgstr "Temizle (düğme)"
+
+# FIXME
+#~ msgid "Clear (key)"
+#~ msgstr "Temizle (tuş)"
+
+#~ msgid "Initiate (key)"
+#~ msgstr "Başlat (tuş)"
+
+#~ msgid "Initiate fire drawing"
+#~ msgstr "Alev çizimini başlat"
+
+#~ msgid "Paint fire on the screen"
+#~ msgstr "Ekrana alev çiz"
+
+#~ msgid "Cube Gears"
+#~ msgstr "Küp Dişlileri"
+
+#~ msgid "Animation Options"
+#~ msgstr "Canlandırma Seçenekleri"
+
+#~ msgid "Border Radius"
+#~ msgstr "Yarıçap Kenarlığı"
+
+#~ msgid "Border Width"
+#~ msgstr "Kenarlık Genişliği"
+
+#~ msgid "Border color of the tab bar"
+#~ msgstr "Sekme çubuğunun kenarlık rengi"
+
+#~ msgid "Close Group"
+#~ msgstr "Grubu Kapat"
+
+# FIXME -- we need a better word for 'glow'
+#~ msgid "Enable Glow"
+#~ msgstr "Parlamayı Etkinleştir"
+
+#~ msgid "Fill color of the tab bar"
+#~ msgstr "Sekme çubuğunun dolgu rengi"
+
+#~ msgid "Glow"
+#~ msgstr "Parlama"
+
+#~ msgid "Glow Type"
+#~ msgstr "Parlama Tipi"
+
+#~ msgid "Glow ring"
+#~ msgstr "Parlama çemberi"
+
+#~ msgid "Gradient"
+#~ msgstr "Karışım"
+
+#~ msgid "Grouping"
+#~ msgstr "Gruplama"
+
+#~ msgid "Ignore Group"
+#~ msgstr "Grubu Yoksay"
+
+#~ msgid "Metal"
+#~ msgstr "Metal"
+
+#~ msgid "Precision"
+#~ msgstr "Hassasiyet"
+
+#~ msgid "Rectangular glow"
+#~ msgstr "Dikdörtgen parlama"
+
+#~ msgid "Select"
+#~ msgstr "Seç"
+
+#~ msgid "Select Single Window"
+#~ msgstr "Tek Pencere Seç"
+
+#~ msgid "Selection"
+#~ msgstr "Seçim"
+
+#~ msgid "Shade with group"
+#~ msgstr "Grup ile birlikte gölgele"
+
+#~ msgid "Simple"
+#~ msgstr "Basit"
+
+#~ msgid "Tab Bar Show Delay"
+#~ msgstr "Sekme Çubuğu Gösterme Gecikmesi"
+
+#~ msgid "Tab Base Color"
+#~ msgstr "Sekme Temel Rengi"
+
+#~ msgid "Tab Border Color"
+#~ msgstr "Sekme Kenarlık Rengi"
+
+#~ msgid "Tab Highlight Color"
+#~ msgstr "Sekme Vurgulama Rengi"
+
+#~ msgid "Tab Style"
+#~ msgstr "Sekme Stili"
+
+# FIXME -- Find a better word fo 'Tabbing'
+#~ msgid "Tabbing"
+#~ msgstr "Sekmeleme"
+
+#~ msgid "Tabbing Speed"
+#~ msgstr "Sekmeleme Hızı"
+
+#~ msgid "Tabbing Timestep"
+#~ msgstr "Sekmeleme Zaman Aralığı"
+
+#~ msgid "Tabbing speed"
+#~ msgstr "Sekmeleme hızı"
+
+#~ msgid "Tabbing timestep"
+#~ msgstr "Sekmeleme zaman aralığı"
+
+#~ msgid "The space between the thumbs"
+#~ msgstr "Küçük pencereler arasındaki boşluk"
+
+#~ msgid "The style of the tab bar"
+#~ msgstr "Sekme çubuğunun biçimi"
+
+#~ msgid "Thumb Size"
+#~ msgstr "Küçük Pencere Boyutu"
+
+#~ msgid "Ungroup Windows"
+#~ msgstr "Pencere Gruplamasını Çöz"
+
+#~ msgid "Use tab bar animations"
+#~ msgstr "Sekme çubuğu canlandırmalarını kullan"
+
+#~ msgid "Window Title Font"
+#~ msgstr "Pencere Başlığı Yazı Tipi"
+
+#~ msgid "Compression Quality"
+#~ msgstr "Sıkıştırma Kalitesi"
+
+#~ msgid "JPEG"
+#~ msgstr "JPEG"
+
+#~ msgid "JPEG image format plugin"
+#~ msgstr "JPEG resim biçemi eklentisi"
+
+#, fuzzy
+#~ msgid "Background/Window brightness."
+#~ msgstr "Arkaplan parlaklığı."
+
+#, fuzzy
+#~ msgid "Background/Window saturation."
+#~ msgstr "Arkaplan doygunluğu."
+
+#, fuzzy
+#~ msgid "Fade In/Out Time"
+#~ msgstr "Büyütme/Küçültme Süresi."
+
+#~ msgid "Fade In/Out Time."
+#~ msgstr "Büyütme/Küçültme Süresi."
+
+# FIXED -- 'betroffene' ginge auch
+#, fuzzy
+#~ msgid "Login Window Match"
+#~ msgstr "Pencere Eşlemesi"
+
+#, fuzzy
+#~ msgid "Login Window match"
+#~ msgstr "Pencere eşlemesi"
+
+# FIXED -- 'betroffene' ginge auch
+#, fuzzy
+#~ msgid "Logout Window Match"
+#~ msgstr "Pencere Eşlemesi"
+
+#, fuzzy
+#~ msgid "Logout Window match"
+#~ msgstr "Pencere eşlemesi"
+
+#, fuzzy
+#~ msgid "Window opacity."
+#~ msgstr "Pencere Matlığı"
+
+#, fuzzy
+#~ msgid "Border color"
+#~ msgstr "Sekme Kenarlık Rengi"
+
+#, fuzzy
+#~ msgid "Border width"
+#~ msgstr "Kenarlık Genişliği"
+
+#, fuzzy
+#~ msgid "Border widtht."
+#~ msgstr "Kenarlık Genişliği"
+
+#, fuzzy
+#~ msgid "Box width."
+#~ msgstr "Işıma genişliği."
+
+#, fuzzy
+#~ msgid "Keep fully on screen."
+#~ msgstr "FPS'yi Ekranda Göster"
+
+#, fuzzy
+#~ msgid "Mode"
+#~ msgstr "Yana Kaçma"
+
+#, fuzzy
+#~ msgid "Mode."
+#~ msgstr "Yana Kaçma"
+
+#, fuzzy
+#~ msgid "Radius"
+#~ msgstr "Yarıçap Kenarlığı"
+
+#, fuzzy
+#~ msgid "Horizontal-only maximumize"
+#~ msgstr "Yatay Katlama"
+
+#, fuzzy
+#~ msgid "Maximumize Bindings"
+#~ msgstr "Büyütülemez pencereler"
+
+#, fuzzy
+#~ msgid "Maximumize to down."
+#~ msgstr "Büyütülemez pencereler"
+
+#, fuzzy
+#~ msgid "Maximumize to up."
+#~ msgstr "Küçültülmüşleri Göster"
+
+#, fuzzy
+#~ msgid "Minimumize Bindings"
+#~ msgstr "Küçültme Canlandırması"
+
+#, fuzzy
+#~ msgid "Permit windows to shrink during maximumize"
+#~ msgstr "Pencereyi büyütülemez yap"
+
+#, fuzzy
+#~ msgid "Shrink the window horizontally."
+#~ msgstr "Pencereleri Yatay Olarak Döşe"
+
+#, fuzzy
+#~ msgid "Shrink the window leftwards."
+#~ msgstr "En büyük pencere boyutu"
+
+#, fuzzy
+#~ msgid "Shrink the window rightwards."
+#~ msgstr "En büyük pencere boyutu"
+
+#, fuzzy
+#~ msgid "Shrink the window upwards."
+#~ msgstr "Filtrelenmiş pencereler"
+
+#, fuzzy
+#~ msgid "Shrink the window vertically."
+#~ msgstr "Pencereleri Dikey Olarak Döşe"
+
+#~ msgid "Motion Blur Strength"
+#~ msgstr "Hareketli Bulanıklaştırma Direnci"
+
+#~ msgid "Motion Blur mode"
+#~ msgstr "Hareketli Blanıklaştırma kipi"
+
+#~ msgid "Motion Blur render mode."
+#~ msgstr "Hareketli bulnıklaştırma kipi."
+
+#~ msgid "Motion Blur strength."
+#~ msgstr "Hareketli bulnıklaştırma direnci."
+
+#~ msgid "Motion blur"
+#~ msgstr "Hareketli bulanıklaştırma"
+
+#~ msgid "Motion blur effect"
+#~ msgstr "Hareketli bulanıklaştırma efekti"
+
+# FIXME -- Unsure about this translation
+#~ msgid "Texture Copy"
+#~ msgstr "Doku Kopyalama"
+
+#~ msgid "Visibility/Performance"
+#~ msgstr "Görünebilirlik / Performans"
+
+#, fuzzy
+#~ msgid "Action"
+#~ msgstr "Canlandırma"
+
+#, fuzzy
+#~ msgid "Gesture"
+#~ msgstr "Dokular"
+
+#, fuzzy
+#~ msgid "Gestures"
+#~ msgstr "Dokular"
+
+#, fuzzy
+#~ msgid "Plugin"
+#~ msgstr "Sergi Eklentisi"
+
+#~ msgid "Neg Windows"
+#~ msgstr "Pencereleri Negatifleştir"
+
+#~ msgid "Toggle Screen Negative"
+#~ msgstr "Ekran Negatifleştirmesini Aç / Kapat"
+
+#~ msgid "Toggle Window Negative"
+#~ msgstr "Pencere Negatifleştirmesini Aç / Kapat"
+
+#~ msgid "Toggle active window negative"
+#~ msgstr "Etkin pencerenin negatifleştirmesini Aç / Kapat"
+
+#~ msgid "Toggle screen negative"
+#~ msgstr "Ekran negatifleştirmesini Aç / Kapat"
+
+#~ msgid "Used to set a window or screen negative"
+#~ msgstr "Bir pencere ya da ekranı negatifleştirmek için kullanılır"
+
+#, fuzzy
+#~ msgid "Fatal"
+#~ msgstr "Metal"
+
+#, fuzzy
+#~ msgid "Hide Timeout"
+#~ msgstr "Belirme Süresi"
+
+# FIXME: Herein und Heraus sind noch nicht optimal
+#, fuzzy
+#~ msgid "Info"
+#~ msgstr "İç"
+
+#~ msgid "Active Opacity"
+#~ msgstr "Etkin Matlık"
+
+#~ msgid "Delay until Opacification"
+#~ msgstr "Matlaştırma Gecikmesi"
+
+# FIXME -- Maybe we can find a better name for the plugin
+#~ msgid "Opacify"
+#~ msgstr "Matlaştır"
+
+#~ msgid "Opacity Levels"
+#~ msgstr "Matlaştırma Basamakları"
+
+#~ msgid "Passive Opacity"
+#~ msgstr "Pasif Matlık"
+
+# FIXME
+#~ msgid "Toggle Opacify"
+#~ msgstr "Matlaştırmayı Aç / Kapat"
+
+#~ msgid "Toggle Opacify on by default"
+#~ msgstr "Öntanımlı olarak Matlaştırmayı Aç"
+
+#~ msgid "Windows that should be opacified."
+#~ msgstr "Matlaştırılması gereken pencereler."
+
+#, fuzzy
+#~ msgid "Move window to the next output device"
+#~ msgstr "Pencereyi üst kenara taşı"
+
+#, fuzzy
+#~ msgid "Put To Next Output"
+#~ msgstr "Yukarı Sola Yerleştir"
+
+#~ msgid "Draw Reflection for decorations."
+#~ msgstr "Dekorasyonlar için yansımaları oluştur."
+
+#~ msgid "Draw Reflection for windows."
+#~ msgstr "Pencereler için yansımaları oluştur."
+
+#~ msgid "Draws reflections"
+#~ msgstr "Yansımaları oluştur"
+
+#~ msgid "Moving reflection"
+#~ msgstr "Taşıma yansıması"
+
+#~ msgid "Reflection Image"
+#~ msgstr "Yansıma Resmi"
+
+#~ msgid "Reflection Image file"
+#~ msgstr "Yansıma resmi dosyası"
+
+#~ msgid "Reflection Window Match"
+#~ msgstr "Yansıma Pencere Eşlemesi"
+
+#~ msgid "Reflection for Decorations"
+#~ msgstr "Dekorasyonlar için Yansıma"
+
+#~ msgid "Reflection for Windows"
+#~ msgstr "Pencereleri için Yansıma"
+
+#~ msgid "Gradient Color 1"
+#~ msgstr "Karışım Rengi 1"
+
+#~ msgid "Gradient Color 2"
+#~ msgstr "Karışım Rengi 2"
+
+#~ msgid "Gradient Color 3"
+#~ msgstr "Karışım Rengi 3"
+
+#~ msgid "Resize Info"
+#~ msgstr "Yeniden Boyutlandırma Bilgileri"
+
+#~ msgid "Text color."
+#~ msgstr "Metin rengi."
+
+#~ msgid "Above ring"
+#~ msgstr "Çemberin üzerinde"
+
+#~ msgid "Below ring"
+#~ msgstr "Çemberin altında"
+
+#~ msgid "Big"
+#~ msgstr "Büyük"
+
+#~ msgid "Emblem"
+#~ msgstr "Simge"
+
+#~ msgid "Overlay Icon"
+#~ msgstr "Üst Simge"
+
+#~ msgid "Ring Height"
+#~ msgstr "Çember Yüksekliği"
+
+#~ msgid "Ring Switcher"
+#~ msgstr "Çember Seçici"
+
+#~ msgid "Ring Width"
+#~ msgstr "Çember Genişliği"
+
+#~ msgid "Ring appearance"
+#~ msgstr "Çember görünümü"
+
+#~ msgid "Ring height (in percent of the screen height)"
+#~ msgstr "Çember yüksekliği (ekran yüksekliğinin yüzdesi olarak)"
+
+#~ msgid "Ring width (in percent of the screen width)"
+#~ msgstr "Çember genişliği (ekran genişliğinin yüzdesi olarak)"
+
+#~ msgid "Thumbnail Height"
+#~ msgstr "Küçük Pencere Yüksekliği"
+
+#~ msgid "Thumbnail Width"
+#~ msgstr "Küçük Pencere Genişliği"
+
+#, fuzzy
+#~ msgid "Close window while in scale mode"
+#~ msgstr "Küp döndürülürken pencereleri yükseltir"
+
+#, fuzzy
+#~ msgid "Highlighted window only"
+#~ msgstr "Pencereyi belirli bir konuma taşı x, y"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Organic - EXPERIMENTAL"
+#~ msgstr "Organik - DENEYSEL"
+
+#, fuzzy
+#~ msgid "Pull Window"
+#~ msgstr "Pencereyi yerleştir"
+
+#, fuzzy
+#~ msgid "Pull window to current viewport while in scale mode"
+#~ msgstr "Pencereyi üst masaüstüne taşı"
+
+#~ msgid "Title Border Size"
+#~ msgstr "Başlık kenarlık Boyutu"
+
+#~ msgid "Window Highlight"
+#~ msgstr "Pencere Vurgulaması"
+
+#~ msgid "Window Layout Mode"
+#~ msgstr "Pencere Yerleşim Kipi"
+
+#, fuzzy
+#~ msgid "Window Pull"
+#~ msgstr "Pencere Kuralları"
+
+#~ msgid "Window Title"
+#~ msgstr "Pencere Başlığı"
+
+#, fuzzy
+#~ msgid "Window Title Display"
+#~ msgstr "Pencere Başlığı"
+
+#, fuzzy
+#~ msgid "Zoom Window"
+#~ msgstr "3B Pencereler"
+
+#~ msgid "Show Filter Text"
+#~ msgstr "Filtre Metnini Göster"
+
+#~ msgid "Show filter text."
+#~ msgstr "Filtre metnini göster."
+
+#, fuzzy
+#~ msgid "Windows to ignore"
+#~ msgstr "Pencere başlığı"
+
+#, fuzzy
+#~ msgid "Animation duration"
+#~ msgstr "Canlandırma Süresi"
+
+#, fuzzy
+#~ msgid "Duration of the animation in milliseconds."
+#~ msgstr "Açma efekti için milisaniye olarak canlandırma süresi."
+
+#, fuzzy
+#~ msgid "Make the window bigger"
+#~ msgstr "En büyük pencere boyutu"
+
+#, fuzzy
+#~ msgid "Make the window smaller"
+#~ msgstr "En büyük pencere boyutu"
+
+#, fuzzy
+#~ msgid "Reset the window to original size"
+#~ msgstr "Pencereyi yeniden boyutlandırılamaz olarak ayarla"
+
+#, fuzzy
+#~ msgid "Shelf"
+#~ msgstr "Shift"
+
+#~ msgid "Cover"
+#~ msgstr "Kapak"
+
+#~ msgid "Disabled"
+#~ msgstr "Pasif"
+
+#~ msgid "Fade in/out speed"
+#~ msgstr "Solgunlaştırma/Belirginleştirme hızı"
+
+#~ msgid "Fade speed"
+#~ msgstr "Solgunlaştırma hızı"
+
+#~ msgid "Flip"
+#~ msgstr "Çevir"
+
+#~ msgid "Flip angle"
+#~ msgstr "Çevirme açısı"
+
+#~ msgid "Initiate (All Workspaces)"
+#~ msgstr "Başlat (Tüm Çalışma Alanları)"
+
+#~ msgid "Initiate switcher."
+#~ msgstr "Değiştiriciyi başlat."
+
+#~ msgid "Mouse speed"
+#~ msgstr "Fare hızı"
+
+#~ msgid "One big switcher"
+#~ msgstr "Bir büyük değiştirici"
+
+#~ msgid "Shift Switcher"
+#~ msgstr "Shift Değiştirici"
+
+#~ msgid "Shift Switcher Plugin"
+#~ msgstr "Shift Değiştirici Eklentisi"
+
+#~ msgid "Shift Windows"
+#~ msgstr "Pencereleri Değiştir"
+
+#~ msgid "Shift animation speed"
+#~ msgstr "Shift Canlandırma hızı"
+
+#~ msgid "Shift speed"
+#~ msgstr "Değiştirme hızı"
+
+#~ msgid "Shift timestep"
+#~ msgstr "Shift zaman aralığı"
+
+#~ msgid "Switcher mode"
+#~ msgstr "Değiştirici kipi"
+
+#~ msgid "Terminate"
+#~ msgstr "Sonlandır"
+
+#~ msgid "Terminate switcher."
+#~ msgstr "Değiştiriciyi sonlandır."
+
+#~ msgid "Windows that should be shown in the shift switcher"
+#~ msgstr "Shift değiştiricide gösterilmesi gereken pencereler"
+
+#~ msgid "Access your desktop easily"
+#~ msgstr "Masaüstünüze kolayca ulaşın"
+
+#~ msgid "Direction of window movement"
+#~ msgstr "Pencere taşıma yönü"
+
+#~ msgid "Left/Right"
+#~ msgstr "Sol/Sağ"
+
+#~ msgid "Show desktop"
+#~ msgstr "Masaüstünü göster"
+
+#~ msgid "To Corners"
+#~ msgstr "Köşelere"
+
+#~ msgid "Up/Down"
+#~ msgstr "Yukarı/Aşağı"
+
+#~ msgid "Window Opacity"
+#~ msgstr "Pencere Matlığı"
+
+#~ msgid "Window Part Size"
+#~ msgstr "Pencere Bölümü Boyutu"
+
+#~ msgid "Window movement speed"
+#~ msgstr "Pencere taşıma hızı"
+
+#~ msgid "Window movement timestep"
+#~ msgstr "Pencere taşıma zaman aralığı"
+
+#, fuzzy
+#~ msgid "Number of particle emiters."
+#~ msgstr "Parçacık sayısı"
+
+#, fuzzy
+#~ msgid "Number of particles."
+#~ msgstr "Parçacık sayısı"
+
+#, fuzzy
+#~ msgid "Particle Life"
+#~ msgstr "Ateş Parçacığı Ömrü"
+
+#, fuzzy
+#~ msgid "Particle Slowdown"
+#~ msgstr "Alev Parçacığı Yavaşlaması"
+
+#, fuzzy
+#~ msgid "Particle life."
+#~ msgstr "Ateş parçacığı ömrü."
+
+#, fuzzy
+#~ msgid "Particle slowdown."
+#~ msgstr "Alev parçacığı yavaşlaması."
+
+#, fuzzy
+#~ msgid "Randomly Colored Particles"
+#~ msgstr "Rastgele Renklendirilmiş Alev"
+
+#, fuzzy
+#~ msgid "Ring radius"
+#~ msgstr "Çember Pencereleri"
+
+#, fuzzy
+#~ msgid "Rotation speed."
+#~ msgstr "Canlandırma hızı"
+
+#, fuzzy
+#~ msgid "Show mouse"
+#~ msgstr "Gecikmeyi Göster"
+
+#, fuzzy
+#~ msgid "Intensity."
+#~ msgstr "Yoğunluk"
+
+#~ msgid "Edges"
+#~ msgstr "Gölgeler"
+
+#~ msgid "Window edges"
+#~ msgstr "Pencere kenarları"
+
+#~ msgid "A simple splash plugin"
+#~ msgstr "Basit bir açılış resmi eklentisi"
+
+#~ msgid "Background File"
+#~ msgstr "Arkaplan Dosyası"
+
+#~ msgid "Background brightness."
+#~ msgstr "Arkaplan parlaklığı."
+
+#~ msgid "Background image File."
+#~ msgstr "Arkaplan resim dosyası."
+
+#~ msgid "Background saturation."
+#~ msgstr "Arkaplan doygunluğu."
+
+#~ msgid "Display In/Out Time."
+#~ msgstr "İç/Dış Zamanını Göster."
+
+#~ msgid "Images"
+#~ msgstr "Resimler"
+
+#~ msgid "Initiate Splash"
+#~ msgstr "Açılış Resmini Başlat"
+
+#~ msgid "Logo File"
+#~ msgstr "Logo Dosyası"
+
+#~ msgid "Logo image File."
+#~ msgstr "Logo resim dosyası."
+
+#~ msgid "Show on first start"
+#~ msgstr "İlk başlangıçta göster"
+
+#~ msgid "Show splash on first start."
+#~ msgstr "Açılış resmini ilk başlatmada göster."
+
+#~ msgid "Splash"
+#~ msgstr "Açılış Resmi"
+
+#~ msgid "Start Splash."
+#~ msgstr "Açılış Resmini Başlat."
+
+#~ msgid "Render text to texture"
+#~ msgstr "Metni doku haline getir"
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Enable Titles"
+#~ msgstr "Başlıkları Etkinleştir"
+
+#~ msgid "Paint Thumbnails Always on Top."
+#~ msgstr "Önizlemeleri Her Zaman En Üstte Göster."
+
+#~ msgid "Set it if the Taskbar shows only Windows of Current Viewport."
+#~ msgstr ""
+#~ "Görev Çubuğu Sadece Geçerli Masaüstüne ait Pencereleri gösteriyorsa seçin."
+
+#~ msgid "Should be the window title Bold."
+#~ msgstr "Pencere başlığı kalın olmalıdır."
+
+#~ msgid "Show Window Title in Thumbnail."
+#~ msgstr "Önzilemelerde Pencere Başlığını Göster."
+
+#~ msgid "Size of Thumbnail Border."
+#~ msgstr "Önizleme Kenarlık Boyutu."
+
+#~ msgid "Taskbar"
+#~ msgstr "Görev Çubuğu"
+
+#~ msgid "Taskbar Shows Only Windows of Current Viewport"
+#~ msgstr "Görev Çubuğu Sadece Geçerli Masaüstüne ait Pencereleri Gösterir"
+
+#~ msgid "Thumbnail Background and Border Glow Color."
+#~ msgstr "Önizleme Arkaplanı ve Kernarlığı için Parlama Rengi."
+
+#~ msgid "Thumbnail Border Glow Color"
+#~ msgstr "Önizleme Kernarlığı Parlama Rengi"
+
+#~ msgid "Thumbnail Border Size"
+#~ msgstr "Önizleme Kenarlık Boyutu"
+
+#~ msgid "Thumbnail Window Size"
+#~ msgstr "Önizleme Pencere Boyutu"
+
+#~ msgid "Thumbnail window size."
+#~ msgstr "Önizleme pencere boyutu."
+
+#~ msgid "Thumbnails Always on Top"
+#~ msgstr "Önizlemeler Her Zaman Üstte"
+
+#~ msgid "Time (in ms) before Thumbnail is shown."
+#~ msgstr "Önizlemeler gösterilmeden önce geçmesi gereken süre (ms olarak)"
+
+#~ msgid "Window Previews"
+#~ msgstr "Pencere Önizlemeleri"
+
+#~ msgid "Window thumbnails at the taskbar"
+#~ msgstr "Görev çubuğunda pencere önizlemeleri"
+
+#~ msgid "Window title"
+#~ msgstr "Pencere başlığı"
+
+#~ msgid "Window title Font Color."
+#~ msgstr "Pencere başlığı Yazıtipi Rengi."
+
+#~ msgid "Window title Font Size."
+#~ msgstr "Pencere başlığı YazıTipi Boyutu."
+
+#~ msgid "Trailfocus"
+#~ msgstr "Odaklama İzleyicisi"
+
+#~ msgid "Window to Start Fading"
+#~ msgstr "Soldurmaya Başlatılacak Pencere"
+
+#~ msgid "Action name for initiate"
+#~ msgstr "Başlatılacak eylemin adı"
+
+#~ msgid "Go to specific viewport"
+#~ msgstr "Belirli bir masaüstüne git"
+
+#~ msgid "Initiate plugin action"
+#~ msgstr "Eklenti eylemini başlat"
+
+#~ msgid "Move Next"
+#~ msgstr "Sonrakine Taşı"
+
+#~ msgid "Move Prev"
+#~ msgstr "Öncekine Taşı"
+
+#~ msgid "Move Up"
+#~ msgstr "Yukarı taşı"
+
+#~ msgid "Move down"
+#~ msgstr "aşağı taşı"
+
+#~ msgid "Move to the left"
+#~ msgstr "Sola taşı"
+
+#~ msgid "Move to the next viewport"
+#~ msgstr "Sonraki masaüstüne taşı"
+
+#~ msgid "Move to the previous viewport"
+#~ msgstr "Önceki masaüstüne taşı"
+
+#~ msgid "Move to the right"
+#~ msgstr "Sağa taşı"
+
+#~ msgid "Move up"
+#~ msgstr "Yukarı taşı"
+
+#~ msgid "Number-Based Viewport Switching"
+#~ msgstr "Numaraya Göre Masaüstü Değiştirme"
+
+#~ msgid "Plugin for initiate action"
+#~ msgstr "Eylemi başlatmak için gereken eklenti"
+
+#~ msgid "Switch to Viewport 1"
+#~ msgstr "1. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 10"
+#~ msgstr "10. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 11"
+#~ msgstr "11. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 12"
+#~ msgstr "12. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 2"
+#~ msgstr "2. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 3"
+#~ msgstr "3. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 4"
+#~ msgstr "4. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 5"
+#~ msgstr "5. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 6"
+#~ msgstr "6. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 7"
+#~ msgstr "7. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 8"
+#~ msgstr "8. Masaüstüne Geç"
+
+#~ msgid "Switch to Viewport 9"
+#~ msgstr "9. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 1"
+#~ msgstr "1. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 10"
+#~ msgstr "10. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 11"
+#~ msgstr "11. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 12"
+#~ msgstr "12. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 2"
+#~ msgstr "2. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 3"
+#~ msgstr "3. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 4"
+#~ msgstr "4. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 5"
+#~ msgstr "5. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 6"
+#~ msgstr "6. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 7"
+#~ msgstr "7. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 8"
+#~ msgstr "8. Masaüstüne Geç"
+
+#~ msgid "Switch to viewport 9"
+#~ msgstr "9. Masaüstüne Geç"
+
+#~ msgid "Viewport Switcher"
+#~ msgstr "Masaüstü Değiştirici"
+
+#~ msgid "Arrow Colors"
+#~ msgstr "Ok Renkleri"
+
+#~ msgid "Background Gradient"
+#~ msgstr "Masaüstü Karışımı"
+
+#~ msgid "Base Color"
+#~ msgstr "Zemin Rengi"
+
+#~ msgid "Desktop Wall"
+#~ msgstr "Masaüstü Duvarı"
+
+#~ msgid "Desktop Wall Plugin"
+#~ msgstr "Masaüstü Duvarı Eklentisi"
+
+#~ msgid "Flip Down"
+#~ msgstr "Aşağı Çevir"
+
+#~ msgid "Flip Left"
+#~ msgstr "Sola Çevir"
+
+#~ msgid "Flip Right"
+#~ msgstr "Sağa Çevir"
+
+#~ msgid "Flip Up"
+#~ msgstr "Yukarı Çevir"
+
+#~ msgid "Flip down"
+#~ msgstr "Aşağı çevir"
+
+#~ msgid "Flip left"
+#~ msgstr "Sola çevir"
+
+#~ msgid "Flip right"
+#~ msgstr "Sağa çevir"
+
+#~ msgid "Flip up"
+#~ msgstr "Yukarı çevir"
+
+#, fuzzy
+#~ msgid "Non Sliding Windows"
+#~ msgstr "Çember Pencereleri"
+
+#~ msgid "Outline Color"
+#~ msgstr "Dış Kenarlık Rengi"
+
+#~ msgid "Shadow Color"
+#~ msgstr "Gölge Rengi"
+
+#~ msgid "Viewport Switch Preview"
+#~ msgstr "Masaüstü Seçimi Önizlemesi"
+
+#~ msgid "Viewport Switching"
+#~ msgstr "Masaüstü Seçimi"
+
+#, fuzzy
+#~ msgid "Background fill type."
+#~ msgstr "Arkaplan Dosyası"
+
+#~ msgid "Backgrounds"
+#~ msgstr "Arkaplanlar"
+
+#, fuzzy
+#~ msgid "Color 2"
+#~ msgstr "Renkler"
+
+#~ msgid "Draw the desktop wallpaper"
+#~ msgstr "Arkaplan duvar kağıdını oluştur"
+
+#, fuzzy
+#~ msgid "Fill or first gradient color."
+#~ msgstr "Ateş rengi."
+
+#, fuzzy
+#~ msgid "Image"
+#~ msgstr "Resimler"
+
+#, fuzzy
+#~ msgid "Image file."
+#~ msgstr "Tavan resim dosyaları"
+
+#, fuzzy
+#~ msgid "Image position."
+#~ msgstr "X-Konumu"
+
+#, fuzzy
+#~ msgid "Second gradient color."
+#~ msgstr "Karışım Rengi 1"
+
+#, fuzzy
+#~ msgid "Tiled"
+#~ msgstr "Döşe"
+
+#~ msgid "Wallpaper"
+#~ msgstr "Duvar Kağıdı"
+
+#, fuzzy
+#~ msgid "Background Brightness"
+#~ msgstr "Arkaplan parlaklığı"
+
+#, fuzzy
+#~ msgid "Background Saturation"
+#~ msgstr "Arkaplan doygunluğu."
+
+#, fuzzy
+#~ msgid "Background in Widget Mode"
+#~ msgstr "Arkaplan resim dosyası."
+
+#, fuzzy
+#~ msgid "Show or hide widget windows"
+#~ msgstr "Küçültülmüş pencereleri göster"
+
+#, fuzzy
+#~ msgid "Toggle Widget Display"
+#~ msgstr "Pencere Negatifleştirmesini Aç / Kapat"
+
+#, fuzzy
+#~ msgid "Widget Windows"
+#~ msgstr "Çember Pencereleri"
+
+#, fuzzy
+#~ msgid "Windows that always should be treated as widgets"
+#~ msgstr "Öntanımlı olarak yeniden boyutlandırılması gereken pencereler"
+
+#~ msgid "Above others windows"
+#~ msgstr "Diğer pencerelerin üstünde"
+
+# FIXME - pager = ?
+#~ msgid "Don't show application in pager"
+#~ msgstr "Uygulamayı sayfalayıcıda gösterme"
+
+#~ msgid "Don't show application in taskbar"
+#~ msgstr "Uygulamayı görev çubuğunda gösterme"
+
+#~ msgid "Fixed Size Windows"
+#~ msgstr "Sabit Boyutlu Pencereler"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Tam Ekran"
+
+#~ msgid "Fullscreen windows"
+#~ msgstr "Tam ekran pencereler"
+
+#~ msgid "Height values"
+#~ msgstr "Yükseklik değerleri"
+
+#, fuzzy
+#~ msgid "Maximized windows"
+#~ msgstr "Büyütülemez pencereler"
+
+#~ msgid "No ARGB visuals"
+#~ msgstr "ARGB visuals Kullanma"
+
+#~ msgid "No focus"
+#~ msgstr "Odaklama yok"
+
+#~ msgid "Non maximizable windows"
+#~ msgstr "Büyütülemez pencereler"
+
+#~ msgid "Non minimizable windows"
+#~ msgstr "Küçültülemez pencereler"
+
+#~ msgid "Non movable windows"
+#~ msgstr "Taşınamaz pencereler"
+
+#~ msgid "Non resizable windows"
+#~ msgstr "Yeniden boyutlandırılamaz pencereler"
+
+#~ msgid "Set window as non closable"
+#~ msgstr "Pencereyi kapatılamaz yap"
+
+#~ msgid "Set window as non maximizable"
+#~ msgstr "Pencereyi büyütülemez yap"
+
+#~ msgid "Set window as non minimizable"
+#~ msgstr "Pencereyi küçültülemez yap"
+
+#~ msgid "Set window as non resizable"
+#~ msgstr "Pencereyi yeniden boyutlandırılamaz olarak ayarla"
+
+#~ msgid "Set windows rules"
+#~ msgstr "Pencere kurallarını ayarla"
+
+#~ msgid "Sized Windows"
+#~ msgstr "Boyutlandırılmış Pencereler"
+
+#~ msgid "Skip pager"
+#~ msgstr "Sayfalayıcıyı atla"
+
+#~ msgid "Skip taskbar"
+#~ msgstr "Görev çubuğunu atla"
+
+# FIXME
+#~ msgid "Sticky"
+#~ msgstr "Yapışkan"
+
+#~ msgid "Width values"
+#~ msgstr "Genişlik değerleri"
+
+#~ msgid "Window Rules"
+#~ msgstr "Pencere Kuralları"
+
+#~ msgid "Windows that should be resized by default"
+#~ msgstr "Öntanımlı olarak yeniden boyutlandırılması gereken pencereler"
+
+#~ msgid "Windows that should be treated as not supporting transparency"
+#~ msgstr "Saydam sayılmayan pencereler"
+
+#~ msgid "Windows will not have focus"
+#~ msgstr "Pencere odaklaması olmayacak"
+
+#~ msgid "AIGLX Fragment Parameter Fix"
+#~ msgstr "AIGLX Parça Parametresi Çözümü"
+
+#~ msgid "Firefox Menu Fix"
+#~ msgstr "Firefox Menü Hatasının Çözümü"
+
+#~ msgid "Fix broken glProgramEnvParameter4f implementation."
+#~ msgstr "Bozuk glProgramEnvParameter4f uygulamalarını onar."
+
+#~ msgid "Fix window type of Firefox and Thunderbird menus."
+#~ msgstr "Firefox ve Thunderbird menü pencerelerini onar."
+
+#~ msgid "Fix window type of OpenOffice.org menus."
+#~ msgstr "OpenOffice.org menü pencerelerini onar."
+
+#~ msgid "Fix window type of notification daemon windows."
+#~ msgstr "Bilgilendirme pencerelerini onar."
+
+#~ msgid "Fix window type of various Java windows."
+#~ msgstr "Çeşitli Java pencerelerini onar"
+
+#~ msgid "Fix window type of various Qt windows."
+#~ msgstr "Çeşitli Qt pencerelerini onar."
+
+#~ msgid "Java Window Fix"
+#~ msgstr "Java Pencere Hatasının Çözümü"
+
+#~ msgid "Legacy Fullscreen Support"
+#~ msgstr "Kalıt Tam Ekran Desteği"
+
+#~ msgid "Make \"on all desktops\" windows \"sticky\""
+#~ msgstr "\"Tüm masaüstlerindeki\" pencereleri \"yapışkan\" yap"
+
+#~ msgid ""
+#~ "Make \"on all desktops\" windows sticky. Sticky windows are visible on "
+#~ "all viewports."
+#~ msgstr ""
+#~ "\"Tüm masaüstlerindeki\" pencereleri yapışkan yap. Yapışkan pencereler "
+#~ "tüm masaüstlerinde görünebilirdir."
+
+#~ msgid "Make Wine and legacy applications fullscreen properly."
+#~ msgstr ""
+#~ "Wine ve önceden açık olan uygulamaların pencerelerini düzgünce tam ekran "
+#~ "yap."
+
+#~ msgid "Marco-like workarounds."
+#~ msgstr "Marco ile ilgili hızlı çözümler."
+
+#~ msgid "Notification Daemon Fix"
+#~ msgstr "Uyarıcı Servisi Hatasının Çözümü"
+
+#~ msgid "OpenOffice.org Menu Fix"
+#~ msgstr "OpenOffice Menü Hatasının Çözümü"
+
+#~ msgid "Qt Window Fix"
+#~ msgstr "Qt Pencere Hatasının Çözümü"
+
+# FIXME
+#~ msgid "Window stickyness"
+#~ msgstr "Pencere Yapışkanlığı"
+
+#~ msgid "Windows on all desktops that should be made sticky"
+#~ msgstr "Tüm masaüstlerindeki pencereler yapışkan olmalı"
+
+#~ msgid "Workarounds"
+#~ msgstr "Hızlı Çözümler"
+
+#, fuzzy
+#~ msgid "Cube Caps"
+#~ msgstr "Küp Kapakları"
+
+#, fuzzy
+#~ msgid "Compiz cube reflection"
+#~ msgstr "Küp Yansıması"
+
+#~ msgid "Scheme Interpreter"
+#~ msgstr "Şema Yorumlayıcı"
+
+#, fuzzy
+#~ msgid "Directory"
+#~ msgstr "Çökme Dökümü Dizini"
+
+#, fuzzy
+#~ msgid "ScreenCast plugin"
+#~ msgstr "Ekran Çıktısı"
+
+# FIXME -- We need a better translation for 'Boxing'
+#, fuzzy
+#~ msgid "ScreenCasting"
+#~ msgstr "Ekran Kutulaması"
+
+#~ msgid "Dolphin size"
+#~ msgstr "Yunus boyutu"
+
+#~ msgid "Dolphin size."
+#~ msgstr "Yunus boyutu."
+
+# FIXME -- we need a better word for 'glow'
+#, fuzzy
+#~ msgid "Enable colors"
+#~ msgstr "Parlamayı Etkinleştir"
+
+#~ msgid "Fish size"
+#~ msgstr "Balık boyutu"
+
+#~ msgid "Shark size"
+#~ msgstr "Köpekbalığı boyutu"
+
+#, fuzzy
+#~ msgid "Whale size."
+#~ msgstr "Ateş parçacığı boyutu."
+
+#~ msgid "Hide Utility Windows From Taskbar"
+#~ msgstr "Araç Pencerelerini Görev Çubuğundan Gizle"
+
+#~ msgid "Fire"
+#~ msgstr "Ateş"
+
+#, fuzzy
+#~ msgid "Brightness Decrease"
+#~ msgstr "Parlaklık"
+
+#, fuzzy
+#~ msgid "Brightness Increase"
+#~ msgstr "Parlaklık"
+
+#, fuzzy
+#~ msgid "Brightness Step"
+#~ msgstr "Parlaklık"
+
+#, fuzzy
+#~ msgid "Brightness and Saturation"
+#~ msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+#, fuzzy
+#~ msgid "Brightness settings"
+#~ msgstr "Parlaklık"
+
+#, fuzzy
+#~ msgid "Brightness values for windows"
+#~ msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+#, fuzzy
+#~ msgid "Brightness window values"
+#~ msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+#, fuzzy
+#~ msgid "Brightness windows"
+#~ msgstr "Soldurulmuş pencerelerin parlaklığı"
+
+#, fuzzy
+#~ msgid "Saturation Decrease"
+#~ msgstr "Doygunluk"
+
+#, fuzzy
+#~ msgid "Saturation Increase"
+#~ msgstr "Doygunluk"
+
+#, fuzzy
+#~ msgid "Saturation settings"
+#~ msgstr "Doygunluk"
+
+#, fuzzy
+#~ msgid "Saturation values for windows"
+#~ msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+#, fuzzy
+#~ msgid "Saturation window values"
+#~ msgstr "Soldurulmuş pencerelerin doygunluğu"
+
+#, fuzzy
+#~ msgid "Window specific"
+#~ msgstr "Pencere Matlığı"
+
+#, fuzzy
+#~ msgid "Windows that should have a different brightness by default"
+#~ msgstr "Öntanımlı olarak yeniden boyutlandırılması gereken pencereler"
+
+#, fuzzy
+#~ msgid "Windows that should have a different saturation by default"
+#~ msgstr "Öntanımlı olarak yeniden boyutlandırılması gereken pencereler"
+
+#~ msgid "Animation Speed"
+#~ msgstr "Canlandırma Hızı"
+
+#~ msgid "Tilt view"
+#~ msgstr "Yatık görünüm"
+
+#~ msgid "Move window to x, y"
+#~ msgstr "Pencereyi belirli bir konuma taşı x, y"
+
+#~ msgid "Put Exact"
+#~ msgstr "Belirli Bir Yere Yerleştir"
+
+#~ msgid "Misc. options"
+#~ msgstr "Diğer seçenekler"
+
+#~ msgid "Tile or Stretch"
+#~ msgstr "Döşe ya da Uzat"
