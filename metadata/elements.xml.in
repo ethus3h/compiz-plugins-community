@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="elements" useBcop="true">
+		<_short>Elements</_short>
+		<_long>Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package</_long>
+		<category>Extras</category>		
+		<deps>
+			<relation type="after">
+				<plugin>png</plugin>
+				<plugin>svg</plugin>
+				<plugin>jpeg</plugin>
+			</relation>
+		</deps>
+		<display>
+			<group>
+				<_short>General</_short>
+
+				<option name="global_speed" type="float">
+					<_short>Global Speed</_short>
+					<_long>Elements speed will be multiplied by this value</_long>
+					<default>1.0</default>
+					<min>0.0</min>
+					<max>5.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="screen_depth" type="int">
+					<_short>Screen Depth</_short>
+					<_long>How deep into the screen snowflakes can be drawn before being removed</_long>
+					<default>1000</default>
+					<min>0</min>
+					<max>2000</max>
+				</option>
+				<option name="apply_transform" type="bool">
+					<_short>Apply Screen Transform</_short>
+					<_long>Moves particles with screen transforms when over_windows is enabled</_long>
+					<default>true</default>
+				</option>
+				<option name="over_windows" type="bool">
+					<_short>Draw Over Windows</_short>
+					<_long>Elements drawn above windows</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle" type="bool">
+					<_short>Toggle Elements with Keys:</_short>
+					<_long>If enabled, Elements will toggle with keys. Otherwise, it will toggle by checkboxes.</_long>
+					<default>true</default>
+				</option>
+			</group>
+				
+			<group>
+				<_short>Snow</_short>
+				<option name="num_snowflakes" type="int">
+					<_short>Number Of Snowflakes</_short>
+					<_long>Number of snowflakes</_long>
+					<default>5000</default>
+					<min>0</min>
+					<max>10000</max>
+				</option>
+				<option name="snow_size" type="float">
+					<_short>Size Of Snowflakes</_short>
+					<_long>Size of snowflakes</_long>
+					<default>10.0</default>
+					<min>0.0</min>
+					<max>50.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="snow_speed" type="int">
+					<_short>Snow Speed</_short>
+					<_long>Speed of falling snow</_long>
+					<default>25</default>
+					<min>0</min>
+					<max>100</max>
+				</option>
+				<option name="snow_sway" type="int">
+					<_short>Snow sway</_short>
+					<_long>Side-to-side movement of Snow. Snow now uses the old Autumn movement engine.</_long>
+					<default>3</default>
+					<min>0</min>
+					<max>10</max>
+				</option>
+				<option name="snow_rotate" type="bool">
+					<_short>Rotate Snowflakes</_short>
+					<_long>Rotate Snowflakes</_long>
+					<default>true</default>
+				</option>
+				<option name="toggle_snow_check" type="bool">
+					<_short>Toggle snow</_short>
+					<_long>Toggle Snow. Only works if Toggle Elements with Keys is disabled.</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle_snow_key" type="key">
+					<_short>Toggle Snow</_short>
+					<_long>Toggle Snow Only works if Toggle Elements with Keys is enabled.</_long>
+					<allowed key="true"/>
+					<default>
+						<key>&lt;Super&gt;s</key>
+					</default>
+				</option>
+	
+				<option name="wind_direction" type="int">
+					<_short>Snow Direction</_short>
+					<_long>Select snow flake movement direction</_long>
+					<default>0</default>
+					<min>0</min>
+					<max>3</max>
+					<desc>
+						<value>0</value>
+						<_name>None</_name>
+					</desc>
+					<desc>
+						<value>1</value>
+						<_name>Up</_name>
+					</desc>
+					<desc>
+						<value>2</value>
+						<_name>Left</_name>
+					</desc>
+					<desc>
+						<value>3</value>
+						<_name>Right</_name>
+					</desc>
+				</option>
+				<option name="snow_textures" type="list">
+					<_short>Snow Textures</_short>
+					<_long>Snow textures</_long>
+					<hints>file;image;</hints>
+					<default>
+						<value>elements/snow1.png</value>
+						<value>elements/snow2.png</value>
+					</default>
+					<type>string</type>
+				</option>
+			</group>
+			<group>
+				<_short>Autumn</_short>
+				<option name="num_leaves" type="int">
+					<_short>Number Of leaves</_short>
+					<_long>Number of leaves</_long>
+					<default>150</default>
+					<min>0</min>
+					<max>2000</max>
+				</option>
+				<option name="leaf_size" type="float">
+					<_short>Size Of leaves</_short>
+					<_long>Size of leaves</_long>
+					<default>15.0</default>
+					<min>0.0</min>
+					<max>75.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="autumn_sway" type="float">
+					<_short>Sway Of leaves</_short>
+					<_long>sway of leaves</_long>
+					<default>35.0</default>
+					<min>0.0</min>
+					<max>100.0</max>
+					<precision>1</precision>
+				</option>
+				<option name="autumn_speed" type="int">
+					<_short>Leaf Speed</_short>
+					<_long>Speed of falling leaves</_long>
+					<default>60</default>
+					<min>0</min>
+					<max>100</max>
+				</option>
+				<option name="autumn_rotate" type="bool">
+					<_short>Rotate Leaves</_short>
+					<_long>Rotate Leaves</_long>
+					<default>true</default>
+				</option>
+
+				<option name="toggle_autumn_check" type="bool">
+					<_short>Toggle Autumn</_short>
+					<_long>Toggle Autumn. Only works if Toggle Elements with Keys is disabled.</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle_autumn_key" type="key">
+					<_short>Toggle Autumn</_short>
+					<_long>Toggle Autumn Only works if Toggle Elements with Keys is enabled.</_long>
+					<allowed key="true"/>
+					<default>
+						<key>&lt;Super&gt;a</key>
+					</default>
+				</option>
+
+				<option name="leaf_textures" type="list">
+					<_short>Autumn Textures</_short>
+					<_long>Autumn textures</_long>
+					<hints>file;image;</hints>
+					<type>string</type>
+					<default>
+						<value>elements/autumn1.png</value>
+						<value>elements/autumn2.png</value>
+					</default>
+				</option>
+			</group>
+
+			<group>
+				<_short>Bubbles</_short>
+				<option name="num_bubbles" type="int">
+					<_short>Number Of bubbles</_short>
+					<_long>Number of bubbles</_long>
+					<default>200</default>
+					<min>0</min>
+					<max>1500</max>
+				</option>
+				<option name="bubbles_size" type="float">
+					<_short>Size Of bubbles</_short>
+					<_long>Size of bubbles</_long>
+					<default>20.0</default>
+					<min>0.0</min>
+					<max>75.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="viscosity" type="float">
+					<_short>Viscosity of liquid</_short>
+					<_long>Viscosity of liquid</_long>
+					<default>80.0</default>
+					<min>0.0</min>
+					<max>100.0</max>
+					<precision>1</precision>
+				</option>
+				<option name="bubbles_rotate" type="bool">
+					<_short>Rotate Bubbles</_short>
+					<_long>Rotate Bubbles</_long>
+					<default>false</default>
+				</option>
+
+
+				<option name="toggle_bubbles_check" type="bool">
+					<_short>Toggle Bubbles</_short>
+					<_long>Toggle Bubbles. Only works if Toggle Elements with Keys is disabled.</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle_bubbles_key" type="key">
+					<_short>Toggle Bubbles</_short>
+					<_long>Toggle Bubbles. Only works if Toggle Elements with Keys is enabled.</_long>
+					<allowed key="true"/>
+					<default>
+						<key>&lt;Super&gt;b</key>
+					</default>
+				</option>
+
+				
+				<option name="bubbles_textures" type="list">
+					<_short>Bubble Textures</_short>
+					<_long>Bubble textures</_long>
+					<hints>file;image;</hints>
+					<type>string</type>
+					<default>
+						<value>elements/bubbles1.png</value>
+						<value>elements/bubbles2.png</value>
+					</default>
+				</option>
+			</group>
+
+
+
+			<group>
+				<_short>Fireflies</_short>
+				<option name="num_fireflies" type="int">
+					<_short>Number Of fireflies</_short>
+					<_long>Number of fireflies</_long>
+					<default>50</default>
+					<min>0</min>
+					<max>1500</max>
+				</option>
+				<option name="firefly_size" type="float">
+					<_short>Size Of fireflies</_short>
+					<_long>Size of fireflies</_long>
+					<default>10.0</default>
+					<min>0.0</min>
+					<max>75.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="firefly_speed" type="int">
+					<_short>Firefly Speed</_short>
+					<_long>Speed of firefly lifecycle and movement</_long>
+					<default>25</default>
+					<min>0</min>
+					<max>100</max>
+				</option>
+				<option name="Fireflies_rotate" type="bool">
+					<_short>Rotate Fireflies</_short>
+					<_long>When using "glows", you definitely want this ON</_long>
+					<default>true</default>
+				</option>
+
+
+				<option name="toggle_fireflies_check" type="bool">
+					<_short>Toggle Fireflies</_short>
+					<_long>Toggle Fireflies. Only works if Toggle Elements with Keys is disabled.</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle_fireflies_key" type="key">
+					<_short>Toggle Fireflies</_short>
+					<_long>Toggle Fireflies. Only works if Toggle Elements with Keys is enabled.</_long>
+					<allowed key="true"/>
+					<default>
+						<key>&lt;Super&gt;f</key>
+					</default>
+				</option>
+
+
+				<option name="fireflies_textures" type="list">
+					<_short>Fireflies Textures</_short>
+					<_long>Fireflies textures</_long>
+					<hints>file;image;</hints>
+					<type>string</type>
+					<default>
+						<value>elements/fireflies1.svg</value>
+						<value>elements/fireflies2.svg</value>
+					</default>
+				</option>
+			</group>
+			<group>
+				<_short>Stars</_short>
+				<option name="num_stars" type="int">
+					<_short>Number Of stars</_short>
+					<_long>Number of stars</_long>
+					<default>150</default>
+					<min>0</min>
+					<max>1500</max>
+				</option>
+				<option name="stars_size" type="float">
+					<_short>Size Of stars</_short>
+					<_long>Size of stars</_long>
+					<default>10.0</default>
+					<min>0.0</min>
+					<max>50.0</max>
+					<precision>0.1</precision>
+				</option>
+				<option name="stars_speed" type="int">
+					<_short>Star Speed</_short>
+					<_long>Speed of stars</_long>
+					<default>50</default>
+					<min>0</min>
+					<max>100</max>
+				</option>
+
+
+				<option name="star_offset_x" type="int">
+					<_short>Star X Offset</_short>
+					<_long>The X point on the screen where stars should start</_long>
+					<default>0</default>
+					<min>-1000</min>
+					<max>1000</max>
+				</option>
+				<option name="star_offset_y" type="int">
+					<_short>Star Y Offset</_short>
+					<_long>The Y point on the screen where stars should start</_long>
+					<default>0</default>
+					<min>-1000</min>
+					<max>1000</max>
+				</option>
+				<option name="stars_rotate" type="bool">
+					<_short>Rotate Stars</_short>
+					<_long>Rotate Stars</_long>
+					<default>true</default>
+				</option>
+
+				<option name="toggle_stars_check" type="bool">
+					<_short>Toggle Stars</_short>
+					<_long>Toggle Stars. Only works if Toggle Elements with Keys is disabled.</_long>
+					<default>false</default>
+				</option>
+				<option name="toggle_stars_key" type="key">
+					<_short>Toggle Stars</_short>
+					<_long>Toggle Stars. Only works if Toggle Elements with Keys is enabled.</_long>
+					<allowed key="true"/>
+					<default>
+						<key>&lt;Super&gt;t</key>
+					</default>
+				</option>
+
+
+				<option name="stars_textures" type="list">
+					<_short>Star Textures</_short>
+					<_long>Star textures</_long>
+					<hints>file;image;</hints>
+					<type>string</type>
+					<default>
+						<value>elements/stars1.png</value>
+					</default>
+				</option>
+			</group>
+
+
+	</display>
+	</plugin>
+</compiz>
+

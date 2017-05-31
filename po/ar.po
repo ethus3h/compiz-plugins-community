@@ -1,0 +1,3921 @@
+# Arabic translation for compiz-plugins-experimental
+# Copyright (C) 2007 Banxoo
+# This file is distributed under the same license as the compiz-plugins-experimental package.
+# Banxoo <banxoo+compiz@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz-plugins-experimental\n"
+"Report-Msgid-Bugs-To: https://github.com/compiz-reloaded/compiz-plugins-"
+"experimental/issues\n"
+"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"PO-Revision-Date: 2008-09-29 01:23+0200\n"
+"Last-Translator: maher <s6r@live.com>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Anaglyph"
+msgstr ""
+
+msgid "Anaglyph window and Desktop"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "Start anaglyph window"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Initiate Screen"
+msgstr ""
+
+msgid "Start anaglyph screen"
+msgstr ""
+
+msgid "Initiate Window Button"
+msgstr ""
+
+#, fuzzy
+msgid "Start anaglyph active window"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Initiate Screen Button"
+msgstr ""
+
+#, fuzzy
+msgid "Anaglyph Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "Windows to be anaglyph by default"
+msgstr "النوافذ التي يجب أن يعاد تحجيمها افتراضياً"
+
+msgid "Exclude Windows"
+msgstr ""
+
+msgid "Windows to exclude from anaglyph"
+msgstr ""
+
+msgid "Offset"
+msgstr ""
+
+msgid "offset anaglyph"
+msgstr ""
+
+msgid "Increase Desktop deep"
+msgstr ""
+
+#, fuzzy
+msgid "Desaturate"
+msgstr "قوة الألوان"
+
+msgid "Mipmaps"
+msgstr ""
+
+#, fuzzy
+msgid "Animations Plus"
+msgstr "التحريك"
+
+#, fuzzy
+msgid "More window animations"
+msgstr "فتح التحريك"
+
+msgid "Effect Settings"
+msgstr "خيارات الموْثرة"
+
+msgid "Helix"
+msgstr ""
+
+#, fuzzy
+msgid "Helix Number of Twists"
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Number of twists to do in the animation"
+msgstr "زاوية النافذة عند إنتهاﺀ التحريك"
+
+msgid "Helix Gridsize Y"
+msgstr ""
+
+msgid "Number of blocks in the animation"
+msgstr ""
+
+#, fuzzy
+msgid "Helix Thickness"
+msgstr "السماكة"
+
+#, fuzzy
+msgid "Thickness of blocks in the animation"
+msgstr "سماكة المضلّع المحرّك"
+
+#, fuzzy
+msgid "Spin Direction"
+msgstr "إتجاه الإنحراف"
+
+msgid "Direction the strips spin."
+msgstr ""
+
+msgid "Counter-Clockwise"
+msgstr ""
+
+msgid "Clockwise"
+msgstr ""
+
+msgid "Vertical Helix"
+msgstr ""
+
+msgid ""
+"Whether Helix should rotate with its axis up/down or in/out of the screen"
+msgstr ""
+
+msgid "Blinds"
+msgstr ""
+
+msgid "Blinds Number of Half Twists"
+msgstr ""
+
+#, fuzzy
+msgid "Number of half twists to do in the animation"
+msgstr "زاوية النافذة عند إنتهاﺀ التحريك"
+
+#, fuzzy
+msgid "Blinds Thickness"
+msgstr "السماكة"
+
+msgid "Shatter"
+msgstr ""
+
+#, fuzzy
+msgid "Shatter number of spokes"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Number of spokes (divided by 4) in the animation"
+msgstr ""
+
+#, fuzzy
+msgid "Shatter Number of Tiers"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Number of concentric circles in the animation"
+msgstr ""
+
+msgid "Bonanza"
+msgstr ""
+
+msgid "Number Of Fire Particles"
+msgstr "عدد أجزاﺀ النار"
+
+msgid "Number of fire particles."
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Fire Particle Size"
+msgstr "حجم اجزاﺀ النار"
+
+msgid "Fire particle size."
+msgstr "حجم اجزاﺀ النار."
+
+msgid "Fire Particle Life"
+msgstr "مدة حياة اجزاﺀ النار"
+
+msgid "Fire particle life."
+msgstr "مدة حياة اجزاﺀ النا.ر"
+
+msgid "Fire Particle Color"
+msgstr "لون أجزاﺀ النار"
+
+msgid "Fire particle color."
+msgstr "لون أجزاﺀ النار."
+
+msgid "Randomly Colored Fire"
+msgstr "نار ملونة عشواىٔيا"
+
+msgid "Have random colors for the fire effect, also known as Mystical Fire."
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+#, fuzzy
+msgid "Simple Animations"
+msgstr "فتح التحريك"
+
+msgid "Animations that are simple on the eye"
+msgstr ""
+
+msgid "Fly In"
+msgstr ""
+
+#, fuzzy
+msgid "Fly In Direction"
+msgstr "إتجاه الطَوي"
+
+msgid "The direction in which the fly in should take place"
+msgstr ""
+
+#, fuzzy
+msgid "UD Direction X"
+msgstr "إتجاه الطَوي"
+
+msgid "Direction and Distance X for user defined fly in"
+msgstr ""
+
+#, fuzzy
+msgid "UD Direction Y"
+msgstr "إتجاه الطَوي"
+
+msgid "Direction and Distance Y for user defined fly in"
+msgstr ""
+
+msgid "Fade"
+msgstr "تلاشي"
+
+msgid "Fade when flying in"
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid "Distance to fly in"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate In"
+msgstr "زاوية الدوران"
+
+#, fuzzy
+msgid "Rotate In Direction"
+msgstr "إتجاه الطَوي"
+
+msgid "The direction in which the window rotates"
+msgstr ""
+
+#, fuzzy
+msgid "Angle"
+msgstr "زاوية الإبعاد"
+
+msgid "Angle to start from"
+msgstr ""
+
+msgid "Bounce"
+msgstr ""
+
+#, fuzzy
+msgid "Maximum Size"
+msgstr "حجم المكعب الأدني"
+
+msgid "Maximum scale factor of window when bouncing"
+msgstr ""
+
+#, fuzzy
+msgid "Minimum Size"
+msgstr "حجم المكعب الأدني"
+
+msgid "Minimum scale factor of window when bouncing"
+msgstr ""
+
+#, fuzzy
+msgid "Number of Bounces"
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "How many bounces during the animation"
+msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+msgid "Sheet"
+msgstr ""
+
+msgid "Starting Percent"
+msgstr ""
+
+msgid ""
+"How wide the begginning of the sheet animation should be compared to the end"
+msgstr ""
+
+msgid "Expand Piecewise"
+msgstr ""
+
+msgid "First expand horizontally"
+msgstr ""
+
+msgid "If checked, initially expand horizontally, then vertically"
+msgstr ""
+
+msgid "Initial horizontal size"
+msgstr ""
+
+msgid "Number of pixels initially in horizontal direction"
+msgstr ""
+
+#, fuzzy
+msgid "Initial vertical size"
+msgstr "حجم اجزاﺀ النار."
+
+msgid "Number of pixels initially in vertical direction"
+msgstr ""
+
+msgid "Delay"
+msgstr ""
+
+msgid ""
+"Delay between expanding horizontally and vertically (expressed as a fraction)"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Cube Atlantis"
+msgstr ""
+
+msgid "Render some sea animals inside of the transparent cube"
+msgstr ""
+
+msgid "Speed factor"
+msgstr ""
+
+msgid "Multiply the speed of the fish by this factor."
+msgstr ""
+
+msgid "Start crabs on bottom"
+msgstr ""
+
+msgid "Start crabs on the bottom of the cube."
+msgstr ""
+
+msgid "School similar groups"
+msgstr ""
+
+msgid "Fish in different groups, but of the same type, swim together."
+msgstr ""
+
+msgid "Low detail models"
+msgstr ""
+
+msgid "Use less detailed models for increased performance."
+msgstr ""
+
+#, fuzzy
+msgid "Creature Selection"
+msgstr "إختيار التحريك"
+
+msgid "Type"
+msgstr ""
+
+msgid "Type of sea creature."
+msgstr ""
+
+#, fuzzy
+msgid "Color"
+msgstr "لون الشعاع"
+
+msgid "The color of the sea creature."
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "The number of the sea creature."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "The size of the sea creature."
+msgstr ""
+
+#, fuzzy
+msgid "Miscellaneous Selection"
+msgstr "إختيار التحريك"
+
+msgid "Type of sea plant."
+msgstr ""
+
+msgid "The color of the sea plant."
+msgstr ""
+
+msgid "The number of the sea plants."
+msgstr ""
+
+msgid "The size of the sea plant."
+msgstr ""
+
+msgid "Water / Ground"
+msgstr ""
+
+msgid "Render water"
+msgstr ""
+
+#, fuzzy
+msgid "Render water inside the cube."
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Render water wireframe"
+msgstr ""
+
+#, fuzzy
+msgid "Render water wireframe inside the cube."
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Render ground"
+msgstr ""
+
+#, fuzzy
+msgid "Render ground inside the cube."
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Ground color"
+msgstr "لون الشعاع"
+
+msgid "Color of ground in the cube."
+msgstr ""
+
+msgid "Water surface height"
+msgstr ""
+
+msgid "Height of water surface in the cube."
+msgstr ""
+
+#, fuzzy
+msgid "Water color"
+msgstr "لون الشعاع"
+
+msgid "Color of water in the cube."
+msgstr ""
+
+msgid "Water/Ground grid smoothness"
+msgstr ""
+
+msgid "Number of subdivisions that create a finer grid."
+msgstr ""
+
+#, fuzzy
+msgid "Waves"
+msgstr "موجة"
+
+msgid "Render waves"
+msgstr ""
+
+#, fuzzy
+msgid "Render water waves inside the cube."
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Ripple effect"
+msgstr "تأثير الفتح"
+
+msgid "Semi-randomize light scattering off water waves."
+msgstr ""
+
+#, fuzzy
+msgid "Wave amplitude"
+msgstr "حجم الموجة"
+
+msgid "Amplitude of water waves."
+msgstr ""
+
+msgid "Wave frequency"
+msgstr ""
+
+msgid "Frequency of water waves."
+msgstr ""
+
+#, fuzzy
+msgid "Small wave amplitude"
+msgstr "مدى التردد الأقصي للموجة في المصباح السحري"
+
+msgid "Amplitude of small water waves on the bigger ones."
+msgstr ""
+
+msgid "Small wave frequency"
+msgstr ""
+
+msgid "Frequency of small water waves on the bigger ones."
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Rescale for screen ratio"
+msgstr ""
+
+msgid ""
+"Rescale along the sides of the cube by the ratio of screen width to height."
+msgstr ""
+
+#, fuzzy
+msgid "Lighting"
+msgstr "يمين"
+
+msgid "Rotate lighting"
+msgstr ""
+
+#, fuzzy
+msgid "Preserve light direction when rotating the cube."
+msgstr "إرفع النوافذ عند دوران المكعب"
+
+msgid "Light inclination"
+msgstr ""
+
+msgid ""
+"The angle of light rays from the horizon in degrees (0 is from the viewer's "
+"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
+"false."
+msgstr ""
+
+msgid "Ambient light"
+msgstr ""
+
+msgid "Component of light coming from all directions equally."
+msgstr ""
+
+msgid "Cube 3D Models"
+msgstr ""
+
+msgid "Render still/animated 3D mesh models inside of the transparent cube"
+msgstr ""
+
+msgid "Scale all factor"
+msgstr ""
+
+msgid "Scale all the 3D models by this factor."
+msgstr ""
+
+#, fuzzy
+msgid "3D Models"
+msgstr "مراوغة"
+
+#, fuzzy
+msgid "Model"
+msgstr "مراوغة"
+
+msgid "Full path to 3D wavefront (.obj) model file."
+msgstr ""
+
+msgid "Scale factor"
+msgstr ""
+
+msgid "Scale the 3D model by this factor."
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid "X coordinate offset from the center of the cube."
+msgstr ""
+
+msgid "Y"
+msgstr ""
+
+msgid "Y coordinate offset from the center of the cube."
+msgstr ""
+
+msgid "Z"
+msgstr ""
+
+msgid "Z coordinate offset from the center of the cube."
+msgstr ""
+
+#, fuzzy
+msgid "Rotation plane"
+msgstr "زاوية الدوران"
+
+msgid "Plane of rotation for the 3D model."
+msgstr ""
+
+#, fuzzy
+msgid "Rotation rate"
+msgstr "زاوية الدوران"
+
+msgid "Rate of rotation of 3D model (in rotations per second)."
+msgstr ""
+
+msgid "Model type"
+msgstr ""
+
+msgid "Type of 3D model (still or animated)."
+msgstr ""
+
+msgid "Frames per second"
+msgstr ""
+
+msgid "Framerate (per second) for the animated series of obj files."
+msgstr ""
+
+msgid "Render front and back sides"
+msgstr ""
+
+msgid ""
+"Renders the front surface and then the back surface. This can be useful for "
+"models which show black spots but can cause a performance hit."
+msgstr ""
+
+msgid "Ambient light intensity"
+msgstr ""
+
+msgid "Diffuse light intensity"
+msgstr ""
+
+msgid ""
+"Component of light coming from the direction set by inclination or from the "
+"viewer if Rotate Lighting is true."
+msgstr ""
+
+msgid "Specular light intensity"
+msgstr ""
+
+msgid ""
+"Highly directional component of light coming from the direction set by "
+"inclination or from the viewer if Rotate Lighting is true."
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Use separate threads"
+msgstr ""
+
+msgid ""
+"Use separate threads to load each model faster and allow other interaction "
+"whilst loading."
+msgstr ""
+
+#, fuzzy
+msgid "Dialog Match"
+msgstr "تطابق النافذة"
+
+msgid "Dialogs which will trigger fading"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+#, fuzzy
+msgid "The speed of the animation"
+msgstr "غيّر سرعة الحركة الثلاثة الأبعا"
+
+msgid "Opacity"
+msgstr "اللاشفافية"
+
+msgid "The Opacity of windows with open dialogs"
+msgstr ""
+
+msgid "Saturation"
+msgstr "قوة الألوان"
+
+#, fuzzy
+msgid "The Saturation of windows with open dialogs"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Brightness"
+msgstr "النصوع"
+
+#, fuzzy
+msgid "The Brightness of windows with open dialogs"
+msgstr "نصوع النوافذ المتلاشية"
+
+msgid "Elements"
+msgstr ""
+
+msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Global Speed"
+msgstr ""
+
+msgid "Elements speed will be multiplied by this value"
+msgstr ""
+
+msgid "Screen Depth"
+msgstr ""
+
+msgid "How deep into the screen snowflakes can be drawn before being removed"
+msgstr ""
+
+msgid "Apply Screen Transform"
+msgstr ""
+
+msgid "Moves particles with screen transforms when over_windows is enabled"
+msgstr ""
+
+#, fuzzy
+msgid "Draw Over Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Elements drawn above windows"
+msgstr ""
+
+msgid "Toggle Elements with Keys:"
+msgstr ""
+
+msgid ""
+"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
+"checkboxes."
+msgstr ""
+
+msgid "Snow"
+msgstr ""
+
+msgid "Number Of Snowflakes"
+msgstr ""
+
+msgid "Number of snowflakes"
+msgstr ""
+
+msgid "Size Of Snowflakes"
+msgstr ""
+
+msgid "Size of snowflakes"
+msgstr ""
+
+msgid "Snow Speed"
+msgstr ""
+
+msgid "Speed of falling snow"
+msgstr ""
+
+msgid "Snow sway"
+msgstr ""
+
+msgid ""
+"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
+msgstr ""
+
+msgid "Rotate Snowflakes"
+msgstr ""
+
+msgid "Toggle snow"
+msgstr ""
+
+msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Snow"
+msgstr ""
+
+msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+msgid "Snow Direction"
+msgstr ""
+
+msgid "Select snow flake movement direction"
+msgstr ""
+
+msgid "None"
+msgstr "لا شئ"
+
+msgid "Up"
+msgstr "فوق"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "Snow Textures"
+msgstr ""
+
+msgid "Snow textures"
+msgstr ""
+
+msgid "Autumn"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of leaves"
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Number of leaves"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Size Of leaves"
+msgstr ""
+
+msgid "Size of leaves"
+msgstr ""
+
+msgid "Sway Of leaves"
+msgstr ""
+
+msgid "sway of leaves"
+msgstr ""
+
+#, fuzzy
+msgid "Leaf Speed"
+msgstr "إنتشار ورق الشجر"
+
+msgid "Speed of falling leaves"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Leaves"
+msgstr "زاوية الدوران"
+
+msgid "Toggle Autumn"
+msgstr ""
+
+msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+msgid "Autumn Textures"
+msgstr ""
+
+msgid "Autumn textures"
+msgstr ""
+
+msgid "Bubbles"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of bubbles"
+msgstr "عدد أجزاﺀ النار"
+
+#, fuzzy
+msgid "Number of bubbles"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Size Of bubbles"
+msgstr ""
+
+msgid "Size of bubbles"
+msgstr ""
+
+msgid "Viscosity of liquid"
+msgstr ""
+
+msgid "Rotate Bubbles"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Bubbles"
+msgstr "تثبيت إضافة المساعد"
+
+msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+msgid "Bubble Textures"
+msgstr ""
+
+msgid "Bubble textures"
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies"
+msgstr "نار"
+
+#, fuzzy
+msgid "Number Of fireflies"
+msgstr "عدد أجزاﺀ النار"
+
+#, fuzzy
+msgid "Number of fireflies"
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Size Of fireflies"
+msgstr "نار"
+
+#, fuzzy
+msgid "Size of fireflies"
+msgstr "نار"
+
+#, fuzzy
+msgid "Firefly Speed"
+msgstr "نار"
+
+msgid "Speed of firefly lifecycle and movement"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Fireflies"
+msgstr "نار"
+
+msgid "When using \"glows\", you definitely want this ON"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Fireflies"
+msgstr "نار"
+
+msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies Textures"
+msgstr "نار"
+
+#, fuzzy
+msgid "Fireflies textures"
+msgstr "نار"
+
+msgid "Stars"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of stars"
+msgstr "عدد أجزاﺀ النار"
+
+#, fuzzy
+msgid "Number of stars"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Size Of stars"
+msgstr ""
+
+msgid "Size of stars"
+msgstr ""
+
+msgid "Star Speed"
+msgstr ""
+
+msgid "Speed of stars"
+msgstr ""
+
+msgid "Star X Offset"
+msgstr ""
+
+msgid "The X point on the screen where stars should start"
+msgstr ""
+
+msgid "Star Y Offset"
+msgstr ""
+
+msgid "The Y point on the screen where stars should start"
+msgstr ""
+
+msgid "Rotate Stars"
+msgstr ""
+
+msgid "Toggle Stars"
+msgstr ""
+
+msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
+msgstr ""
+
+msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
+msgstr ""
+
+msgid "Star Textures"
+msgstr ""
+
+msgid "Star textures"
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies for Compiz"
+msgstr "نار"
+
+msgid "Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of Fireflies"
+msgstr "عدد أجزاﺀ النار"
+
+#, fuzzy
+msgid "The maximum number of fireflies allowed on screen"
+msgstr "العدد الأقصى للموجات للمصباح السحري."
+
+#, fuzzy
+msgid "Size Of Fireflies"
+msgstr "نار"
+
+msgid "Update Delay"
+msgstr ""
+
+msgid ""
+"Delay (in ms) between screen updates. Decreasing this value may make snow "
+"fall more smoothly, but will also increase CPU usage."
+msgstr ""
+
+msgid "Screen Boxing"
+msgstr ""
+
+msgid ""
+"How far outside the screen resolution fireflies can be before being removed. "
+"Needed because of FOV."
+msgstr ""
+
+msgid "How deep into the screen fireflies can be drawn before being removed"
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies Over Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Fireflies is drawn above windows"
+msgstr ""
+
+msgid "Rotate Flies. Redundant"
+msgstr ""
+
+msgid "Flies rotate if checked."
+msgstr ""
+
+#, fuzzy
+msgid "Fireflies Direction. Redundant"
+msgstr "إتجاه النار."
+
+msgid "Top to Bottom"
+msgstr ""
+
+msgid "Bottom to Top"
+msgstr ""
+
+msgid "Right to Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Enable by default"
+msgstr ""
+
+msgid "Enable fireflies by default."
+msgstr ""
+
+msgid "Textures"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Enable Blending"
+msgstr ""
+
+msgid "Enables alpha blending of flies."
+msgstr ""
+
+msgid "Enable Textures"
+msgstr ""
+
+msgid "Enables textures flies. If not selected, color cradients are used."
+msgstr ""
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Firefly toggle key"
+msgstr ""
+
+msgid "Freely Transformable Windows"
+msgstr ""
+
+#, fuzzy
+msgid "Freely transform windows"
+msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+msgid "Free Transformation"
+msgstr "مدة"
+
+msgid "Initiate Rotation"
+msgstr ""
+
+#, fuzzy
+msgid "Start Free Rotation"
+msgstr "قوة الألوان"
+
+msgid "Initiate Scaling"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+#, fuzzy
+msgid "Reset Transformation"
+msgstr "مدة"
+
+msgid "Axis help toggle"
+msgstr ""
+
+msgid "Axis selection helper"
+msgstr ""
+
+msgid "Transformation Behavior"
+msgstr ""
+
+msgid "Snap Modifier"
+msgstr ""
+
+#, fuzzy
+msgid "Use this bindings to enable/disable snapping."
+msgstr "إستعمل هذا لتشغيل/ تعطيل إضافة المساعد على وجه السرعة"
+
+msgid "Shift"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+msgid "Control"
+msgstr ""
+
+msgid "Meta"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation"
+msgstr "زاوية الدوران"
+
+msgid "Invert Modifier"
+msgstr ""
+
+msgid "Use this bindings to invert the rotation mode."
+msgstr ""
+
+msgid "Manual Transformation"
+msgstr ""
+
+msgid "Scaling"
+msgstr ""
+
+msgid "Scale Up"
+msgstr ""
+
+msgid "Scale up by one increment"
+msgstr ""
+
+msgid "Scale Down"
+msgstr ""
+
+msgid "Scale down by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Up"
+msgstr "زاوية الدوران"
+
+msgid "Rotate up by one increment"
+msgstr ""
+
+msgid "Rotate Down"
+msgstr ""
+
+msgid "Rotate down by one increment"
+msgstr ""
+
+msgid "Rotate Left"
+msgstr ""
+
+msgid "Rotate left by one increment"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Right"
+msgstr "ميل أسفل اليمين"
+
+msgid "Rotate right by one increment"
+msgstr ""
+
+msgid "Rotate Clockwise"
+msgstr ""
+
+msgid "Rotate clockwise by one increment"
+msgstr ""
+
+msgid "Rotate Counter-Clockwise"
+msgstr ""
+
+msgid "Rotate counter-clockwise by one increment"
+msgstr ""
+
+msgid "Snap by default"
+msgstr ""
+
+msgid "Snap to common points by default"
+msgstr ""
+
+msgid "Snap Threshold"
+msgstr ""
+
+msgid "Snap to every one of these angles"
+msgstr ""
+
+msgid "Mouse sensitivity"
+msgstr ""
+
+#, fuzzy
+msgid "How sensitive the mouse movement should be"
+msgstr "كيف حركة التقريب عليها ان تكون مع النابض."
+
+msgid "Scale Mode"
+msgstr ""
+
+#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
+#, fuzzy
+msgid "How to scale windows"
+msgstr "نصوع النوافذ المتلاشية"
+
+msgid "Allow negative"
+msgstr ""
+
+msgid "Allow negative scaling"
+msgstr ""
+
+msgid "Maintain aspect ratio"
+msgstr ""
+
+msgid "Keep aspect ratio constant when scaling"
+msgstr ""
+
+#, fuzzy
+msgid "Minimum scale"
+msgstr "حجم المكعب الأدني"
+
+msgid ""
+"How small the scale is allowed to be when 'Allow Negative' is not toggled"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Type"
+msgstr "زاوية الدوران"
+
+#, fuzzy
+msgid "2D/3D Rotation Type"
+msgstr "زاوية الدوران"
+
+#, fuzzy
+msgid "Rotation Axis"
+msgstr "زاوية الدوران"
+
+msgid "How Freely Transformable Windows should determine the rotation axis"
+msgstr ""
+
+#, fuzzy
+msgid "3D Rotation Percentage"
+msgstr "زاوية الدوران"
+
+msgid "Percentage of the window area used for 3D rotation"
+msgstr ""
+
+#, fuzzy
+msgid "Auto-Zoom"
+msgstr "تكبير"
+
+msgid "Auto-Zoom when rotating so that windows do not get too large"
+msgstr ""
+
+msgid "Disable on Transformed Screen"
+msgstr ""
+
+msgid ""
+"Disable rotation on transformed screen. This prevents ugly looking clipped "
+"windows when the screen is transformed"
+msgstr ""
+
+msgid "Speed of window rotation"
+msgstr ""
+
+msgid "How fast the window should rotate"
+msgstr ""
+
+msgid "Rotate increment amount"
+msgstr ""
+
+msgid "How far to rotate a window when rotating an 'increment'"
+msgstr ""
+
+msgid "Scale increment amount"
+msgstr ""
+
+msgid "How much to scale a window by when scaling by an 'increment'"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Input Prevention"
+msgstr ""
+
+#, fuzzy
+msgid "Prevented Input Window Types"
+msgstr "أنواع النوافذ"
+
+#, fuzzy
+msgid "Window types that should be Shaped. Disable problematic windows here"
+msgstr "أنواع النوافذ التي لا يجب أن تكون شفافة"
+
+msgid "Prevent input"
+msgstr ""
+
+msgid "Prevent input in transformed windows"
+msgstr ""
+
+msgid "Immediate Moves"
+msgstr ""
+
+msgid ""
+"Don't allow plugins like wobbly to transform the transformed window while "
+"it's being moved"
+msgstr ""
+
+#, fuzzy
+msgid "Helper Options"
+msgstr "خيارات أخرى"
+
+#, fuzzy
+msgid "Helper Circle Color"
+msgstr "لون أجزاﺀ النار"
+
+msgid "Color of the circle."
+msgstr ""
+
+msgid "Helper Line Color"
+msgstr ""
+
+msgid "Helper line color around the circle"
+msgstr ""
+
+msgid "Helper Cross Line Color"
+msgstr ""
+
+msgid "Color of the cross line"
+msgstr ""
+
+msgid "Show 3D rotation circle"
+msgstr ""
+
+msgid "Show click area for 3D rotation"
+msgstr ""
+
+msgid "Show rotation gizmo"
+msgstr ""
+
+msgid "Show rotation axis info"
+msgstr ""
+
+#, fuzzy
+msgid "Show crosshair"
+msgstr "مستطيل"
+
+msgid "Show crosshair (for scaling click regions)"
+msgstr ""
+
+#, fuzzy
+msgid "Show input regions"
+msgstr "مستطيل"
+
+#, fuzzy
+msgid "Show input region rectangle"
+msgstr "مستطيل"
+
+msgid "Color Opacity"
+msgstr ""
+
+msgid "Alter window opacity based on color."
+msgstr ""
+
+msgid "Toggle Window Fake ARGB"
+msgstr ""
+
+msgid "Toggle window fake ARGB."
+msgstr ""
+
+msgid "Toggle Ghost"
+msgstr ""
+
+msgid "Toggle ghost for all matching windows"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Ghost Window"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Toggle ghosting of individual window"
+msgstr ""
+
+msgid "Window Types"
+msgstr "أنواع النوافذ"
+
+#, fuzzy
+msgid "Windows which should become ghosts"
+msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#, fuzzy
+msgid "Ghost Active Window"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Whether a ghosted active window will accept input or not"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows only on mousover"
+msgstr "ثلاثة أبعاد فقط عند دوران الفأرة"
+
+msgid ""
+"Whether a ghosted window will always be faded or only when the cursor is "
+"over it"
+msgstr ""
+
+#, fuzzy
+msgid "The Opacity of Ghosted Windows"
+msgstr "لاشفافية النوافذ المتلاشية"
+
+#, fuzzy
+msgid "The Saturation of Ghosted Windows"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+#, fuzzy
+msgid "The Brightness of Ghosted Windows"
+msgstr "نصوع النوافذ المتلاشية"
+
+msgid "Mouse switch"
+msgstr ""
+
+msgid "Switch viewport in response to mouse gesture"
+msgstr ""
+
+msgid "Begin Gesture"
+msgstr ""
+
+msgid "Begin Mouse Gesture"
+msgstr ""
+
+msgid "Photowheel"
+msgstr ""
+
+#, fuzzy
+msgid "Render photo turn wheel inside of the transparent cube"
+msgstr "عدد أجزاﺀ النار."
+
+msgid "Photo Textures"
+msgstr ""
+
+msgid "Photo textures"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "X Offset"
+msgstr ""
+
+msgid "X Offset (this is width)"
+msgstr ""
+
+msgid "Y Offset"
+msgstr ""
+
+msgid "Y Offset (this is height)"
+msgstr ""
+
+msgid "Z Offset"
+msgstr ""
+
+msgid "Z Offset (this is depth)"
+msgstr ""
+
+msgid "Rotate Around Axis"
+msgstr ""
+
+msgid "Otherwise rotate around its center of cube"
+msgstr ""
+
+#, fuzzy
+msgid "Top Color"
+msgstr "لون الشعاع"
+
+msgid "Color of top face of the photo wheel"
+msgstr ""
+
+#, fuzzy
+msgid "Bottom Color"
+msgstr "لون الشعاع"
+
+msgid "Color of bottom face of the photo wheel"
+msgstr ""
+
+msgid "Backface Culling"
+msgstr ""
+
+msgid "Enable backface culling"
+msgstr ""
+
+msgid "Put Plus"
+msgstr ""
+
+#, fuzzy
+msgid "Put Plus window"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Put On Viewport"
+msgstr ""
+
+msgid "Move window to a certain viewport"
+msgstr ""
+
+msgid "Bindings"
+msgstr "الأغلفة"
+
+msgid "Put to arbitrary viewport"
+msgstr ""
+
+msgid "Put On Viewport 1"
+msgstr ""
+
+msgid "Move window to viewport 1"
+msgstr ""
+
+msgid "Put On Viewport 2"
+msgstr ""
+
+msgid "Move window to viewport 2"
+msgstr ""
+
+msgid "Put On Viewport 3"
+msgstr ""
+
+msgid "Move window to viewport 3"
+msgstr ""
+
+msgid "Put On Viewport 4"
+msgstr ""
+
+msgid "Move window to viewport 4"
+msgstr ""
+
+msgid "Put On Viewport 5"
+msgstr ""
+
+msgid "Move window to viewport 5"
+msgstr ""
+
+msgid "Put On Viewport 6"
+msgstr ""
+
+msgid "Move window to viewport 6"
+msgstr ""
+
+msgid "Put On Viewport 7"
+msgstr ""
+
+msgid "Move window to viewport 7"
+msgstr ""
+
+msgid "Put On Viewport 8"
+msgstr ""
+
+msgid "Move window to viewport 8"
+msgstr ""
+
+msgid "Put On Viewport 9"
+msgstr ""
+
+msgid "Move window to viewport 9"
+msgstr ""
+
+msgid "Put On Viewport 10"
+msgstr ""
+
+msgid "Move window to viewport 10"
+msgstr ""
+
+msgid "Put On Viewport 11"
+msgstr ""
+
+msgid "Move window to viewport 11"
+msgstr ""
+
+msgid "Put On Viewport 12"
+msgstr ""
+
+msgid "Move window to viewport 12"
+msgstr ""
+
+msgid "Put to adjacent viewport"
+msgstr ""
+
+msgid "Viewport Left"
+msgstr ""
+
+msgid "Move window to the viewport on the left"
+msgstr ""
+
+msgid "Viewport Right"
+msgstr ""
+
+msgid "Move window to the viewport on the right"
+msgstr ""
+
+msgid "Viewport Top"
+msgstr ""
+
+msgid "Move window to the viewport on the top"
+msgstr ""
+
+msgid "Viewport Bottom"
+msgstr ""
+
+msgid "Move window to the viewport on the bottom"
+msgstr ""
+
+msgid "Put within viewport"
+msgstr ""
+
+msgid "Put Center"
+msgstr ""
+
+msgid "Move window to the center"
+msgstr ""
+
+msgid "Put Left"
+msgstr ""
+
+msgid "Move window to the left edge"
+msgstr ""
+
+msgid "Put Right"
+msgstr ""
+
+msgid "Move window to the right edge"
+msgstr ""
+
+msgid "Put Top"
+msgstr ""
+
+msgid "Move window to the top edge"
+msgstr ""
+
+msgid "Put Bottom"
+msgstr ""
+
+msgid "Move window to the bottom edge"
+msgstr ""
+
+msgid "Put Top Left"
+msgstr ""
+
+msgid "Move window to the top left corner"
+msgstr ""
+
+msgid "Put Top Right"
+msgstr ""
+
+msgid "Move window to the top right corner"
+msgstr ""
+
+msgid "Put Bottom Left"
+msgstr ""
+
+msgid "Move window to the bottom left corner"
+msgstr ""
+
+msgid "Put Bottom Right"
+msgstr ""
+
+msgid "Move window to the bottom right corner"
+msgstr ""
+
+msgid "Put on empty regions"
+msgstr ""
+
+msgid "Restore Position"
+msgstr ""
+
+msgid "Move window to the last position"
+msgstr ""
+
+msgid "Put Pointer"
+msgstr ""
+
+msgid "Move window to the pointer position"
+msgstr ""
+
+msgid "Put"
+msgstr ""
+
+msgid "Move window arbitrarily by passing x, y and type."
+msgstr ""
+
+msgid "Misc. Options"
+msgstr "خيارات أخرى"
+
+msgid "Padding"
+msgstr ""
+
+msgid "Pad Left"
+msgstr ""
+
+msgid "Number of pixels from the left edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Right"
+msgstr ""
+
+msgid "Number of pixels from the right edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Top"
+msgstr ""
+
+msgid "Number of pixels from the top edge where the window will come to rest"
+msgstr ""
+
+msgid "Pad Bottom"
+msgstr ""
+
+msgid ""
+"Number of pixels from the bottom edge where the window will come to rest"
+msgstr ""
+
+msgid "Unfocus Window"
+msgstr ""
+
+msgid "Unfocus windows that are moved off the viewport"
+msgstr ""
+
+msgid "Window Center"
+msgstr ""
+
+msgid "Put pointer uses the center of the window"
+msgstr ""
+
+msgid "Avoid Offscreen"
+msgstr ""
+
+msgid "Avoids putting window borders offscreen"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Animation speed"
+msgstr ""
+
+msgid "Timestep"
+msgstr ""
+
+msgid "Animation timestep"
+msgstr ""
+
+msgid "Screen Saver"
+msgstr ""
+
+msgid "Initiate"
+msgstr ""
+
+msgid "Start and stop the screensaver"
+msgstr ""
+
+msgid "Screensaver mode"
+msgstr ""
+
+msgid "Screensaver mode."
+msgstr ""
+
+#, fuzzy
+msgid "Start Automatically"
+msgstr "تلقاىٔي"
+
+#, fuzzy
+msgid "Start Automatically."
+msgstr "تلقاىٔي"
+
+msgid "After (min)"
+msgstr ""
+
+msgid "After (min)."
+msgstr ""
+
+msgid "Fade In duration (sec)"
+msgstr ""
+
+msgid "Fade In duration (sec)."
+msgstr ""
+
+msgid "Fade Out duration (sec)"
+msgstr ""
+
+msgid "Fade Out duration (sec)."
+msgstr ""
+
+#, fuzzy
+msgid "Flying windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "ScreenSaver Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid ":)"
+msgstr ""
+
+msgid "Generate mipmaps"
+msgstr ""
+
+#, fuzzy
+msgid "Attraction Depth"
+msgstr "قوة الألوان"
+
+#, fuzzy
+msgid "Attraction Depth."
+msgstr "قوة الألوان"
+
+msgid "Attraction/Repulsion ratio"
+msgstr ""
+
+msgid "Attraction/Repulsion ratio."
+msgstr ""
+
+msgid ""
+"Make windows bounce on the floor, still buggy, but essential with cube "
+"reflexion."
+msgstr ""
+
+#, fuzzy
+msgid "Rotating cube"
+msgstr "زاوية الدوران"
+
+#, fuzzy
+msgid "Cube rotation speed"
+msgstr "زاوية الدوران"
+
+msgid "Zoom"
+msgstr "تكبير"
+
+msgid "Smart Put"
+msgstr ""
+
+#, fuzzy
+msgid "Smart way to fit windows."
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Apply Smart Put on current window."
+msgstr ""
+
+msgid "Initiate Smartput on current window."
+msgstr ""
+
+msgid "Initiate Smart Put on current window."
+msgstr ""
+
+msgid "Initiate Smartput on current viewport"
+msgstr ""
+
+msgid "Smart Put!!!"
+msgstr ""
+
+msgid "Undo Smart Put on last \"smartputed\" window"
+msgstr ""
+
+msgid "Undo!!!"
+msgstr ""
+
+msgid "Also use apply-key to undo"
+msgstr ""
+
+msgid "If set, you can also use the same key for undo as you use for applying."
+msgstr ""
+
+msgid "Options"
+msgstr "خيارات"
+
+#, fuzzy
+msgid "Allow stack windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Stack windows on each other if there is no place left to place them."
+msgstr ""
+
+#, fuzzy
+msgid "Allow windows shrink"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Just place the window when the new size is larger than the old one."
+msgstr ""
+
+msgid "Minimal window height"
+msgstr ""
+
+msgid "Minimal height that the new window must have at least."
+msgstr ""
+
+msgid "Minimal window width"
+msgstr ""
+
+msgid "Minimal width that the new window must have at least."
+msgstr ""
+
+#, fuzzy
+msgid "Window margin"
+msgstr "مسافة النافذة"
+
+msgid "The distance between windows."
+msgstr ""
+
+msgid "Snow for Compiz"
+msgstr ""
+
+msgid ""
+"How far outside the screen resolution snow flakes can be before being "
+"removed. Needed because of FOV."
+msgstr ""
+
+msgid "Snow Over Windows"
+msgstr ""
+
+msgid "Snow is drawn above windows"
+msgstr ""
+
+msgid "Rotate Flakes"
+msgstr ""
+
+msgid "Flakes rotate if checked."
+msgstr ""
+
+msgid "Enable snow by default."
+msgstr ""
+
+msgid "Enables alpha blending of snowflakes."
+msgstr ""
+
+msgid "Enables textured snowflakes. If not selected, color gradients are used."
+msgstr ""
+
+msgid "Snow Toggle"
+msgstr ""
+
+msgid "Snow toggle key"
+msgstr ""
+
+#, fuzzy
+msgid "Maximum number of snowflakes."
+msgstr "العدد الأقصى للموجات للمصباح السحري."
+
+msgid "Size of snowflakes."
+msgstr ""
+
+msgid "Size of snowman"
+msgstr ""
+
+#, fuzzy
+msgid "Size of snowman inside the cube."
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Stack Window Switcher"
+msgstr "تطابق النافذة"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Next Window"
+msgstr ""
+
+msgid "Show switcher if not visible and select next window."
+msgstr ""
+
+msgid "Previous Window"
+msgstr ""
+
+msgid "Show switcher if not visible and select previous window."
+msgstr ""
+
+msgid "Next Window (All Workspaces)"
+msgstr ""
+
+msgid "Show switcher if not visible and select next window out of all windows."
+msgstr ""
+
+msgid "Previous Window (All Workspaces)"
+msgstr ""
+
+msgid ""
+"Show switcher if not visible and select previous window out of all windows."
+msgstr ""
+
+msgid "Next Window (Group)"
+msgstr ""
+
+msgid ""
+"Show switcher if not visible and select next window of the current "
+"application."
+msgstr ""
+
+msgid "Previous Window (Group)"
+msgstr ""
+
+msgid ""
+"Show switcher if not visible and select previous window of the current "
+"application."
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inactive Window Opacity"
+msgstr ""
+
+msgid ""
+"Amount of opacity (in percent) for windows in the switcher which are not "
+"selected"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate inactive windows"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Should not selected windows be rotated"
+msgstr ""
+
+#, fuzzy
+msgid "Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "Windows that should be shown in the switcher"
+msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+msgid "Darken Background"
+msgstr ""
+
+msgid "Darken background when showing the stack"
+msgstr ""
+
+msgid "Show Minimized"
+msgstr ""
+
+msgid "Show windows that are minimized, shaded or in show desktop mode."
+msgstr ""
+
+msgid "Tilt"
+msgstr ""
+
+msgid "Tilt angle of the background."
+msgstr ""
+
+msgid "Window title display"
+msgstr ""
+
+msgid "Show Window Title"
+msgstr ""
+
+msgid "Show window title of currently selected window."
+msgstr ""
+
+msgid "Bold Font"
+msgstr ""
+
+msgid "Selects if the window title should be displayed in bold font or not."
+msgstr ""
+
+msgid "Font Family"
+msgstr ""
+
+msgid "Font family for the window title"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Font size for the window title"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Background color for the window title"
+msgstr ""
+
+msgid "Font Color"
+msgstr ""
+
+msgid "Font color for the window title"
+msgstr ""
+
+msgid "Text Placement"
+msgstr ""
+
+msgid "Selects where to place the window title."
+msgstr ""
+
+msgid "On Thumbnail"
+msgstr ""
+
+msgid "Centered on screen"
+msgstr ""
+
+msgid "Above"
+msgstr ""
+
+msgid "Below"
+msgstr ""
+
+msgid "Stars for Compiz"
+msgstr ""
+
+#, fuzzy
+msgid "Number Of Stars"
+msgstr "عدد أجزاﺀ النار"
+
+msgid "Maximum number of stars"
+msgstr ""
+
+msgid "Size Of Stars"
+msgstr ""
+
+msgid "Speed of traveling stars"
+msgstr ""
+
+msgid ""
+"How far outside the screen resolution stars can be before being removed. "
+"Needed because of FOV."
+msgstr ""
+
+msgid "How deep into the screen stars can be drawn before being removed"
+msgstr ""
+
+#, fuzzy
+msgid "Stars Over Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "Stars are drawn above windows"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Rotate Flakes. Redundant"
+msgstr ""
+
+msgid "Snow Direction. Redundant"
+msgstr ""
+
+msgid "Stars Textures"
+msgstr ""
+
+msgid "Images to use as 'stars'"
+msgstr ""
+
+msgid "Enables textures snowflakes. If not selected, color gradients are used."
+msgstr ""
+
+msgid "Stars Toggle"
+msgstr ""
+
+msgid "Stars toggle key"
+msgstr ""
+
+#, fuzzy
+msgid "Static Windows"
+msgstr "قوة الألوان في النوافذ المتلاشية"
+
+msgid "Keep windows such as dock or panels static"
+msgstr ""
+
+msgid "Window Match"
+msgstr "تطابق النافذة"
+
+#, fuzzy
+msgid "Windows that should be kept static during transformations."
+msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#, fuzzy
+msgid "Swap Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+msgid "Next window"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+
+msgid "Next window (Group)"
+msgstr ""
+
+msgid ""
+"Popup switcher if not visible and select next window of the current "
+"application."
+msgstr ""
+
+msgid "Prev window (Group)"
+msgstr ""
+
+msgid ""
+"Popup switcher if not visible and select previous window of the current "
+"application."
+msgstr ""
+
+msgid "Next window (No popup)"
+msgstr ""
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+msgid "Prev window (No popup)"
+msgstr ""
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+msgid "Next Panel"
+msgstr ""
+
+msgid "Select next panel type window."
+msgstr ""
+
+msgid "Prev Panel"
+msgstr ""
+
+msgid "Select previous panel type window."
+msgstr ""
+
+msgid "Switcher speed"
+msgstr ""
+
+msgid "Switcher timestep"
+msgstr ""
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+msgid "Windows that should be shown in switcher"
+msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+msgid "Show minimized windows"
+msgstr ""
+
+msgid "Auto Change Viewport"
+msgstr ""
+
+msgid "Change to the viewport of the selected window while switching"
+msgstr ""
+
+#, fuzzy
+msgid "Popup Window Delay"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Time (in s) the popup window should be delayed before appearing"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Amount of saturation in percent"
+msgstr ""
+
+msgid "Amount of brightness in percent"
+msgstr ""
+
+msgid "Amount of opacity in percent"
+msgstr ""
+
+#, fuzzy
+msgid "Icon"
+msgstr "داخل"
+
+msgid "Show icon next to thumbnail"
+msgstr ""
+
+msgid "Mipmap"
+msgstr ""
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+
+msgid "Row Alignment"
+msgstr ""
+
+msgid "Alignment for rows that are not fully filled"
+msgstr ""
+
+msgid "Centered"
+msgstr ""
+
+msgid "Selected Window Highlight"
+msgstr ""
+
+msgid "Highlight Mode"
+msgstr ""
+
+msgid "Mode for highlighting the currently selected window"
+msgstr ""
+
+msgid "Bring Selected To Front"
+msgstr ""
+
+#, fuzzy
+msgid "Show Rectangle"
+msgstr "مستطيل"
+
+msgid "Minimized Window Highlight Rectangle"
+msgstr ""
+
+msgid "Where to draw highlight rectangle for minimized windows"
+msgstr ""
+
+msgid "Taskbar Entry"
+msgstr ""
+
+msgid "Original Window Position"
+msgstr ""
+
+msgid "Highlight Color"
+msgstr ""
+
+msgid "Color of highlight rectangle"
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Border Color"
+msgstr "لون الشعاع"
+
+msgid "Color of highlight rectangle border"
+msgstr ""
+
+msgid "Highlight Border Inlay Color"
+msgstr ""
+
+msgid "Color of inlay in highlight rectangle border"
+msgstr ""
+
+#, fuzzy
+msgid "Throw Windows"
+msgstr "نوافذ ثلاثية الأبعاد"
+
+msgid "Windows have a velocity once they are released after moving"
+msgstr ""
+
+#, fuzzy
+msgid "X Velocity Multiplier"
+msgstr "حجم الموجة"
+
+#, fuzzy
+msgid "X Velocity Multipler"
+msgstr "حجم الموجة"
+
+#, fuzzy
+msgid "Y Velocity Multiplier"
+msgstr "حجم الموجة"
+
+#, fuzzy
+msgid "Y Velocity Multipler"
+msgstr "حجم الموجة"
+
+#, fuzzy
+msgid "Friction constant"
+msgstr "نار ذو سرعة ثابتة"
+
+msgid "How much friction the screen provides"
+msgstr ""
+
+msgid "Constrain X"
+msgstr ""
+
+msgid "Constrain window in display width"
+msgstr ""
+
+msgid "Constrain Y"
+msgstr ""
+
+msgid "Constrain window in display height"
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Tile windows"
+msgstr ""
+
+msgid "Tiling Animation Type"
+msgstr ""
+
+msgid "Selects the animation used while tiling"
+msgstr ""
+
+msgid "Filled Outline"
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Drop From Top"
+msgstr ""
+
+msgid "Animation Duration"
+msgstr ""
+
+msgid "Duration (in ms) of the tiling animation"
+msgstr ""
+
+msgid "Tiling Method For Toggle"
+msgstr ""
+
+msgid "Choose the tiling type you want when using toggle."
+msgstr ""
+
+msgid "Tile Vertically"
+msgstr ""
+
+msgid "Tile Horizontally"
+msgstr ""
+
+msgid "Cascade"
+msgstr ""
+
+msgid "Join Windows (EXPERIMENTAL)"
+msgstr ""
+
+msgid ""
+"Tries to join the windows together when horizontal, vertical or left tiling "
+"is enabled so that when you resize a window surrounding windows resize "
+"accordingly. This may cause problems if you dont leave them enough space."
+msgstr ""
+
+msgid "Cascade Delta"
+msgstr ""
+
+msgid "Distance between windows when using cascade"
+msgstr ""
+
+msgid "Left Occupancy"
+msgstr ""
+
+msgid ""
+"Occupancy percentage for window placed left. This number is percentage of "
+"screen width, which the active window will have it as width when tiled. "
+"Applies to Left tiling type."
+msgstr ""
+
+msgid "Excluded Windows"
+msgstr ""
+
+msgid "Windows which should be excluded from tiling"
+msgstr ""
+
+msgid "Tile Windows Vertically"
+msgstr ""
+
+msgid ""
+"Move and resize all visible windows so that they have full height, same "
+"width and occupy whole screen."
+msgstr ""
+
+msgid "Tile Windows Horizontally"
+msgstr ""
+
+msgid ""
+"Move and resize all visible windows so that they have full width, same "
+"height and occupy whole screen."
+msgstr ""
+
+msgid "Tile Windows"
+msgstr ""
+
+msgid ""
+"Move and resize all visible windows both vertically and horizontally, so "
+"that the occupy whole screen and are in a grid."
+msgstr ""
+
+msgid "Cascade Windows"
+msgstr ""
+
+msgid ""
+"Move and resize all visible windows with the delta value set for cascading."
+msgstr ""
+
+msgid "Restore Windows"
+msgstr ""
+
+msgid "Restore windows to their original position they had before tiling."
+msgstr ""
+
+msgid "Toggle Tiling"
+msgstr ""
+
+msgid "Toggle between tile and restore"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Decoration"
+msgstr "مدة"
+
+#, fuzzy
+msgid "Toggles decoration."
+msgstr "مدة"
+
+#, fuzzy
+msgid "Toggle decoration"
+msgstr "مدة"
+
+msgid "Toggles decoration on/off."
+msgstr ""
+
+msgid "Toggle decoration on desktop"
+msgstr ""
+
+msgid "Toggles decoration of every window on the desktop."
+msgstr ""
+
+msgid "Wizard"
+msgstr ""
+
+msgid ""
+"Wastes resources to create fancy particle systems for wizard-wannabes :)"
+msgstr ""
+
+msgid "Toggle all particle effects."
+msgstr ""
+
+msgid "Enable wizard by default."
+msgstr ""
+
+msgid "Gravity"
+msgstr ""
+
+msgid "Global gravity"
+msgstr ""
+
+msgid "Gravity X"
+msgstr ""
+
+#, fuzzy
+msgid "Global horizontal gravity"
+msgstr "طوي أفقي"
+
+msgid "Gravity Y"
+msgstr ""
+
+msgid "Global vertical gravity"
+msgstr ""
+
+msgid "Point gravity sources"
+msgstr ""
+
+msgid "Strength"
+msgstr ""
+
+msgid ""
+"The strength of this gravity source. Use negative values for a repulsing "
+"effect."
+msgstr ""
+
+#, fuzzy
+msgid "Position X"
+msgstr "موقع الإبعاد"
+
+msgid ""
+"The horizontal position of this gravity source. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+#, fuzzy
+msgid "Position Y"
+msgstr "موقع الإبعاد"
+
+msgid ""
+"The vertical position of this gravity source. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The speed of this gravity source. May be ignored or used for initialization, "
+"depending on the movement type."
+msgstr ""
+
+msgid ""
+"The angle for the movement of this gravity source. May be ignored or used "
+"for initialization, depending on the movement type."
+msgstr ""
+
+msgid "Movement Type"
+msgstr ""
+
+msgid ""
+"The movement type of this source: Fixed (not moving at all), Mouse Position "
+"(exactly on the core pointer), Follow Mouse (moving towards core pointer at "
+"set speed), Bounce (moving at constant speed, bouncing off the walls) or "
+"Wrap (moving at constant speed, jumping to the opposite side at a wall)."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse Position"
+msgstr "موقع الإبعاد"
+
+msgid "Follow Mouse"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "Emitters"
+msgstr ""
+
+#, fuzzy
+msgid "Active"
+msgstr "التحريك"
+
+msgid ""
+"Since emitters have a lot of options, you can simply deactivate and name "
+"them instead of deleting them."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Trigger"
+msgstr ""
+
+msgid ""
+"The trigger to create particles: Persitent (create particles all the time), "
+"Mouse Movement (create particles when the mouse is being moved), Random Shot "
+"(a single particle burst once in a while), Random Period (randomly turning "
+"on and off particle production) or Notification (a single particle burst on "
+"notification events)."
+msgstr ""
+
+msgid "Persistent"
+msgstr ""
+
+#, fuzzy
+msgid "Mouse Movement"
+msgstr "تكبير من الوسط"
+
+#, fuzzy
+msgid "Random Shot"
+msgstr "عشواىٔية"
+
+#, fuzzy
+msgid "Random Period"
+msgstr "عشواىٔية"
+
+msgid ""
+"The horizontal position of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The vertical position of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid "Emitter Speed"
+msgstr ""
+
+msgid ""
+"The speed of this emitter. May be ignored or used for initialization, "
+"depending on the movement type."
+msgstr ""
+
+msgid "Emitter Angle"
+msgstr ""
+
+msgid ""
+"The angle for the movement of this emitter. May be ignored or used for "
+"initialization, depending on the movement type."
+msgstr ""
+
+msgid ""
+"The movement type of this emitter: Mouse Position (exactly on the core "
+"pointer), Follow Mouse (moving towards core pointer at set speed), Bounce "
+"(moving at constant speed, bouncing off the walls) or Wrap (moving at "
+"constant speed, jumping to the opposite side at a wall)."
+msgstr ""
+
+#, fuzzy
+msgid "Particle count"
+msgstr "لون أجزاﺀ النار."
+
+msgid "The amount of particles generated each time this emitter is triggered."
+msgstr ""
+
+#, fuzzy
+msgid "Color hue"
+msgstr "لون الشعاع"
+
+msgid ""
+"The color of the particles. This is hue like in HSL colors. It is the center "
+"of the range given below."
+msgstr ""
+
+msgid "Color hue range"
+msgstr ""
+
+msgid ""
+"The color of the particles can be any value from the hue (given above) plus/"
+"minus this range. A range of 500 means any color."
+msgstr ""
+
+#, fuzzy
+msgid "Color lightness"
+msgstr "النصوع"
+
+msgid ""
+"The color of the particles. This is lightness like in HSL colors. It is the "
+"center of the range given below."
+msgstr ""
+
+#, fuzzy
+msgid "Color lightness range"
+msgstr "النصوع"
+
+msgid ""
+"The color of the particles can be any value from the lightness (given above) "
+"plus/minus this range."
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid ""
+"The alpha (opacity) of the particles. This is the center of the range given "
+"below."
+msgstr ""
+
+msgid "Alpha range"
+msgstr ""
+
+msgid ""
+"The alpha (opacity) of the particles can be any value from the alpha (given "
+"above) plus/minus this range."
+msgstr ""
+
+msgid "X range"
+msgstr ""
+
+msgid "The horizontal range of the particles."
+msgstr ""
+
+msgid "Y range"
+msgstr ""
+
+#, fuzzy
+msgid "The vertical range of the particles."
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+msgid "Circular range"
+msgstr ""
+
+#, fuzzy
+msgid "The circular range of the particles."
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+msgid "X speed"
+msgstr ""
+
+msgid "The horizontal speed of the particles."
+msgstr ""
+
+msgid "Y speed"
+msgstr ""
+
+#, fuzzy
+msgid "The vertical speed of the particles."
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+#, fuzzy
+msgid "Aging speed"
+msgstr "زاوية الدوران"
+
+msgid "The more negative the sooner particles disappear."
+msgstr ""
+
+#, fuzzy
+msgid "Rotation speed"
+msgstr "زاوية الدوران"
+
+msgid ""
+"The rotation of the particles can probably only be seen on the really big "
+"ones."
+msgstr ""
+
+msgid "X speed range"
+msgstr ""
+
+msgid "The horizontal speed range of the particles."
+msgstr ""
+
+msgid "Y speed range"
+msgstr ""
+
+msgid "The vertical speed range of the particles."
+msgstr ""
+
+msgid "Circular speed range"
+msgstr ""
+
+msgid "The circular speed range of the particles."
+msgstr ""
+
+msgid "Aging speed range"
+msgstr ""
+
+msgid "The range of aging speeds"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation speed range"
+msgstr "زاوية الدوران"
+
+#, fuzzy
+msgid "Particle Size"
+msgstr "حجم اجزاﺀ النار"
+
+#, fuzzy
+msgid "The size of the particles."
+msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+msgid "Particle Size Range"
+msgstr "حجم اجزاﺀ النار"
+
+#, fuzzy
+msgid "The size range of the particles."
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+msgid "New Size"
+msgstr ""
+
+msgid "The size of the particles when they are new."
+msgstr ""
+
+msgid "New Size Range"
+msgstr ""
+
+msgid "The size range of the particles when they are new."
+msgstr ""
+
+msgid ""
+"The strength of the gravity effect, these particles have. (See gravity "
+"probability. May be especially resource consuming."
+msgstr ""
+
+msgid "Gravity Range"
+msgstr ""
+
+msgid ""
+"The strength range of the gravity effect, these particles have. (See gravity "
+"probability. May be especially resource consuming."
+msgstr ""
+
+msgid "Gravity Probability"
+msgstr ""
+
+msgid ""
+"The probability that a particle has the gravity effect, that has been set up "
+"above. This value represents gravity particles out of 10000 particles. "
+"(Using gravity on too many particles may be very resource consuming)"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+#, fuzzy
+msgid "Hard limit for particles"
+msgstr "إستخدام ألوان عشواىٔية لتأثير النار، معروف أيضا بإسم النار الأسطورية"
+
+msgid "If this hard limit is reached, no new particles are created"
+msgstr ""
+
+#, fuzzy
+msgid "Soft limit for particles"
+msgstr "عدد أجزاﺀ النار."
+
+msgid ""
+"This soft limit can be exceeded. If this happens, particles will die faster"
+msgstr ""
+
+msgid "Darken backgound"
+msgstr ""
+
+msgid "Darken background under particles"
+msgstr ""
+
+msgid "Additive blending"
+msgstr ""
+
+msgid "Additive blending of particles"
+msgstr ""
+
+#, fuzzy
+msgid "New particle time"
+msgstr "مدة حياة اجزاﺀ النا.ر"
+
+msgid ""
+"If the age of a particle is above this value, it is regarded as new and is "
+"especially bright and large. Particles are born at the age of 1.0 and die at "
+"the age of 0.0"
+msgstr ""
+
+#, fuzzy
+msgid "Old particle time"
+msgstr "مدة حياة اجزاﺀ النا.ر"
+
+msgid ""
+"If the age of a particle is below this value, it is regarded as old and "
+"starts to fade. Particles are born at the age of 1.0 and die at the age of "
+"0.0"
+msgstr ""
+
+msgid "Workspace Naming"
+msgstr ""
+
+msgid "Allows assigning descriptions to workspaces"
+msgstr ""
+
+msgid "Names"
+msgstr ""
+
+msgid "Workspace Names"
+msgstr ""
+
+msgid "Viewport"
+msgstr ""
+
+msgid "Number of viewport to be named"
+msgstr ""
+
+msgid "Viewport name"
+msgstr ""
+
+msgid "Display Time"
+msgstr ""
+
+msgid "Timeout (in s) of the name display"
+msgstr ""
+
+msgid "Fade Time"
+msgstr ""
+
+msgid "Time (in s) the name display fades out after being shown."
+msgstr ""
+
+#, fuzzy
+msgid "Text Display"
+msgstr "أنواع النوافذ"
+
+msgid "Selects if the text should be displayed in bold font or not."
+msgstr ""
+
+msgid "Font family for the text display."
+msgstr ""
+
+msgid "Font size for the text display."
+msgstr ""
+
+msgid "Selects where to place the text."
+msgstr ""
+
+msgid "Top of screen"
+msgstr ""
+
+#, fuzzy
+msgid "Bottom of screen"
+msgstr "ميل الزاوية السفلى اليسرى"
+
+msgid "Colors"
+msgstr ""
+
+msgid "Background color for the text display."
+msgstr ""
+
+msgid "Font color for the text display."
+msgstr ""
+
+#~ msgid "3D Only On Mouse Rotate"
+#~ msgstr "ثلاثة أبعاد فقط عند دوران الفأرة"
+
+#~ msgid "3D Windows"
+#~ msgstr "نوافذ ثلاثية الأبعاد"
+
+#~ msgid "Bevel Bottom Left"
+#~ msgstr "ميل أسفل اليسار"
+
+#~ msgid "Bevel Corners"
+#~ msgstr "ميول الزوايا"
+
+#~ msgid "Bevel Top Left"
+#~ msgstr "ميل أعلى اليسار"
+
+#~ msgid "Bevel Top Right"
+#~ msgstr "ميل أعلى اليمين"
+
+#~ msgid "Bevel bottom right corner"
+#~ msgstr "ميل الزاوية السفلى اليمنى"
+
+#~ msgid "Bevel top left corner"
+#~ msgstr "ميل الزاوية العليا اليسرى"
+
+#~ msgid "Bevel top right corner"
+#~ msgstr "ميل الزاوية العليا اليمنى"
+
+#~ msgid ""
+#~ "Change the amount of space between the windows (in percent of the cube "
+#~ "size)."
+#~ msgstr ""
+#~ "غيّر قدر المسافة الفاصلة بين النوافذ (بالنسبة المىٔوية من حجم المكعب)."
+
+#~ msgid "Elevates windows while rotating the cube"
+#~ msgstr "إرفع النوافذ عند دوران المكعب"
+
+#~ msgid ""
+#~ "Initiates the 3D display only if rotate is mouse driven. (Ex. You rotate "
+#~ "the cube via the mouse)"
+#~ msgstr ""
+#~ "شغل الرؤية الثلاثية الأبعاد فقط إذا كانت متأتية من الفأرة ( إنّك مثلا قمت  "
+#~ "ببرم المكعب بواسطة الفأرة)"
+
+#~ msgid "Minimum Cube Size"
+#~ msgstr "حجم المكعب الأدني"
+
+#~ msgid "Minimum cube size (in percent)."
+#~ msgstr "حجم المكعب الأدنى (بالنسبة المىٔوية). "
+
+#~ msgid "Roundoff corners for consistency with rounded decorations"
+#~ msgstr "دوّر الزوايا لتتناسب مع الزينة المدوّرة"
+
+#~ msgid "Window Depth"
+#~ msgstr "عمق النافذة"
+
+#~ msgid "Window Space"
+#~ msgstr "مسافة النافذة"
+
+#~ msgid "Window depth"
+#~ msgstr "عمق النافذة"
+
+#~ msgid "Windows that should be handled by 3D"
+#~ msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#~ msgid "ADD Helper"
+#~ msgstr "إضافة المساعد"
+
+#~ msgid ""
+#~ "Make it slightly easier to concentrate by dimming all but the active "
+#~ "window."
+#~ msgstr "إجعلها أكثر سهولة للتركيز و ذلك بجعل النوافذ الخاملة باهتة."
+
+#~ msgid "Airplane"
+#~ msgstr "طاىٔرة ورقية"
+
+#~ msgid "Airplane Flying Path Length"
+#~ msgstr "طول مسار الطاىٔرة"
+
+#~ msgid "Animation Time Step For Intense Effects"
+#~ msgstr "وقت الخطوة في التحريك للمؤثرات الثقيلة"
+
+#, fuzzy
+#~ msgid "Animations Add-On"
+#~ msgstr "التحريك"
+
+#~ msgid "Away Position"
+#~ msgstr "موقع الإبعاد"
+
+#~ msgid "Beam"
+#~ msgstr "الشعاع"
+
+#~ msgid "Beam Life"
+#~ msgstr "مدة حياة الشعاع"
+
+#~ msgid "Beam Slowdown"
+#~ msgstr "تباطؤ الشعاع"
+
+#~ msgid "Beam Spacing"
+#~ msgstr "تباعد الشعاع"
+
+#~ msgid "Beam Up"
+#~ msgstr "ظهور الشعاع"
+
+#~ msgid "Beam Width"
+#~ msgstr "طول الشعاع"
+
+#~ msgid "Beam color."
+#~ msgstr "لون الشعاع"
+
+#~ msgid "Beam life."
+#~ msgstr "مدة حياة الشعاع"
+
+#~ msgid "Beam slowdown."
+#~ msgstr "تباطؤ الشعاع"
+
+#~ msgid "Beam width."
+#~ msgstr "طول الشعاع"
+
+#~ msgid "Burn"
+#~ msgstr "الحرق"
+
+#~ msgid ""
+#~ "Closeness of window to camera at the end of the animation (1.0: Close to "
+#~ "camera, -2.0: Away from camera)."
+#~ msgstr ""
+#~ "القرب من الكاميرا عند إنتهاﺀ التحريك (١.٠: قريب من الكاميرا، ٢.٠-: بعيد "
+#~ "عن الكاميرا)."
+
+#~ msgid "Domino"
+#~ msgstr "دومينو"
+
+#~ msgid "Domino Piece Falling Direction"
+#~ msgstr "إتجاه سقوط قطع الدومينو"
+
+#~ msgid "Down"
+#~ msgstr "أسفل"
+
+#~ msgid "Explode"
+#~ msgstr "تفجير"
+
+#~ msgid "Falling direction for Domino pieces."
+#~ msgstr "إتجاه سقوط قطع الدومينو."
+
+#~ msgid "Fire Particle Slowdown"
+#~ msgstr "تباطؤ أجزاﺀ النار"
+
+#~ msgid "Fire Smoke"
+#~ msgstr "دخان النار"
+
+#~ msgid "Fire direction"
+#~ msgstr "إتجاه النار"
+
+#~ msgid "Fire particle slowdown."
+#~ msgstr "تباطؤ أجزاﺀ النار."
+
+#~ msgid "Fire smoke."
+#~ msgstr "دخان النار."
+
+#~ msgid "Fly to TaskBar on Minimize"
+#~ msgstr "طيران إلى شريط المهام "
+
+#~ msgid "Fold"
+#~ msgstr "طَوي"
+
+#~ msgid "Fold opening direction for pieces in Razr effect."
+#~ msgstr "إتجاه الطوي عند البداية للقطع في تأثير الشفرات "
+
+#, fuzzy
+#~ msgid "Glide 3"
+#~ msgstr "زحلقة ١"
+
+#~ msgid "Hexagonal"
+#~ msgstr "مسدس"
+
+#~ msgid "In"
+#~ msgstr "داخل"
+
+#~ msgid "In-out"
+#~ msgstr "داخل-خارج"
+
+#~ msgid "Left-right"
+#~ msgstr "يسار-يمين"
+
+#~ msgid "Length of airplane's flying path."
+#~ msgstr "طول مسار الطاىٔرة"
+
+#~ msgid "Make fire effect duration be dependent on window height."
+#~ msgstr "جعل مدة تأثير النار مرتبط بطول النافذة"
+
+#~ msgid "Movement direction(s) for window pieces."
+#~ msgstr "إتجاه حركة قطع النافذة"
+
+#~ msgid "Out"
+#~ msgstr "خارج"
+
+#~ msgid "Razr"
+#~ msgstr "شفرات"
+
+#~ msgid "Razr Fold Opening Direction"
+#~ msgstr "إتجاه بداية الطوي الحاد"
+
+#~ msgid "Rectangular"
+#~ msgstr "مستطيل"
+
+#~ msgid "Rotation angle of animated window pieces (in degrees)."
+#~ msgstr "زاوية دوران حركة أجزاﺀ النافذة (بالدرجات)"
+
+#~ msgid "Skewer"
+#~ msgstr "إنحراف"
+
+#~ msgid "Spacing between beams."
+#~ msgstr "التباعد بين الأشعة"
+
+#~ msgid "Tessellation Type"
+#~ msgstr "نوع الفسيفساﺀ"
+
+#~ msgid "Tessellation type for exploding window pieces."
+#~ msgstr "نوع الفسيفساﺀ لقطع النافذة المتفجرة."
+
+#~ msgid "Tessellation type for window pieces."
+#~ msgstr "نوع الفسيفساﺀ لقطع النافذة."
+
+#~ msgid ""
+#~ "The amount of time in milliseconds between each render of the intense "
+#~ "animation (Ex. Burn, Beam). The higher the number, the jerkier the "
+#~ "movements become."
+#~ msgstr ""
+#~ "المدة الزمنية بالميللي ثانية لكل صورة في التحريك للمؤثرات الثقيلة (النار "
+#~ "أو الشعاع مثلا). كلما كان الرقم أكبر، زاد سوﺀ التحريكو أصبح متقطشا."
+
+#~ msgid ""
+#~ "The animated window will be split into pieces along a grid. Specify the "
+#~ "number of grid cells along the height of the window."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على طول النافذة."
+
+#~ msgid ""
+#~ "The animated window will be split into pieces along a grid. Specify the "
+#~ "number of grid cells along the width of the window."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على عرض النافذة."
+
+#~ msgid ""
+#~ "The exploding window will be split into pieces along a grid. Specify the "
+#~ "number of grid cells along the height of the window."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على طول النافذة."
+
+#~ msgid ""
+#~ "The exploding window will be split into pieces along a grid. Specify the "
+#~ "number of grid cells along the width of the window."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على عرض النافذة."
+
+#, fuzzy
+#~ msgid ""
+#~ "The exploding window will be split into pieces along concentric circles. "
+#~ "Specify the number of concentric circles the shatter tessellation will "
+#~ "have."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على طول النافذة."
+
+#, fuzzy
+#~ msgid ""
+#~ "The exploding window with the shatter animation will be split into pieces "
+#~ "radially from the center. Specify the number of radial spokes the "
+#~ "animation will have."
+#~ msgstr ""
+#~ "النافذة المتحركة ستقسم لقطع على طول شبكة. الرجاﺀ تحديد عدد خلايا الشبكة "
+#~ "على عرض النافذة."
+
+#~ msgid "Thickness of Exploding Polygons"
+#~ msgstr "سماكة المضلّع المنفجر"
+
+#~ msgid "Thickness of animated window pieces (in pixels)."
+#~ msgstr "سماكة قطع النافذة المحركة (بالنقط)."
+
+#~ msgid "Thickness of exploding window pieces (in pixels)."
+#~ msgstr "سماكة قطع النافذة المنفجرة (بالنقط)."
+
+#~ msgid "Up-down"
+#~ msgstr "فوق-تحت"
+
+#~ msgid ""
+#~ "Whether the window should fly to taskbar when minimized with Airplane "
+#~ "effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة الطيران إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الطاىٔرة."
+
+#~ msgid "Window Grid Height"
+#~ msgstr "طول شبكة النافذة"
+
+#~ msgid "Window Grid Width"
+#~ msgstr "عرض شبكة النافذة"
+
+#~ msgid "Window folding direction."
+#~ msgstr "إتجاه طوي النافذة"
+
+#~ msgid ""
+#~ "Window thickness in pixels. Setting this to larger than 0 will disable "
+#~ "shadow, blur, and reflection during the animation."
+#~ msgstr ""
+#~ "سماكة النافذة بالنقط. ضبط هذه بقيمة أعلى من صفر سيعطّل الظلال و الغباش و "
+#~ "الإنعكاسات خلال التحريك."
+
+#~ msgid ""
+#~ "All effects are chosen randomly, ignoring the selected effect. If None is "
+#~ "selected for an event, that event won't be animated."
+#~ msgstr ""
+#~ "إختيار جميع المؤثرات بطريقة عشواىٔية، بتجاهل المؤثرات المختارة. إذا لم يتم "
+#~ "إختيار أي شئ لحدث معين، لن يتم التحريك عند هذا الحدث."
+
+#~ msgid "Animation Selection"
+#~ msgstr "إختيار التحريك"
+
+#~ msgid "Animation Time Step"
+#~ msgstr "وقت الخطوة في التحريك"
+
+#~ msgid "Animation duration in milliseconds for close effect."
+#~ msgstr "مدة التحريك للتأثير الإغلاق بالجزﺀ من الألف من الثانية"
+
+#~ msgid "Animation duration in milliseconds for focus effect."
+#~ msgstr "مدة التحريك لتأثير التركيز بالجزﺀ من الألف من الثانية"
+
+#~ msgid "Animation duration in milliseconds for minimize effect."
+#~ msgstr "مدة التحريك لتأثير التصغير بالجزﺀ من الألف من الثانية"
+
+#~ msgid "Animation duration in milliseconds for open effect."
+#~ msgstr "مدة التحريك لتأثير الفتح بالجزﺀ من الألف من الثانية"
+
+#~ msgid "Animation duration in milliseconds for shade effect."
+#~ msgstr "مدة التحريك لتأثير التظليل بالجزﺀ من الألف من الثانية"
+
+#~ msgid "Close Animation"
+#~ msgstr "حركة الإغلاق"
+
+#~ msgid "Close Effect"
+#~ msgstr "تأثير الإغلاق"
+
+#~ msgid ""
+#~ "Comma separated list of option value assignments to override effect "
+#~ "settings, e.g.: fire_color=#0080ffff, fire_particles=700, fire_smoke=1"
+#~ msgstr ""
+#~ "يمكن فصل قيم الخيارات بواسطة الفاصلة لتخطي ضوابط المؤثرات يدويامثلا: "
+#~ "fire_color=#0080ffff, fire_particles=700, fire_smoke=1"
+
+#~ msgid "Curved Fold"
+#~ msgstr "الطوي المنحني"
+
+#, fuzzy
+#~ msgid "Curved Fold Amplitude Multiplier"
+#~ msgstr "مدى تردد الطوي المنحني"
+
+#~ msgid "Dodge"
+#~ msgstr "مراوغة"
+
+#~ msgid "Dodge Gap Ratio"
+#~ msgstr "مستوى هوة المراوغة"
+
+#~ msgid "Dream"
+#~ msgstr "حلم"
+
+#~ msgid "Duration"
+#~ msgstr "مدة"
+
+#~ msgid "Fixed window interior during the Rollup animation."
+#~ msgstr "داخل النافذة ثابت أثناﺀ حركة الرفع"
+
+#~ msgid "Focus Animation"
+#~ msgstr "حركة التركيز"
+
+#~ msgid "Focus Effect"
+#~ msgstr "مؤثرات التركيز"
+
+#~ msgid "Glide 1"
+#~ msgstr "زحلقة ١"
+
+#~ msgid "Glide 2"
+#~ msgstr "زحلقة ٢"
+
+#~ msgid "Horizontal Folds"
+#~ msgstr "طوي أفقي"
+
+#, fuzzy
+#~ msgid "Horizontal Folds Amplitude Multiplier"
+#~ msgstr "مدى تردد الطوي الأفقي"
+
+#~ msgid "How spring-like the Sidekick animation should be."
+#~ msgstr "كيف حركة الركلة الخارجية عليها ان تكون مع النابض."
+
+#~ msgid "Magic Lamp"
+#~ msgstr "المصباح السحري"
+
+#~ msgid "Magic Lamp Grid Y Resolution"
+#~ msgstr "الدقة العامودية للمصباح السحري"
+
+#~ msgid "Magic Lamp Max Wave Amplitude"
+#~ msgstr "مدى التردد الأقصي للموجة في المصباح السحري"
+
+#~ msgid "Magic Lamp Max Waves"
+#~ msgstr "الموجة القصوى في المصباح السحري"
+
+#~ msgid "Magic Lamp Min Wave Amplitude"
+#~ msgstr "مدى التردد الأدنى للموجة في المصباح السحري"
+
+#~ msgid "Magic Lamp Open Start Width"
+#~ msgstr "العرض عند بداية المصباح السحري"
+
+#~ msgid "Magic Lamp Open/Close Moving End"
+#~ msgstr "نهاية فتح / غلق المصباح السحري"
+
+#~ msgid "Minimize Animation"
+#~ msgstr "حركة التصغير"
+
+#~ msgid "Minimize Effect"
+#~ msgstr "تأثير التصغير"
+
+#~ msgid "Minimize/Unminimize Only"
+#~ msgstr "تصغير / إرجاع فقط"
+
+#~ msgid "Number of Horizontal Folds"
+#~ msgstr "عدد الطويات الأفقية"
+
+#~ msgid "Number of rotations for Sidekick (plus or minus 10% for randomness)."
+#~ msgstr "عدد الدورات للركلة الجانبية (مع هامش ١٠% عشواىٔية)٭"
+
+#~ msgid "Off"
+#~ msgstr "إطفاﺀ"
+
+#~ msgid "On"
+#~ msgstr "تشغيل"
+
+#~ msgid "On open/close, move magic lamp ending point with the mouse pointer."
+#~ msgstr "عند الفتح / الغلق، إجعل نقطة نهاية الصباح السحري عند مؤشر الفأرة."
+
+#~ msgid "On open/close, move vacuum ending point with the mouse pointer."
+#~ msgstr "عند الفتح / الغلق، إجعل نقطة نهاية الفراغ عند مؤشر الفأرة."
+
+#~ msgid "Open Effect"
+#~ msgstr "تأثير الفتح"
+
+#~ msgid "Open/Close Only"
+#~ msgstr "فتح / غلق فقط"
+
+#~ msgid "Pool"
+#~ msgstr "صندوق"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pool of effects to be chosen from if Random effect is selected. Click "
+#~ "reset to use all effects."
+#~ msgstr ""
+#~ "صندوق من المؤثرات ليتم الإختيار بينهم تأثير عشواىٔي. إضعط إعادة لإستعادة "
+#~ "اللاىٔحة كاملة."
+
+#~ msgid "Random Animations For All Events"
+#~ msgstr "تحريك عشواىٔي لجميع الأحداث"
+
+#~ msgid "Random Effects"
+#~ msgstr "مؤثرات عشواىٔية"
+
+#~ msgid "Ratio of gaps between dodge start times to focus duration."
+#~ msgstr "نسبة الفرق بين وقت بداية المناورة و مدة التركيز"
+
+#~ msgid "Roll Up"
+#~ msgstr "رفع"
+
+#~ msgid "Rollup Fixed Interior"
+#~ msgstr "رفع مع داخل ثابت"
+
+#~ msgid "Shade Animation"
+#~ msgstr "حركة التظليل"
+
+#~ msgid "Shade Effect"
+#~ msgstr "تأثير التظليل"
+
+#~ msgid "Sidekick"
+#~ msgstr "الركلة الجانبية"
+
+#~ msgid "Sidekick Number of Rotations"
+#~ msgstr "عدد دوران الركلة الجانبية"
+
+#~ msgid "Sidekick Springiness"
+#~ msgstr "مرونة الركلة الجانبية"
+
+#~ msgid ""
+#~ "Starting width of open effect and ending width of close effect for Magic "
+#~ "Lamp."
+#~ msgstr "العرض عند بداية تأثر الفتح و عند نهاية تأثير الغلق للمصباح السحري."
+
+#~ msgid ""
+#~ "Starting width of open effect and ending width of close effect for Vacuum."
+#~ msgstr "العرض عند بداية الفتح و العرض عند الإغلاق لتأثير الفراغ."
+
+#~ msgid ""
+#~ "The amount of time in milliseconds between each render of the animation. "
+#~ "The higher the number, the jerkier the movements become."
+#~ msgstr ""
+#~ "المدة الزمنية بالميللي ثانية لكل صورة في التحريك. كلما كان الرقم أكبر، "
+#~ "زاد سوﺀ التحريك و أصبح متقطشا."
+
+#~ msgid "The animation effect shown when closing a window."
+#~ msgstr ".التأثير الذي سيستعمل عند إغلاق النافذة"
+
+#~ msgid "The animation effect shown when creating a window."
+#~ msgstr ".التأثير الذي سيستعمل عند إنشاﺀ النافذة"
+
+#~ msgid "The animation effect shown when focusing a window."
+#~ msgstr ".التأثير الذي سيستعمل عند تركيز النافذة"
+
+#~ msgid "The animation effect shown when minimizing a window."
+#~ msgstr ".التأثير الذي سيستعمل عند تصغير النافذة"
+
+#~ msgid "The animation effect shown when shading a window."
+#~ msgstr ".التأثير الذي سيستعمل عند تظليل النافذة"
+
+#~ msgid "The maximum amplitude (size of the waves) Magic Lamp will have."
+#~ msgstr "مدى التردد الأقصى (حجم الموجات) للمصباح السحري."
+
+#~ msgid "The minimum amplitude (size of the waves) Magic Lamp will have."
+#~ msgstr "مدى التردد الأدنى (حجم الموجات) للمصباح السحري."
+
+#~ msgid ""
+#~ "The number of horizontal folds that occur in the Horizontal Fold "
+#~ "animation."
+#~ msgstr "عدد الطويات الأفقية في تأثير الطوي الأفقي."
+
+#~ msgid "The width of the wave relative to the window height."
+#~ msgstr "عرض الموجة بالنسبة لطول النافذة."
+
+#~ msgid "The windows that will be animated."
+#~ msgstr "النوافذ التي ستحرّك."
+
+#~ msgid "Use various animations as window effects"
+#~ msgstr "إستعمل تحريكات متنوعة كمؤثرات للنافذة"
+
+#~ msgid "Vacuum"
+#~ msgstr "فراغ"
+
+#~ msgid "Vacuum Grid Y Resolution"
+#~ msgstr "الدقة العامودية للشبكة في تأثير الفراغ"
+
+#~ msgid "Vacuum Open Start Width"
+#~ msgstr "العرض عند بدﺀ تأثير الفراغ"
+
+#~ msgid "Vacuum Open/Close Moving End"
+#~ msgstr "حركة النهاية عند الفتح و الإغلاق أثناﺀ إستعمال تأثير الفراغ"
+
+#~ msgid "Wave"
+#~ msgstr "موجة"
+
+#~ msgid "Wave Width"
+#~ msgstr "عرض الموجة"
+
+#~ msgid ""
+#~ "Whether the window should zoom to taskbar when minimized with Curved Fold "
+#~ "effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة أن تُحجّم إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الطوي المنحني."
+
+#~ msgid ""
+#~ "Whether the window should zoom to taskbar when minimized with Dream "
+#~ "effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة أن تُحجّم إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الطوي المنحني."
+
+#~ msgid ""
+#~ "Whether the window should zoom to taskbar when minimized with Glide 1 "
+#~ "effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة أن تُحجّم إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الزحلقة ١."
+
+#~ msgid ""
+#~ "Whether the window should zoom to taskbar when minimized with Glide 2 "
+#~ "effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة أن تُحجّم إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الزحلقة ٢."
+
+#~ msgid ""
+#~ "Whether the window should zoom to taskbar when minimized with Horizontal "
+#~ "Folds effect."
+#~ msgstr ""
+#~ "إذا كان على النافذة أن تُحجّم إلى شريط المهام عند تصغيرها مع إستعمال تأثير "
+#~ "الطوي الأفقي."
+
+#~ msgid "Window that should animate with this effect when focused."
+#~ msgstr "النافذة التي يجب تحريكها مع هذا التأثير عند التركيزعليها"
+
+#~ msgid "Window that should animate with this effect when shaded."
+#~ msgstr "النافذة التي يجب تحريكها مع هذا التأثير عند تظليلها"
+
+#~ msgid "Zoom Springiness"
+#~ msgstr "نابض التكبير"
+
+#~ msgid "Zoom from Center"
+#~ msgstr "تكبير من الوسط"
+
+#~ msgid "Zoom from center when playing the Sidekick animation."
+#~ msgstr "تكبير من الوسط عند قيام تحريك الركلة الجانبية"
+
+#~ msgid "Zoom from center when playing the Zoom animation."
+#~ msgstr "تكبير من الوسط عند قيام تحريك التكبير"
+
+#~ msgid "Zoom to TaskBar on Minimize"
+#~ msgstr "تحجيم إلى شريط المهام عند التصغير"
+
+#~ msgid "A simple benchmark plugin"
+#~ msgstr "إضافة من أجل قياس الأداﺀ"
+
+#~ msgid "Benchmark"
+#~ msgstr "قياس الأداﺀ"
+
+#, fuzzy
+#~ msgid "Deform caps"
+#~ msgstr "مدة"
+
+#, fuzzy
+#~ msgid "Deformation mode."
+#~ msgstr "مدة"
+
+#, fuzzy
+#~ msgid "Element Title Display"
+#~ msgstr "أنواع النوافذ"
+
+#, fuzzy
+#~ msgid "Element size"
+#~ msgstr "حجم اجزاﺀ النار."
+
+#, fuzzy
+#~ msgid "Curve"
+#~ msgstr "الطوي المنحني"
+
+#, fuzzy
+#~ msgid "Zoom Box"
+#~ msgstr "تكبير"
+
+#, fuzzy
+#~ msgid "Add Particle"
+#~ msgstr "مدة حياة اجزاﺀ النار"
+
+#, fuzzy
+#~ msgid "Background/Window brightness."
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Background/Window saturation."
+#~ msgstr "قوة الألوان"
+
+#, fuzzy
+#~ msgid "Login Window Match"
+#~ msgstr "تطابق النافذة"
+
+#, fuzzy
+#~ msgid "Login Window match"
+#~ msgstr "تطابق النافذة"
+
+#, fuzzy
+#~ msgid "Logout Window Match"
+#~ msgstr "تطابق النافذة"
+
+#, fuzzy
+#~ msgid "Logout Window match"
+#~ msgstr "تطابق النافذة"
+
+#, fuzzy
+#~ msgid "Border color"
+#~ msgstr "لون الشعاع"
+
+#, fuzzy
+#~ msgid "Border width"
+#~ msgstr "طول الشعاع"
+
+#, fuzzy
+#~ msgid "Border widtht."
+#~ msgstr "طول الشعاع"
+
+#, fuzzy
+#~ msgid "Box width."
+#~ msgstr "طول الشعاع"
+
+#, fuzzy
+#~ msgid "Mode"
+#~ msgstr "مراوغة"
+
+#, fuzzy
+#~ msgid "Mode."
+#~ msgstr "مراوغة"
+
+#, fuzzy
+#~ msgid "Horizontal-only maximumize"
+#~ msgstr "طوي أفقي"
+
+#, fuzzy
+#~ msgid "Maximumize Bindings"
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Maximumize to down."
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Minimumize Bindings"
+#~ msgstr "حركة التصغير"
+
+#, fuzzy
+#~ msgid "Shrink the window upwards."
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Info"
+#~ msgstr "داخل"
+
+#, fuzzy
+#~ msgid "Close window while in scale mode"
+#~ msgstr "إرفع النوافذ عند دوران المكعب"
+
+#, fuzzy
+#~ msgid "Window Pull"
+#~ msgstr "عمق النافذة"
+
+#, fuzzy
+#~ msgid "Zoom Window"
+#~ msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+#~ msgid "Windows to ignore"
+#~ msgstr "لزوجة النافذه"
+
+#, fuzzy
+#~ msgid "Animation duration"
+#~ msgstr "إختيار التحريك"
+
+#, fuzzy
+#~ msgid "Duration of the animation in milliseconds."
+#~ msgstr "مدة التحريك لتأثير الفتح بالجزﺀ من الألف من الثانية"
+
+#, fuzzy
+#~ msgid "Number of particle emiters."
+#~ msgstr "عدد أجزاﺀ النار."
+
+#, fuzzy
+#~ msgid "Particle Life"
+#~ msgstr "مدة حياة اجزاﺀ النار"
+
+#, fuzzy
+#~ msgid "Particle Slowdown"
+#~ msgstr "تباطؤ أجزاﺀ النار"
+
+#, fuzzy
+#~ msgid "Particle life."
+#~ msgstr "مدة حياة اجزاﺀ النا.ر"
+
+#, fuzzy
+#~ msgid "Particle slowdown."
+#~ msgstr "تباطؤ أجزاﺀ النار."
+
+#, fuzzy
+#~ msgid "Randomly Colored Particles"
+#~ msgstr "نار ملونة عشواىٔيا"
+
+#, fuzzy
+#~ msgid "Rotation speed."
+#~ msgstr "زاوية الدوران"
+
+#, fuzzy
+#~ msgid "Non Sliding Windows"
+#~ msgstr "نوافذ ثلاثية الأبعاد"
+
+#, fuzzy
+#~ msgid "Background fill type."
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Fill or first gradient color."
+#~ msgstr "لون أجزاﺀ النار."
+
+#, fuzzy
+#~ msgid "Image position."
+#~ msgstr "موقع الإبعاد"
+
+#, fuzzy
+#~ msgid "Background Brightness"
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Background Saturation"
+#~ msgstr "قوة الألوان"
+
+#, fuzzy
+#~ msgid "Windows that always should be treated as widgets"
+#~ msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#, fuzzy
+#~ msgid "Maximized windows"
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#~ msgid "Width values"
+#~ msgstr "قِيَم العرض"
+
+#~ msgid "Window Rules"
+#~ msgstr "قواعد النوافذ"
+
+#~ msgid "Windows that should be treated as not supporting transparency"
+#~ msgstr "النوافذ التي يجب أن تعامل على أنها غير داعمه للشفافيه"
+
+#~ msgid "Window stickyness"
+#~ msgstr "لزوجة النافذه"
+
+#~ msgid "Windows on all desktops that should be made sticky"
+#~ msgstr "النوافذ التي يجب أن تكون لاصقة على جميع الأسطح"
+
+#, fuzzy
+#~ msgid "Directory"
+#~ msgstr "إتجاه الطَوي"
+
+#~ msgid ""
+#~ "Amplitude (size of the waves in the fold) of the Horizontal Folds "
+#~ "relative to the window width. Negative values fold outward."
+#~ msgstr ""
+#~ "مدى التردد (لموجات الطوي) للطوي الأفقي بالنسبةلطول النافذة. القيمة "
+#~ "السالبة تقوم بطوي معاكس للخارج."
+
+#~ msgid ""
+#~ "Amplitude (size of the waves in the fold) of the curved fold relative to "
+#~ "window width. Negative values fold outward."
+#~ msgstr ""
+#~ "مدى التردد (لموجات الطوي) للطوي المنحني الأفقي بالنسبةلطول النافذة. "
+#~ "القيمة السالبة تقوم بطوي معاكس للخارج."
+
+#~ msgid ""
+#~ "The wave amplitude (size of the waves) relative to the window height."
+#~ msgstr "حجم الموجات بالنسبة إلى طول النافذة."
+
+#, fuzzy
+#~ msgid "Brightness Increase"
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Brightness Step"
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Brightness and Saturation"
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Brightness settings"
+#~ msgstr "النصوع"
+
+#, fuzzy
+#~ msgid "Brightness window values"
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Brightness windows"
+#~ msgstr "نصوع النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Saturation Decrease"
+#~ msgstr "قوة الألوان"
+
+#, fuzzy
+#~ msgid "Saturation Increase"
+#~ msgstr "قوة الألوان"
+
+#, fuzzy
+#~ msgid "Saturation settings"
+#~ msgstr "قوة الألوان"
+
+#, fuzzy
+#~ msgid "Saturation values for windows"
+#~ msgstr "قوة الألوان في النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Saturation window values"
+#~ msgstr "قوة الألوان في النوافذ المتلاشية"
+
+#, fuzzy
+#~ msgid "Window specific"
+#~ msgstr "مسافة النافذة"
+
+#, fuzzy
+#~ msgid "Windows that should have a different brightness by default"
+#~ msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#, fuzzy
+#~ msgid "Windows that should have a different saturation by default"
+#~ msgstr "النوافذ التي يجب أن تعالج بثلاثة أبعاد"
+
+#~ msgid "Animation Speed"
+#~ msgstr "سرعة الحركة"
+
+#~ msgid "Misc. options"
+#~ msgstr "خيارات أخرى"
