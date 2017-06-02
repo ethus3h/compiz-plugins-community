@@ -1,6 +1,7 @@
 xmldir       = $(metadatadir)
 
 xml_in_files =               \
+	boing.xml.in         \
 	roach.xml.in         \
 	rubik.xml.in
 

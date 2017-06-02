@@ -1,1 +1,1 @@
-SUBDIRS = roach
+SUBDIRS = boing roach
