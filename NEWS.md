@@ -2,6 +2,7 @@
 ================================================================
 
 - Add rubik plugin.
+- Fixes to roach from matijaskala.
 
 ## Release 0.8.14 (2017-05-31 Elliot Chandler <elliot@futuramerlin.com>)
 
