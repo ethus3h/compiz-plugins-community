@@ -31,12 +31,8 @@
  * for helping me make this possible
  */
 
-
-#include <math.h>
-
 #include <compiz-core.h>
 #include "roach_options.h"
-#include <time.h>
 
 
 #define GET_ROACH_DISPLAY(d)                            \
@@ -785,6 +781,7 @@ roachInitDisplay (CompPlugin  *p,
     roachSetLeafSizeNotify (d, roachDisplayOptionChanged);
     roachSetAutumnUpdateDelayNotify (d, roachDisplayOptionChanged);
     roachSetLeafTexturesNotify (d, roachDisplayOptionChanged);
+    roachSetDefaultEnabledNotify (d, roachDisplayOptionChanged);
 
     texOpt = roachGetLeafTexturesOption (d);
     sd->roachTexFiles = texOpt->value.list.value;
