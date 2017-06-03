@@ -1,6 +1,7 @@
 ## Release 0.8.15 (????-??-?? Elliot Chandler <elliot@futuramerlin.com>)
 ================================================================
 
+- Add boing plugin.
 - Add rubik plugin.
 - Fixes to roach from matijaskala.
 
