@@ -2,6 +2,7 @@
 ================================================================
 
 - Add boing plugin.
+- Add newton plugin.
 - Add rubik plugin.
 - Fixes to roach from matijaskala.
 
