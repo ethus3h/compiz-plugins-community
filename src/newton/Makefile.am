@@ -1,5 +1,5 @@
 ## Process this file with automake to produce Makefile.in
-PFLAGS=-module -avoid-version -no-undefined -std=c99
+PFLAGS=-module -avoid-version -no-undefined
 
 libnewton_la_LDFLAGS = $(PFLAGS)
 libnewton_la_LIBADD = @COMPIZ_LIBS@
@@ -14,7 +14,8 @@ AM_CPPFLAGS =                              \
 	-DDATADIR='"$(compdatadir)"'        \
 	-DLIBDIR='"$(libdir)"'              \
 	-DLOCALEDIR="\"@datadir@/locale\""  \
-	-DIMAGEDIR='"$(imagedir)"'
+	-DIMAGEDIR='"$(imagedir)"'          \
+	-std=c99
 
 moduledir = $(plugindir)
 
