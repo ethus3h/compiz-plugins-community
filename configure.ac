@@ -129,6 +129,7 @@ images/roach/Makefile
 metadata/Makefile
 src/Makefile
 src/boing/Makefile
+src/newton/Makefile
 src/roach/Makefile
 src/rubik/Makefile
 po/Makefile.in

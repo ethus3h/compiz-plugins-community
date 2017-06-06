@@ -1,5 +1,6 @@
 # List of source files containing translatable strings.
 # Please keep this file sorted alphabetically.
 metadata/boing.xml.in
+metadata/newton.xml.in
 metadata/roach.xml.in 
 metadata/rubik.xml.in
