@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="maze" useBcop="true">
+		<short>Maze</short>
+		<long>Render a maze inside of the transparent cube</long>
+		<category>Effects</category>
+		<deps>
+		    <relation type="after">
+			    <plugin>cube</plugin>
+			    <plugin>rotate</plugin>
+		    </relation>
+		    <requirement>
+			    <plugin>cube</plugin>
+		    </requirement>
+		</deps>
+		<screen>
+			<option name="max_speed" type="float">
+				<short>Max Speed</short>
+				<long>Maximum velocity the ball is allowed to travel at.</long>
+				<default>32</default>
+				<min>16</min>
+				<max>64</max>
+				<precision>0.5</precision>
+			</option>
+			<option name="scale" type="float">
+				<short>Scale</short>
+				<long>Scale the maze size up or down.</long>
+				<default>0.028</default>
+				<min>0.02</min>
+				<max>0.03</max>
+				<precision>0.001</precision>
+			</option>
+			<option name="height" type="float">
+				<short>Height</short>
+				<long>Where to place the maze within the cube</long>
+				<default>-15</default>
+				<min>-18</min>
+				<max>18</max>
+				<precision>1.0</precision>
+			</option>
+			<option name="top_face_colour" type="color">
+				<_short>Top Colour</_short>
+				<_long>Colour to display on top</_long>
+				<default>
+					<red>0x0</red>
+					<green>0xffff</green>
+					<blue>0x0</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="bottom_face_colour" type="color">
+				<_short>Bottom Colour</_short>
+				<_long>Colour to display on the bottom</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0x00ff</green>
+					<blue>0x0</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="north_face_colour" type="color">
+				<_short>North Face Colour</_short>
+				<_long>Colour to display on the north face</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0x0</green>
+					<blue>0xffff</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="east_face_colour" type="color">
+				<_short>East Face Colour</_short>
+				<_long>Colour to display on the east face wall</_long>
+				<default>
+					<red>0x0</red>
+					<green>0x0</green>
+					<blue>0xffff</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="south_face_colour" type="color">
+				<_short>South Face Colour</_short>
+				<_long>Colour to display on the south face wall</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0x0</green>
+					<blue>0x0</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="west_face_colour" type="color">
+				<_short>West Face Colour</_short>
+				<_long>Colour to display on the west face wall</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0xffff</green>
+					<blue>0x0</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="ball_colour1" type="color">
+				<_short>First Ball Colour</_short>
+				<_long>First colour to draw the ball in</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0x0</green>
+					<blue>0x0</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="ball_colour2" type="color">
+				<_short>Second Ball Colour</_short>
+				<_long>Second colour to draw the ball in</_long>
+				<default>
+					<red>0xffff</red>
+					<green>0xffff</green>
+					<blue>0xffff</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+			<option name="border_colour" type="color">
+				<_short>Border Colour</_short>
+				<_long>Colour to draw the surrounding border in</_long>
+				<default>
+					<red>0xff</red>
+					<green>0xff</green>
+					<blue>0xff</blue>
+					<alpha>0xffff</alpha>
+				</default>
+			</option>			
+		</screen>			
+	</plugin>
+</compiz>
