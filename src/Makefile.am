@@ -2,6 +2,7 @@
 
 SUBDIRS =                \
 	boing              \
+	maze               \
 	newton             \
 	roach              \
 	rubik
