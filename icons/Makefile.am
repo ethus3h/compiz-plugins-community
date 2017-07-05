@@ -1,5 +1,5 @@
 iconsdir = $(pluginiconsdir)
-icons_DATA =	      \
+icons_DATA =        \
   plugin-boing.svg  \
   plugin-maze.svg   \
   plugin-newton.svg \
