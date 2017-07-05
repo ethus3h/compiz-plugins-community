@@ -80,6 +80,8 @@ AC_SUBST(imagedir)
 metadatadir=$datadir/compiz
 AC_SUBST(metadatadir)
 
+pluginiconsdir=$datadir/compiz/icons
+
 compdatadir=$datadir/compiz
 AC_SUBST(compdatadir)
 
@@ -123,6 +125,7 @@ AC_SUBST(GL_LIBS)
 
 AC_OUTPUT([
 Makefile
+icons/Makefile
 images/Makefile
 images/boing/Makefile
 images/roach/Makefile
