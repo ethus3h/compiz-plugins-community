@@ -81,6 +81,7 @@ metadatadir=$datadir/compiz
 AC_SUBST(metadatadir)
 
 pluginiconsdir=$datadir/compiz/icons
+AC_SUBST(pluginiconsdir)
 
 compdatadir=$datadir/compiz
 AC_SUBST(compdatadir)
