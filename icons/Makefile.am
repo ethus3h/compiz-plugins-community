@@ -5,3 +5,10 @@ icons_DATA =        \
   plugin-newton.svg \
   plugin-roach.svg  \
   plugin-rubik.svg
+
+EXTRA_DIST =        \
+  plugin-boing.svg  \
+  plugin-maze.svg   \
+  plugin-newton.svg \
+  plugin-roach.svg  \
+  plugin-rubik.svg
