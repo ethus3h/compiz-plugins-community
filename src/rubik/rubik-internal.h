@@ -76,8 +76,13 @@ RubikDisplay;
 typedef struct _faceRec
 {
 	float  color[4];
-}
+	
+	float **th;
+	
+	}
 faceRec;
+
+
 
 typedef struct _RubikScreen
 {
@@ -113,7 +118,10 @@ typedef struct _RubikScreen
     
 	float *th;
 	float *oldTh;
-	
+
+	float *psi;
+	float *oldPsi;
+
 	CompWindow ** w;
 	
     Box * oldClip;
@@ -126,7 +134,6 @@ RubikScreen;
 
 typedef struct _RubikWindow{
 	float x, y, z;
-	float psi;
 	Bool rotated;
 	
     DrawWindowGeometryProc drawWindowGeometry;
@@ -163,8 +170,11 @@ float distance;//perpendicular distance to wall from centre
 int hSize; // horizontal desktop size
 float q;   // equal to float version of hSize (replace with hSizef some time)
 
-int vSize; // vertical size
+int vStrips;
 int currentVStrip; 
+
+int hStrips;
+int currentHStrip;
 
 float currentStripCounter;
 int currentStripDirection;
