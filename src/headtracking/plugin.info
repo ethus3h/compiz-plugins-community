@@ -1,2 +1,0 @@
-PLUGIN = headtracking
-CHK_HEADERS = compiz-wiimote.h compiz-cube.h
