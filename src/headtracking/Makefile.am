@@ -1,12 +1,12 @@
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
-libnewton_la_LDFLAGS = $(PFLAGS)
-libnewton_la_LIBADD = @COMPIZ_LIBS@
-nodist_libnewton_la_SOURCES = newton_options.c newton_options.h
-dist_libnewton_la_SOURCES = chipmunk.c chipmunk.h cpArbiter.c cpArbiter.h cpArray.c cpArray.h cpBB.c cpBB.h cpBody.c cpBody.h cpCollision.c cpCollision.h cpHashSet.c cpHashSet.h cpJoint.c cpJoint.h cpPolyShape.c cpPolyShape.h cpShape.c cpShape.h cpSpace.c cpSpace.h cpSpaceHash.c cpSpaceHash.h cpVect.c cpVect.h newton.c prime.h
+libheadtracking_la_LDFLAGS = $(PFLAGS)
+libheadtracking_la_LIBADD = @COMPIZ_LIBS@
+nodist_libheadtracking_la_SOURCES = headtracking_options.c headtracking_options.h
+dist_libheadtracking_la_SOURCES = chipmunk.c chipmunk.h cpArbiter.c cpArbiter.h cpArray.c cpArray.h cpBB.c cpBB.h cpBody.c cpBody.h cpCollision.c cpCollision.h cpHashSet.c cpHashSet.h cpJoint.c cpJoint.h cpPolyShape.c cpPolyShape.h cpShape.c cpShape.h cpSpace.c cpSpace.h cpSpaceHash.c cpSpaceHash.h cpVect.c cpVect.h headtracking.c prime.h
 
-BUILT_SOURCES = $(nodist_libnewton_la_SOURCES)
+BUILT_SOURCES = $(nodist_libheadtracking_la_SOURCES)
 
 AM_CPPFLAGS =                              \
 	-I$(top_srcdir)/include             \
@@ -19,12 +19,12 @@ AM_CPPFLAGS =                              \
 
 moduledir = $(plugindir)
 
-module_LTLIBRARIES = libnewton.la
+module_LTLIBRARIES = libheadtracking.la
 
 CLEANFILES = *_options.c *_options.h
 
-newton_options.h: ../../metadata/newton.xml.in
+headtracking_options.h: ../../metadata/headtracking.xml.in
 		$(BCOP_BIN) --header $@ $<
 
-newton_options.c: ../../metadata/newton.xml.in newton_options.h
+headtracking_options.c: ../../metadata/headtracking.xml.in headtracking_options.h
 		$(BCOP_BIN) --source $@ $<
