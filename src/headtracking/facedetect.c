@@ -294,7 +294,7 @@ int headtrackThread(int *x1, int *y1, int *x2, int *y2, int lissage)
 	}
 	if (capture) {
 		if (cvGrabFrame(capture)) {
-			frame = cvRetrieveFrame( capture );
+			frame = cvRetrieveFrame( capture, 0 );
 			if(frame) {
 				if( !frame_copy )
 					frame_copy = cvCreateImage( cvSize(frame->width,frame->height), IPL_DEPTH_8U, frame->nChannels );
@@ -365,7 +365,8 @@ int detect(double scale, int uX, int uY, int *x1, int *y1, int *x2, int *y2, int
 				//|CV_HAAR_DO_CANNY_PRUNING
 				//|CV_HAAR_SCALE_IMAGE
 				,
-				cvSize(30, 30) );
+				cvSize(30, 30),
+				cvSize(0, 0) );
 			for( i = 0; i < (faces ? faces->total : 0); i++ ) {
 				CvRect* r = (CvRect*)cvGetSeqElem( faces, i );
 				resx1 = r->x * scale;
