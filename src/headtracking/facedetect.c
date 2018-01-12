@@ -65,11 +65,13 @@ typedef struct {
 // Thread part : background detection
 static void *threadRoutine(void *p) {
 	int ret, x1, y1, x2, y2, alive = 1;
-	threadarg_t *arg = (threadarg_t *)p;
+	int lissage = ((threadarg_t *)p)->lissage;
+	int delay = ((threadarg_t *)p)->delay;
+	// free(p);
 
 	init();
 	while (alive) {
-		ret = headtrackThread(&x1, &y1, &x2, &y2, arg->lissage);
+		ret = headtrackThread(&x1, &y1, &x2, &y2, lissage);
 		pthread_mutex_lock(&mutex);
 		thx1 = x1;
 		thy1 = y1;
@@ -78,13 +80,12 @@ static void *threadRoutine(void *p) {
 		thret = ret;
 		alive = threadAlive;
 		pthread_mutex_unlock(&mutex);
-		usleep(arg->delay);
+		usleep(delay);
 	}
-	pthread_mutex_lock(&mutex);
 	end();
+	pthread_mutex_lock(&mutex);
 	tid = -1;
 	pthread_mutex_unlock(&mutex);
-	free(arg);
 	return(NULL);
 }
 
@@ -104,6 +105,8 @@ void endThread(void) {
 
 void init(void)
 {
+    // FIXME: Use a type=file option in the CCS configuration
+    //        to store the path to the cascade file.
 	char *home = getenv("HOME"), *path = NULL;
 	struct stat fileExists;
 
@@ -557,9 +560,12 @@ int detect(double scale, int uX, int uY, int *x1, int *y1, int *x2, int *y2, int
 		*y1 = (resy1 + (resy2 - resy1) / 3) * uY / frame_copy->height;
 		*x2 = resx2 * uX / frame_copy->width;
 		*y2 = *y1;
-		lar = *x2 - *x1;
-		*x1 += lar / 3;
-		*x2 -= lar / 3;
+		// lar = *x2 - *x1;
+		// *x1 += lar / 3;
+		// *x2 -= lar / 3;
+		lar = (*x1 + *x2) / 2;
+		*x1 = lar - 3;
+		*x2 = lar + 3;
 		// *x1 = resx1 * uX / frame_copy->width;
 		// *y1 = resy1 * uY / frame_copy->height;
 		// *x2 = resx2 * uX / frame_copy->width;
