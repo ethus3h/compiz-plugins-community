@@ -1,8 +1,6 @@
 headtrackingdir = $(compdatadir)/headtracking
-headtracking_DATA =      \
-	headtracking.frag \
-	headtracking.vert
+headtracking_DATA =                  \
+	haarcascade_frontalface_alt2.xml
 
-EXTRA_DIST =      \
-	headtracking.frag \
-headtracking.vert
+EXTRA_DIST =                         \
+	haarcascade_frontalface_alt2.xml
