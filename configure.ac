@@ -127,6 +127,7 @@ AC_SUBST(GL_LIBS)
 AC_OUTPUT([
 Makefile
 data/Makefile
+data/headtracking/Makefile
 icons/Makefile
 images/Makefile
 images/boing/Makefile
