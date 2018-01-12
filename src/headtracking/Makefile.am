@@ -4,7 +4,7 @@ PFLAGS=-module -avoid-version -no-undefined
 libheadtracking_la_LDFLAGS = $(PFLAGS)
 libheadtracking_la_LIBADD = @COMPIZ_LIBS@
 nodist_libheadtracking_la_SOURCES = headtracking_options.c headtracking_options.h
-dist_libheadtracking_la_SOURCES = chipmunk.c chipmunk.h cpArbiter.c cpArbiter.h cpArray.c cpArray.h cpBB.c cpBB.h cpBody.c cpBody.h cpCollision.c cpCollision.h cpHashSet.c cpHashSet.h cpJoint.c cpJoint.h cpPolyShape.c cpPolyShape.h cpShape.c cpShape.h cpSpace.c cpSpace.h cpSpaceHash.c cpSpaceHash.h cpVect.c cpVect.h headtracking.c prime.h
+dist_libheadtracking_la_SOURCES = facedetect.c headtracking.c facedetect.h compiz-wiimote.h
 
 BUILT_SOURCES = $(nodist_libheadtracking_la_SOURCES)
 
