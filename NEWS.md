@@ -2,6 +2,7 @@
 ================================================================
 
 - Add boing plugin.
+- Add headtracking plugin.
 - Add maze plugin.
 - Add newton plugin.
 - Add rubik plugin.
