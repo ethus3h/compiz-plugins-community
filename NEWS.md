@@ -2,7 +2,7 @@
 ================================================================
 
 - Add boing plugin.
-- Add headtracking plugin.
+- Add headtracking plugin (adds dependency on app-misc/cwiid).
 - Add maze plugin.
 - Add newton plugin.
 - Add rubik plugin.
