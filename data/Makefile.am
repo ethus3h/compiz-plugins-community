@@ -1,1 +1,1 @@
-SUBDIRS = earth
+SUBDIRS = headtracking
