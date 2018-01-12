@@ -2,7 +2,7 @@
 ================================================================
 
 - Add boing plugin.
-- Add headtracking plugin (adds dependency on app-misc/cwiid).
+- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv).
 - Add maze plugin.
 - Add newton plugin.
 - Add rubik plugin.
