@@ -1,9 +1,8 @@
-
-earthdir = $(compdatadir)/earth
-earth_DATA =      \
-	earth.frag \
-	earth.vert
+headtrackingdir = $(compdatadir)/headtracking
+headtracking_DATA =      \
+	headtracking.frag \
+	headtracking.vert
 
 EXTRA_DIST =      \
-	earth.frag \
-earth.vert
+	headtracking.frag \
+headtracking.vert
