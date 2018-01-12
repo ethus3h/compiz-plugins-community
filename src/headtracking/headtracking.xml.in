@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compiz>
+	<plugin name="headtracking" useBcop="true">
+		<_short>HeadTracking</_short>
+		<_long>Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam.</_long>
+		<category>Effects</category>
+		<deps>
+			<relation type="after">
+			    <plugin>cube</plugin>
+	        </relation>
+	        <!-- 
+	             We will not require wiimote,
+	             but is definitely needed for
+	             normal operation of the plugin
+	        -->
+	    </deps>
+	<display>
+		<group>
+		<_short>HeadTracking</_short>
+			<subgroup>
+			<_short>Keybindings</_short>
+			    <option type="key" name="manual_in">
+				    <_short>Move Window Closer</_short>
+				    <_long>Manually move a window closer. Z-depth is ignored</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;Page_Down</default>
+			    </option>
+			    <option type="key" name="manual_out">
+				    <_short>Move Window Away</_short>
+				    <_long>Manually move a window further out. Z-depth is ignored</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;Page_Up</default>
+			    </option>
+			    <option type="key" name="manual_reset">
+				    <_short>Reset Window Depth</_short>
+				    <_long>Reset the window's depth so it uses Z level</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;Home</default>
+			    </option>
+			</subgroup>
+			<subgroup>
+			<_short>Debugging</_short>
+			    <option type="bool" name="debug_enabled">
+				    <_short>Enable debugging keys</_short>
+				    <_long>Enable the debugging key combinations</_long>
+				    <default>false</default>
+			    </option>
+			    <option type="key" name="camera_up">
+				    <_short>Camera up</_short>
+				    <_long>Manually move camera up</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;w</default>
+			    </option>
+			    <option type="key" name="camera_down">
+				    <_short>Camera down</_short>
+				    <_long>Manually move camera down</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;s</default>
+			    </option>
+			    <option type="key" name="camera_left">
+				    <_short>Camera left</_short>
+				    <_long>Manually move camera left</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;a</default>
+			    </option>
+			    <option type="key" name="camera_right">
+				    <_short>Camera right</_short>
+				    <_long>Manually move camera right</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;d</default>
+			    </option>
+			    <option type="key" name="camera_in">
+				    <_short>Camera in</_short>
+				    <_long>Manually move camera closer to screen</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;e</default>
+			    </option>
+			    <option type="key" name="camera_out">
+				    <_short>Camera out</_short>
+				    <_long>Manually move camera away from screen</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;q</default>
+			    </option>
+			    <option type="key" name="camera_reset">
+				    <_short>Camera reset</_short>
+				    <_long>Reset camera to default head position</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;r</default>
+			    </option>
+			    <option type="key" name="toggle_mouse">
+				    <_short>Toggle mouse tracking</_short>
+				    <_long>Toggle mouse tracking on and off</_long>
+				    <default>&lt;Alt&gt;&lt;Super&gt;t</default>
+			    </option>
+			</subgroup>
+		</group>
+	</display>
+	<screen>
+		<group>
+		<_short>HeadTracking</_short>
+			<option type="int" name="window_depth">
+				<_short>Window depth</_short>
+				<_long>How far apart windows are when stacked based on Z level</_long>
+				<default>10</default>
+				<min>0</min>
+				<max>100</max>
+			</option>
+			<option type="int" name="stack_padding">
+			    <_short>Stack Padding</_short>
+			    <_long>Make your windows pop out this far from the screen. 100 is cube size</_long>
+			    <default>0</default>
+                <min>0</min>
+                <max>1000</max>
+            </option>
+			<option type="bool" name="enable_tracking">
+			    <_short>Enable WII Tracking</_short>
+			    <_long>Enable tracking using JCL's algorithm. You must have wiimote enabled to use this.</_long>
+			    <default>false</default>
+			</option>
+			<option type="bool" name="enable_camtracking">
+			    <_short>Enable Webcam Tracking</_short>
+			    <_long>Enable tracking using JCL's algorithm. You must have webcam enabled to use this.</_long>
+			    <default>false</default>
+			</option>
+			<option type="int" name="fade_time">
+			    <_short>Fade Time</_short>
+			    <_long>Length of animation for 3d window stacking z-order changes</_long>
+			    <default>20</default>
+                <min>1</min>
+                <max>200</max>
+			</option>
+			<subgroup>
+			<_short>Calibration</_short>
+			        <option type="bool" name="wiimote_above">
+			            <_short>WiiMote or Cam Above Screen</_short>
+			            <_long>Enable this if your Wiimote or your Webcam is above your screen.</_long>
+			            <default>true</default>
+			        </option>
+			        <option type="int" name="wiimote_adjust">
+			            <_short>Height adjustment</_short>
+			            <_long>Use this to adjust the head height</_long>
+			            <default>0</default>
+			            <min>-100</min>
+			            <max>100</max>
+			        </option>
+			        <option type="int" name="bar_width">
+			            <_short>Sensor Bar Width</_short>
+			            <_long>Use this to adjust your distance from the screen</_long>
+			            <default>100</default>
+			            <min>1</min>
+			            <max>1000</max>
+			        </option>
+			        <option type="int" name="wiimote_vertical_angle">
+			            <_short>Wiimote or Cam Vertical Angle</_short>
+			            <_long>Angle of wiimote or webcam in radians * 100</_long>
+			            <default>0</default>
+			            <min>-100</min>
+			            <max>100</max>
+			        </option>
+			</subgroup>
+			<subgroup>
+			<_short>Webcam</_short>
+			        <option type="bool" name="webcam_lissage">
+			            <_short>Avoid jumpings and trembling</_short>
+			            <_long>Use this if the windows are unstable when you don't move your head</_long>
+			            <default>true</default>
+			        </option>
+			        <option type="bool" name="webcam_smooth">
+			            <_short>Smoothen the movements</_short>
+			            <_long>Use this if the windows are jumping brutally</_long>
+			            <default>false</default>
+			        </option>
+			</subgroup>
+			<subgroup>
+			<_short>Debugging</_short>
+			    <option type="int" name="camera_move">
+				    <_short>Camera move increment</_short>
+				    <_long>How far to move the camera on one key press</_long>
+				    <default>10</default>
+				    <min>0</min>
+				    <max>50</max>
+			    </option>
+			    <option type="int" name="screen_percent">
+				    <_short>Mouse Screen Percentage</_short>
+				    <_long>How much of the screen represents the actual screen. 100 is "exact"</_long>
+				    <default>100</default>
+				    <min>1</min>
+				    <max>100</max>
+			    </option>
+			</subgroup>
+		</group>
+	</screen>
+</plugin>
+</compiz>
