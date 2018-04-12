@@ -50,7 +50,6 @@ void wiimoteCWiiDCallback(cwiid_wiimote_t *wiimote, int mesg_count,
                     union cwiid_mesg mesg[], struct timespec *timestamp)
 {
 	int i, j;
-	int valid_source;
 	float totalX = 0.0f, totalY = 0.0f;
 	int count = 0;
 	int id = cwiid_get_id (wiimote);
@@ -110,10 +109,8 @@ void wiimoteCWiiDCallback(cwiid_wiimote_t *wiimote, int mesg_count,
 			cmpwiimote->acc.accZ = mesg[i].acc_mesg.acc[CWIID_Z];
 			break;
 		case CWIID_MESG_IR:
-			valid_source = 0;
 			for (j = 0; j < CWIID_IR_SRC_COUNT; j++) {
 				if (mesg[i].ir_mesg.src[j].valid) {
-					valid_source = 1;
 					cmpwiimote->ir[j].valid = TRUE;
 					cmpwiimote->ir[j].x =  mesg[i].ir_mesg.src[j].pos[CWIID_X];
 					cmpwiimote->ir[j].y =  mesg[i].ir_mesg.src[j].pos[CWIID_Y];
