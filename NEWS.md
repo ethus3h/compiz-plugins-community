@@ -6,6 +6,8 @@
 - Add maze plugin.
 - Add newton plugin.
 - Add rubik plugin.
+- Add wiimote plugin. (adds dependencies on cwiid).
+- Add wiitrack plugin.
 - Fixes to roach from matijaskala.
 
 ## Release 0.8.14 (2017-05-31 Elliot Chandler <elliot@futuramerlin.com>)
