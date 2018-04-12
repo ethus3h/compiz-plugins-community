@@ -5,8 +5,19 @@
  * Portions were inspired and tested on a modified
  * Zoom plugin, but no code from Zoom has been taken.
  * 
- * Plugin designed and written by:
- * Kevin L. <klange@ogunderground.com>
+ * Copyright 2010 Kevin Lange <kevin.lange@phpwnage.com>
+ *
+ * facedetect.c is from the OpenCV sample library, modified to run
+ * threaded.
+ *
+ * Face detection is done through OpenCV.
+ * Wiimote tracking is done through the `wiimote` plugin and probably
+ * doesn't work anymore.
+ *
+ * Video demonstrations of both webcams and wiimotes are available
+ * online. Check YouTube, as well as the C-F forums.
+ *
+ * More information is available in README.
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
@@ -22,7 +33,13 @@
 
 #include <compiz-core.h>
 #include <compiz-cube.h>
+
+#define USE_WIIMOTE FALSE // Change as necessary
+
+#if USE_WIIMOTE
 #include "compiz-wiimote.h" // FIXME - Blame Sam.
+#endif
+
 #include <math.h>
 #include <stdio.h>
 
@@ -219,11 +236,12 @@ static Bool shouldPaintStacked(CompWindow *w) {
     
     // Should we draw the windows or not?
     // TODO: Add more checks, ie, Expo, Scale
+    // XXX: You'll get your checks in 0.9.0. Don't bug me now.
     
     if (cubeDisplayPrivateIndex >= 0) {
         // Cube is enabled, is it rotating?
         CUBE_SCREEN(w->screen);
-        if (cs->rotationState != RotationNone || cs->paintAllViewports || otherScreenGrabExist (w->screen, "headtracking", "move", "resize", 0))
+        if (cs->rotationState != RotationNone || otherScreenGrabExist (w->screen, "headtracking", "move", "resize", 0))
     	    return FALSE;
     }
     return TRUE;
@@ -251,11 +269,6 @@ static Bool WTPaintWindow(CompWindow *w, const WindowPaintAttrib *attrib,
         	matrixTranslate(&wTransform, 0.0, 0.0, 0.0);
         }
     }
-    else {
-	    wts->head.x = 0.0;
-	    wts->head.y = 0.0;
-	    wts->head.z = 1.0;
-    }
     
     damageScreen(w->screen);
     
@@ -272,23 +285,20 @@ static Bool WTPaintWindow(CompWindow *w, const WindowPaintAttrib *attrib,
     return status;
 }
 
-// Track head position with Johnny Chung Lee's trig stuff:
-// After some reviewing, this appears to be the best method
-// if you put your Wiimote or cam on or below your screen and face
-// the monitor. It's really that simple. Expects raw points
-// from the Wiimote or cam. We do all the calculations ourselves.
+// Track head position with Johnny Chung Lee's trig stuff
+// XXX: Note that positions should be float values from 0-1024
+//      and 0-720 (width, height, respectively).
 static void WTLeeTrackPosition (CompScreen *s, float x1, float y1,
                                 float x2, float y2) {
                                 
     HEADTRACKING_SCREEN (s);
-    // How many radians does one camera pixel represent?
     float radPerPix = (PI / 3.0f) / 1024.0f;
     // Where is the middle of the head?
     float dx = x1 - x2, dy = y1 - y2;
     float pointDist = (float)sqrt(dx * dx + dy * dy);
     float angle = radPerPix * pointDist / 2.0;
     // Set the head distance in units of screen size
-    wts->head.z = ((float)headtrackingGetBarWidth (s) / 100.0) / (float)tan(angle);
+    wts->head.z = ((float)headtrackingGetBarWidth (s) / 1000.0) / (float)tan(angle);
     float aX = (x1 + x2) / 2.0f, aY = (y1 + y2) / 2.0f;
     // Set the head position horizontally
     wts->head.x = (float)sin(radPerPix * (aX - 512.0)) * wts->head.z;
@@ -309,7 +319,7 @@ static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib,
 	HEADTRACKING_SCREEN(s);
 	CompTransform zTransform = *transform;
 	mask |= PAINT_SCREEN_CLEAR_MASK;
-
+#if USE_WIIMOTE
 	if (headtrackingGetEnableTracking (s)) {
 	    // Headtracking is enabled in options, so let's track your head...
 	    // Grab data from the Wiimote and run it through our tracking algorithm
@@ -319,18 +329,14 @@ static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib,
 	                           (float)ad->cWiimote[0].ir[1].x, (float)ad->cWiimote[0].ir[1].y);
             }
 	}
-	// FILE *fd = fopen("/tmp/pipo.txt", "a"); fprintf(fd, "%d\n", headtrackingGetEnableCamtracking(s)); fclose(fd);
-	if (headtrackingGetEnableCamtracking(s)) {
+#endif
+	if (headtrackingGetEnableCamtracking (s)) {
 	    int x1, y1, x2, y2;
-	    Bool cond = TRUE;
-	    CompWindow *w;
-	    for (w = s->windows ; cond && w ; w = w->next) cond = cond && shouldPaintStacked(w);
-	    if (cond) {
-	        if (headtrack(&x1, &y1, &x2, &y2, headtrackingGetWebcamLissage(s), headtrackingGetWebcamSmooth(s), 0)) {
-	            WTLeeTrackPosition(s, (float)x1, (float)y1, (float)x2, (float)y2);
-	        }
-	    }
+        if (headtrack(&x1, &y1, &x2, &y2, headtrackingGetWebcamLissage(s), headtrackingGetWebcamSmooth(s), 0, headtrackingGetScale(s))) {
+            WTLeeTrackPosition(s, (float)x1, (float)y1, (float)x2, (float)y2);
+            wts->head.z = (float)headtrackingGetDepthAdjust (s) / 100.0;
         }
+    }
     
     if (wts->trackMouse) {
 	    // Mouse-Tracking is enabled, and overides true tracking.
@@ -344,12 +350,12 @@ static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib,
 		       &root_return, &child_return,
 		       &rootX, &rootY, &winX, &winY, &maskReturn);
 		// }}} End MousePoll options
-		// The following lets us scale moues movement to get beyond the screen
+		// The following lets us scale mouse movement to get beyond the screen
 	    float mult = 100.0 / ((float)headtrackingGetScreenPercent(s));
 	    wts->head.x = (-(float)rootX / (float)s->width + 0.5) * mult;
 	    wts->head.y = ((float)rootY / (float)s->height - 0.5) * mult;
+	    wts->head.z = (float)1.0;
 	}
-	
 	float nearPlane = 0.05; // Our near rendering plane
 	float screenAspect = 1.0; // Leave this for future fixes
 	glMatrixMode(GL_PROJECTION); // We're going to modify the projection matrix
@@ -770,4 +776,3 @@ CompPluginVTable headtrackingVTable = {
 };
 
 CompPluginVTable *getCompPluginInfo (void){ return &headtrackingVTable; }
-
