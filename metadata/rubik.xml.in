@@ -29,37 +29,15 @@
 					<long>Multiply the speed of rotations by this factor.</long>
 					<default>1</default>
 					<min>0.1</min>
-					<max>5</max>
+					<max>10</max>
 					<precision>0.01</precision>
 				</option>
-				<option name="horizontal_size" type="int">
-					<short>Horizontal Size</short>
-					<long>Number of horizontal strips.</long>
+				<option name="number_strips" type="int">
+					<short>Rubik Size</short>
+					<long>Number of horizontal/vertical strips.</long>
 					<default>3</default>
 					<min>1</min>
 					<max>10</max>
-				</option>
-				<option name="vertical_size" type="int">
-					<short>Vertical Size</short>
-					<long>Number of vertical strips.</long>
-					<default>3</default>
-					<min>1</min>
-					<max>10</max>
-				</option>
-				<option name="rotate_horizontally" type="bool">
-					<short>Rotate Horizontally</short>
-					<long>Rotate Rubik's cube horizontally instead of vertically.</long>
-					<default>false</default>
-				</option>
-				<option name="enable_on_manual_rotate" type="bool">
-					<short>On manual rotate</short>
-					<long>Enable effect only on cube rotate.</long>
-					<default>true</default>
-				</option>
-				<option name="rotate_desktop" type="bool">
-					<short>Rotate desktop</short>
-					<long>Rotate desktop as well as windows.</long>
-					<default>true</default>
 				</option>
 				<option name="colored_sides" type="bool">
 					<short>Colored Sides</short>
@@ -70,6 +48,11 @@
 					<short>Enable Depth Test</short>
 					<long>Hide windows that are behind other windows.</long>
 					<default>true</default>
+				</option>
+				<option name="desktop_caps" type="bool">
+					<short>Desktop caps</short>
+					<long>Display a desktop for each cap.</long>
+					<default>false</default>
 				</option>
 		</screen>
 	</plugin>
