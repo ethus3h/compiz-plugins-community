@@ -1,0 +1,2 @@
+PLUGIN = wiitrack
+CHK_HEADERS = compiz-wiimote.h compiz-cube.h
