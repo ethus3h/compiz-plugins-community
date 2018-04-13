@@ -6,7 +6,9 @@ xml_in_files =           \
 	maze.xml.in          \
 	newton.xml.in        \
 	roach.xml.in         \
-	rubik.xml.in
+	rubik.xml.in         \
+	wiimote.xml.in       \
+	wiitrack.xml.in
 
 xml_files    = $(xml_in_files:.xml.in=.xml)
 xml_DATA     = $(xml_files)
