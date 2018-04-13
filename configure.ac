@@ -136,11 +136,11 @@ metadata/Makefile
 src/Makefile
 src/boing/Makefile
 src/headtracking/Makefile
-src/wiimote/Makefile
-src/wiitrack/Makefile
 src/maze/Makefile
 src/newton/Makefile
 src/roach/Makefile
 src/rubik/Makefile
+src/wiimote/Makefile
+src/wiitrack/Makefile
 po/Makefile.in
 ])
