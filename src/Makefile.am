@@ -5,6 +5,7 @@ SUBDIRS =              \
 	headtracking       \
 	maze               \
 	newton             \
+	peek               \
 	roach              \
 	rubik              \
 	wiimote            \
