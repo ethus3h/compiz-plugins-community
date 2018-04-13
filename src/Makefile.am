@@ -6,4 +6,6 @@ SUBDIRS =              \
 	maze               \
 	newton             \
 	roach              \
-	rubik
+	rubik              \
+	wiimote            \
+	wiitrack
