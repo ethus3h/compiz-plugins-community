@@ -4,6 +4,7 @@ icons_DATA =              \
   plugin-headtracking.svg \
   plugin-maze.svg         \
   plugin-newton.svg       \
+  plugin-peek.svg         \
   plugin-roach.svg        \
   plugin-rubik.svg        \
   plugin-wiimote.svg      \
