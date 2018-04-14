@@ -1,16 +1,6 @@
 #ifndef _RUBIK_INTERNAL_H
 #define _RUBIK_INTERNAL_H
 
-#define RAD 57.296
-#define RRAD 0.01745
-
-/* some constants */
-#define PI     3.14159265358979323846
-#define PIdiv2 1.57079632679489661923
-#define toDegrees 57.2957795130823208768
-#define toRadians 0.01745329251994329577
-
-
 #define LRAND()                 ((long) (random() & 0x7fffffff))
 #define NRAND(n)                ((int) (LRAND() % (n)))
 #define MAXRAND                 (2147483648.0) /* unsigned 1<<31 as a float */
@@ -19,7 +9,16 @@
 #include <math.h>
 #include <float.h>
 
-#include <math.h>
+/* some constants */
+#define PI     M_PI
+#define PIdiv2 M_PI_2
+#define toDegrees (180.0f * M_1_PI)
+#define toRadians (M_PI / 180.0f)
+
+//return random number in range [0,x)
+#define randf(x) ((float) (rand()/(((double)RAND_MAX + 1)/(x))))
+
+
 #include <compiz-core.h>
 #include <compiz-cube.h>
 
@@ -67,28 +66,46 @@ extern int cubeDisplayPrivateIndex;
 #define YELLOW		12
 #define WHITE		13
 
+typedef struct _orderedFaceRec orderedFaceRec;
+
+
 typedef struct _RubikDisplay
 {
     int screenPrivateIndex;
 }
 RubikDisplay;
 
+
+typedef struct _squareRec
+{
+    int side;
+    int x;
+    int y;
+    int psi;
+}
+squareRec;
+
 typedef struct _faceRec
 {
-	float  color[4];
+    float  color[4];
 	
-	float **th;
-	
-	}
+    squareRec *square;
+}
 faceRec;
 
+struct _orderedFaceRec
+{ //not used yet
+    squareRec *square;
+    orderedFaceRec *nextOrderedFace;
+    CompWindow *w;
+};
 
 
 typedef struct _RubikScreen
 {
     int windowPrivateIndex;
     
-	DonePaintScreenProc donePaintScreen;
+    DonePaintScreenProc donePaintScreen;
     PreparePaintScreenProc preparePaintScreen;
 
     CubeClearTargetOutputProc clearTargetOutput;
@@ -106,36 +123,39 @@ typedef struct _RubikScreen
     DisableOutputClippingProc disableOutputClipping;
 
     AddWindowGeometryProc addWindowGeometry;
-    
-	CubeGetRotationProc	getRotation;
 
-	
+    CubeGetRotationProc	getRotation;
+
+
     Bool initiated;
-    
+
     Bool damage;
-    
+
     CompTransform * tempTransform;
+
+    float *th;
+    float *oldTh;
+
+    float *psi;
+    float *oldPsi;
+
+    float desktopOpacity;
     
-	float *th;
-	float *oldTh;
+    CompWindow ** w;
 
-	float *psi;
-	float *oldPsi;
-
-	CompWindow ** w;
-	
     Box * oldClip;
 
     faceRec *faces;
-    
-    int numDesktopWindows;
+
+    int hsize;
+    float distance;    //perpendicular distance to wall from centre
+    float radius;      //radius on which the hSize points lie
+
+    float speedFactor; // multiply rotation speed by this value
 }
 RubikScreen;
 
 typedef struct _RubikWindow{
-	float x, y, z;
-	Bool rotated;
-	
     DrawWindowGeometryProc drawWindowGeometry;
 }
 RubikWindow;
@@ -143,32 +163,23 @@ RubikWindow;
 
 void rubikGetRotation( CompScreen *s, float *x, float *v );
 
-void initializeWorldVariables(int, float);
+void initializeWorldVariables(CompScreen *s);
+void initFaces( CompScreen *s);
 void updateSpeedFactor(float);
 
 
 
 //utility methods
-float randf(float); //random float
-float minimum(float,float); //my compiler at home didn't have min or fminf!
-float maximum(float,float); //nor did it have max or fmaxf!
-float symmDistr(void); //symmetric distribution
 void setColor(float *, float, float, float, float, float, float);
 void setSpecifiedColor (float *, int);
-
-//maybe define a struct for these values
-float speedFactor; // global variable (fish/crab speeds multiplied by this value)
-float radius;//radius on which the hSize points lie
-float distance;//perpendicular distance to wall from centre
+void rotateClockwise (squareRec * square);
+void rotateAnticlockwise (squareRec * square);
 
 
 //All calculations that matter with angles are done clockwise from top.
 //I think of it as x=radius, y=0 being the top (towards 1st desktop from above view)
 //and the z coordinate as height.
 
-
-int hSize; // horizontal desktop size
-float q;   // equal to float version of hSize (replace with hSizef some time)
 
 int vStrips;
 int currentVStrip; 
@@ -178,5 +189,9 @@ int currentHStrip;
 
 float currentStripCounter;
 int currentStripDirection;
+
+int rotationAxis; //0 - horizontal
+				  //1 - vertical from 1st viewport
+				  //2 - vertical from 2nd viewport
 
 #endif

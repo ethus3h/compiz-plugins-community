@@ -140,5 +140,7 @@ src/maze/Makefile
 src/newton/Makefile
 src/roach/Makefile
 src/rubik/Makefile
+src/wiimote/Makefile
+src/wiitrack/Makefile
 po/Makefile.in
 ])

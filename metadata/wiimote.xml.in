@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<compiz>
+  <plugin name="wiimote" useBcop="true">
+    <_short>Wii Remote</_short>
+	<_long>Compiz interface for the Nintendo Wii Remote.</_long>
+	<category>Utility</category>
+    <display>
+      <option name="abi" read_only="true"/>
+      <option name="index" read_only="true"/>
+      <group>
+        <_short>Bindings</_short>
+        <option name="toggle_key" type="key">
+          <_short>Toggle status reporting</_short>
+          <_long>Use this to enable status reporting from the Wii Remote. Remember to hold down (1)+(2).</_long>
+          <default>&lt;Shift&gt;&lt;Super&gt;w</default>
+        </option>
+        <option name="disable_key" type="key">
+          <_short>Disable status reporting</_short>
+          <_long>Use this to disable status reporting from the Wii Remote.</_long>
+          <default>&lt;Alt&gt;&lt;Super&gt;w</default>
+        </option>
+        <option name="report_key" type="key">
+          <_short>Status reporting</_short>
+          <_long>Togle status reporting from the Wii Remote.</_long>
+          <default>&lt;Alt&gt;&lt;Super&gt;k</default>
+        </option>
+     </group>
+     <group>
+     <_short>Wiimote Setup</_short>
+     <option name="poll_interval" type="int">
+         <_short>Reporting Timeout</_short>
+         <_long>The more often you call it, the higher the CPU usage will be, so be careful with this! The less you call it however, means the jerkier the reporting</_long>
+         <default>25</default>
+    </option>
+     <option name="gesture_timeout" type="int">
+         <_short>Gesture Timeout</_short>
+         <_long>The more often you call it, the higher the CPU usage will be and the faster you have to move</_long>
+         <default>25</default>
+    </option>
+     <option name="gesture_sens" type="float">
+         <_short>Gesture Sensitvity</_short>
+         <_long>How much the readings must differ between gesture checks</_long>
+         <min>0.1</min>
+	 <max>50.0</max>
+	 <default>10.0</default>
+    </option>
+     <subgroup>
+     <_short>Individual Setup</_short>
+     <option name="x_calibration_mul" type="list">
+         <_short>X Calibration Multiplier</_short>
+         <_long>Change this depending on your screen size</_long>
+         <type>float</type>
+         <default>
+         <value>1.0</value>
+         </default>
+     </option>
+     <option name="y_calibration_mul" type="list">
+         <_short>Y Calibration Multiplier</_short>
+         <_long>Change this depending on your screen size</_long>
+         <type>float</type>
+         <default>
+         <value>1.0</value>
+         </default>
+     </option>
+     <option name="x_adjust" type="list">
+         <_short>X Adjust</_short>
+         <_long>Used to adjust to the position of your screen</_long>
+         <type>float</type>
+         <default>
+         <value>0.0</value>
+         </default>
+     </option>
+     <option name="y_adjust" type="list">
+         <_short>Y Adjust</_short>
+         <_long>Used to adjust to the position of your screen</_long>
+         <type>float</type>
+         <default>
+         <value>0.0</value>
+         </default>
+     </option>
+     </subgroup>
+      </group>
+      <group>
+      <_short>Gesturing</_short>
+      <subgroup>
+      <_short>Gesture List</_short>
+      <option name="gesture_wiimote_number" type="list">
+         <_short>Wii Remote Number</_short>
+         <_long>The number of the wii remote on the list (starts at 0)</_long>
+         <type>int</type>
+	 <min>0</min>
+         <max>10</max>
+     </option>
+     <option name="gesture_type" type="list">
+         <_short>Gesture Type</_short>
+         <_long>Which gesture calls the action</_long>
+         <type>int</type>
+         <desc>
+            <value>0</value><name>None</name>
+         </desc>
+         <desc>
+            <value>1</value><name>A Button Pressed</name>
+         </desc>
+         <desc>
+            <value>2</value><name>A Button Depressed</name>
+         </desc>
+         <desc>
+            <value>3</value><name>B Button Pressed</name>
+         </desc>
+         <desc>
+            <value>4</value><name>B Button Depressed</name>
+         </desc>
+         <desc>
+            <value>5</value><name>Up Button Pressed</name>
+         </desc>
+         <desc>
+            <value>6</value><name>Up Button Depressed</name>
+         </desc>
+         <desc>
+            <value>7</value><name>Down Button Pressed</name>
+         </desc>
+         <desc>
+            <value>8</value><name>Down Button Depressed</name>
+         </desc>
+         <desc>
+            <value>9</value><name>Left Button Pressed</name>
+         </desc>
+         <desc>
+            <value>10</value><name>Left Button Depressed</name>
+         </desc>
+         <desc>
+            <value>11</value><name>Right Button Pressed</name>
+         </desc>
+         <desc>
+            <value>12</value><name>Right Button Depressed</name>
+         </desc>
+         <desc>
+            <value>13</value><name>Plus Button Pressed</name>
+         </desc>
+         <desc>
+            <value>14</value><name>Plus Button Depressed</name>
+         </desc>
+         <desc>
+            <value>15</value><name>Minus Button Pressed</name>
+         </desc>
+         <desc>
+            <value>16</value><name>Minus Button Depressed</name>
+         </desc>
+         <desc>
+            <value>17</value><name>Home Button Pressed</name>
+         </desc>
+         <desc>
+            <value>18</value><name>Home Button Depressed</name>
+         </desc>
+         <desc>
+            <value>19</value><name>1 Button Pressed</name>
+         </desc>
+         <desc>
+            <value>20</value><name>1 Button Depressed</name>
+         </desc>
+         <desc>
+            <value>21</value><name>2 Button Pressed</name>
+         </desc>
+         <desc>
+            <value>22</value><name>2 Button Depressed</name>
+         </desc>
+         <desc>
+            <value>23</value><name>C Button Pressed</name>
+         </desc>
+         <desc>
+            <value>24</value><name>C Button Depressed</name>
+         </desc>
+         <desc>
+            <value>25</value><name>Z Button Pressed</name>
+         </desc>
+         <desc>
+            <value>26</value><name>Z Button Depressed</name>
+         </desc>
+         <desc>
+            <value>27</value><name>Wii Remote Up</name>
+         </desc>
+         <desc>
+            <value>28</value><name>Wii Remote Down</name>
+         </desc>
+         <desc>
+            <value>29</value><name>Wii Remote Left</name>
+         </desc>
+         <desc>
+            <value>30</value><name>Wii Remote Right</name>
+         </desc>
+         <desc>
+            <value>31</value><name>Nunchuck Up</name>
+         </desc>
+         <desc>
+            <value>32</value><name>Nunchuck Down</name>
+         </desc>
+         <desc>
+            <value>33</value><name>Nunchuck Left</name>
+         </desc>
+         <desc>
+            <value>34</value><name>Nunchuck Right</name>
+         </desc>
+         <desc>
+            <value>35</value><name>Nunchuck Stick Up</name>
+         </desc>
+         <desc>
+            <value>36</value><name>Nunchuck Stick Down</name>
+         </desc>
+         <desc>
+            <value>37</value><name>Nunchuck Stick Left</name>
+         </desc>
+         <desc>
+            <value>38</value><name>Nunchuck Stick Right</name>
+         </desc>
+     </option>
+     <option type="list" name="gesture_plugin_name">
+     <_short>Plugin Name</_short>
+     <_long>Initiation Plugin Name</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="gesture_action_name">
+     <_short>Action Name</_short>
+     <_long>Initiation Action Name</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="gesture_sensitivity">
+     <_short>Sensitivity</_short>
+     <_long>How sensitive gestures should be</_long>
+     <type>int</type>
+     <min>1</min>
+     <max>10</max>
+     <default>
+     <value>0</value>
+     </default>
+     </option>
+     </subgroup>
+     </group>
+     <group>
+     <_short>Reporting</_short>
+     <subgroup>
+     <_short>Reporter List</_short>
+     <option type="list" name="report_wiimote_number">
+     <_short>Wii Remote Number</_short>
+     <_long>Wii Remote Number (In order of the wiimote settings list. Starts at 0)</_long>
+     <type>int</type>
+     <min>0</min>
+     <max>10</max>
+     </option>
+     <option type="list" name="report_type">
+     <_short>Report Type</_short>
+     <_long>What to report</_long>
+     <type>int</type>
+     <desc>
+        <value>0</value><name>None</name>
+     </desc>
+     <desc>
+        <value>1</value><name>Wiimote IR Report</name>
+     </desc>
+     <desc>
+        <value>2</value><name>Wiimote Accellerometer Report</name>
+     </desc>
+     <desc>
+        <value>3</value><name>Nunchuck Accellerometer Report</name>
+     </desc>
+     <desc>
+        <value>4</value><name>Nunchuck Stick Report</name>
+     </desc>
+     </option>
+     <option type="list" name="report_plugin_name">
+     <_short>Plugin Name</_short>
+     <_long>Plugin to report to</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="report_action_name">
+     <_short>Action Name</_short>
+     <_long>Action to report to</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="report_x_argument">
+     <_short>X Argument</_short>
+     <_long>What option name the plugin expects for the X value</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="report_y_argument">
+     <_short>Y Argument</_short>
+     <_long>What option name the plugin expects for the Y value</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="report_z_argument">
+     <_short>Z Argument</_short>
+     <_long>What option name the plugin expects for the Z value</_long>
+     <type>string</type>
+     </option>
+     <option type="list" name="report_data_type">
+     <_short>Data Type</_short>
+     <_long>What data type the plugin expects (Use the other one if the current one doesn't work)</_long>
+     <type>int</type>
+     <desc>
+     <value>0</value><name>Decimal</name>
+     </desc>
+     <desc>
+     <value>1</value><name>Interger</name>
+     </desc>
+     </option>
+     <option type="list" name="report_sensitivity">
+     <_short>Sensitivity</_short>
+     <_long>How sensitive Wii Remote movements should be</_long>
+     <type>int</type>
+     <min>1</min>
+     <max>10</max>
+     <default>
+     <value>0</value>
+     </default>
+     </option>
+     </subgroup>
+     </group>
+      </display>
+      <screen>
+      <group>
+      <_short>Notification</_short>
+      <option name="title_font_size" type="int">
+					<_short>Font Size</_short>
+					<_long>Font size for the window title</_long>
+					<default>16</default>
+					<min>6</min>
+					<max>96</max>
+				</option>
+	  <option name="title_font_color" type="color">
+					<_short>Font Color</_short>
+					<_long>Font color for the window title</_long>
+	  <default>
+						<red>0xffff</red>
+						<green>0xffff</green>
+						<blue>0xffff</blue>
+						<alpha>0xffff</alpha>
+	  </default>
+	  </option>
+	  </group>
+	  </screen>
+    </plugin>
+</compiz>
