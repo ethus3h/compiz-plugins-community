@@ -1,188 +1,126 @@
-#ifndef _RUBIK_INTERNAL_H
-#define _RUBIK_INTERNAL_H
+//a collection of utility methods
 
-#define LRAND()                 ((long) (random() & 0x7fffffff))
-#define NRAND(n)                ((int) (LRAND() % (n)))
-#define MAXRAND                 (2147483648.0) /* unsigned 1<<31 as a float */
-
-
+#include "rubik-internal.h"
 #include <math.h>
 #include <float.h>
 
-/* some constants */
-#define PI     M_PI
-#define PIdiv2 M_PI_2
-#define toDegrees (180.0f * M_1_PI)
-#define toRadians (M_PI / 180.0f)
-
-//return random number in range [0,x)
-#define randf(x) ((float) (rand()/(((double)RAND_MAX + 1)/(x))))
-
-
-#include <compiz-core.h>
-#include <compiz-cube.h>
-
-extern int rubikDisplayPrivateIndex;
-extern int cubeDisplayPrivateIndex;
-
-#define GET_RUBIK_DISPLAY(d) \
-    ((RubikDisplay *) (d)->base.privates[rubikDisplayPrivateIndex].ptr)
-#define RUBIK_DISPLAY(d) \
-    RubikDisplay *rd = GET_RUBIK_DISPLAY(d);
-
-#define GET_RUBIK_SCREEN(s, rd) \
-    ((RubikScreen *) (s)->base.privates[(rd)->screenPrivateIndex].ptr)
-#define RUBIK_SCREEN(s) \
-    RubikScreen *rs = GET_RUBIK_SCREEN(s, GET_RUBIK_DISPLAY(s->display))
-
-#define GET_RUBIK_WINDOW(w, rs) \
-    ((RubikWindow *) (w)->base.privates[(rs)->windowPrivateIndex].ptr)
-
-#define RUBIK_WINDOW(w) \
-    RubikWindow *rw = GET_RUBIK_WINDOW  (w, \
-                       GET_RUBIK_SCREEN  (w->screen, \
-                       GET_RUBIK_DISPLAY (w->screen->display)))
-
-#define WIN_REAL_X(w) (w->attrib.x - w->input.left)
-#define WIN_REAL_Y(w) (w->attrib.y - w->input.top)
-
-#define WIN_REAL_W(w) (w->width + w->input.left + w->input.right)
-#define WIN_REAL_H(w) (w->height + w->input.top + w->input.bottom)
-
-
-#define NRAND(n)                ((int) (LRAND() % (n)))
-
-#define RANDOMCOLOR	1
-#define BLACK		2
-#define BLUE		3
-#define BROWN		4
-#define CYAN		5
-#define GREEN		6
-#define GREY		7
-#define ORANGE		8
-#define PINK		9
-#define PURPLE		10
-#define RED			11
-#define YELLOW		12
-#define WHITE		13
-
-typedef struct _RubikDisplay
+void
+setColor(float* color, float r, float g, float b, float a,
+         float randomOffset, float randomness)
 {
-    int screenPrivateIndex;
-}
-RubikDisplay;
-
-
-typedef struct _squareRec
-{
-    int side;
-    int x;
-    int y;
-    int psi;
-}
-squareRec;
-
-
-typedef struct _faceRec
-{
-    float  color[4];
-	
-    squareRec *square;
-}
-faceRec;
-
-
-
-typedef struct _RubikScreen
-{
-    int windowPrivateIndex;
+    int i;
+    float ro = randf(randomOffset);
     
-    DonePaintScreenProc donePaintScreen;
-    PreparePaintScreenProc preparePaintScreen;
+    color[0]=r+ro+randf(randomness);
+    color[1]=g+ro+randf(randomness);
+    color[2]=b+ro+randf(randomness);
+    color[3]=a;
 
-    CubeClearTargetOutputProc clearTargetOutput;
-    CubePaintInsideProc       paintInside;
-
-    PaintOutputProc paintOutput;
-    PaintWindowProc paintWindow;
-    DrawWindowProc drawWindow;
-    PaintTransformedOutputProc paintTransformedOutput;
-
-    DrawWindowTextureProc drawWindowTexture;
-    
-    DamageWindowRectProc damageWindowRect;
-    
-    DisableOutputClippingProc disableOutputClipping;
-
-    AddWindowGeometryProc addWindowGeometry;
-
-    CubeGetRotationProc	getRotation;
-
-
-    Bool initiated;
-
-    Bool damage;
-
-    CompTransform * tempTransform;
-
-    float *th;
-    float *oldTh;
-
-    float *psi;
-    float *oldPsi;
-
-    CompWindow ** w;
-
-    Box * oldClip;
-
-    faceRec *faces;
-
-    int hsize;
-    float distance;    //perpendicular distance to wall from centre
-    float radius;      //radius on which the hSize points lie
-
-    float speedFactor; // multiply rotation speed by this value
-
+    for (i=0; i<4; i++)
+    {
+	if (color[i]<0)
+	    color[i]=0;
+	else if (color[i]>1)
+	    color[i]=1;
+    }
 }
-RubikScreen;
-
-typedef struct _RubikWindow{
-    DrawWindowGeometryProc drawWindowGeometry;
+void
+setSpecifiedColor(float* color, int c)
+{
+    switch (c)
+    {
+    case RANDOMCOLOR:
+	setColor(color, 0, 0, 0, 1, 0, 1);
+	break;
+    case BLACK:
+	setColor(color, 0, 0, 0, 1, 0, 0);
+	break;
+    case BLUE:
+	setColor(color, 0, 0, 1, 1, 0, 0);
+	break;
+    case BROWN:
+	setColor(color, 0.5, 0.25, 0.05, 1, 0, 0);
+	break;
+    case CYAN:
+	setColor(color, 0, 1, 1, 1, 0, 0);
+	break;
+    case GREEN:
+	setColor(color, 0, 1, 0, 1, 0, 0);
+	break;
+    case GREY:
+	setColor(color, 0.5, 0.5, 0.5, 1, 0, 0);
+	break;
+    case ORANGE:
+	setColor(color, 1, 0.5, 0, 1, 0, 0);
+	break;
+    case PINK:
+	setColor(color, 1, 0, 1, 1, 0, 0);
+	break;
+    case PURPLE:
+	setColor(color, 0.5, 0, 1, 1, 0, 0);
+	break;
+    case RED:
+	setColor(color, 1, 0, 0, 1, 0, 0);
+	break;
+    case YELLOW:
+	setColor(color, 1, 1, 0, 1, 0, 0);
+	break;
+    case WHITE:
+	setColor(color, 1, 1, 1, 1, 0, 0);
+	break;
+    }
 }
-RubikWindow;
+void
+rotateClockwise(squareRec * square)
+{
 
+    int m, j, k;
 
-void rubikGetRotation( CompScreen *s, float *x, float *v );
+    for (m=0; m<hStrips/2; m++)
+    {
+	for (j=0; j<hStrips-1-2*m; j++)
+	{
+	    int pos1 = (vStrips-1-j-m);
+	    int pos2 = j+m;
+	    squareRec tempSquare2 = square[pos2*hStrips+m];
+	    square[pos2*hStrips+m] = square[m*hStrips+pos1];
+	    square[m*hStrips+pos1] = square[pos1*hStrips+(vStrips-1-m)];
+	    square[pos1*hStrips+(vStrips-1-m)] = square[(vStrips-1-m)*hStrips+pos2];
+	    square[(vStrips-1-m)*hStrips+pos2] = tempSquare2;
+	}
+    }
 
-void initializeWorldVariables(CompScreen *s);
-void initFaces( CompScreen *s);
-void updateSpeedFactor(float);
+    for (k=0; k<vStrips; k++)
+    {
+	for (j=0; j<hStrips; j++)
+	{
+	    square[j*hStrips+k].psi = (square[j*hStrips+k].psi+1)%4;
+	}
+    }
+}
+void rotateAnticlockwise(squareRec * square)
+{
+    int m, j, k;
 
+    for (m=0; m<hStrips/2; m++)
+    {
+	for (j=0; j<hStrips-1-2*m; j++)
+	{
+	    int pos1 = (vStrips-1-j-m);
+	    int pos2 = j+m;
+	    squareRec tempSquare2 = square[pos2*hStrips+m];
+	    square[pos2*hStrips+m] = square[(vStrips-1-m)*hStrips+pos2];
+	    square[(vStrips-1-m)*hStrips+pos2] = square[pos1*hStrips+(vStrips-1-m)];
+	    square[pos1*hStrips+(vStrips-1-m)] = square[m*hStrips+pos1];
+	    square[m*hStrips+pos1] = tempSquare2;
+	}
+    }
 
-
-//utility methods
-void setColor(float *, float, float, float, float, float, float);
-void setSpecifiedColor (float *, int);
-void rotateClockwise (squareRec * square);
-void rotateAnticlockwise (squareRec * square);
-
-
-//All calculations that matter with angles are done clockwise from top.
-//I think of it as x=radius, y=0 being the top (towards 1st desktop from above view)
-//and the z coordinate as height.
-
-
-int vStrips;
-int currentVStrip; 
-
-int hStrips;
-int currentHStrip;
-
-float currentStripCounter;
-int currentStripDirection;
-
-int rotationAxis; //0 - horizontal
-				  //1 - vertical from 1st viewport
-				  //2 - vertical from 2nd viewport
-
-#endif
+    for (k=0; k<vStrips; k++)
+    {
+	for (j=0; j<hStrips; j++)
+	{
+	    square[j*hStrips+k].psi = (square[j*hStrips+k].psi+4-1)%4;
+	}
+    }
+}
