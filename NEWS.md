@@ -2,11 +2,12 @@
 ================================================================
 
 - Add boing plugin.
-- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv).
+- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv
 - Add maze plugin.
 - Add newton plugin.
 - Add peek plugin.
 - Add rubik plugin.
+- Add visualevent plugin. (warning:crash random).
 - Add wiimote plugin. (adds dependencies on cwiid).
 - Add wiitrack plugin.
 - Fixes to roach from matijaskala.
