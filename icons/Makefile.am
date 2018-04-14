@@ -7,5 +7,6 @@ icons_DATA =              \
   plugin-peek.svg         \
   plugin-roach.svg        \
   plugin-rubik.svg        \
+  plugin-visualevent.svg  \
   plugin-wiimote.svg      \
   plugin-wiitrack.svg
