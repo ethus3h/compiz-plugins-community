@@ -5,6 +5,7 @@
 - Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv).
 - Add maze plugin.
 - Add newton plugin.
+- Add peek plugin.
 - Add rubik plugin.
 - Add wiimote plugin. (adds dependencies on cwiid).
 - Add wiitrack plugin.
