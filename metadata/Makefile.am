@@ -6,6 +6,7 @@ xml_in_files =           \
 	headtracking.xml.in  \
 	lazypointer.xml.in   \
 	maze.xml.in          \
+	mousegestures.xml.in \
 	newton.xml.in        \
 	roach.xml.in         \
 	rubik.xml.in         \
