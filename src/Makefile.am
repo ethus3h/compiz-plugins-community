@@ -2,6 +2,7 @@
 
 SUBDIRS =              \
 	boing              \
+	flash              \
 	headtracking       \
 	maze               \
 	newton             \
