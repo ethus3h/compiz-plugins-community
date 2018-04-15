@@ -2,11 +2,16 @@ xmldir       = $(metadatadir)
 
 xml_in_files =           \
 	boing.xml.in         \
+	flash.xml.in         \
 	headtracking.xml.in  \
+	lazypointer.xml.in   \
 	maze.xml.in          \
+	mousegestures.xml.in \
 	newton.xml.in        \
+	peek.xml.in          \
 	roach.xml.in         \
 	rubik.xml.in         \
+        visualevent.xml.in   \
 	wiimote.xml.in       \
 	wiitrack.xml.in
 
@@ -20,4 +25,5 @@ EXTRA_DIST =		\
 
 DISTCLEANFILES =	\
 	$(xml_files)
+	
 	

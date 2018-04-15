@@ -135,11 +135,16 @@ images/roach/Makefile
 metadata/Makefile
 src/Makefile
 src/boing/Makefile
+src/flash/Makefile
 src/headtracking/Makefile
+src/lazypointer/Makefile
 src/maze/Makefile
+src/mousegestures/Makefile
 src/newton/Makefile
+src/peek/Makefile
 src/roach/Makefile
 src/rubik/Makefile
+src/visualevent/Makefile
 src/wiimote/Makefile
 src/wiitrack/Makefile
 po/Makefile.in

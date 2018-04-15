@@ -1,12 +1,13 @@
+
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
-libpeek_la_LDFLAGS = $(PFLAGS)
-libpeek_la_LIBADD = @COMPIZ_LIBS@
-nodist_libpeek_la_SOURCES = peek_options.c peek_options.h
-dist_libpeek_la_SOURCES = peek.c
+libvisualevent_la_LDFLAGS = $(PFLAGS)
+libvisualevent_la_LIBADD = @COMPIZ_LIBS@
+nodist_libvisualevent_la_SOURCES = visualevent_options.c visualevent_options.h
+dist_libvisualevent_la_SOURCES = compiz-cairo.c compiz-cairo.h visualevent.c
 
-BUILT_SOURCES = $(nodist_libpeek_la_SOURCES)
+BUILT_SOURCES = $(nodist_libvisualevent_la_SOURCES)
 
 AM_CPPFLAGS =                              \
 	-I$(top_srcdir)/include             \
@@ -18,12 +19,12 @@ AM_CPPFLAGS =                              \
 
 moduledir = $(plugindir)
 
-module_LTLIBRARIES = libpeek.la
+module_LTLIBRARIES = libvisualevent.la
 
 CLEANFILES = *_options.c *_options.h
 
-peek_options.h: ../../metadata/peek.xml.in
+visualevent_options.h: ../../metadata/visualevent.xml.in
 		$(BCOP_BIN) --header $@ $<
 
-peek_options.c: ../../metadata/peek.xml.in peek_options.h
+visualevent_options.c: ../../metadata/visualevent.xml.in visualevent_options.h
 		$(BCOP_BIN) --source $@ $<

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compiz>
+    <plugin name="flash">
+	<short>Lightning Bolts</short>
+	<long>Lightning bolts between your cursor and the nearest window</long>
+        <category>Effects</category>
+	<display>
+	    <option type="key" name="initiate_key">
+		<short>Initiate</short>
+		<long>Start flash</long>
+		<default>
+		    <key>&lt;Super&gt;F5</key>
+		</default>
+	    </option>
+	     <option type="button" name="initiate_button">
+		<short>Initiate</short>
+		<long>Start flash</long>
+	    </option>
+	    <option type="int" name="distance_max">
+		<short>Distance max</short>
+		<long>Distance max between pointer and active window.</long>
+		<default>800</default>
+		<min>50</min>
+		<max>1024</max>
+	    </option>
+	    <option type="int" name="ecart_max">
+		<short>Digression max</short>
+		<long>Digression max between pointer's projection and lightning's impact.</long>
+		<default>800</default>
+		<min>0</min>
+		<max>1024</max>
+	    </option>
+	    <option type="int" name="interval">
+		<short>Minimum interval between two lightning</short>
+		<long>Interval in milliseconde between two lightning</long>
+		<default>200</default>
+		<min>0</min>
+		<max>2000</max>
+	    </option>
+	    <option type="int" name="time">
+		<short>Time of lightnings</short>
+		<long>Time in milliseconds of lightnings</long>
+		<default>100</default>
+		<min>50</min>
+		<max>300</max>
+	    </option>
+	    <option type="color" name="flash_color_up_left">
+		<short>Side of lightnings color</short>
+		<long></long>
+		<default>
+			<red>0x3333</red>
+			<green>0x4444</green>
+			<blue>0xffff</blue>
+			<alpha>0x4FFF</alpha>
+		</default>
+	    </option>
+	    <option type="color" name="flash_color_center">
+		<short>Middle of lightnings color</short>
+		<long>Middle of lightnings color</long>
+		<default>
+			<red>0xffff</red>
+			<green>0xffff</green>
+			<blue>0xffff</blue>
+			<alpha>0xdddd</alpha>
+		</default>
+	    </option>
+	    <option type="color" name="flash_color_down_right">
+		<short>The other side of lightnings color</short>
+		<long>The other side of lightnings color</long>
+		<default>
+			<red>0x3333</red>
+			<green>0x4444</green>
+			<blue>0xffff</blue>
+			<alpha>0x4FFF</alpha>
+		</default>
+	    </option>
+	</display>
+	<screen>
+	    <option type="match" name="window_types">
+		<short>Window Types</short>
+		<long>The window types that lightning bolts will hit</long>
+		<default>Dialog | Normal</default>
+	    </option>
+	</screen>
+    </plugin>
+</compiz>

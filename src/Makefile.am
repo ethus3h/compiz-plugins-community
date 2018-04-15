@@ -2,11 +2,15 @@
 
 SUBDIRS =              \
 	boing              \
+	flash              \
 	headtracking       \
+	lazypointer        \
 	maze               \
+	mousegestures      \
 	newton             \
 	peek               \
 	roach              \
 	rubik              \
+	visualevent        \
 	wiimote            \
 	wiitrack

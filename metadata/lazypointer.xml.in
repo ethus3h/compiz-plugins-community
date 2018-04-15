@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<compiz>
+  <plugin name="lazypointer" useBcop="true">
+    <_short>Lazy Pointer</_short>
+    <_long>Warp the pointer around the screen on window events</_long>
+    <category>Utility</category>
+    <deps>
+	<relation type="after">
+	    <plugin>place</plugin>
+	</relation>
+    </deps>
+    <display>
+    <option type="bool" name="centre_on_focus">
+	<_short>Center Mouse on Focussed Window</_short>
+	<_long>Center the mouse in the middle of a window when it is focussed</_long>
+        <default>False</default>
+    </option>
+    <option type="bool" name="centre_on_activate">
+	<_short>Center Mouse on Activated Window</_short>
+	<_long>Center the mouse in the middle of a window when it is activated</_long>
+        <default>False</default>
+    </option>
+    <option type="bool" name="centre_on_place">
+	<_short>Center Mouse on Placed Window</_short>
+	<_long>Center the mouse in the middle of a window when it is placed</_long>
+        <default>False</default>
+    </option>
+    <option type="float" name="speed">
+	<_short>Cursor Movement speed</_short>
+	<_long>How fast the cursor should move when animated</_long>
+	<min>1</min>
+	<max>15</max>
+	<default>4</default>
+    </option>
+    <option type="key" name="initiate_window_key">
+	<_short>Center the mouse in a window</_short>
+	<_long>Center the mouse in the activated window</_long>
+    </option>
+    <option type="key" name="initiate_screen_key">
+	<_short>Center the mouse in a screen</_short>
+	<_long>Center the mouse in the activated screen</_long>
+    </option>
+    <option type="key" name="initiate_left_key">
+	<_short>Move pointer left</_short>
+	<_long>Move the pointer left by specified amount</_long>
+    </option>
+    <option type="key" name="initiate_right_key">
+	<_short>Move pointer right</_short>
+	<_long>Move the pointer right by specified amount</_long>
+    </option>
+    <option type="key" name="initiate_up_key">
+	<_short>Move pointer up</_short>
+	<_long>Move the pointer up by specified amount</_long>
+    </option>
+    <option type="key" name="initiate_down_key">
+	<_short>Move pointer down</_short>
+	<_long>Move the pointer down by specified amount</_long>
+    </option>
+    </display>
+  </plugin>
+</compiz>
