@@ -18,7 +18,7 @@ AM_CPPFLAGS =                              \
 
 moduledir = $(plugindir)
 
-module_LTLIBRARIES = mousegestures.la
+module_LTLIBRARIES = libmousegestures.la
 
 CLEANFILES = *_options.c *_options.h
 
