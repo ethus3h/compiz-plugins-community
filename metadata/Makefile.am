@@ -4,6 +4,7 @@ xml_in_files =           \
 	boing.xml.in         \
 	flash.xml.in         \
 	headtracking.xml.in  \
+	lazypointer.xml.in   \
 	maze.xml.in          \
 	newton.xml.in        \
 	roach.xml.in         \
