@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compiz>
+    <plugin name="mousegestures">
+	<_short>Mousegestures</_short>
+	<_long>Assign mousegestures to any existing action</_long>
+	<category>Utility</category>
+	<display>
+	    <group>
+		<_short>Bindings</_short>
+		<option type="button" name="initiate_button">
+		    <_short>Initiate</_short>
+		    <_long>Start gesture</_long>
+		    <default>
+			<button>&lt;Super&gt;&lt;Alt&gt;Button1</button>
+		    </default>
+		</option>
+	    </group>
+	    <group>
+		<_short>Gestures</_short>
+		<option type="bool" name="detect_diagonal">
+		    <_short>Detect Diagonal Movements</_short>
+		    <_long>If this option is selected, diagonal movements are detected, which may lead to a decreased detection accuracy.</_long>
+		    <default>false</default>
+		</option>
+		<subgroup>
+		    <_short>Gesture assignment</_short>
+		    <option type="list" name="gestures">
+			<_short>Gesture</_short>
+			<_long>Mouse gesture to assign an action to.</_long>
+			<type>string</type>
+		    </option>
+		    <option type="list" name="plugins">
+			<_short>Plugin</_short>
+			<_long>Plugin the action belongs to.</_long>
+			<type>string</type>
+		    </option>
+		    <option type="list" name="actions">
+			<_short>Action</_short>
+			<_long>Action that is to be invoked.</_long>
+			<type>string</type>
+		    </option>
+		</subgroup>
+	    </group>
+	</display>
+    </plugin>
+</compiz>
+
