@@ -8,6 +8,7 @@ xml_in_files =           \
 	maze.xml.in          \
 	mousegestures.xml.in \
 	newton.xml.in        \
+	peek.xml.in          \
 	roach.xml.in         \
 	rubik.xml.in         \
         visualevent.xml.in   \
