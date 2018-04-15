@@ -135,6 +135,7 @@ images/roach/Makefile
 metadata/Makefile
 src/Makefile
 src/boing/Makefile
+src/flash/Makefile
 src/headtracking/Makefile
 src/maze/Makefile
 src/newton/Makefile
