@@ -4,6 +4,7 @@
 - Add boing plugin.
 - Add flash plugin.
 - Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv
+- Add lazypointer plugin 
 - Add maze plugin.
 - Add newton plugin.
 - Add peek plugin.
