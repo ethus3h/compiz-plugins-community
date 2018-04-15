@@ -8,5 +8,6 @@ SUBDIRS =              \
 	peek               \
 	roach              \
 	rubik              \
+	visualevent        \
 	wiimote            \
 	wiitrack

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="visualevent" useBcop="true">
+        <_short>Visual Event</_short>
+        <_long>Display information when various input events are raised</_long>
+        <category>Utility</category>
+        <display>
+            <group>
+                <_short>Behaviour</_short>
+                <option name="timeout" type="float">
+                    <_short>Key/Button Release Timeout</_short>
+                    <_long>Duration (in s) a key or button should remain visually pressed after being released.</_long>
+                    <default>1.0</default>
+                    <min>0.0</min>
+                    <max>5.0</max>
+                    <precision>0.1</precision>
+                </option>
+            </group>
+            <group>
+                <_short>Key bindings</_short>
+                <option name="toggle_key" type="key">
+                    <_short>Toggle display</_short>
+                    <_long>Toggle display.</_long>
+                    <default>&lt;Super&gt;V</default>
+                </option>
+            </group>
+        </display>
+        <screen>
+            <group>
+                <_short>Appearance</_short>
+                <option name="border_color" type="color">
+                    <_short>Mouse border Color</_short>
+                    <_long>Color of the border of the mouse</_long>
+                    <default>
+                        <red>0x0000</red>
+                        <green>0x0000</green>
+                        <blue>0x0000</blue>
+                        <alpha>0xffff</alpha>
+                    </default>
+                </option>
+                <option name="body_color" type="color">
+                    <_short>Mouse body Color</_short>
+                    <_long>Color of the body of the mouse</_long>
+                    <default>
+                        <red>0xffff</red>
+                        <green>0xffff</green>
+                        <blue>0xffff</blue>
+                        <alpha>0xffff</alpha>
+                    </default>
+                </option>
+                <option name="button1_color" type="color">
+                    <_short>Left button Color</_short>
+                    <_long>Color of the left button</_long>
+                    <default>
+                        <red>0x7fff</red>
+                        <green>0xffff</green>
+                        <blue>0x0000</blue>
+                        <alpha>0xffff</alpha>
+                    </default>
+                </option>
+                <option name="button2_color" type="color">
+                    <_short>Middle button Color</_short>
+                    <_long>Color of the middle button</_long>
+                    <default>
+                        <red>0xffff</red>
+                        <green>0xbfff</green>
+                        <blue>0x0000</blue>
+                        <alpha>0xffff</alpha>
+                    </default>
+                </option>
+                <option name="button3_color" type="color">
+                    <_short>Right button Color</_short>
+                    <_long>Color of the right button</_long>
+                    <default>
+                        <red>0x0000</red>
+                        <green>0x7fff</green>
+                        <blue>0xffff</blue>
+                        <alpha>0xffff</alpha>
+                    </default>
+                </option>
+            </group>
+            <group>
+                <_short>Position</_short>
+                <option name="keyboard_left_margin" type="int">
+                    <_short>Keyboard left margin</_short>
+                    <_long>Left margin of the visual keyboard</_long>
+                    <default>20</default>
+                    <min>0</min>
+                    <max>1000</max>
+                </option>
+                <option name="keyboard_bottom_margin" type="int">
+                    <_short>Keyboard bottom margin</_short>
+                    <_long>Bottom margin of the visual keyboard</_long>
+                    <default>20</default>
+                    <min>0</min>
+                    <max>1000</max>
+                </option>
+                <option name="mouse_right_margin" type="int">
+                    <_short>Mouse right margin</_short>
+                    <_long>Right margin of the visual mouse</_long>
+                    <default>20</default>
+                    <min>0</min>
+                    <max>1000</max>
+                </option>
+                <option name="mouse_bottom_margin" type="int">
+                    <_short>Mouse bottom margin</_short>
+                    <_long>Bottom margin of the visual mouse</_long>
+                    <default>20</default>
+                    <min>0</min>
+                    <max>1000</max>
+                </option>
+            </group>
+        </screen>
+    </plugin>
+</compiz>

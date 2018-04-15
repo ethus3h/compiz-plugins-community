@@ -7,6 +7,7 @@ xml_in_files =           \
 	newton.xml.in        \
 	roach.xml.in         \
 	rubik.xml.in         \
+        visualevent.xml.in   \
 	wiimote.xml.in       \
 	wiitrack.xml.in
 
