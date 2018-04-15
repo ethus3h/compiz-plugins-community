@@ -1,6 +1,7 @@
 iconsdir = $(pluginiconsdir)
 icons_DATA =              \
   plugin-boing.svg        \
+  plugin-flash.svg        \
   plugin-headtracking.svg \
   plugin-maze.svg         \
   plugin-newton.svg       \
