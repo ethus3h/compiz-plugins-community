@@ -4,7 +4,7 @@ PFLAGS=-module -avoid-version -no-undefined
 libmousegestures_la_LDFLAGS = $(PFLAGS)
 libmousegestures_la_LIBADD = @COMPIZ_LIBS@
 nodist_libmousegestures_la_SOURCES = mousegestures_options.c mousegestures_options.h
-dist_liblazypointer_la_SOURCES = mousegestures.c
+dist_libmousegestures_la_SOURCES = mousegestures.c
 
 BUILT_SOURCES = $(nodist_libmousegestures_la_SOURCES)
 
