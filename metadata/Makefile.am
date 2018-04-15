@@ -2,6 +2,7 @@ xmldir       = $(metadatadir)
 
 xml_in_files =           \
 	boing.xml.in         \
+	flash.xml.in         \
 	headtracking.xml.in  \
 	maze.xml.in          \
 	newton.xml.in        \
