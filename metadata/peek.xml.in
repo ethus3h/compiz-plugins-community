@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="peek" useBcop="true">
+	<_short>Peek</_short>
+	<_long>Show the window you are hovering hover in the taskbar</_long>
+	<category>Accessibility</category>
+	<deps>
+	    <relation type="after">
+		<plugin>fade</plugin>
+	    </relation>
+	    <requirement>
+		<plugin>mousepoll</plugin>
+	    </requirement>
+	</deps>
+	<display>
+	    <group>
+		<_short>Misc. Options</_short>
+		<option name="timeout" type="int">
+		    <_short>Delay until Peeking</_short>
+		    <_long>The delay (in ms) before Peek reveals the window you are hovering</_long>
+		    <default>700</default>
+		    <min>0</min>
+		    <max>10000</max>
+		</option>
+	    </group>
+	</display>
+	<screen>
+	    <group>
+		<_short>Misc. Options</_short>
+		<option name="window_match" type="match">
+		    <_short>Window Match</_short>
+		    <_long>Windows that should become transparent</_long>
+		    <default>Normal | Dialog | ModalDialog | Utility | Toolbar | Fullscreen</default>
+		</option>
+		<subgroup>
+		    <_short>Opacity Levels</_short>
+		    <option name="active_opacity" type="int">
+			<_short>Active Opacity</_short>
+			<_long>The minimum opacity percentage to ensure a targeted window has. A target window will have either this opacity or the preset opacity, whichever is higher.</_long>
+			<default>100</default>
+			<min>1</min>
+			<max>100</max>
+		    </option>
+		    <option name="passive_opacity" type="int">
+			<_short>Passive Opacity</_short>
+			<_long>The maximum opacity percentage a window blocking the current targeted window can have. A blocking window will have either this opacity or the preset opacity, whichever is lower.</_long>
+			<default>10</default>
+			<min>1</min>
+			<max>100</max>
+		    </option>
+		    <option name="current_viewport" type="bool">
+			<_short>Taskbar only shows windows of current viewport</_short>
+			<_long>Only dim the windows that the taskbar shows as on the current viewport</_long>
+			<default>false</default>
+		    </option>
+		</subgroup>
+	    </group>
+	</screen>
+    </plugin>
+</compiz>
