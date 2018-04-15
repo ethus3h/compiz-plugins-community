@@ -139,6 +139,7 @@ src/flash/Makefile
 src/headtracking/Makefile
 src/lazypointer/Makefile
 src/maze/Makefile
+src/mousegestures/Makefile
 src/newton/Makefile
 src/roach/Makefile
 src/rubik/Makefile
