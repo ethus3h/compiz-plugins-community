@@ -4,6 +4,7 @@ SUBDIRS =              \
 	boing              \
 	flash              \
 	headtracking       \
+	lazypointer        \
 	maze               \
 	newton             \
 	peek               \
