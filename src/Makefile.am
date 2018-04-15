@@ -6,6 +6,7 @@ SUBDIRS =              \
 	headtracking       \
 	lazypointer        \
 	maze               \
+	mousegestures      \
 	newton             \
 	peek               \
 	roach              \
