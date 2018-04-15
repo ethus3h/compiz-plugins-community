@@ -3,7 +3,7 @@
     <plugin name="flash">
 	<short>Lightning Bolts</short>
 	<long>Lightning bolts between your cursor and the nearest window</long>
-        <category>Extras</category>
+        <category>Effects</category>
 	<display>
 	    <option type="key" name="initiate_key">
 		<short>Initiate</short>
