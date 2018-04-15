@@ -6,7 +6,7 @@ libpeek_la_LIBADD = @COMPIZ_LIBS@
 nodist_libpeek_la_SOURCES = peek_options.c peek_options.h
 dist_libpeek_la_SOURCES = peek.c
 
-BUILT_SOURCES = $(nodist_libmaze_la_SOURCES)
+BUILT_SOURCES = $(nodist_libpeek_la_SOURCES)
 
 AM_CPPFLAGS =                              \
 	-I$(top_srcdir)/include             \
