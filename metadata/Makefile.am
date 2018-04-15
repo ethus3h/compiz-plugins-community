@@ -11,7 +11,7 @@ xml_in_files =           \
 	peek.xml.in          \
 	roach.xml.in         \
 	rubik.xml.in         \
-        visualevent.xml.in   \
+    visualevent.xml.in   \
 	wiimote.xml.in       \
 	wiitrack.xml.in
 
@@ -25,4 +25,5 @@ EXTRA_DIST =		\
 
 DISTCLEANFILES =	\
 	$(xml_files)
+	
 	
