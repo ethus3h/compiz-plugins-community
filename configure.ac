@@ -144,6 +144,7 @@ images/roach/Makefile
 metadata/Makefile
 src/Makefile
 src/boing/Makefile
+src/desktopclick/Makefile
 src/flash/Makefile
 src/headtracking/Makefile
 src/lazypointer/Makefile
