@@ -39,6 +39,21 @@
 					<min>1</min>
 					<max>10</max>
 				</option>
+				<option name="rotate_all_axes" type="bool">
+					<short>Rotate around all axes</short>
+					<long>Rotate Rubik's cube around all axes (convert windows to pixmaps also).</long>
+					<default>true</default>
+				</option>
+				<option name="enable_on_manual_rotate" type="bool">
+					<short>On manual rotate</short>
+					<long>Enable effect only on cube rotate.</long>
+					<default>true</default>
+				</option>
+				<option name="rotate_desktop" type="bool">
+					<short>Rotate desktop</short>
+					<long>Rotate desktop as well as windows.</long>
+					<default>true</default>
+				</option>
 				<option name="colored_sides" type="bool">
 					<short>Colored Sides</short>
 					<long>Replace wallpaper with colored sides.</long>
