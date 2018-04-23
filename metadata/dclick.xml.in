@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="dclick" useBcop="true">
+		<_short>Desktop Click</_short>
+		<_long>Perform actions on desktop clicks</_long>
+		<category>Desktop</category>
+		<display>
+			<group>
+				<_short>Click List</_short>
+				<subgroup>
+				      <_short>Click List</_short>
+				      <option name="click_buttons" type="list">
+					 <_short>Button Number</_short>
+					 <_long>Button Number</_long>
+					 <type>int</type>
+					 <min>0</min>
+					 <max>6</max>
+					<desc>
+					    <value>0</value><name>Button1</name>
+					 </desc>
+					 <desc>
+					    <value>1</value><name>Button2</name>
+					 </desc>
+					 <desc>
+					    <value>2</value><name>Button3</name>
+					 </desc>
+					 <desc>
+					    <value>3</value><name>Button4</name>
+					 </desc>
+					 <desc>
+					    <value>4</value><name>Button5</name>
+					 </desc>
+					 <desc>
+					    <value>5</value><name>Button6</name>
+					 </desc>
+					 <desc>
+					    <value>6</value><name>Button7</name>
+					 </desc>
+				     </option>
+				     <option name="click_mods" type="list">
+					 <_short>Modifiers</_short>
+					 <_long>What Modifiers must be used in order to trigger the action</_long>
+					 <type>int</type>
+					 <desc>
+					    <value>0</value><name>Control</name>
+					 </desc>
+					 <desc>
+					    <value>1</value><name>Alt</name>
+					 </desc>
+					 <desc>
+					    <value>2</value><name>Super</name>
+					 </desc>
+					 <desc>
+					    <value>3</value><name>Shift</name>
+					 </desc>
+					 <desc>
+					    <value>4</value><name>Control Alt</name>
+					 </desc>
+					 <desc>
+					    <value>5</value><name>Control Shift</name>
+					 </desc>
+					 <desc>
+					    <value>6</value><name>Control Super</name>
+					 </desc>
+					 <desc>
+					    <value>7</value><name>Alt Shift</name>
+					 </desc>
+					 <desc>
+					    <value>8</value><name>Alt Super</name>
+					 </desc>
+					 <desc>
+					    <value>9</value><name>Shift Super</name>
+					 </desc>
+					 <desc>
+					    <value>10</value><name>Shift Alt</name>
+					 </desc>
+					 <desc>
+					     <value>11</value><name>None</name>
+					 </desc>
+				     </option>
+				     <option type="list" name="plugin_names">
+				     <_short>Plugin Name</_short>
+				     <_long>Initiation Plugin Name</_long>
+				     <type>string</type>
+				     </option>
+				     <option type="list" name="action_names">
+				     <_short>Action Name</_short>
+				     <_long>Initiation Action Name</_long>
+				     <type>string</type>
+				     </option>
+				     <option type="list" name="call_type">
+				     <_short>Call Type</_short>
+				     <_long>How to handle the action calling</_long>
+				     <type>int</type>
+				     <min>0</min>
+				     <max>1</max>
+				     <desc>
+				        <value>0</value><name>Hold</name>
+				     </desc>
+				     <desc>
+				        <value>1</value><name>Toggle</name>
+			        </desc>
+			        </option>
+				     </subgroup>
+			</group>
+		</display>
+	</plugin>
+</compiz>
