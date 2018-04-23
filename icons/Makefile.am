@@ -7,6 +7,7 @@ icons_DATA =              \
   plugin-lazypointer.svg  \
   plugin-newton.svg       \
   plugin-peek.svg         \
+  plugin-prompt.svg       \	
   plugin-roach.svg        \
   plugin-rubik.svg        \
   plugin-visualevent.svg  \
