@@ -2,7 +2,7 @@
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
-libvisualevent_la_LDFLAGS = $(PFLAGS)
+libvisualevent_la_LDFLAGS = $(PFLAGS) -pthread
 libvisualevent_la_LIBADD = @COMPIZ_LIBS@
 nodist_libvisualevent_la_SOURCES = visualevent_options.c visualevent_options.h
 dist_libvisualevent_la_SOURCES = compiz-cairo.c compiz-cairo.h visualevent.c
