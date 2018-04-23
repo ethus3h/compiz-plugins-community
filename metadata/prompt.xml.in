@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<compiz>
+  <plugin name="prompt" useBcop="true">
+    <_short>Prompt</_short>
+	<_long>Compiz interface for the prompting the user.</_long>
+		<deps>
+			<requirement>
+				<plugin>text</plugin>
+			</requirement>
+		</deps>
+	<category>Utility</category>
+    <display>
+        <option name="display_text" type="action"/>
+     </display>
+      <screen>
+      <group>
+      <_short>Notification</_short>
+	  <option name="title_font_color" type="color">
+					<_short>Font Color</_short>
+					<_long>Font color for the window title</_long>
+	  <default>
+						<red>0xffff</red>
+						<green>0xffff</green>
+						<blue>0xffff</blue>
+						<alpha>0xffff</alpha>
+	  </default>
+      </option>
+      <option name="title_font_size" type="int">
+					<_short>Font Size</_short>
+					<_long>Font size for the window title</_long>
+					<default>16</default>
+					<min>6</min>
+					<max>96</max>
+	 </option>
+	  <option name="title_back_color" type="color">
+					<_short>Background Color</_short>
+					<_long>Background color for the window title</_long>
+	                <default>
+						<red>0x0000</red>
+						<green>0x0000</green>
+						<blue>0x0000</blue>
+						<alpha>0x9999</alpha>
+	                </default>
+	  </option>
+	  </group>
+	  </screen>
+    </plugin>
+</compiz>
