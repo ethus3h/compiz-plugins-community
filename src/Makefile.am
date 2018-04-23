@@ -2,6 +2,7 @@
 
 SUBDIRS =              \
 	boing              \
+	desktopclick       \
 	flash              \
 	headtracking       \
 	lazypointer        \
