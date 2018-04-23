@@ -2,6 +2,7 @@
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
+if VISUALEVENT_PLUGIN
 libvisualevent_la_LDFLAGS = $(PFLAGS) -pthread
 libvisualevent_la_LIBADD = @COMPIZ_LIBS@
 nodist_libvisualevent_la_SOURCES = visualevent_options.c visualevent_options.h
