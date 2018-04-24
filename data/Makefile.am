@@ -1,2 +1,1 @@
-SUBDIRS = headtracking
-SUBDIRS = wiimote
+SUBDIRS = headtracking wiimote
