@@ -137,6 +137,7 @@ AC_OUTPUT([
 Makefile
 data/Makefile
 data/headtracking/Makefile
+data/wiimote/Makefile
 icons/Makefile
 images/Makefile
 images/boing/Makefile
