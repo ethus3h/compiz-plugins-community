@@ -32,10 +32,6 @@
 
 #include "compiz-cairo.h"
 
-#include <cairo-xlib-xrender.h>
-#include <pango/pango.h>
-#include <pango/pangocairo.h>
-
 #include <pthread.h>
 
 #include <X11/extensions/record.h>
