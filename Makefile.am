@@ -22,7 +22,7 @@ DISTCLEANFILES =		\
 	po/.intltool-merge-cache
 
 if VISUALEVENT_PLUGIN
-textdata = compiz-visualevent.pc
+visualeventdata = compiz-visualevent.pc
 endif
 
 # Build ChangeLog from GIT  history
