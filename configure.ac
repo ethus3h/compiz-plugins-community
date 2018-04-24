@@ -134,6 +134,7 @@ if test "x$have_pango" = "xyes"; then
 fi
 
 AC_OUTPUT([
+compiz-visualevent.pc
 Makefile
 data/Makefile
 data/headtracking/Makefile
