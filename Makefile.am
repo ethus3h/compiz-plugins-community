@@ -21,7 +21,7 @@ DISTCLEANFILES =		\
 	intltool-update		 \
 	po/.intltool-merge-cache
 
-if TEXT_PLUGIN
+if VISUALEVENT_PLUGIN
 textdata = compiz-visualevent.pc
 endif
 
