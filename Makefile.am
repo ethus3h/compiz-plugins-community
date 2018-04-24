@@ -2,15 +2,16 @@ ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
 
 SUBDIRS = metadata src po icons images data
 
-EXTRA_DIST =		   \
-	AUTHORS		    \
-	LICENSE.md	 \
-	NEWS		    \
-	README.md	    \
-	VERSION		    \
-	autogen.sh	    \
-	intltool-extract.in \
-	intltool-merge.in   \
+EXTRA_DIST =		    \
+	AUTHORS		   \
+	LICENSE.md	    \
+	NEWS		     \
+	README.md	      \
+	VERSION		       \
+	autogen.sh	        \
+	compiz-visualevent.pc.in \
+	intltool-extract.in       \
+	intltool-merge.in          \
 	intltool-update.in
 
 DISTCLEANFILES =		\
