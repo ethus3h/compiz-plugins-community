@@ -2,6 +2,7 @@
 
 SUBDIRS =              \
 	boing              \
+	desktopclick       \
 	flash              \
 	headtracking       \
 	lazypointer        \
@@ -9,6 +10,7 @@ SUBDIRS =              \
 	mousegestures      \
 	newton             \
 	peek               \
+	prompt             \
 	roach              \
 	rubik              \
 	visualevent        \

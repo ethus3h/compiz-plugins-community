@@ -2,6 +2,7 @@ xmldir       = $(metadatadir)
 
 xml_in_files =           \
 	boing.xml.in         \
+	dclick.xml.in        \
 	flash.xml.in         \
 	headtracking.xml.in  \
 	lazypointer.xml.in   \
@@ -9,6 +10,7 @@ xml_in_files =           \
 	mousegestures.xml.in \
 	newton.xml.in        \
 	peek.xml.in          \
+	prompt.xml.in        \
 	roach.xml.in         \
 	rubik.xml.in         \
         visualevent.xml.in   \

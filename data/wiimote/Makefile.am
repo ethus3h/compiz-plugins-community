@@ -1,0 +1,6 @@
+wiimotedir = $(compdatadir)/wiimote
+wiimote_DATA =                  \
+	haarcascade_frontalface_alt2.xml
+
+EXTRA_DIST =                         \
+	haarcascade_frontalface_alt2.xml
