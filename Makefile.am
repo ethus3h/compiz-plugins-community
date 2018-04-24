@@ -21,9 +21,9 @@ DISTCLEANFILES =		\
 	intltool-update		 \
 	po/.intltool-merge-cache
 
-if VISUALEVENT_PLUGIN
-visualeventdata = compiz-visualevent.pc
-endif
+pkgconfigdir = $(libdir)/pkgconfig
+pkgconfig_DATA =	\
+	compiz-visualevent.pc
 
 # Build ChangeLog from GIT  history
 ChangeLog:
