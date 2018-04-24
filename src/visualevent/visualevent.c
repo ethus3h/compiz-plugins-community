@@ -30,6 +30,7 @@
 #include <unistd.h>
 #include <compiz-core.h>
 
+#include <cairo-xlib-xrender.h>
 #include "compiz-cairo.h"
 
 #include <pthread.h>
