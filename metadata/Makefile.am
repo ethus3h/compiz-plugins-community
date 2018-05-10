@@ -9,6 +9,7 @@ xml_in_files =           \
 	mousegestures.xml.in \
 	newton.xml.in        \
 	peek.xml.in          \
+	prompt.xml.in        \
 	roach.xml.in         \
 	rubik.xml.in         \
         visualevent.xml.in   \
