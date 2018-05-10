@@ -9,6 +9,7 @@
 - Add mousegestures plugin.
 - Add newton plugin.
 - Add peek plugin.
+- Add prompt plugin.
 - Add rubik plugin.
 - Add visualevent plugin. (warning:crash random,dependencies not add plugin).
 - Add wiimote plugin. (adds dependencies on cwiid).
