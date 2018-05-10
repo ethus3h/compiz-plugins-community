@@ -18,9 +18,10 @@ AM_CPPFLAGS =                              \
 	-DDATADIR='"$(compdatadir)"'        \
 	-DLIBDIR='"$(libdir)"'              \
 	-DLOCALEDIR="\"@datadir@/locale\""  \
-	-DIMAGEDIR='"$(imagedir)"'          
-        -lpthread
+	-DIMAGEDIR='"$(imagedir)"'  
 	
+LDFLAGS= -lpthread	
+
 moduledir = $(plugindir)
 
 if VISUALEVENT_PLUGIN
