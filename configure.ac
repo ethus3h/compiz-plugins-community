@@ -130,6 +130,7 @@ PKG_CHECK_MODULES(XTST, xtst, [have_xtst=yes], [have_xtst=no])
 AM_CONDITIONAL(VISUALEVENT_PLUGIN, test "x$have_pango" = "xyes" && test "x$have_xtst" = "xyes")
 
 AC_OUTPUT([
+compiz-visualevent.pc
 Makefile
 data/Makefile
 data/headtracking/Makefile
