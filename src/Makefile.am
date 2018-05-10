@@ -10,6 +10,7 @@ SUBDIRS =              \
 	mousegestures      \
 	newton             \
 	peek               \
+	prompt             \
 	roach              \
 	rubik              \
 	visualevent        \
