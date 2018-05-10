@@ -1,9 +1,8 @@
-
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
 if VISUALEVENT_PLUGIN
-libvisualevent_la_LDFLAGS = $(PFLAGS)
+libvisualeventt_la_LDFLAGS = $(PFLAGS)
 libvisualevent_la_LIBADD = @COMPIZ_LIBS@ @PANGO_LIBS@ @XTST_LIBS@
 nodist_libvisualevent_la_SOURCES = visualevent_options.c visualevent_options.h
 dist_libvisualevent_la_SOURCES = compiz-cairo.c compiz-cairo.h visualevent.c
@@ -12,12 +11,14 @@ endif
 BUILT_SOURCES = $(nodist_libvisualevent_la_SOURCES)
 
 AM_CPPFLAGS =                              \
-	-I$(top_srcdir)/include             \
-	@COMPIZ_CFLAGS@                     \
+	-I$(top_srcdir)/include         \
+	@COMPIZ_CFLAGS@                  \
+	@PANGO_CFLAGS@			\
+	@XTST_CFLAGS@			\
 	-DDATADIR='"$(compdatadir)"'        \
 	-DLIBDIR='"$(libdir)"'              \
 	-DLOCALEDIR="\"@datadir@/locale\""  \
-	-DIMAGEDIR='"$(imagedir)"'
+	-DIMAGEDIR='"$(imagedir)"'          
 
 moduledir = $(plugindir)
 
