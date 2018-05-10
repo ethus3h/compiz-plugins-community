@@ -127,12 +127,9 @@ AC_SUBST(GL_LIBS)
 
 PKG_CHECK_MODULES(PANGO, cairo-xlib-xrender pangocairo cairo >= 1.0, [have_pango=yes], [have_pango=no])
 PKG_CHECK_MODULES(XTST, xtst, [have_xtst=yes], [have_xtst=no])
-
 AM_CONDITIONAL(VISUALEVENT_PLUGIN, test "x$have_pango" = "xyes" && test "x$have_xtst" = "xyes")
-AC_DEFINE(USE_VISUALEVENT, 1, [Build visualevent plugin])
 
 AC_OUTPUT([
-compiz-visualevent.pc
 Makefile
 data/Makefile
 data/headtracking/Makefile
