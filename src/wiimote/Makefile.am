@@ -17,6 +17,8 @@ AM_CPPFLAGS =                              \
 	-DIMAGEDIR='"$(imagedir)"'          \
 	-std=c99
 
+LDFLAGS= -lcwiid	
+
 moduledir = $(plugindir)
 
 module_LTLIBRARIES = libwiimote.la
