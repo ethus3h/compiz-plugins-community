@@ -150,6 +150,7 @@ src/maze/Makefile
 src/mousegestures/Makefile
 src/newton/Makefile
 src/peek/Makefile
+src/prompt/Makefile
 src/roach/Makefile
 src/rubik/Makefile
 src/visualevent/Makefile
