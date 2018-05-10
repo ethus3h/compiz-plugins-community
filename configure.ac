@@ -124,8 +124,6 @@ AC_MSG_RESULT($GL_LIBS)
 AC_SUBST(GL_CFLAGS)
 AC_SUBST(GL_LIBS)
 
-PKG_CHECK_MODULES(COMPIZPROMPT, compiz-prompt, [have_compiz_prompt =yes], [have_compiz_prompt=no])
-AM_CONDITIONAL(WIIMOTE_PLUGIN, test "x$have_compiz_prompt" = "xyes")
 
 PKG_CHECK_MODULES(PANGO, cairo-xlib-xrender pangocairo cairo >= 1.0, [have_pango=yes], [have_pango=no])
 PKG_CHECK_MODULES(XTST, xtst, [have_xtst=yes], [have_xtst=no])
