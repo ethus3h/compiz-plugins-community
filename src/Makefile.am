@@ -1,5 +1,4 @@
 ## Process this file with automake to produce Makefile.in
-##	visualevent        \
 ##	wiimote            \
 
 SUBDIRS =              \
@@ -13,4 +12,5 @@ SUBDIRS =              \
 	peek               \
 	roach              \
 	rubik              \
+	visualevent        \
 	wiitrack
