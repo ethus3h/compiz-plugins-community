@@ -130,7 +130,6 @@ PKG_CHECK_MODULES(XTST, xtst, [have_xtst=yes], [have_xtst=no])
 
 AM_CONDITIONAL(VISUALEVENT_PLUGIN, test "x$have_pango" = "xyes" && test "x$have_xtst" = "xyes")
 AC_DEFINE(USE_VISUALEVENT, 1, [Build visualevent plugin])
-fi
 
 AC_OUTPUT([
 compiz-visualevent.pc
