@@ -11,6 +11,7 @@ icons_DATA =              \
   plugin-prompt.svg       \
   plugin-roach.svg        \
   plugin-rubik.svg        \
+  plugin-showrepaint.svg  \
   plugin-visualevent.svg  \
   plugin-wiimote.svg      \
   plugin-wiitrack.svg
