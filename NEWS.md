@@ -12,6 +12,7 @@
 - Add peek plugin.
 - Add prompt plugin.
 - Add rubik plugin.
+- Add showrepaint plugin.
 - Add visualevent plugin. (warning:crash random).
 - Add wiimote plugin. (wii remote not found -not detect prompt).
 - Add wiitrack plugin.
