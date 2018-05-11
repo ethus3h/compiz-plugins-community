@@ -13,6 +13,7 @@ SUBDIRS =              \
 	prompt             \
 	roach              \
 	rubik              \
+	showrepaint        \
 	visualevent        \
 	wiimote            \
 	wiitrack
