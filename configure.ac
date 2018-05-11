@@ -127,6 +127,7 @@ AC_SUBST(GL_LIBS)
 # Checks for libraries.
 # FIXME: Replace `main' with a function in `-lpthread':
 AC_CHECK_LIB([pthread], [main])
+AC_CHECK_LIB([lcwiid], [main])
 
 PKG_CHECK_MODULES(PANGO, cairo-xlib-xrender pangocairo cairo >= 1.0, [have_pango=yes], [have_pango=no])
 PKG_CHECK_MODULES(XTST, xtst, [have_xtst=yes], [have_xtst=no])
