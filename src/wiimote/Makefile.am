@@ -4,7 +4,7 @@ PFLAGS=-module -avoid-version -no-undefined
 libwiimote_la_LDFLAGS = $(PFLAGS)
 libwiimote_la_LIBADD = @COMPIZ_LIBS@
 nodist_libwiimote_la_SOURCES = wiimote_options.c wiimote_options.h
-dist_libwiimote_la_SOURCES = action.c callback.c communicate.c compiz-wiimote.h connect.c gesture.c option.c report.c util.c util.c wiimote.c
+dist_libwiimote_la_SOURCES = action.c callback.c communicate.c compiz-wiimote.h connect.c gesture.c option.c report.c util.c wiimote-internal.h wiimote.c
 
 BUILT_SOURCES = $(nodist_libwiimote_la_SOURCES)
 
