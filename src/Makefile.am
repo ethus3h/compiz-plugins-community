@@ -1,9 +1,8 @@
 ## Process this file with automake to produce Makefile.in
-##	visualevent        \
-##	wiimote            \
 
 SUBDIRS =              \
 	boing              \
+	desktopclick       \
 	flash              \
 	headtracking       \
 	lazypointer        \
@@ -11,6 +10,10 @@ SUBDIRS =              \
 	mousegestures      \
 	newton             \
 	peek               \
+	prompt             \
 	roach              \
 	rubik              \
+	showrepaint        \
+	visualevent        \
+	wiimote            \
 	wiitrack

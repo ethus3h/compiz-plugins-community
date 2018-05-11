@@ -9,6 +9,7 @@ EXTRA_DIST =		   \
 	README.md	    \
 	VERSION		    \
 	autogen.sh	    \
+        compiz-visualevent.pc.in \
 	intltool-extract.in \
 	intltool-merge.in   \
 	intltool-update.in
@@ -20,6 +21,10 @@ DISTCLEANFILES =		\
 	intltool-update		 \
 	po/.intltool-merge-cache
 
+pkgconfigdir = $(libdir)/pkgconfig
+pkgconfig_DATA =	\
+	compiz-visualevent.pc
+	
 # Build ChangeLog from GIT  history
 ChangeLog:
 	$(AM_V_GEN) if test -d $(top_srcdir)/.git; then \

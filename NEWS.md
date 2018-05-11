@@ -2,16 +2,19 @@
 ================================================================
 
 - Add boing plugin.
+- Add desktopclick plugin.
 - Add flash plugin.
-- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv
+- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv -not works on opencv 3.0)
 - Add lazypointer plugin 
 - Add maze plugin.
 - Add mousegestures plugin.
 - Add newton plugin.
 - Add peek plugin.
+- Add prompt plugin.
 - Add rubik plugin.
-- Add visualevent plugin. (warning:crash random,dependencies not add plugin).
-- Add wiimote plugin. (adds dependencies on cwiid).
+- Add showrepaint plugin.
+- Add visualevent plugin. (warning:crash random).
+- Add wiimote plugin. (wii remote not found -not detect prompt).
 - Add wiitrack plugin.
 - Fixes to roach from matijaskala.
 
