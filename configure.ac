@@ -160,6 +160,7 @@ src/peek/Makefile
 src/prompt/Makefile
 src/roach/Makefile
 src/rubik/Makefile
+src/showrepaint/Makefile
 src/visualevent/Makefile
 src/wiimote/Makefile
 src/wiitrack/Makefile
