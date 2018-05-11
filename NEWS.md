@@ -12,7 +12,7 @@
 - Add peek plugin.
 - Add prompt plugin.
 - Add rubik plugin.
-- Add visualevent plugin. (warning:crash random,dependencies not add plugin).
+- Add visualevent plugin. (warning:crash random).
 - Add wiimote plugin. (adds dependencies on cwiid).
 - Add wiitrack plugin.
 - Fixes to roach from matijaskala.
