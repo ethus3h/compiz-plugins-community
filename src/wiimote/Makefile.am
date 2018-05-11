@@ -15,8 +15,7 @@ AM_CPPFLAGS =                              \
 	-DLIBDIR='"$(libdir)"'              \
 	-DLOCALEDIR="\"@datadir@/locale\""  \
 	-DIMAGEDIR='"$(imagedir)"' 
-	
-LDFLAGS= -lcwiid	
+        -lcwiid	
 
 moduledir = $(plugindir)
 
