@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="showrepaint" useBcop="true">
+	<_short>Showrepaint</_short>
+	<_long>Highlight repainted regions of the screen</_long>
+	<category>Utility</category>
+    </plugin>
+</compiz>
