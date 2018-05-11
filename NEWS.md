@@ -4,7 +4,7 @@
 - Add boing plugin.
 - Add desktopclick plugin. (warning:crash random).
 - Add flash plugin.
-- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv
+- Add headtracking plugin (adds dependencies on app-misc/cwiid and media-libs/opencv -not works on opencv 3.0)
 - Add lazypointer plugin 
 - Add maze plugin.
 - Add mousegestures plugin.
