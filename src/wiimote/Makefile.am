@@ -14,7 +14,7 @@ AM_CPPFLAGS =                              \
 	-DDATADIR='"$(compdatadir)"'        \
 	-DLIBDIR='"$(libdir)"'              \
 	-DLOCALEDIR="\"@datadir@/locale\""  \
-	-DIMAGEDIR='"$(imagedir)"'          \
+	-DIMAGEDIR='"$(imagedir)"'          
 
 LDFLAGS= -lcwiid	
 
