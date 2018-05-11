@@ -13,7 +13,7 @@
 - Add prompt plugin.
 - Add rubik plugin.
 - Add visualevent plugin. (warning:crash random).
-- Add wiimote plugin. (adds dependencies on cwiid).
+- Add wiimote plugin. (not correct add dependencies on cwiid).
 - Add wiitrack plugin.
 - Fixes to roach from matijaskala.
 
