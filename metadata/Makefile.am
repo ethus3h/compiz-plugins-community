@@ -14,7 +14,7 @@ xml_in_files =           \
 	roach.xml.in         \
 	rubik.xml.in         \
 	showrepaint.xml.in   \
-        visualevent.xml.in   \
+	visualevent.xml.in   \
 	wiimote.xml.in       \
 	wiitrack.xml.in
 
@@ -28,5 +28,3 @@ EXTRA_DIST =		\
 
 DISTCLEANFILES =	\
 	$(xml_files)
-	
-	
