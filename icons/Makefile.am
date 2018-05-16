@@ -5,6 +5,7 @@ icons_DATA =              \
   plugin-flash.svg        \
   plugin-headtracking.svg \
   plugin-maze.svg         \
+  plugin-mousegestures.svg\
   plugin-lazypointer.svg  \
   plugin-newton.svg       \
   plugin-peek.svg         \
