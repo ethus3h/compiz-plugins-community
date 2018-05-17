@@ -10,11 +10,11 @@
 - Add mousegestures plugin.
 - Add newton plugin.
 - Add peek plugin.
-- Add prompt plugin.(not add to wiiremote)
+- Add prompt plugin.
 - Add rubik plugin.
 - Add showrepaint plugin.
 - Add visualevent plugin. (warning:crash random).
-- Add wiimote plugin. (wii remote not found -not vercion correct prompt).
+- Add wiimote plugin. (wii remote not found -not detect prompt).
 - Add wiitrack plugin.
 - Fixes to roach from matijaskala.
 
