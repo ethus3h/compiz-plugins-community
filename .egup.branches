@@ -1,1 +1,2 @@
-  remotes/origin/HEAD   -> origin/master
+  remotes/origin/HEAD              -> origin/master
+  remotes/origin/revert-20-patch-2 bd102a7 Revert "add icon plugin mousegestures"
