@@ -5,6 +5,7 @@
 SUBDIRS =              \
 	boing              \
 	desktopclick       \
+	dodge              \
 	flash              \
 	headtracking       \
 	lazypointer        \

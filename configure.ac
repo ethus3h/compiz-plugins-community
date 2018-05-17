@@ -137,6 +137,9 @@ if test "x$have_pango" = "xyes"; then
   AC_DEFINE(USE_VISUALEVENT, 1, [Build visualevent plugin])
 fi
 
+PKG_CHECK_MODULES(COMPIZMOUSEPOLL, compiz-mousepoll, [have_compiz_mousepoll=yes], [have_compiz_mousepoll=no])
+AM_CONDITIONAL(DODGE_PLUGIN, test "x$have_compiz_dodge" = "xyes")
+
 AC_OUTPUT([
 compiz-visualevent.pc
 Makefile
@@ -150,6 +153,7 @@ metadata/Makefile
 src/Makefile
 src/boing/Makefile
 src/desktopclick/Makefile
+src/dodge/Makefile
 src/flash/Makefile
 src/headtracking/Makefile
 src/lazypointer/Makefile
