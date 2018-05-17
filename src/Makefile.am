@@ -1,6 +1,4 @@
 ## Process this file with automake to produce Makefile.in
-##	wiimote            \
-##	prompt             \
 
 SUBDIRS =              \
 	boing              \
@@ -12,8 +10,10 @@ SUBDIRS =              \
 	mousegestures      \
 	newton             \
 	peek               \
+	prompt             \
 	roach              \
 	rubik              \
 	showrepaint        \
 	visualevent        \
+	wiimote            \
 	wiitrack
