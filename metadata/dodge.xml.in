@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="dodge" useBcop="true">
+		<_short>Dodge</_short>
+		<_long>Makes windows stay out of your way</_long>
+		<category>Extras</category>
+		<deps>
+			<relation type="after">
+			    <plugin>cube</plugin>
+			    <plugin>wall</plugin>
+			    <plugin>regex</plugin>
+			    <plugin>mousepoll</plugin>
+			    <plugin>expo</plugin>
+			</relation>
+			<requirement>
+			    <plugin>mousepoll</plugin>
+			    <plugin>regex</plugin>
+			</requirement>
+		</deps>
+		<display>
+			<group>
+				<option name="dodge_toggle_key" type="key">
+					<_short>Toggle Dodging</_short>
+					<_long>Toggle Dodging</_long>
+					<default>none</default>
+				</option>
+				<option name="dodge_toggle_button" type="button">
+					<_short>Toggle Dodging</_short>
+					<_long>Toggle Dodging</_long>
+					<default>none</default>
+				</option>
+				<option name="dodge_toggle_edge" type="edge">
+					<_short>Toggle Dodging</_short>
+					<_long>Toggle Dodging</_long>
+					<default>none</default>
+				</option>
+				<option name="window_types" type="match">
+					<_short>Window Types</_short>
+					<_long>Windows which should dodge</_long>
+					<default>state=above &amp; type=normal</default>
+				</option>
+				<option name="dodge_select_key" type="key">
+					<_short>Select Window</_short>
+					<_long>Mark the active window so it will dodge</_long>
+					<default>none</default>
+				</option>
+				<option name="model" type="int">
+					<_short>Dodge Model</_short>
+					<_long>What model Dodge should use when dodging</_long>
+					<default>1</default>
+					<min>0</min>
+					<max>2</max>
+					<desc>
+					    <value>0</value>
+					    <_name>Simple Avoid</_name>
+					</desc>
+					<desc>
+					    <value>1</value>
+					    <_name>Return to position</_name>
+					</desc>
+					<desc>
+					    <value>2</value>
+					    <_name>Off Screen</_name>
+					</desc>
+				</option>
+				<option name="dodge_active" type="bool">
+					<_short>Dodge the active window</_short>
+					<_long>Controls whether the active window will be dodged</_long>
+					<default>false</default>
+				</option>
+				<option name="spring_k" type="float">
+					<_short>Spring K</_short>
+					<_long>Spring Stiffness</_long>
+					<default>8</default>
+					<min>1</min>
+					<max>10</max>
+					<precision>0.01</precision>
+				</option>
+				<option name="friction" type="float">
+					<_short>Friction</_short>
+					<_long>Friction</_long>
+					<default>3</default>
+					<min>1</min>
+					<max>10</max>
+					<precision>0.01</precision>
+				</option>
+				<option name="padding" type="int">
+					<_short>Padding</_short>
+					<_long>Padding around windows</_long>
+					<default>20</default>
+					<min>0</min>
+					<max>100</max>
+				</option>
+			</group>
+		</display>
+	</plugin>
+</compiz>
+
