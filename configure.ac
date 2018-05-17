@@ -150,6 +150,7 @@ metadata/Makefile
 src/Makefile
 src/boing/Makefile
 src/desktopclick/Makefile
+src/dodge/Makefile
 src/flash/Makefile
 src/headtracking/Makefile
 src/lazypointer/Makefile
