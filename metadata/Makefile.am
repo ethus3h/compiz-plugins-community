@@ -3,6 +3,7 @@ xmldir       = $(metadatadir)
 xml_in_files =           \
 	boing.xml.in         \
 	dclick.xml.in        \
+	dodge.xml.in         \
 	flash.xml.in         \
 	headtracking.xml.in  \
 	lazypointer.xml.in   \
