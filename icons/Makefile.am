@@ -1,4 +1,4 @@
-iconsdir = $(pluginiconsdir)
+iconsdir = $(pluginiconsdir)/scalable/apps
 icons_DATA =              \
   plugin-boing.svg        \
   plugin-dclick.svg       \
@@ -17,3 +17,7 @@ icons_DATA =              \
   plugin-visualevent.svg  \
   plugin-wiimote.svg      \
   plugin-wiitrack.svg
+
+install-data-hook:
+	$(shell which gtk-update-icon-cache &> /dev/null &&	\
+	gtk-update-icon-cache -f -t $(pluginiconsdir))
