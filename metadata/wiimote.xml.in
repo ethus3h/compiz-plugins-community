@@ -4,7 +4,15 @@
     <_short>Wii Remote</_short>
 	<_long>Compiz interface for the Nintendo Wii Remote.</_long>
 	<category>Utility</category>
-    <display>
+        <deps>
+            <relation type="after">
+	            <plugin>prompt</plugin>
+	    </relation>
+	    <requirement>
+	            <plugin>prompt</plugin>
+	    </requirement>
+        </deps>
+     <display>
       <option name="abi" read_only="true"/>
       <option name="index" read_only="true"/>
       <group>
