@@ -10,13 +10,15 @@
 - Add mousegestures plugin.
 - Add newton plugin.
 - Add peek plugin.
-- Add prompt plugin.(not add to wiiremote)
+- Add prompt plugin.
 - Add rubik plugin.
 - Add showrepaint plugin.
 - Add visualevent plugin. (warning:crash random).
-- Add wiimote plugin. (wii remote not found -not vercion correct prompt).
+- Add wiimote plugin. (test plugin and view works all right).
 - Add wiitrack plugin.
+- add wiimote in prompt thanks soreau.
 - Fixes to roach from matijaskala.
+- cgit.compiz.org test and add plugins in compiz-plugins-community thanks Eignar17.
 
 ## Release 0.8.14 (2017-05-31 Elliot Chandler <elliot@futuramerlin.com>)
 
