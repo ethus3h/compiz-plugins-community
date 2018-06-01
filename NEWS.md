@@ -16,9 +16,9 @@
 - Add visualevent plugin. (warning:crash random).
 - Add wiimote plugin. (test plugin and view works all right).
 - Add wiitrack plugin.
-- prompt add wiimote thanks to soreau.
+- add wiimote in prompt thanks soreau.
 - Fixes to roach from matijaskala.
-- cgit.compiz.org test and add plugins in compiz-plugins-community thanks to Eignar17.
+- cgit.compiz.org test and add plugins in compiz-plugins-community thanks Eignar17.
 
 ## Release 0.8.14 (2017-05-31 Elliot Chandler <elliot@futuramerlin.com>)
 
