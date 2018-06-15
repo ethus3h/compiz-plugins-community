@@ -117,7 +117,7 @@ msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
 "Habilitar las bolas texturadas, sino se usarán los gradientes de color."
 
-msgid "Toggle Boing<"
+msgid "Toggle Boing"
 msgstr "Habilitar o deshabilitar las bolas"
 
 #, fuzzy
@@ -125,8 +125,8 @@ msgid "Boing toggle key"
 msgstr "Tecla de habilitación o deshabilitación de las bolas"
 
 #, fuzzy
-msgid "Thickness of blocks in the animation"
-msgstr "Espesor de los poligonos animados"
+msgid "Boing for Compiz"
+msgstr "Boing para Compiz"
 
 #, fuzzy
 msgid "Spin Direction"
