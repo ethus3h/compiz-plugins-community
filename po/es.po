@@ -18,103 +18,110 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Anaglyph"
+msgid "Boing"
 msgstr ""
 
-msgid "Anaglyph window and Desktop"
-msgstr ""
+msgid "Number Of balls"
+msgstr "Número de bolas"
 
 #, fuzzy
-msgid "Initiate Window"
-msgstr "Habilitar ventana"
+msgid "Number of balls"
+msgstr "Número de bolas"
 
 #, fuzzy
-msgid "Start anaglyph window"
-msgstr "Seleccionar una sola ventana"
+msgid "Size Of balls"
+msgstr "Tamaño de las bolas"
 
 #, fuzzy
-msgid "Initiate Screen"
-msgstr "Iniciar dibujo del fuego"
+msgid "Size of balls"
+msgstr "Tamaño de las bolas"
 
-msgid "Start anaglyph screen"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Window Button"
-msgstr "Iniciar (botón del ratón)"
+msgid "Update Delay"
+msgstr "Actualizar retraso"
 
 #, fuzzy
-msgid "Start anaglyph active window"
-msgstr "Habilitar una ventana determinada"
+msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
+"fall more smoothly, but will also increase CPU usage."
+msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
+"valor más suave se movera la bola, pero aumentará el uso del CPU."
 
 #, fuzzy
-msgid "Initiate Screen Button"
-msgstr "Iniciar dibujo del fuego"
-
-#, fuzzy
-msgid "Anaglyph Windows"
-msgstr "Ventanas del anillo"
-
-#, fuzzy
-msgid "Windows to be anaglyph by default"
-msgstr "Ventanas en negativo por defecto"
-
-msgid "Exclude Windows"
-msgstr "Ventanas excluídas"
-
-#, fuzzy
-msgid "Windows to exclude from anaglyph"
-msgstr "Ventanas que no se verán en negativo"
-
-#, fuzzy
-msgid "Offset"
-msgstr "Estrella del eje X"
-
-msgid "offset anaglyph"
-msgstr ""
-
-msgid "Increase Desktop deep"
+msgid "Screen Boxing"
 msgstr ""
 
 #, fuzzy
-msgid "Desaturate"
-msgstr "Saturación"
-
-#, fuzzy
-msgid "Mipmaps"
-msgstr "Crear mipmaps"
-
-#, fuzzy
-msgid "Animations Plus"
-msgstr "Animaciones"
-
-#, fuzzy
-msgid "More window animations"
-msgstr "Filtro de las decoraciones de las ventanas"
-
-msgid "Effect Settings"
-msgstr "Configuración de Efectos"
-
-msgid "Helix"
+msgid ""
+"How far outside the screen resolution leaves can be before being removed. "
+"Needed because of FOV."
 msgstr ""
+"Qué tan lejos del exterior de la resolución de la pantalla de las"
+"bolas pueden estar hasta ser removidos. Necesario para el campo de vista."
 
 #, fuzzy
-msgid "Helix Number of Twists"
-msgstr "Fragmetar Numero de Hileras"
+msgid "Screen Depth"
+msgstr "Profundidad de la pantalla"
 
 #, fuzzy
-msgid "Number of twists to do in the animation"
-msgstr "Angulo de la ventana al final de la animación"
+msgid "How deep into the screen leaves can be drawn before being removed"
+msgstr "Qué tan profundos serán dibujados las bolas hasta desaparecer"
 
-msgid "Helix Gridsize Y"
+msgid "Balls Over Windows"
+msgstr "Bolas sobre las ventanas"
+
+#, fuzzy
+msgid "Balls are drawn above windows"
+msgstr "Dibujar las bolas sobre las ventanas"
+
+#, fuzzy
+msgid "Rotate Balls"
+msgstr "Rotar bolas"
+
+msgid "Balls rotate if checked."
+msgstr "Rotar bolas al seleccionar."
+
+msgid "Wind Direction"
+msgstr "Dirección de las bolas"
+
+#, fuzzy
+msgid "Select the wind direction"
+msgstr "Seleccione la dirección del movimiento de las bolas"
+
+#, fuzzy
+msgid "Ball Textures"
+msgstr "Textura de las bolas"
+
+#, fuzzy
+msgid "Ball textures"
+msgstr "Textura de las bolas"
+
+#, fuzzy
+msgid "Enable by default"
+msgstr "Habilitar por defecto"
+
+msgid "Enable boing by default."
+msgstr "Habilite el boing de forma predeterminada."
+
+msgid "Enable Blending"
+msgstr "Habilitar mezcla"
+
+#, fuzzy
+msgid "Enables alpha blending of balls."
+msgstr "Habilitar mezcla alfa para las bolas."
+
+#, fuzzy
+msgid "Enable Textures"
+msgstr "Habilitar texturas"
+
+msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
+"Habilitar las bolas texturadas, sino se usarán los gradientes de color."
 
-msgid "Number of blocks in the animation"
-msgstr ""
+msgid "Toggle Boing<"
+msgstr "Habilitar o deshabilitar las bolas"
 
 #, fuzzy
-msgid "Helix Thickness"
-msgstr "Espesor"
+msgid "Boing toggle key"
+msgstr "Tecla de habilitación o deshabilitación de las bolas"
 
 #, fuzzy
 msgid "Thickness of blocks in the animation"
