@@ -20,7 +20,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Boing"
-msgstr ""
+msgstr "rebote"
 
 msgid "Number Of balls"
 msgstr "Número de bolas"
@@ -118,15 +118,15 @@ msgstr ""
 "Habilitar las bolas texturadas, sino se usarán los gradientes de color."
 
 msgid "Toggle Boing"
-msgstr "Habilitar o deshabilitar las bolas"
+msgstr "Habilitar o deshabilitar rebote"
 
 #, fuzzy
 msgid "Boing toggle key"
-msgstr "Tecla de habilitación o deshabilitación de las bolas"
+msgstr "Tecla de habilitación o deshabilitación del rebote"
 
 #, fuzzy
 msgid "Boing for Compiz"
-msgstr "Boing para Compiz"
+msgstr "rebote para Compiz"
 
 #, fuzzy
 msgid "Spin Direction"
