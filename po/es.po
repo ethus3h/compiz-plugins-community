@@ -129,87 +129,80 @@ msgid "Boing for Compiz"
 msgstr "Boing para Compiz"
 
 #, fuzzy
-msgid "Spin Direction"
-msgstr "Dirección de la nieve"
+msgid "Desktop Click"
+msgstr "Clic de Escritorio"
 
-msgid "Direction the strips spin."
-msgstr ""
+msgid "Perform actions on desktop clicks"
+msgstr "Realiza acciones con Clic en el escritorio"
 
-msgid "Counter-Clockwise"
-msgstr ""
+msgid "Click List"
+msgstr "Lista de Clic"
 
-msgid "Clockwise"
-msgstr ""
-
-#, fuzzy
-msgid "Vertical Helix"
-msgstr "Gradiente Vertical"
-
-msgid ""
-"Whether Helix should rotate with its axis up/down or in/out of the screen"
-msgstr ""
-
-msgid "Blinds"
-msgstr ""
-
-msgid "Blinds Number of Half Twists"
-msgstr ""
+msgid "Click List"
+msgstr "Lista de Clic"
 
 #, fuzzy
-msgid "Number of half twists to do in the animation"
-msgstr "Angulo de la ventana al final de la animación"
+msgid "Button Number"
+msgstr "Número de Botón"
+
+msgid "Button Number"
+msgstr "Número de Botón"
+
+msgid "Modifiers"
+msgstr "Modificaciones"
 
 #, fuzzy
-msgid "Blinds Thickness"
-msgstr "Espesor"
-
-msgid "Shatter"
-msgstr ""
-
-# los "spokes" son los rayos, como en la rueda de una bicicleta, y shatter es romper en mil pedazos... no logro hacer con ello una frase consistente...!
-#, fuzzy
-msgid "Shatter number of spokes"
-msgstr "Número de copos de nieve"
-
-msgid "Number of spokes (divided by 4) in the animation"
-msgstr ""
+msgid "What Modifiers must be used in order to trigger the action"
+msgstr "Qué modificadores deben usarse para desencadenar la acción"
 
 #, fuzzy
-msgid "Shatter Number of Tiers"
-msgstr "Fragmetar Numero de Hileras"
+msgid "Plugin Name"
+msgstr "Nombre del complemento"
 
-msgid "Number of concentric circles in the animation"
+msgid "Initiation Plugin Name"
+msgstr "Nombre del complemento de iniciación"
+
+msgid "Action Name"
+msgstr "Nombre de acción"
+
+#, fuzzy
+msgid "Initiation Action Name"
+msgstr "Nombre de acción que Desea Iniciar"
+
+msgid "Call Type"
+msgstr "Tipo de llamada"
+
+msgid "How to handle the action calling"
+msgstr "Cómo manejar la llamada de la acción"
+
+msgid "Dodge"
+msgstr "Esquivar"
+
+msgid "Makes windows stay out of your way"
+msgstr "Hace que las ventanas se mantengan fuera de tu camino"
+
+msgid "Toggle Dodging"
+msgstr "Habilitar o deshabilitar Esquivar"
+
+#, fuzzy
+msgid "Toggle Dodging"
+msgstr "Habilitar o deshabilitar Esquivar"
+
+msgid "Window Types"
+msgstr "Tipos de ventana"
+
+msgid "Windows which should dodge"
+msgstr "Ventanas que debería esquivar"
+
+msgid "Select Window"
+msgstr "Seleccionar ventana"
+
+#, fuzzy
+msgid "Mark the active window so it will dodge"
+msgstr "Marque la ventana activa para que la esquive"
+
+msgid "Dodge Model"
 msgstr ""
-
-msgid "Bonanza"
-msgstr ""
-
-msgid "Number Of Fire Particles"
-msgstr "Número de Partículas de Fuego"
-
-msgid "Number of fire particles."
-msgstr "Número de partículas de fuego"
-
-msgid "Fire Particle Size"
-msgstr "Tamaño de las partículas de fuego"
-
-msgid "Fire particle size."
-msgstr "Tamaño de las partículas de fuego."
-
-msgid "Fire Particle Life"
-msgstr "Duración de las partículas de fuego"
-
-msgid "Fire particle life."
-msgstr "Duración de las partículas de fuego"
-
-msgid "Fire Particle Color"
-msgstr "Color de las partículas de fuego"
-
-msgid "Fire particle color."
-msgstr "Color de las partículas de fuego"
-
-msgid "Randomly Colored Fire"
-msgstr "Fuego de colores aleatorios"
 
 msgid "Have random colors for the fire effect, also known as Mystical Fire."
 msgstr ""
