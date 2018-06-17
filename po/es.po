@@ -235,79 +235,78 @@ msgstr "Relleno"
 msgid "Padding around windows"
 msgstr "Relleno alrededor de las ventanas"
 
-msgid "Direction and Distance Y for user defined fly in"
-msgstr ""
-
-msgid "Fade"
-msgstr "Atenuar"
-
-msgid "Fade when flying in"
-msgstr ""
-
-msgid "Distance"
-msgstr "Distancia"
+msgid "Lightning Bolts"
+msgstr "Relámpagos"
 
 #, fuzzy
-msgid "Distance to fly in"
-msgstr "Distancia"
+msgid "Lightning bolts between your cursor and the nearest window"
+msgstr "Rayos entre el cursor y la ventana más cercana"
+
+msgid "Initiate"
+msgstr "Iniciar"
 
 #, fuzzy
-msgid "Rotate In"
-msgstr "Rotar iluminación"
+msgid "Start flash"
+msgstr "Iniciar flash"
+
+msgid "Initiate"
+msgstr "Iniciar"
 
 #, fuzzy
-msgid "Rotate In Direction"
-msgstr "Dirección del movimiento"
+msgid "Start flash"
+msgstr "Iniciar flash"
 
-msgid "The direction in which the window rotates"
-msgstr ""
-
-# Reemplazado desde "ángulo lejano"
-#, fuzzy
-msgid "Angle"
-msgstr "Ángulo opuesto"
-
-msgid "Angle to start from"
-msgstr ""
-
-msgid "Bounce"
-msgstr ""
+msgid "Distance max"
+msgstr "Distancia máxima"
 
 #, fuzzy
-msgid "Maximum Size"
-msgstr "Maximumize"
+msgid "Distance max between pointer and active window."
+msgstr "Distancia máxima entre el puntero y la ventana activa."
 
-msgid "Maximum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum Size"
-msgstr "Maximumize"
-
-msgid "Minimum scale factor of window when bouncing"
-msgstr ""
+msgid "Digression max"
+msgstr "Digresión máximo"
 
 #, fuzzy
-msgid "Number of Bounces"
-msgstr "Número de partículas"
+msgid "Digression max between pointer's projection and lightning's impact."
+msgstr "Digresión máxima entre la proyección del puntero y el impacto del rayo."
+
+msgid "Minimum interval between two lightning"
+msgstr "Intervalo mínimo entre dos rayos"
 
 #, fuzzy
-msgid "How many bounces during the animation"
-msgstr "Ventanas que no deberían deslizarse durante la animación de deslizado"
+msgid "Interval in milliseconde between two lightning"
+msgstr "Intervalo en milisegundos entre dos rayos"
 
-msgid "Sheet"
-msgstr ""
+msgid "Time of lightnings"
+msgstr "Tiempo de relámpagos"
 
 #, fuzzy
-msgid "Starting Percent"
-msgstr "Iniciar gesto"
+msgid "Time in milliseconds of lightnings"
+msgstr "Tiempo en milisegundos de relámpagos"
 
-msgid ""
-"How wide the begginning of the sheet animation should be compared to the end"
-msgstr ""
+msgid "Side of lightnings color"
+msgstr "Lado del color de los relámpagos"
 
-msgid "Expand Piecewise"
-msgstr ""
+msgid "Middle of lightnings color"
+msgstr "Medio del color de los relámpagos"
+
+#, fuzzy
+msgid "Middle of lightnings color"
+msgstr "Medio del color de los relámpagos"
+
+msgid "The other side of lightnings color"
+msgstr "El otro lado del color de los relámpagos"
+
+#, fuzzy
+msgid "The other side of lightnings color"
+msgstr "El otro lado del color de los relámpagos"
+
+msgid "Window Types"
+msgstr "Tipos de ventana"
+
+#, fuzzy
+msgid "The window types that lightning bolts will hit"
+msgstr "tipos de ventana que los rayos alcanzarán"
 
 #, fuzzy
 msgid "First expand horizontally"
