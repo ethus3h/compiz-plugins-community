@@ -202,42 +202,38 @@ msgid "Mark the active window so it will dodge"
 msgstr "Marque la ventana activa para que la esquive"
 
 msgid "Dodge Model"
-msgstr ""
+msgstr "modos de Esquivar"
 
-msgid "Have random colors for the fire effect, also known as Mystical Fire."
-msgstr ""
-"Utilizar colores aleatorios para el efecto fuego, también conocido como "
-"\"Fuego Místico\"."
+msgid "What model Dodge should use when dodging"
+msgstr "Qué modos debería usar cuando se utiliza esquivar"
 
-# Depende del contexto, podría ser "Abrir animación
-# Nop, no depende del contexto, ya que si fuera Animación de Apertura, se leería "Opening Animation" en inglés. 
 #, fuzzy
-msgid "Simple Animations"
-msgstr "Abrir Animación"
+msgid "Dodge the active window"
+msgstr "Esquivar la ventana cuando este activa"
 
-msgid "Animations that are simple on the eye"
-msgstr ""
+msgid "Controls whether the active window will be dodged"
+msgstr "Control de esquivar si la ventana esta activa"
 
-msgid "Fly In"
+msgid "Spring K"
 msgstr ""
 
 #, fuzzy
-msgid "Fly In Direction"
-msgstr "Dirección del pliegue"
+msgid "Spring Stiffness"
+msgstr "fuerza del resorte"
 
-msgid "The direction in which the fly in should take place"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction X"
-msgstr "Dirección del pliegue"
-
-msgid "Direction and Distance X for user defined fly in"
-msgstr ""
+msgid "Friction"
+msgstr "Fricción"
 
 #, fuzzy
-msgid "UD Direction Y"
-msgstr "Dirección del pliegue"
+msgid "Friction"
+msgstr "Fricción"
+
+msgid "Padding"
+msgstr "Relleno"
+
+#, fuzzy
+msgid "Padding around windows"
+msgstr "Relleno alrededor de las ventanas"
 
 msgid "Direction and Distance Y for user defined fly in"
 msgstr ""
