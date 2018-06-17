@@ -362,150 +362,140 @@ msgstr "Cámara hacia abajo"
 msgid "Manually move camera down"
 msgstr "Mueva manualmente la cámara hacia abajo"
 
-# "Pescado" por "peces"... 
-#, fuzzy
-msgid "Fish in different groups, but of the same type, swim together."
-msgstr "Peces de diferenes grupos, pero del mismo tipo, nadan juntos."
+msgid "Camera left"
+msgstr "Cámara izquierda"
 
 #, fuzzy
-msgid "Low detail models"
-msgstr "Modelos de bajo nivel de detalle"
+msgid "Manually move camera left"
+msgstr "Mueva manualmente la cámara hacia la izquierda"
 
-# Propongo "Usar modelos de menor detalle, para priorizar el rendimiento"
-#, fuzzy
-msgid "Use less detailed models for increased performance."
-msgstr "Priorizar rendimiento antes que la calidad visual."
-
-# what? no lo entendí
-#, fuzzy
-msgid "Creature Selection"
-msgstr "Reflejo del cubo"
+msgid "Camera right"
+msgstr "Cámara derecha"
 
 #, fuzzy
-msgid "Type"
-msgstr "Tipo "
+msgid "Manually move camera right"
+msgstr "Mueva la cámara hacia la derecha manualmente"
 
-msgid "Type of sea creature."
-msgstr "Tipo de criaturas marinas."
-
-msgid "Color"
-msgstr "Color"
-
-# ¿¿¿criatura marina??? 
-#, fuzzy
-msgid "The color of the sea creature."
-msgstr "Color de la criatura marina"
-
-msgid "Number"
-msgstr "Número"
+msgid "Camera in"
+msgstr "Cámara en"
 
 #, fuzzy
-msgid "The number of the sea creature."
-msgstr "Número de la criatura marina"
+msgid "Manually move camera closer to screen"
+msgstr "Mueva manualmente la cámara más cerca de la pantalla"
 
-msgid "Size"
-msgstr "Tamaño"
-
-#, fuzzy
-msgid "The size of the sea creature."
-msgstr "Tamaño de la criatura marina"
-
-msgid "Miscellaneous Selection"
-msgstr "Selecciones varias"
-
-msgid "Type of sea plant."
-msgstr "Tipo de plantas marinas."
+msgid "Camera out"
+msgstr "Cámara fuera"
 
 #, fuzzy
-msgid "The color of the sea plant."
-msgstr "Color de la planta marina"
+msgid "Manually move camera away from screen"
+msgstr "Mueva la cámara manualmente a la pantalla"
+
+msgid "Camera reset"
+msgstr "Restablecer la cámara"
 
 #, fuzzy
-msgid "The number of the sea plants."
-msgstr "Número de plantas marinas"
+msgid "Reset camera to default head position"
+msgstr "Restablecer la cámara a la posición predeterminada de la cabeza"
+
+msgid "Toggle mouse tracking"
+msgstr "Habilitar o deshabilitar seguimiento del mouse"
 
 #, fuzzy
-msgid "The size of the sea plant."
-msgstr "Tamaño de la planta marina"
+msgid "Toggle mouse tracking on and off"
+msgstr "Activar y desactivar el seguimiento del mouse"
 
-msgid "Water / Ground"
-msgstr "Agua / Suelo"
-
-msgid "Render water"
-msgstr "Presentar agua"
+msgid "Window depth"
+msgstr "Profundidad de la ventana"
 
 #, fuzzy
-msgid "Render water inside the cube."
-msgstr "Presentar agua dentro del cubo"
+msgid "How far apart windows are when stacked based on Z level"
+msgstr "Qué tan separadas están las ventanas cuando se apilan según el nivel Z"
+
+msgid "Stack Padding"
+msgstr "Apilar Relleno"
 
 #, fuzzy
-msgid "Render water wireframe"
-msgstr "Presentar \"modelado en alambre\" del agua"
+msgid "Make your windows pop out this far from the screen. 100 is cube size"
+msgstr "Haga que sus ventanas salgan tan lejos de la pantalla. 100 es el tamaño del cubo"
+
+msgid "Enable WII Tracking"
+msgstr "Habilitar el seguimiento de WII"
 
 #, fuzzy
-msgid "Render water wireframe inside the cube."
-msgstr "Presentar \"modelado en alambre\" del agua dentro del cubo"
+msgid "Enable tracking using JCL's algorithm. You must have wiimote enabled to use this."
+msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener wiimote habilitado para usar esto."
+
+msgid "Enable Webcam Tracking"
+msgstr "Habilitar el seguimiento de la cámara web"
 
 #, fuzzy
-msgid "Render ground"
-msgstr "Presentar el suelo"
+msgid "Enable tracking using JCL's algorithm. You must have webcam enabled to use this."
+msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener la cámara web habilitada para usar esto."
+
+msgid "Fade Time"
+msgstr "tiempo de duración"
 
 #, fuzzy
-msgid "Render ground inside the cube."
-msgstr "Presentar el suelo al interior del cubo"
+msgid "Length of animation for 3d window stacking z-order changes"
+msgstr "Duración de la animación para el cambio de orden z de apilamiento de ventana en 3D"
 
-msgid "Ground color"
-msgstr "Color del suelo (lejos)."
-
-# Conservé el "cerca", me pareció ilustrativo
-msgid "Color of ground in the cube."
-msgstr "Color del suelo en el cubo (cerca)."
-
-msgid "Water surface height"
-msgstr "Superficie de la altura del agua"
-
-msgid "Height of water surface in the cube."
-msgstr "Altura de la superficie del agua en el cubo."
-
-msgid "Water color"
-msgstr "Color del agua"
-
-# id anterior
-msgid "Color of water in the cube."
-msgstr "Color del agua en el cubo (lejos)."
-
-msgid "Water/Ground grid smoothness"
-msgstr "Suavidad de la red del Agua/Suelo"
-
-msgid "Number of subdivisions that create a finer grid."
-msgstr "Número de subdivisiones que crean una red más fina"
-
-# Difícil la elección entre "ola" u "onda"...
-msgid "Waves"
-msgstr "Olas"
+msgid "WiiMote or Cam Above Screen"
+msgstr "WiiMote o Cam en pantalla"
 
 #, fuzzy
-msgid "Render waves"
-msgstr "Presentar olas"
+msgid "Enable this if your Wiimote or your Webcam is above your screen."
+msgstr "Habilíte si su Wiimote o su Webcam en su pantalla."
+
+msgid "Height adjustment"
+msgstr "Ajuste de altura"
 
 #, fuzzy
-msgid "Render water waves inside the cube."
-msgstr "Presentar olas de agua dentro del cubo"
+msgid "Use this to adjust the head height"
+msgstr "Use esto para ajustar la altura de la cabeza"
 
-# También podría ser "Efecto de apertura", o "Efecto al abrir".
-#, fuzzy
-msgid "Ripple effect"
-msgstr "Efecto de apertura"
+msgid "Sensor Bar Width"
+msgstr "Ancho en franja de sensor"
 
 #, fuzzy
-msgid "Semi-randomize light scattering off water waves."
-msgstr "Diseminar la luz sobre las olas de modo semi-aleatorio."
+msgid "Use this to adjust your distance from the screen"
+msgstr "Use esto para ajustar su distancia desde la pantalla"
+
+msgid "Wiimote or Cam Vertical Angle"
+msgstr "Ángulo vertical de Wiimote o Cam"
+
+#, fuzzy
+msgid "Angle of wiimote or webcam in radians * 100"
+msgstr "Ángulo de wiimote o cámara web en radianes * 100"
+
+msgid "Avoid jumpings and trembling"
+msgstr "Evite los saltos y temblores"
+
+#, fuzzy
+msgid "Use this if the windows are unstable when you don't move your head"
+msgstr "Use esto si las ventanas son inestables cuando no mueve la cabeza"
+
+msgid "Smoothen the movements"
+msgstr "Suavice los movimientos"
+
+#, fuzzy
+msgid "Use this if the windows are jumping brutally"
+msgstr "Usa esto si las ventanas saltan brutalmente"
+
+msgid "Camera move increment"
+msgstr "Incremento de movimiento de la cámara"
+
+#, fuzzy
+msgid "How far to move the camera on one key press"
+msgstr "Qué tan lejos mover la cámara con solo presionar una tecla"
+
+msgid "Mouse Screen Percentage"
+msgstr "Porcentaje de pantalla del mouse"
 
 msgid "Wave amplitude"
 msgstr "Amplitud de onda"
 
-msgid "Amplitude of water waves."
-msgstr "Amplitud de la olas"
+msgid "How much of the screen represents the actual screen. 100 is "exact""
+msgstr "¿Cuánto representa la pantalla actual? 100 es "exacto""
 
 msgid "Wave frequency"
 msgstr "Frecuencia de onda"
