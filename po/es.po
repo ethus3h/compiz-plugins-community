@@ -320,49 +320,47 @@ msgstr "Seguimiento de cabeza"
 msgid "Keybindings"
 msgstr "Atajos de teclado"
 
-#, fuzzy
-msgid "Initial vertical size"
-msgstr "Tamaño de las partículas."
-
-msgid "Number of pixels initially in vertical direction"
-msgstr ""
+msgid "Move Window Closer"
+msgstr "Mover la ventana más cerca"
 
 #, fuzzy
-msgid "Delay"
-msgstr "Tiempo de espera hasta mostrar la barra de fichas"
+msgid "anually move a window closer. Z-depth is ignored"
+msgstr "mover manualmente una ventana más cerca. Z-depth es ignorado"
 
-msgid ""
-"Delay between expanding horizontally and vertically (expressed as a fraction)"
-msgstr ""
-
-msgid "Expand"
-msgstr ""
-
-msgid "Cube Atlantis"
-msgstr "Cubo Atlantis"
+msgid "Move Window Away"
+msgstr "Mover ventana Lejos"
 
 #, fuzzy
-msgid "Render some sea animals inside of the transparent cube"
-msgstr ""
-"Presentar algunos animales marinos en el interior del cubo transparente"
+msgid "Manually move a window further out. Z-depth is ignored"
+msgstr "Mueva manualmente una ventana más hacia afuera. Z-depth es ignorado"
 
-msgid "Speed factor"
-msgstr "Factor de velocidad"
+msgid "Reset Window Depth"
+msgstr "Restablecer la profundidad de la ventana"
 
 #, fuzzy
-msgid "Multiply the speed of the fish by this factor."
-msgstr "Multiplicar la velocidad de los peces por este factor"
+msgid "Reset the window's depth so it uses Z level"
+msgstr "Restablece la profundidad de las ventanas para que use el nivel Z."
 
-msgid "Start crabs on bottom"
-msgstr "Iniciar cangrejos en el fondo"
+msgid "Enable debugging keys"
+msgstr "Tecla de habilitación de depuración"
 
-msgid "Start crabs on the bottom of the cube."
-msgstr "Iniciar cangrejos en el fondo del cubo."
-
-# Sugiero "ordenar en grupos similares", only for elegance's sake!! ;-)
 #, fuzzy
-msgid "School similar groups"
-msgstr "Agrupar grupos similares"
+msgid "Enable the debugging key combinations"
+msgstr "Tecla de habilitación o deshabilitación de depuración"
+
+msgid "Camera up"
+msgstr "Cámara arriba"
+
+#, fuzzy
+msgid "Manually move camera up"
+msgstr "Mover Manualmente la cámara hacia arriba"
+
+msgid "Camera down"
+msgstr "Cámara hacia abajo"
+
+#, fuzzy
+msgid "Manually move camera down"
+msgstr "Mueva manualmente la cámara hacia abajo"
 
 # "Pescado" por "peces"... 
 #, fuzzy
