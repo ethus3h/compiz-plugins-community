@@ -308,19 +308,17 @@ msgstr "Tipos de ventana"
 msgid "The window types that lightning bolts will hit"
 msgstr "tipos de ventana que los rayos alcanzarán"
 
-#, fuzzy
-msgid "First expand horizontally"
-msgstr "Mosaico horizontal"
+msgid "HeadTracking"
+msgstr "Seguimiento de cabeza"
 
-msgid "If checked, initially expand horizontally, then vertically"
-msgstr ""
+msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
+msgstr "Crea un escritorio 3D verdadero con un Wiimote algunos tonos habilitados con IR o una cámara web."
 
-#, fuzzy
-msgid "Initial horizontal size"
-msgstr "Mosaico horizontal"
+msgid "HeadTracking"
+msgstr "Seguimiento de cabeza"
 
-msgid "Number of pixels initially in horizontal direction"
-msgstr ""
+msgid "Keybindings"
+msgstr "Atajos de teclado"
 
 #, fuzzy
 msgid "Initial vertical size"
