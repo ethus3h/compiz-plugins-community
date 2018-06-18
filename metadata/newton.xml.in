@@ -14,7 +14,7 @@
         <_short>Bindings</_short>
         <option name="trigger_physics_key" type="key">
           <_short>Trigger Physics on the window</_short>
-          <_long> Toggle physics on the selected window. </_long>
+          <_long>Toggle physics on the selected window.</_long>
           <default>&lt;Super&gt;p</default>
         </option>
         <option name="trigger_rotation_key" type="key">
