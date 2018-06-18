@@ -496,546 +496,534 @@ msgstr "Amplitud de onda"
 
 msgid "How much of the screen represents the actual screen. 100 is "exact""
 msgstr "¿Cuánto representa la pantalla actual? 100 es "exacto""
-
-msgid "Wave frequency"
-msgstr "Frecuencia de onda"
-
-msgid "Frequency of water waves."
-msgstr "Frecuencia de las olas."
-
-msgid "Small wave amplitude"
-msgstr "Amplitud de la onda pequeña"
-
-msgid "Amplitude of small water waves on the bigger ones."
-msgstr "Amplitud de las olas pequeñas por sobre las grandes."
-
-msgid "Small wave frequency"
-msgstr "Frecuencia de la ola pequeña"
-
-msgid "Frequency of small water waves on the bigger ones."
-msgstr "Frecuencia de las olas pequeñas por sobre las grandes."
+	 
+# no se si poner eso o dejarlo asi no se con exactitud que hace el plugin
+msgid "Lazy Pointer"
+msgstr "Puntero perezoso"
 
 #, fuzzy
-msgid "Display"
-msgstr "Fuente de los títulos de las ventanas"
+msgid "Warp the pointer around the screen on window events"
+msgstr "Deformar el puntero alrededor de la pantalla en eventos de ventana"
+
+msgid "Center Mouse on Focussed Window"
+msgstr "Centrar el ratón en la ventana enfocada"
 
 #, fuzzy
-msgid "Rescale for screen ratio"
-msgstr "Reescalar en la relación de la pantalla"
+msgid "Center the mouse in the middle of a window when it is focussed"
+msgstr "Centre el mouse en el medio de una ventana cuando está enfocado"
+
+msgid "Center Mouse on Activated Window"
+msgstr "Centrar el ratón en la ventana activada"
+
+#, fuzzy
+msgid "Center the mouse in the middle of a window when it is activated"
+msgstr "Centre el mouse en el medio de una ventana cuando esté activado"
+
+msgid "Center Mouse on Placed Window"
+msgstr "Centrar el mouse en la ventana colocada"
+
+#, fuzzy
+msgid "Center the mouse in the middle of a window when it is placed"
+msgstr "Centre el mouse en el medio de una ventana cuando se coloca"
+
+msgid "Cursor Movement speed"
+msgstr "Velocidad de movimiento del cursor"
+
+#, fuzzy
+msgid "How fast the cursor should move when animated"
+msgstr "Qué tan rápido debe moverse el cursor cuando está animado"
+
+msgid "Center the mouse in a window"
+msgstr "Centre el mouse en una ventana"
+
+#, fuzzy
+msgid "Center the mouse in the activated screen"
+msgstr "Centre el mouse en la pantalla activada"
+
+msgid "Move pointer left"
+msgstr "Mover el puntero a la izquierda"
+
+#, fuzzy
+msgid "Move the pointer left by specified amount"
+msgstr "Mueva el puntero hacia la izquierda por la cantidad especificada"
+
+msgid "Move pointer right"
+msgstr "Mover el puntero a la derecha"
+
+#, fuzzy
+msgid "Move the pointer right by specified amount"
+msgstr "Mueva el puntero a la derecha por cantidad especificada"
+
+msgid "Move pointer up"
+msgstr "Mover el puntero hacia arriba"
+
+#, fuzzy
+msgid "Move the pointer up by specified amount"
+msgstr "Mueva el puntero hacia arriba por la cantidad especificada"
+
+msgid "Move pointer down"
+msgstr "Mover el puntero hacia abajo"
+
+msgid "Move the pointer down by specified amount"
+msgstr "Mueva el puntero hacia abajo por la cantidad especificada"
+
+msgid "Maze"
+msgstr "Laberinto"
+
+#, fuzzy
+msgid "Render a maze inside of the transparent cube"
+msgstr "Hacer un laberinto dentro del cubo transparente"
+
+msgid "Max Speed"
+msgstr "Máxima velocidad"
+
+#, fuzzy
+msgid "Maximum velocity the ball is allowed to travel at."
+msgstr "Velocidad máxima a la que la pelota puede viajar."
+
+msgid "Scale"
+msgstr "Escala"
+
+#, fuzzy
+msgid "Scale the maze size up or down."
+msgstr "Escala el tamaño del laberinto hacia arriba o hacia abajo."
+
+msgid "Height"
+msgstr "Altura"
+
+#, fuzzy
+msgid "Where to place the maze within the cube"
+msgstr "Dónde colocar el laberinto dentro del cubo"
+
+msgid "Top Colour"
+msgstr "Color superior"
+
+#, fuzzy
+msgid "Colour to display on top"
+msgstr "Color para mostrar en la parte superior"
+
+msgid "Bottom Colour"
+msgstr "Color inferior"
+
+#, fuzzy
+msgid "Colour to display on the bottom"
+msgstr "Color para mostrar en la parte inferior"
+
+msgid "North Face Colour"
+msgstr "Color de la cara norte"
+
+#, fuzzy
+msgid "Colour to display on the north face"
+msgstr "Color para mostrar en la cara norte"
+
+msgid "East Face Colour"
+msgstr "Color de la cara este"
+
+#, fuzzy
+msgid "Colour to display on the east face wall"
+msgstr "Color para mostrar en la pared de la cara este."
+
+msgid "South Face Colour"
+msgstr "Color de la cara sur"
+
+#, fuzzy
+msgid "Colour to display on the south face wall"
+msgstr "Color para mostrar en la pared de la cara sur"
+
+msgid "West Face Colour"
+msgstr "Color de la cara oeste"
+
+#, fuzzy
+msgid "Colour to display on the west face wall"
+msgstr "Color de la cara oeste para mostrar en la pared de la cara oeste"
+
+msgid "First Ball Colour"
+msgstr "Primer color de bola"
+
+#, fuzzy
+msgid "First colour to draw the ball in"
+msgstr "Primer color para dibujar la pelota"
+
+msgid "Second Ball Colour"
+msgstr "Segundo color de bola"
+
+#, fuzzy
+msgid "Second colour to draw the ball in"
+msgstr "Segundo color para dibujar la pelota"
+
+msgid "Border Colour"
+msgstr "Color del borde"
+
+msgid "Colour to draw the surrounding border in"
+msgstr "Color para dibujar el borde"
+
+msgid "Mousegestures"
+msgstr "Gestos del mouse"
+
+#, fuzzy
+msgid "Assign mousegestures to any existing action"
+msgstr "Asignar gestos del mouse a cualquier acción existente"
+
+msgid "Initiate"
+msgstr "Iniciar"
+
+#, fuzzy
+msgid "Start gesture"
+msgstr "Comience gesto"
+
+msgid "Gestures"
+msgstr "Gestos"
+
+msgid "Detect Diagonal Movements"
+msgstr "Detecta movimientos diagonales"
+
+msgid ""
+"If this option is selected, diagonal movements are detected, which may lead to a decreased detection accuracy."
+msgstr ""
+"Si se selecciona esta opción, se detectan movimientos diagonales,lo que puede conducir a una menor precisión de detección."
+
+msgid "Gesture assignment"
+msgstr "Asignación de gestos"
+
+msgid "Gesture"
+msgstr "Gestos"
+
+#, fuzzy
+msgid "Mouse gesture to assign an action to."
+msgstr "Gesto del mouse para asignar una acción a."
+
+msgid "Plugin"
+msgstr ""
+
+#, fuzzy
+msgid "Plugin the action belongs to."
+msgstr "Complemento a la acción a."
+
+msgid "Action"
+msgstr "Acción"
+
+#, fuzzy
+msgid "Action that is to be invoked."
+msgstr "Acción que debe invocarse."
+
+msgid "Newton"
+msgstr ""
 
 #, fuzzy
 msgid ""
-"Rescale along the sides of the cube by the ratio of screen width to height."
+"Creates iconified windows that can be selected to select the main window and are affected by physics."
+msgstr "" 
+"Crea ventanas iconificadas que se pueden seleccionar para seleccionar la ventana principal y se ven afectadas por la física."
+
+msgid "Bindings"
+msgstr "teclas"
+
+msgid "Trigger Physics on the window"
+msgstr "Dispara la Física en la ventana"
+
+#, fuzzy
+msgid "Toggle physics on the selected window."
+msgstr "Alternar la física en la ventana seleccionada."
+
+msgid "Trigger rotation on the window"
+msgstr "Dispara la rotación en la ventana"
+
+#, fuzzy
+msgid "Toggle rotation on the selected window."
+msgstr "Alternar la rotación en la ventana seleccionada."
+
+#, fuzzy
+msgid "Invert mouse attraction/repulsion"
+msgstr "Invierta la atracción/repulsión del mouse"
+
+#, fuzzy
+msgid "Inverts mouse attraction or repulsion."
+msgstr "Invierte la atracción o repulsión del ratón."
+
+msgid "Detach the window"
+msgstr "Separar la ventana"
+
+#, fuzzy
+msgid "Detaches the window from the desktop."
+msgstr "Separa la ventana del escritorio."
+
+msgid "Attach the window"
+msgstr "Adjuntar la ventana"
+
+#, fuzzy
+msgid "Attaches the window to the desktop."
+msgstr "Adjunta la ventana al escritorio."
+
+msgid "Bounce elasticity"
+msgstr "Elasticidad de rebote"
+
+#, fuzzy
+msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
+msgstr "Elasticidad de las ventanas (0 significa no rebote, 1 es elasticidad perfecta)."
+
+msgid "Fluid friction"
+msgstr "Fricción de fluido"
+
+#, fuzzy
+msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
+msgstr "La fluidez del escritorio (0 significa sólido y 1 totalmente líquido)."
+
+msgid "Gravity"
+msgstr "Gravedad"
+
+#, fuzzy
+msgid "Constant force."
+msgstr "Fuerza constante."
+
+msgid "Mouse attraction"
+msgstr "Atracción al mouse"
+
+#, fuzzy
+msgid "Attracts/repels the windows to the mouse."
+msgstr "Atrae/repele las ventanas al mouse."
+
+msgid "Attract by default"
+msgstr "Atraer por defecto"
+
+#, fuzzy
+msgid "Attracts the windows to the mouse when the invert action key is not pressed."
+msgstr "Atrae las ventanas hacia el mouse cuando la tecla de acción de inversión no está presionada."
+
+msgid "Mouse attraction strength"
+msgstr "Fuerza de atracción del mouse"
+
+#, fuzzy
+msgid "Strength of the attraction/repulsion force."
+msgstr "Fuerza de la atracción/repulsión."
+
+msgid "Stop Hovered windows"
+msgstr "Detener ventanas con ventanas"
+
+#, fuzzy
+msgid "Stops the windows under the pointer."
+msgstr "Detiene las ventanas debajo del puntero."
+
+msgid "Peek"
 msgstr ""
-"Reescalar a lo largo de los lados del cubo, en la relación de alto/ancho de "
-"la pantalla."
 
-msgid "Lighting"
-msgstr "Iluminación"
+msgid "Show the window you are hovering hover in the taskbar"
+msgstr "Mostrar la ventana en la que está pasando el cursor sobre la barra de tareas"
 
-msgid "Rotate lighting"
-msgstr "Rotar iluminación"
+msgid "Delay until Peeking"
+msgstr "Demora hasta mirar"
 
-#, fuzzy
-msgid "Preserve light direction when rotating the cube."
-msgstr "Preservar la dirección de la luz al rotar el cubo"
+msgid "The delay (in ms) before Peek reveals the window you are hovering"
+msgstr "La demora (en ms) antes de Peek revela la ventana en la que estás marcando"
 
-msgid "Light inclination"
-msgstr "Inclinación de la luz"
-
-msgid ""
-"The angle of light rays from the horizon in degrees (0 is from the viewer's "
-"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
-"false."
-msgstr ""
-"El ángulo de los rayos de luz desde el horizonte en grados (0 corresponde a "
-"la perspectiva del espectador, 90 corresponde a la cima). Sólo produce "
-"efectos cuando Rotar Iluminación está desactivado."
-
-msgid "Ambient light"
-msgstr "Luz de ambiente"
-
-msgid "Component of light coming from all directions equally."
+msgid "Window Match"
 msgstr ""
 
-msgid "Cube 3D Models"
-msgstr "Modelos de cubo 3D"
+#, fuzzy
+msgid "Windows that should become transparent"
+msgstr "Ventana que debería volverse transparente"
+
+msgid "Opacity Levels"
+msgstr "Niveles de Opacidad"
 
 #, fuzzy
-msgid "Render still/animated 3D mesh models inside of the transparent cube"
-msgstr "Dibujar algunos peces en el interior del cubo transparente"
-
-#, fuzzy
-msgid "Scale all factor"
-msgstr "Factor de escala mínimo"
-
-msgid "Scale all the 3D models by this factor."
-msgstr "Escalar todos los modelos 3D por este factor."
-
-msgid "3D Models"
-msgstr "Modelos 3D"
-
-msgid "Model"
-msgstr "Modelo"
-
-msgid "Full path to 3D wavefront (.obj) model file."
-msgstr "Ruta completa a 3D wavefront (.obj) archivo modelo."
-
-#, fuzzy
-msgid "Scale factor"
-msgstr "Factor de escala mínimo"
-
-msgid "Scale the 3D model by this factor."
-msgstr "Escalar modelo 3D por este factor."
-
-msgid "X"
-msgstr "X"
-
-#, fuzzy
-msgid "X coordinate offset from the center of the cube."
-msgstr "Poner el puntero en el centro de la ventana"
-
-msgid "Y"
-msgstr "Y"
-
-#, fuzzy
-msgid "Y coordinate offset from the center of the cube."
-msgstr "Poner el puntero en el centro de la ventana"
-
-msgid "Z"
-msgstr "Z"
-
-#, fuzzy
-msgid "Z coordinate offset from the center of the cube."
-msgstr "Poner el puntero en el centro de la ventana"
-
-#, fuzzy
-msgid "Rotation plane"
-msgstr "Angulo de rotación"
-
-msgid "Plane of rotation for the 3D model."
-msgstr "Plano de rotación para el modelo 3D"
-
-#, fuzzy
-msgid "Rotation rate"
-msgstr "Angulo de rotación"
-
-msgid "Rate of rotation of 3D model (in rotations per second)."
-msgstr "Velocidad de rotación del modelo 3D (en rotaciones por segundo)."
-
-msgid "Model type"
-msgstr "Tipo de modelo"
-
-msgid "Type of 3D model (still or animated)."
-msgstr "Tipo de modelos 3D (animados o no)."
-
-msgid "Frames per second"
-msgstr "Cuadros por segundo"
-
-msgid "Framerate (per second) for the animated series of obj files."
-msgstr ""
-"Framerate (por segundo) para las series animadas de los archivos de objeto."
-
-msgid "Render front and back sides"
-msgstr "Renderizar lados frontales y traseros"
-
-msgid ""
-"Renders the front surface and then the back surface. This can be useful for "
-"models which show black spots but can cause a performance hit."
-msgstr ""
-"Renderizar la superficie frontal y luego la trasera. Esto puede ser útil "
-"para modelos donde haya espacios negros pero puedan causar pérdida de "
-"rendimiento."
-
-msgid "Ambient light intensity"
-msgstr "Intensidad de la luz ambiental"
-
-msgid "Diffuse light intensity"
-msgstr "Difuminar intensidad de la luz"
-
-msgid ""
-"Component of light coming from the direction set by inclination or from the "
-"viewer if Rotate Lighting is true."
-msgstr ""
-"Componente de luz proviniendo de la dirección ajustada por la inclinación o "
-"desde el visor si 'Rotar iluminación' está activado."
-
-msgid "Specular light intensity"
-msgstr "Intensidad de la luz especular"
+msgid "Active Opacity"
+msgstr "Opacidad activa"
 
 #, fuzzy
 msgid ""
-"Highly directional component of light coming from the direction set by "
-"inclination or from the viewer if Rotate Lighting is true."
+"The minimum opacity percentage to ensure a targeted window has. A target window will have either this opacity or the preset opacity, whichever is higher."
 msgstr ""
-"Compontente de dirección de luz proviniendo de la dirección fijada por la "
-"inclinación o el visor si 'Rotar iluminación' está activado."
 
-msgid "Loading"
-msgstr "Cargando"
+msgid "Passive Opacity"
+msgstr "Opacidad Pasiva"
 
-msgid "Use separate threads"
-msgstr "Usar hilos separados"
+#, fuzzy
+msgid ""
+"The maximum opacity percentage a window blocking the current targeted window can have. A blocking window will have either this opacity or the preset opacity, whichever is lower."
+msgstr ""
+
+msgid "Taskbar only shows windows of current viewport"
+msgstr "barra de tareas que solo muestra la ventana gráfica actual"
+
+#, fuzzy
+msgid "Only dim the windows that the taskbar shows as on the current viewport"
+msgstr "Solo atenúe las ventanas que muestra la barra de tareas como en la ventana gráfica actual"
+
+msgid "Prompt"
+msgstr ""
+
+#, fuzzy
+msgid "Compiz interface for the prompting the user."
+msgstr "Interfaz Compiz para solicitar al usuario."
+
+msgid "Notification"
+msgstr "Notificación"
+
+msgid "Font Color"
+msgstr "Color de la fuente"
+
+#, fuzzy
+msgid "Font color for the window title"
+msgstr "Color de fuente para el título de la ventana"
+
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#, fuzzy
+msgid "Font size for the window title"
+msgstr "Tamaño de fuente para el título de la ventana"
+
+msgid "Background Color"
+msgstr "Color de fondo"
+
+msgid "Background color for the window title"
+msgstr "Color de fondo para el título de la ventana"
+
+msgid "roach"
+msgstr "cucaracha"
+
+#, fuzzy
+msgid "Roaches for Compiz"
+msgstr "Cucarachas para Compiz"
+
+msgid "Number Of roaches"
+msgstr "Número de cucarachas"
+
+#, fuzzy
+msgid "Number of roaches"
+msgstr "Número de cucarachas"
+
+msgid "Size Of roaches"
+msgstr "Tamaño de las cucarachas"
+
+#, fuzzy
+msgid "Size Of roaches"
+msgstr "Tamaño de las cucarachas"
+
+msgid "Update Delay"
+msgstr "Actualizar retraso"
 
 msgid ""
-"Use separate threads to load each model faster and allow other interaction "
-"whilst loading."
+"Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
 msgstr ""
-"Usar hilos separados para cargar cada modelo más rápido y permitir "
-"otrainterracción al cargar."
+"Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que las cucarachas se muevan más suavemente, pero también aumentará el uso de la CPU."
 
-#, fuzzy
-msgid "Dialog Match"
-msgstr "Coincidir ventanas"
-
-msgid "Dialogs which will trigger fading"
+msgid "Screen Boxing"
 msgstr ""
 
-msgid "Speed"
-msgstr "Velocidad"
-
 #, fuzzy
-msgid "The speed of the animation"
-msgstr "Cambiar la velocidad de la animación 3D"
-
-msgid "Opacity"
-msgstr "Opacidad"
-
-msgid "The Opacity of windows with open dialogs"
+msgid ""
+"How far outside the screen resolution leaves can be before being removed. "
+"Needed because of FOV."
 msgstr ""
-
-msgid "Saturation"
-msgstr "Saturación"
-
-#, fuzzy
-msgid "The Saturation of windows with open dialogs"
-msgstr "Saturación de ventanas (no Widgets) en el modo Widget"
-
-msgid "Brightness"
-msgstr "Brillo"
-
-#, fuzzy
-msgid "The Brightness of windows with open dialogs"
-msgstr "Brillo de ventanas no Widget en modo Widget"
-
-msgid "Elements"
-msgstr "Elementos"
-
-msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
-msgstr ""
-
-msgid "General"
-msgstr "General"
-
-#, fuzzy
-msgid "Global Speed"
-msgstr "Velocidad del Zoom"
-
-msgid "Elements speed will be multiplied by this value"
-msgstr ""
+"Qué tan lejos del exterior de la resolución de la pantalla de las"
+"cucarachas pueden estar hasta ser removidos. Necesario para el campo de vista."
 
 msgid "Screen Depth"
 msgstr "Profundidad de la pantalla"
 
-msgid "How deep into the screen snowflakes can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados los copos de nieve hasta desaparecer"
-
-msgid "Apply Screen Transform"
-msgstr ""
-
-msgid "Moves particles with screen transforms when over_windows is enabled"
-msgstr ""
+#, fuzzy
+msgid "How deep into the screen leaves can be drawn before being removed"
+msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
 
 #, fuzzy
-msgid "Draw Over Windows"
-msgstr "Nieve sobre las ventanas"
+msgid "Roaches Over Windows"
+msgstr "cucarachas sobre las ventanas"
 
 #, fuzzy
-msgid "Elements drawn above windows"
-msgstr "Dibujar la nieve sobre las ventanas"
+msgid "Roaches are drawn above windows"
+msgstr "Dibujar las cucarachas sobre las ventanas"
 
-msgid "Toggle Elements with Keys:"
-msgstr ""
-
-msgid ""
-"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
-"checkboxes."
-msgstr ""
-
-msgid "Snow"
-msgstr "Nieve"
-
-msgid "Number Of Snowflakes"
-msgstr "Número de copos de nieve"
-
-msgid "Number of snowflakes"
-msgstr "Número de copos de nieve"
-
-msgid "Size Of Snowflakes"
-msgstr "Tamaño de los copos de nieve"
-
-msgid "Size of snowflakes"
-msgstr "Tamaño de los copos de nieve"
-
-msgid "Snow Speed"
-msgstr "Velocidad de la nieve"
-
-msgid "Speed of falling snow"
-msgstr "Velocidad de la caída de la nieve"
+msgid "Roach Textures"
+msgstr "Textura de las cucarachas"
 
 #, fuzzy
-msgid "Snow sway"
-msgstr "Tiempo de espera hasta mostrar la barra de fichas"
+msgid "Roach Textures"
+msgstr "Textura de las cucarachas"
 
-msgid ""
-"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
-msgstr ""
+msgid "Toggle Roaches"
+msgstr "Habilitar o deshabilitar cucarachas"
 
-#, fuzzy
-msgid "Rotate Snowflakes"
-msgstr "Rotar copos"
+msgid "Roach toggle key"
+msgstr "Tecla de habilitación o deshabilitación cucarachas"
 
-#, fuzzy
-msgid "Toggle snow"
-msgstr "Mosaico aleatorio"
-
-msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
+msgid "Rubik's Cube"
+msgstr "Cubo rubik"
 
 #, fuzzy
-msgid "Toggle Snow"
-msgstr "Habilitar o deshabilitar estar en todos las caras del cubo"
+msgid "Turn cube into a Rubik's cube"
+msgstr "Convierte el cubo en un cubo de Rubik"
 
-msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-msgid "Snow Direction"
-msgstr "Dirección de la nieve"
-
-msgid "Select snow flake movement direction"
-msgstr "Seleccione la dirección del movimiento de los copos de nieve"
-
-msgid "None"
-msgstr "Ninguno/a"
-
-msgid "Up"
-msgstr "Arriba"
-
-msgid "Left"
-msgstr "Izquierda"
-
-msgid "Right"
-msgstr "Derecha"
-
-msgid "Snow Textures"
-msgstr "Textura de la nieve"
-
-msgid "Snow textures"
-msgstr "Textura de la nieve"
-
-msgid "Autumn"
-msgstr "Otoño"
+msgid "Toggle Rubik's cube"
+msgstr "Habilitar o deshabilitar cubo de Rubik"
 
 #, fuzzy
-msgid "Number Of leaves"
-msgstr "Número de copos de nieve"
+msgid "Start/stop Rubik's cube effect."
+msgstr "Comience/termine el efecto del cubo de Rubik."
+
+msgid "Toggle Rubik's cube"
+msgstr "Habilitar o deshabilitar cubo de Rubik"
 
 #, fuzzy
-msgid "Number of leaves"
-msgstr "Número de partículas"
+msgid "Start/stop Rubik's cube effect."
+msgstr "Comience/termine el efecto del cubo de Rubik."
 
-#, fuzzy
-msgid "Size Of leaves"
-msgstr "Balanceo de las hojas"
-
-#, fuzzy
-msgid "Size of leaves"
-msgstr "Tamaño de los copos de nieve"
-
-msgid "Sway Of leaves"
-msgstr "Balanceo de las hojas"
-
-msgid "sway of leaves"
-msgstr "Balanceo de las hojas"
-
-#, fuzzy
-msgid "Leaf Speed"
-msgstr "Separación entre las hojas"
-
-#, fuzzy
-msgid "Speed of falling leaves"
-msgstr "Velocidad de la caída de la nieve"
-
-#, fuzzy
-msgid "Rotate Leaves"
-msgstr "Rotar copos"
-
-#, fuzzy
-msgid "Toggle Autumn"
-msgstr "Otoño"
-
-msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Autumn Textures"
-msgstr "Textura de la nieve"
-
-#, fuzzy
-msgid "Autumn textures"
-msgstr "Textura de la nieve"
-
-msgid "Bubbles"
-msgstr "Burbujas"
-
-#, fuzzy
-msgid "Number Of bubbles"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "Number of bubbles"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "Size Of bubbles"
-msgstr "Regla de tamaños"
-
-#, fuzzy
-msgid "Size of bubbles"
-msgstr "Regla de tamaños"
-
-msgid "Viscosity of liquid"
-msgstr "Viscosidad del líquido"
-
-#, fuzzy
-msgid "Rotate Bubbles"
-msgstr "Rotar copos"
-
-#, fuzzy
-msgid "Toggle Bubbles"
-msgstr "Burbujas"
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Bubble Textures"
-msgstr "Habilitar texturas"
-
-#, fuzzy
-msgid "Bubble textures"
-msgstr "Habilitar texturas"
-
-#, fuzzy
-msgid "Fireflies"
-msgstr "Filtros de archivos"
-
-#, fuzzy
-msgid "Number Of fireflies"
-msgstr "Número de Partículas de Fuego"
-
-#, fuzzy
-msgid "Number of fireflies"
-msgstr "Número de partículas de fuego"
-
-#, fuzzy
-msgid "Size Of fireflies"
-msgstr "Tamaño de los copos de nieve"
-
-#, fuzzy
-msgid "Size of fireflies"
-msgstr "Tamaño de los copos de nieve"
-
-#, fuzzy
-msgid "Firefly Speed"
-msgstr "Filtros de archivos"
-
-msgid "Speed of firefly lifecycle and movement"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Fireflies"
-msgstr "Rotar copos"
-
-msgid "When using \"glows\", you definitely want this ON"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Fireflies"
-msgstr "Filtros de archivos"
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Fireflies Textures"
-msgstr "Filtros de archivos"
-
-#, fuzzy
-msgid "Fireflies textures"
-msgstr "Filtros de archivos"
-
-msgid "Stars"
-msgstr "Estrellas"
-
-#, fuzzy
-msgid "Number Of stars"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "Number of stars"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "Size Of stars"
-msgstr "Tamaño de los copos de nieve"
-
-#, fuzzy
-msgid "Size of stars"
-msgstr "Tamaño de los copos de nieve"
-
-#, fuzzy
-msgid "Star Speed"
-msgstr "Velocidad de la nieve"
-
-#, fuzzy
-msgid "Speed of stars"
+msgid "Speed factor"
 msgstr "Factor de velocidad"
 
-msgid "Star X Offset"
-msgstr "Estrella del eje X"
+#, fuzzy
+msgid "Multiply the speed of rotations by this factor."
+msgstr "Multiplique la velocidad de rotaciones por este factor."
 
-msgid "The X point on the screen where stars should start"
-msgstr "El punto X de la pantalla donde deberían empezar las estrellas"
-
-msgid "Star Y Offset"
-msgstr "Estrella del eje Y"
-
-msgid "The Y point on the screen where stars should start"
-msgstr "El punto Y de la pantalla donde deberían empezar las estrellas"
+msgid "Rubik Size"
+msgstr "tamaño del cubo de Rubik"
 
 #, fuzzy
-msgid "Rotate Stars"
-msgstr "Rotar copos"
+msgid "Number of horizontal/vertical strips."
+msgstr "Número de tiras horizontales/verticales."
+
+msgid "Rotate around all axes"
+msgstr "Girar alrededor de todos los ejes"
 
 #, fuzzy
-msgid "Toggle Stars"
-msgstr "Habilitar o deshabilitar estar en todos las caras del cubo"
+msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
+msgstr "Gire el cubo de Rubik alrededor de todos los ejes (también convierta ventanas en mapas de píxeles)."
 
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
+#, fuzzy
+msgid "On manual rotate"
+msgstr "En rotación manual"
 
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
+#, fuzzy
+msgid "Enable effect only on cube rotate."
+msgstr "Activar el efecto solo en rotar el cubo."
+
+msgid "Rotate desktop"
+msgstr "Rotar el escritorio"
+
+#, fuzzy
+msgid "Rotate desktop as well as windows."
+msgstr "Gire el escritorio y las ventanas."
+
+msgid "Colored Sides"
+msgstr "lados de colores"
+
+#, fuzzy
+msgid "Replace wallpaper with colored sides."
+msgstr "Reemplace el fondo de pantalla con lados de colores."
+
+msgid "Enable Depth Test"
+msgstr "Habilitar prueba de profundidad"
+
+#, fuzzy
+msgid "Hide windows that are behind other windows."
+msgstr "Ocultar las ventanas que están detrás de otras ventanas."
+
+msgid "Desktop caps"
+msgstr "tapa de escritorio"
+
+#, fuzzy
+msgid "Display a desktop for each cap."
+msgstr "Muestre un escritorio para cada tapa."
 
 #, fuzzy
 msgid "Star Textures"
