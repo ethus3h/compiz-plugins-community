@@ -51,23 +51,23 @@ msgid ""
 "How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
 msgstr ""
-"Qué tan lejos del exterior de la resolución de la pantalla de las"
-"bolas pueden estar hasta ser removidos. Necesario para el campo de vista."
+""
+""
 
 #, fuzzy
 msgid "Screen Depth"
-msgstr "Profundidad de la pantalla"
+msgstr ""
 
 #, fuzzy
 msgid "How deep into the screen leaves can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados las bolas hasta desaparecer"
+msgstr ""
 
 msgid "Balls Over Windows"
-msgstr "Bolas sobre las ventanas"
+msgstr ""
 
 #, fuzzy
 msgid "Balls are drawn above windows"
-msgstr "Dibujar las bolas sobre las ventanas"
+msgstr ""
 
 #, fuzzy
 msgid "Rotate Balls"
