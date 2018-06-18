@@ -196,54 +196,6 @@ msgstr "Relleno"
 msgid "Padding around windows"
 msgstr "Relleno alrededor de las ventanas"
 
-msgid "Lightning Bolts"
-msgstr "Relámpagos"
-
-msgid "Lightning bolts between your cursor and the nearest window"
-msgstr "Rayos entre el cursor y la ventana más cercana"
-
-msgid "Initiate"
-msgstr "Iniciar"
-
-msgid "Start flash"
-msgstr "Iniciar flash"
-
-msgid "Distance max"
-msgstr "Distancia máxima"
-
-msgid "Distance max between pointer and active window."
-msgstr "Distancia máxima entre el puntero y la ventana activa."
-
-msgid "Digression max"
-msgstr "Digresión máximo"
-
-msgid "Digression max between pointer's projection and lightning's impact."
-msgstr "Digresión máxima entre la proyección del puntero y el impacto del rayo."
-
-msgid "Minimum interval between two lightning"
-msgstr "Intervalo mínimo entre dos rayos"
-
-msgid "Interval in milliseconde between two lightning"
-msgstr "Intervalo en milisegundos entre dos rayos"
-
-msgid "Time of lightnings"
-msgstr "Tiempo de relámpagos"
-
-msgid "Time in milliseconds of lightnings"
-msgstr "Tiempo en milisegundos de relámpagos"
-
-msgid "Side of lightnings color"
-msgstr "Lado del color de los relámpagos"
-
-msgid "Middle of lightnings color"
-msgstr "Medio del color de los relámpagos"
-
-msgid "The other side of lightnings color"
-msgstr "El otro lado del color de los relámpagos"
-
-msgid "The window types that lightning bolts will hit"
-msgstr "tipos de ventana que los rayos alcanzarán"
-
 msgid "HeadTracking"
 msgstr "Seguimiento de cabeza"
 
@@ -665,6 +617,54 @@ msgstr "Detener ventanas con ventanas"
 
 msgid "Stops the windows under the pointer."
 msgstr "Detiene las ventanas debajo del puntero."
+
+msgid "Lightning Bolts"
+msgstr "Relámpagos"
+
+msgid "Lightning bolts between your cursor and the nearest window"
+msgstr "Rayos entre el cursor y la ventana más cercana"
+
+msgid "Initiate"
+msgstr "Iniciar"
+
+msgid "Start flash"
+msgstr "Iniciar flash"
+
+msgid "Distance max"
+msgstr "Distancia máxima"
+
+msgid "Distance max between pointer and active window."
+msgstr "Distancia máxima entre el puntero y la ventana activa."
+
+msgid "Digression max"
+msgstr "Digresión máximo"
+
+msgid "Digression max between pointer's projection and lightning's impact."
+msgstr "Digresión máxima entre la proyección del puntero y el impacto del rayo."
+
+msgid "Minimum interval between two lightning"
+msgstr "Intervalo mínimo entre dos rayos"
+
+msgid "Interval in milliseconde between two lightning"
+msgstr "Intervalo en milisegundos entre dos rayos"
+
+msgid "Time of lightnings"
+msgstr "Tiempo de relámpagos"
+
+msgid "Time in milliseconds of lightnings"
+msgstr "Tiempo en milisegundos de relámpagos"
+
+msgid "Side of lightnings color"
+msgstr "Lado del color de los relámpagos"
+
+msgid "Middle of lightnings color"
+msgstr "Medio del color de los relámpagos"
+
+msgid "The other side of lightnings color"
+msgstr "El otro lado del color de los relámpagos"
+
+msgid "The window types that lightning bolts will hit"
+msgstr "tipos de ventana que los rayos alcanzarán"
 
 msgid "Peek"
 msgstr ""
