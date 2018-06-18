@@ -37,18 +37,11 @@ msgstr "Tamaño de las bolas"
 msgid "Size of balls"
 msgstr "Tamaño de las bolas"
 
-msgid "Update Delay"
-msgstr "Actualizar retraso"
-
 #, fuzzy
 msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
 "fall more smoothly, but will also increase CPU usage."
 msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
-"valor más suave se movera la bola, pero aumentará el uso del CPU."
-
-#, fuzzy
-msgid "Screen Boxing"
-msgstr ""
+"valor más suave se movera la bola, pero aumentará el uso del CPU. "
 
 #, fuzzy
 msgid ""
@@ -846,15 +839,8 @@ msgstr ""
 msgid "Compiz interface for the prompting the user."
 msgstr "Interfaz Compiz para solicitar al usuario."
 
-msgid "Notification"
-msgstr "Notificación"
-
 msgid "Font Color"
 msgstr "Color de la fuente"
-
-#, fuzzy
-msgid "Font color for the window title"
-msgstr "Color de fuente para el título de la ventana"
 
 msgid "Font Size"
 msgstr "Tamaño de la fuente"
@@ -1301,11 +1287,6 @@ msgstr "Notificación"
 #, fuzzy
 msgid "Font size for the window title"
 msgstr "Tamaño de fuente para el título de la ventana"
-
-#, fuzzy
-msgid "Font color for the window title"
-msgstr "Color de fuente para el título de la ventana"
-
 
 msgid "WiiTrack"
 msgstr ""
