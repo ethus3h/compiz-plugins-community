@@ -126,10 +126,6 @@ msgid "What Modifiers must be used in order to trigger the action"
 msgstr "Qué modificadores deben usarse para desencadenar la acción"
 
 #, fuzzy
-msgid "Plugin Name"
-msgstr "Nombre del complemento"
-
-#, fuzzy
 msgid "Initiation Action Name"
 msgstr "Nombre de acción que Desea Iniciar"
 
@@ -1083,9 +1079,6 @@ msgstr "Tipo de gesto"
 
 msgid "Which gesture calls the action"
 msgstr "Qué gesto llama la acción"
-
-msgid "Plugin Name"
-msgstr "Nombre del complemento"
 
 #, fuzzy
 msgid "Initiation Plugin Name"
