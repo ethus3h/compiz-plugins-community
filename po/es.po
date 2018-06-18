@@ -129,6 +129,9 @@ msgstr "Hace que las ventanas se mantengan fuera de tu camino"
 msgid "Toggle Dodging"
 msgstr "Habilitar o deshabilitar Esquivar"
 
+msgid "Window Types"
+msgstr "Tipos de ventana"
+
 msgid "Windows which should dodge"
 msgstr "Ventanas que debería esquivar"
 
