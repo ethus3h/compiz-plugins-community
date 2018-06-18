@@ -39,14 +39,12 @@ msgstr ""
 #, fuzzy
 msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
 "fall more smoothly, but will also increase CPU usage."
-msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
-"valor más suave se movera la bola, pero aumentará el uso del CPU."
+msgstr ""
+""
 
-#, fuzzy
 msgid "Screen Boxing"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
@@ -54,7 +52,6 @@ msgstr ""
 ""
 ""
 
-#, fuzzy
 msgid "Screen Depth"
 msgstr ""
 
@@ -65,74 +62,63 @@ msgstr ""
 msgid "Balls Over Windows"
 msgstr ""
 
-#, fuzzy
 msgid "Balls are drawn above windows"
 msgstr ""
 
-#, fuzzy
 msgid "Rotate Balls"
-msgstr "Rotar bolas"
+msgstr ""
 
 msgid "Balls rotate if checked."
 msgstr "Rotar bolas al seleccionar."
 
 msgid "Wind Direction"
-msgstr "Dirección de las bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Select the wind direction"
-msgstr "Seleccione la dirección del movimiento de las bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Ball Textures"
-msgstr "Textura de las bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Ball textures"
-msgstr "Textura de las bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Enable by default"
-msgstr "Habilitar por defecto"
+msgstr ""
 
 msgid "Enable boing by default."
-msgstr "Habilite el boing de forma predeterminada."
+msgstr ""
 
 msgid "Enable Blending"
-msgstr "Habilitar mezcla"
+msgstr ""
 
-#, fuzzy
 msgid "Enables alpha blending of balls."
-msgstr "Habilitar mezcla alfa para las bolas."
+msgstr ""
 
-#, fuzzy
 msgid "Enable Textures"
-msgstr "Habilitar texturas"
+msgstr ""
 
 msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
-"Habilitar las bolas texturadas, sino se usarán los gradientes de color."
+""
 
 msgid "Toggle Boing"
-msgstr "Habilitar o deshabilitar Boing"
+msgstr ""
 
-#, fuzzy
 msgid "Boing toggle key"
-msgstr "Tecla de habilitación o deshabilitación de Boing"
+msgstr ""
 
-#, fuzzy
 msgid "Boing for Compiz"
-msgstr "Boing para Compiz"
+msgstr ""
 
-#, fuzzy
 msgid "Desktop Click"
-msgstr "Clic de Escritorio"
+msgstr ""
 
 msgid "Perform actions on desktop clicks"
-msgstr "Realiza acciones con Clic en el escritorio"
+msgstr ""
 
 msgid "Click List"
-msgstr "Lista de Clic"
+msgstr ""
 
 msgid "Click List"
 msgstr "Lista de Clic"
