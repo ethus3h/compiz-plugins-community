@@ -19,35 +19,35 @@
         </option>
         <option name="trigger_rotation_key" type="key">
           <_short>Trigger rotation on the window</_short>
-          <_long> Toggle rotation on the selected window. </_long>
+          <_long>Toggle rotation on the selected window.</_long>
           <default>&lt;Super&gt;r</default>
         </option>
         <option name="mouse_invert_key" type="key">
           <_short>Invert mouse attraction/repulsion</_short>
-          <_long> Inverts mouse attraction or repulsion. </_long>
+          <_long>Inverts mouse attraction or repulsion.</_long>
           <default>&lt;Super&gt;i</default>
         </option>
         <option name="free_window_key" type="key">
           <_short>Detach the window</_short>
-          <_long> Detaches the window from the desktop. </_long>
+          <_long>Detaches the window from the desktop.</_long>
           <default>&lt;Super&gt;&lt;Shift&gt;a</default>
         </option>
         <option name="pin_key" type="key">
           <_short>Attach the window</_short>
-          <_long> Attaches the window to the desktop. </_long>
+          <_long>Attaches the window to the desktop.</_long>
           <default>&lt;Super&gt;a</default>
         </option>
       </group>
       <option name="bounce_constant" type="float">
        <_short>Bounce elasticity</_short>
-       <_long> Elasticity of the windows (0 means no bounce, 1 is perfect elasticity). </_long>
+       <_long>Elasticity of the windows (0 means no bounce, 1 is perfect elasticity).</_long>
        <default>0.8</default>
        <min>0</min>
        <max>1</max>
       </option>
       <option name="friction_constant" type="float">
        <_short>Fluid friction</_short>
-       <_long> Fluidity of the desktop (0 means solid, and 1 totally liquid). </_long>
+       <_long>Fluidity of the desktop (0 means solid, and 1 totally liquid).</_long>
        <default>0.6</default>
        <min>0</min>
        <max>1</max>
@@ -61,24 +61,24 @@
       </option>
       <option name="mouse_attraction" type="bool">
        <_short>Mouse attraction</_short>
-       <_long> Attracts/repels the windows to the mouse. </_long>
+       <_long>Attracts/repels the windows to the mouse.</_long>
        <default>true</default>
       </option>
       <option name="mouse_attraction_mode" type="bool">
        <_short>Attract by default</_short>
-       <_long> Attracts the windows to the mouse when the invert action key is not pressed. </_long>
+       <_long>Attracts the windows to the mouse when the invert action key is not pressed.</_long>
        <default>false</default>
       </option>
       <option name="mouse_strength" type="int">
        <_short>Mouse attraction strength</_short>
-       <_long> Strength of the attraction/repulsion force. </_long>
+       <_long>Strength of the attraction/repulsion force.</_long>
        <default>10</default>
        <min>0</min>
        <max>100</max>
       </option>
       <option name="mouse_stop" type="bool">
        <_short>Stop Hovered windows</_short>
-       <_long> Stops the windows under the pointer. </_long>
+       <_long>Stops the windows under the pointer.</_long>
        <default>true</default>
       </option>
     </display>
