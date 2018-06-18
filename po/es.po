@@ -37,7 +37,6 @@ msgstr "Tamaño de las bolas"
 msgid "Size of balls"
 msgstr "Tamaño de las bolas"
 
-#, fuzzy
 msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
 "fall more smoothly, but will also increase CPU usage."
 msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
@@ -488,28 +487,24 @@ msgstr "Color para mostrar en la pared de la cara este."
 msgid "South Face Colour"
 msgstr "Color de la cara sur"
 
-#, fuzzy
 msgid "Colour to display on the south face wall"
 msgstr "Color para mostrar en la pared de la cara sur"
 
 msgid "West Face Colour"
 msgstr "Color de la cara oeste"
 
-#, fuzzy
 msgid "Colour to display on the west face wall"
 msgstr "Color de la cara oeste para mostrar en la pared de la cara oeste"
 
 msgid "First Ball Colour"
 msgstr "Primer color de bola"
 
-#, fuzzy
 msgid "First colour to draw the ball in"
 msgstr "Primer color para dibujar la pelota"
 
 msgid "Second Ball Colour"
 msgstr "Segundo color de bola"
 
-#, fuzzy
 msgid "Second colour to draw the ball in"
 msgstr "Segundo color para dibujar la pelota"
 
@@ -522,11 +517,9 @@ msgstr "Color para dibujar el borde"
 msgid "Mousegestures"
 msgstr "Gestos del mouse"
 
-#, fuzzy
 msgid "Assign mousegestures to any existing action"
 msgstr "Asignar gestos del mouse a cualquier acción existente"
 
-#, fuzzy
 msgid "Start gesture"
 msgstr "Comience gesto"
 
@@ -547,28 +540,24 @@ msgstr "Asignación de gestos"
 msgid "Gesture"
 msgstr "Gestos"
 
-#, fuzzy
 msgid "Mouse gesture to assign an action to."
 msgstr "Gesto del mouse para asignar una acción a."
 
 msgid "Plugin"
 msgstr ""
 
-#, fuzzy
 msgid "Plugin the action belongs to."
 msgstr "Complemento a la acción a."
 
 msgid "Action"
 msgstr "Acción"
 
-#, fuzzy
 msgid "Action that is to be invoked."
 msgstr "Acción que debe invocarse."
 
 msgid "Newton"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "Creates iconified windows that can be selected to select the main window and are affected by physics."
 msgstr "" 
@@ -580,85 +569,72 @@ msgstr "teclas"
 msgid "Trigger Physics on the window"
 msgstr "Dispara la Física en la ventana"
 
-#, fuzzy
 msgid "Toggle physics on the selected window."
 msgstr "Alternar la física en la ventana seleccionada."
 
 msgid "Trigger rotation on the window"
 msgstr "Dispara la rotación en la ventana"
 
-#, fuzzy
 msgid "Toggle rotation on the selected window."
 msgstr "Alternar la rotación en la ventana seleccionada."
 
-#, fuzzy
 msgid "Invert mouse attraction/repulsion"
 msgstr "Invierta la atracción/repulsión del mouse"
 
-#, fuzzy
 msgid "Inverts mouse attraction or repulsion."
 msgstr "Invierte la atracción o repulsión del ratón."
 
 msgid "Detach the window"
 msgstr "Separar la ventana"
 
-#, fuzzy
 msgid "Detaches the window from the desktop."
 msgstr "Separa la ventana del escritorio."
 
 msgid "Attach the window"
 msgstr "Adjuntar la ventana"
 
-#, fuzzy
 msgid "Attaches the window to the desktop."
 msgstr "Adjunta la ventana al escritorio."
 
 msgid "Bounce elasticity"
 msgstr "Elasticidad de rebote"
 
-#, fuzzy
 msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
 msgstr "Elasticidad de las ventanas (0 significa no rebote, 1 es elasticidad perfecta)."
 
 msgid "Fluid friction"
 msgstr "Fricción de fluido"
 
-#, fuzzy
 msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
 msgstr "La fluidez del escritorio (0 significa sólido y 1 totalmente líquido)."
 
 msgid "Gravity"
 msgstr "Gravedad"
 
-#, fuzzy
 msgid "Constant force."
 msgstr "Fuerza constante."
 
 msgid "Mouse attraction"
 msgstr "Atracción al mouse"
 
-#, fuzzy
 msgid "Attracts/repels the windows to the mouse."
 msgstr "Atrae/repele las ventanas al mouse."
 
 msgid "Attract by default"
 msgstr "Atraer por defecto"
 
-#, fuzzy
 msgid "Attracts the windows to the mouse when the invert action key is not pressed."
 msgstr "Atrae las ventanas hacia el mouse cuando la tecla de acción de inversión no está presionada."
 
 msgid "Mouse attraction strength"
 msgstr "Fuerza de atracción del mouse"
 
-#, fuzzy
 msgid "Strength of the attraction/repulsion force."
 msgstr "Fuerza de la atracción/repulsión."
 
 msgid "Stop Hovered windows"
 msgstr "Detener ventanas con ventanas"
 
-#, fuzzy
 msgid "Stops the windows under the pointer."
 msgstr "Detiene las ventanas debajo del puntero."
 
@@ -677,18 +653,15 @@ msgstr "La demora (en ms) antes de Peek revela la ventana en la que estás marca
 msgid "Window Match"
 msgstr ""
 
-#, fuzzy
 msgid "Windows that should become transparent"
 msgstr "Ventana que debería volverse transparente"
 
 msgid "Opacity Levels"
 msgstr "Niveles de Opacidad"
 
-#, fuzzy
 msgid "Active Opacity"
 msgstr "Opacidad activa"
 
-#, fuzzy
 msgid ""
 "The minimum opacity percentage to ensure a targeted window has. A target window will have either this opacity or the preset opacity, whichever is higher."
 msgstr ""
@@ -696,7 +669,6 @@ msgstr ""
 msgid "Passive Opacity"
 msgstr "Opacidad Pasiva"
 
-#, fuzzy
 msgid ""
 "The maximum opacity percentage a window blocking the current targeted window can have. A blocking window will have either this opacity or the preset opacity, whichever is lower."
 msgstr ""
@@ -704,14 +676,12 @@ msgstr ""
 msgid "Taskbar only shows windows of current viewport"
 msgstr "barra de tareas que solo muestra la ventana gráfica actual"
 
-#, fuzzy
 msgid "Only dim the windows that the taskbar shows as on the current viewport"
 msgstr "Solo atenúe las ventanas que muestra la barra de tareas como en la ventana gráfica actual"
 
 msgid "Prompt"
 msgstr ""
 
-#, fuzzy
 msgid "Compiz interface for the prompting the user."
 msgstr "Interfaz Compiz para solicitar al usuario."
 
@@ -745,10 +715,9 @@ msgstr "Tamaño de las cucarachas"
 msgid "Update Delay"
 msgstr "Actualizar retraso"
 
-msgid ""
 "Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
 msgstr ""
-"Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que las cucarachas se muevan más suavemente, pero también aumentará el uso de la CPU."
+"Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que se muevan más suavemente, pero también aumentará el uso de la CPU."
 
 msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
@@ -828,7 +797,6 @@ msgstr "tapa de escritorio"
 msgid "Display a desktop for each cap."
 msgstr "Muestre un escritorio para cada tapa."
 
-#, fuzzy
 msgid "Visual Event"
 msgstr ""
 
