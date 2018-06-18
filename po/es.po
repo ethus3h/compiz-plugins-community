@@ -968,28 +968,24 @@ msgstr "Margen inferior del mouse visual"
 msgid "Wii Remote"
 msgstr ""
 
-#, fuzzy
 msgid "Compiz interface for the Nintendo Wii Remote."
 msgstr "Interfaz Compiz para el mando de Nintendo Wii."
 
 msgid "Toggle status reporting"
 msgstr "Deshabilitar informes de estado"
 
-#, fuzzy
 msgid "Use this to enable status reporting from the Wii Remote. Remember to hold down (1)+(2)."
 msgstr "Úselo para habilitar el informe de estado desde el control remoto de Wii. Recuerde presionar (1) + (2)."
 
 msgid "Disable status reporting"
 msgstr "Combinaciones de teclas"
 
-#, fuzzy
 msgid "Use this to disable status reporting from the Wii Remote."
 msgstr "Úselo para deshabilitar el informe de estado desde el control remoto de Wii."
 
 msgid "Status reporting"
 msgstr "Reporte de estado"
 
-#, fuzzy
 msgid "Togle status reporting from the Wii Remote."
 msgstr "Alternar informes de estado desde el control remoto de Wii."
 
@@ -999,7 +995,6 @@ msgstr "Configuración de Wiimote"
 msgid "Reporting Timeout"
 msgstr "Tiempo de espera de informes"
 
-#, fuzzy
 msgid ""
 "The more often you call it, the higher the CPU usage will be, so be careful with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
@@ -1008,14 +1003,12 @@ msgstr ""
 msgid "Gesture Timeout"
 msgstr "Tiempo de espera de gesto"
 
-#, fuzzy
 msgid "The more often you call it, the higher the CPU usage will be and the faster you have to move"
 msgstr "Cuanto más lo llame, mayor será el uso de la CPU y más rápido tendrá que moverse"
 
 msgid "Gesture Sensitvity"
 msgstr "Sensibilidad al gesto"
 
-#, fuzzy
 msgid "How much the readings must differ between gesture checks"
 msgstr "Cuánto deben diferir las lecturas entre los controles de gestos"
 
@@ -1038,7 +1031,6 @@ msgstr "Se usa para ajustarse a la posición de su pantalla"
 msgid "Gesturing"
 msgstr "Gesticular"
 
-#, fuzzy
 msgid "The number of the wii remote on the list (starts at 0)"
 msgstr "El número del control remoto wii en la lista (comienza en 0)"
 
@@ -1049,7 +1041,6 @@ msgstr "Tipo de gesto"
 msgid "Which gesture calls the action"
 msgstr "Qué gesto llama la acción"
 
-#, fuzzy
 msgid "Initiation Plugin Name"
 msgstr "Nombre del complemento de iniciación"
 
@@ -1072,47 +1063,39 @@ msgstr "Número de control remoto Wii"
 msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr "Número de control remoto Wii (en orden de la lista de configuraciones wiimote. Comienza en 0)"
 
-
 msgid "Report Type"
 msgstr "Tipo de informe"
 
-#, fuzzy
 msgid "What to report"
 msgstr "Que reportar"
 
-#, fuzzy
 msgid "Plugin to report to"
 msgstr "Complemento para informar a"
 
-#, fuzzy
 msgid "Action to report to"
 msgstr "Acción para informar a"
 
 msgid "X Argument"
 msgstr "X Argumento"
 
-#, fuzzy
 msgid "What option name the plugin expects for the X value"
 msgstr "¿Qué nombre de opción espera el complemento para el valor X?"
 
 msgid "Y Argument"
 msgstr "Y argumento"
 
-#, fuzzy
 msgid "What option name the plugin expects for the Y value"
 msgstr "¿Qué nombre de opción espera el complemento para el valor Y?"
 
 msgid "Z Argument"
 msgstr "Argumento Z"
 
-#, fuzzy
 msgid "What option name the plugin expects for the Z value"
 msgstr "¿Qué nombre de opción espera el complemento para el valor de Z?"
 
 msgid "Data Type"
 msgstr "Tipo de datos"
 
-#, fuzzy
 msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
 msgstr "Qué tipo de datos espera el complemento (use el otro si el actual no funciona)"
 
@@ -1129,6 +1112,5 @@ msgstr "Notificación"
 msgid "WiiTrack"
 msgstr ""
 
-#, fuzzy
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
 msgstr "Cree un verdadero escritorio 3D con un Wiimote en algunos tonos habilitados con IR."
