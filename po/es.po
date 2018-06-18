@@ -831,71 +831,60 @@ msgstr "Tecla de habilitación o deshabilitación cucarachas"
 msgid "Rubik's Cube"
 msgstr "Cubo rubik"
 
-#, fuzzy
 msgid "Turn cube into a Rubik's cube"
 msgstr "Convierte el cubo en un cubo de Rubik"
 
 msgid "Toggle Rubik's cube"
 msgstr "Habilitar o deshabilitar cubo de Rubik"
 
-#, fuzzy
 msgid "Start/stop Rubik's cube effect."
 msgstr "Comience/termine el efecto del cubo de Rubik."
 
 msgid "Speed factor"
 msgstr "Factor de velocidad"
 
-#, fuzzy
 msgid "Multiply the speed of rotations by this factor."
 msgstr "Multiplique la velocidad de rotaciones por este factor."
 
 msgid "Rubik Size"
 msgstr "tamaño del cubo de Rubik"
 
-#, fuzzy
 msgid "Number of horizontal/vertical strips."
 msgstr "Número de tiras horizontales/verticales."
 
 msgid "Rotate around all axes"
 msgstr "Girar alrededor de todos los ejes"
 
-#, fuzzy
 msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
 msgstr "Gire el cubo de Rubik alrededor de todos los ejes (también convierta ventanas en mapas de píxeles)."
 
-#, fuzzy
 msgid "On manual rotate"
 msgstr "En rotación manual"
 
-#, fuzzy
 msgid "Enable effect only on cube rotate."
 msgstr "Activar el efecto solo en rotar el cubo."
 
 msgid "Rotate desktop"
 msgstr "Rotar el escritorio"
 
-#, fuzzy
 msgid "Rotate desktop as well as windows."
 msgstr "Gire el escritorio y las ventanas."
 
 msgid "Colored Sides"
 msgstr "lados de colores"
 
-#, fuzzy
 msgid "Replace wallpaper with colored sides."
 msgstr "Reemplace el fondo de pantalla con lados de colores."
 
 msgid "Enable Depth Test"
 msgstr "Habilitar prueba de profundidad"
 
-#, fuzzy
 msgid "Hide windows that are behind other windows."
 msgstr "Ocultar las ventanas que están detrás de otras ventanas."
 
 msgid "Desktop caps"
 msgstr "tapa de escritorio"
 
-#, fuzzy
 msgid "Display a desktop for each cap."
 msgstr "Muestre un escritorio para cada tapa."
 
