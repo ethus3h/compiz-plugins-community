@@ -137,13 +137,7 @@ msgstr "Realiza acciones con Clic en el escritorio"
 msgid "Click List"
 msgstr "Lista de Clic"
 
-msgid "Click List"
-msgstr "Lista de Clic"
-
 #, fuzzy
-msgid "Button Number"
-msgstr "Número de Botón"
-
 msgid "Button Number"
 msgstr "Número de Botón"
 
@@ -492,9 +486,6 @@ msgstr "Porcentaje de pantalla del mouse"
 
 msgid "Wave amplitude"
 msgstr "Amplitud de onda"
-
-msgid "How much of the screen represents the actual screen. 100 is "exact""
-msgstr "¿Cuánto representa la pantalla actual? 100 es "exacto""
 	 
 # no se si poner eso o dejarlo asi no se con exactitud que hace el plugin
 msgid "Lazy Pointer"
