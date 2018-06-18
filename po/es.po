@@ -46,11 +46,9 @@ msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea est
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
 
-#, fuzzy
 msgid "Balls are drawn above windows"
 msgstr "Dibujar las bolas sobre las ventanas"
 
-#, fuzzy
 msgid "Rotate Balls"
 msgstr "Rotar bolas"
 
@@ -60,11 +58,9 @@ msgstr "Rotar bolas al seleccionar."
 msgid "Wind Direction"
 msgstr "Dirección de las bolas"
 
-#, fuzzy
 msgid "Select the wind direction"
 msgstr "Seleccione la dirección del movimiento de las bolas"
 
-#, fuzzy
 msgid "Ball Textures"
 msgstr "Textura de las bolas"
 
@@ -72,7 +68,6 @@ msgstr "Textura de las bolas"
 msgid "Ball textures"
 msgstr "Textura de las bolas"
 
-#, fuzzy
 msgid "Enable by default"
 msgstr "Habilitar por defecto"
 
@@ -82,7 +77,6 @@ msgstr "Habilite el boing de forma predeterminada."
 msgid "Enable Blending"
 msgstr "Habilitar mezcla"
 
-#, fuzzy
 msgid "Enables alpha blending of balls."
 msgstr "Habilitar mezcla alfa para las bolas."
 
@@ -96,7 +90,6 @@ msgstr "Habilitar las bolas texturadas, sino se usarán los gradientes de color.
 msgid "Toggle Boing"
 msgstr "Habilitar o deshabilitar Boing"
 
-#, fuzzy
 msgid "Boing toggle key"
 msgstr "Tecla de habilitación o deshabilitación de Boing"
 
@@ -795,14 +788,13 @@ msgid "Background color for the window title"
 msgstr "Color de fondo para el título de la ventana"
 
 msgid "roach"
-msgstr "cucaracha"
+msgstr "Cucaracha"
 
-#, fuzzy
 msgid "Roaches for Compiz"
 msgstr "Cucarachas para Compiz"
 
 msgid "Number Of roaches"
-msgstr "Número de cucarachas"
+msgstr "Número de Cucarachas"
 
 msgid "Size Of roaches"
 msgstr "Tamaño de las cucarachas"
