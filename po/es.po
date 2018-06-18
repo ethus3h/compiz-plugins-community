@@ -114,8 +114,7 @@ msgid "Enable Textures"
 msgstr "Habilitar texturas"
 
 msgid "Enables textured balls. If not selected, color gradients are used."
-msgstr ""
-"Habilitar las bolas texturadas, sino se usarán los gradientes de color."
+msgstr "Habilitar las bolas texturadas, sino se usarán los gradientes de color."
 
 msgid "Toggle Boing"
 msgstr "Habilitar o deshabilitar Boing"
