@@ -1049,3 +1049,15 @@ msgstr ""
 
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
 msgstr "Cree un verdadero escritorio 3D con un Wiimote en algunos tonos habilitados con IR."
+
+
+msgid "Simple Avoid"
+msgstr "Simple Evitar"
+
+msgid "Return to position"
+msgstr "Regresar a la posición"
+
+msgid "Off Screen"
+msgstr "Fuera de pantalla"
+
+
