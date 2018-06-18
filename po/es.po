@@ -51,10 +51,6 @@ msgstr ""
 "Qué tan lejos del exterior de la resolución de la pantalla de las"
 "bolas pueden estar hasta ser removidos. Necesario para el campo de vista."
 
-#, fuzzy
-msgid "Screen Depth"
-msgstr "Profundidad de la pantalla"
-
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
 
@@ -144,9 +140,6 @@ msgstr "Nombre del complemento"
 msgid "Initiation Plugin Name"
 msgstr "Nombre del complemento de iniciación"
 
-msgid "Action Name"
-msgstr "Nombre de acción"
-
 #, fuzzy
 msgid "Initiation Action Name"
 msgstr "Nombre de acción que Desea Iniciar"
@@ -165,9 +158,6 @@ msgstr "Hace que las ventanas se mantengan fuera de tu camino"
 
 msgid "Toggle Dodging"
 msgstr "Habilitar o deshabilitar Esquivar"
-
-msgid "Window Types"
-msgstr "Tipos de ventana"
 
 msgid "Windows which should dodge"
 msgstr "Ventanas que debería esquivar"
@@ -223,9 +213,6 @@ msgstr "Iniciar"
 msgid "Start flash"
 msgstr "Iniciar flash"
 
-msgid "Initiate"
-msgstr "Iniciar"
-
 msgid "Distance max"
 msgstr "Distancia máxima"
 
@@ -260,15 +247,8 @@ msgstr "Lado del color de los relámpagos"
 msgid "Middle of lightnings color"
 msgstr "Medio del color de los relámpagos"
 
-#, fuzzy
-msgid "Middle of lightnings color"
-msgstr "Medio del color de los relámpagos"
-
 msgid "The other side of lightnings color"
 msgstr "El otro lado del color de los relámpagos"
-
-msgid "Window Types"
-msgstr "Tipos de ventana"
 
 #, fuzzy
 msgid "The window types that lightning bolts will hit"
@@ -858,9 +838,6 @@ msgstr ""
 "Qué tan lejos del exterior de la resolución de la pantalla de las"
 "cucarachas pueden estar hasta ser removidos. Necesario para el campo de vista."
 
-msgid "Screen Depth"
-msgstr "Profundidad de la pantalla"
-
 #, fuzzy
 msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
@@ -873,10 +850,6 @@ msgstr "cucarachas sobre las ventanas"
 msgid "Roaches are drawn above windows"
 msgstr "Dibujar las cucarachas sobre las ventanas"
 
-msgid "Roach Textures"
-msgstr "Textura de las cucarachas"
-
-#, fuzzy
 msgid "Roach Textures"
 msgstr "Textura de las cucarachas"
 
@@ -899,9 +872,6 @@ msgstr "Habilitar o deshabilitar cubo de Rubik"
 #, fuzzy
 msgid "Start/stop Rubik's cube effect."
 msgstr "Comience/termine el efecto del cubo de Rubik."
-
-msgid "Toggle Rubik's cube"
-msgstr "Habilitar o deshabilitar cubo de Rubik"
 
 msgid "Speed factor"
 msgstr "Factor de velocidad"
@@ -1112,10 +1082,6 @@ msgstr "Multiplicador de Calibración Y"
 msgid "X Adjust"
 msgstr "X Ajustar"
 
-#, fuzzy
-msgid "Used to adjust to the position of your screen"
-msgstr "Se usa para ajustarse a la posición de su pantalla"
-
 
 msgid "Y Adjust"
 msgstr "Ajuste Y"
@@ -1147,10 +1113,6 @@ msgstr "Nombre del complemento de iniciación"
 msgid "Action Name"
 msgstr "Nombre de acción"
 
-#, fuzzy
-msgid "Initiation Action Name"
-msgstr "Nombre de acción de iniciación"
-
 msgid "How sensitive gestures should be"
 msgstr "Cómo deberían ser los gestos sensibles"
 
@@ -1181,9 +1143,6 @@ msgstr "Nombre del complemento"
 #, fuzzy
 msgid "Plugin to report to"
 msgstr "Complemento para informar a"
-
-msgid "Action Name"
-msgstr "Nombre de acción"
 
 #, fuzzy
 msgid "Action to report to"
