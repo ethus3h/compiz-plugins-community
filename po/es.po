@@ -43,14 +43,6 @@ msgid "Delay (in ms) between screen updates. Decreasing this value may make leav
 msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
 "valor más suave se movera la bola, pero aumentará el uso del CPU. "
 
-#, fuzzy
-msgid ""
-"How far outside the screen resolution leaves can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-"Qué tan lejos del exterior de la resolución de la pantalla de las"
-"bolas pueden estar hasta ser removidos. Necesario para el campo de vista."
-
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
 
@@ -136,9 +128,6 @@ msgstr "Qué modificadores deben usarse para desencadenar la acción"
 #, fuzzy
 msgid "Plugin Name"
 msgstr "Nombre del complemento"
-
-msgid "Initiation Plugin Name"
-msgstr "Nombre del complemento de iniciación"
 
 #, fuzzy
 msgid "Initiation Action Name"
@@ -831,14 +820,6 @@ msgstr ""
 "Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que las cucarachas se muevan más suavemente, pero también aumentará el uso de la CPU."
 
 #, fuzzy
-msgid ""
-"How far outside the screen resolution leaves can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-"Qué tan lejos del exterior de la resolución de la pantalla de las"
-"cucarachas pueden estar hasta ser removidos. Necesario para el campo de vista."
-
-#, fuzzy
 msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
 
@@ -1136,9 +1117,6 @@ msgstr "Tipo de informe"
 #, fuzzy
 msgid "What to report"
 msgstr "Que reportar"
-
-msgid "Plugin Name"
-msgstr "Nombre del complemento"
 
 #, fuzzy
 msgid "Plugin to report to"
