@@ -31,6 +31,9 @@ msgstr "Configuraciones"
 msgid "Number Of balls"
 msgstr "Número de bolas"
 
+msgid "Number of balls"
+msgstr "Número de bolas"
+
 msgid "Size Of balls"
 msgstr "Tamaño de las bolas"
 
@@ -41,6 +44,22 @@ msgid "Delay (in ms) between screen updates. Decreasing this value may make leav
 "fall more smoothly, but will also increase CPU usage."
 msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
 "valor más suave se movera la bola, pero aumentará el uso del CPU. "
+
+msgid "Screen Boxing"
+msgstr ""
+
+msgid ""
+"How far outside the screen resolution leaves can be before being removed. "
+"Needed because of FOV."
+msgstr ""
+"Qué tan lejos del exterior de la resolución de la pantalla"
+"pueden estar hasta ser removidos. Necesario para el campo de vista."
+
+msgid "Screen Depth"
+msgstr "Profundidad de la pantalla"
+
+msgid "How deep into the screen snowflakes can be drawn before being removed"
+msgstr "Qué tan profundos serán dibujados los copos de nieve hasta desaparecer"
 
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
@@ -57,13 +76,19 @@ msgstr "Rotar bolas al seleccionar."
 msgid "Wind Direction"
 msgstr "Dirección de las bolas"
 
-msgid "Textures"
-msgstr "Texturas"
+msgid "Select the wind direction"
+msgstr "Seleccione la dirección del viento"
 
 msgid "Select the wind direction"
 msgstr "Seleccione la dirección del movimiento de las bolas"
 
+msgid "Textures"
+msgstr "Texturas"
+
 msgid "Ball Textures"
+msgstr "Textura de las bolas"
+
+msgid "Ball textures"
 msgstr "Textura de las bolas"
 
 msgid "Enable by default"
