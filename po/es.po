@@ -1184,154 +1184,145 @@ msgstr "Multiplicador de Calibración Y"
 msgid "Change this depending on your screen size"
 msgstr "Cambie esto dependiendo de su tamaño de pantalla"
 
-msgid "Control"
-msgstr "Control"
-
-msgid "Meta"
-msgstr "Meta"
+msgid "X Adjust"
+msgstr "X Ajustar"
 
 #, fuzzy
-msgid "Rotation"
-msgstr "Angulo de rotación"
+msgid "Used to adjust to the position of your screen"
+msgstr "Se usa para ajustarse a la posición de su pantalla"
 
-msgid "Invert Modifier"
+
+msgid "Y Adjust"
+msgstr "Ajuste Y"
+
+msgid "Used to adjust to the position of your screen"
+msgstr "Se usa para ajustarse a la posición de su pantalla"
+
+msgid "Gesturing"
+msgstr "Gesticular"
+
+msgid "Wii Remote Number"
+msgstr "Número de control remoto Wii"
+
+#, fuzzy
+msgid "The number of the wii remote on the list (starts at 0)"
+msgstr "El número del control remoto wii en la lista (comienza en 0)"
+
+
+msgid "Gesture Type"
+msgstr "Tipo de gesto"
+
+msgid "Which gesture calls the action"
+msgstr "Qué gesto llama la acción"
+
+msgid "Plugin Name"
+msgstr "Nombre del complemento"
+
+#, fuzzy
+msgid "Initiation Plugin Name"
+msgstr "Nombre del complemento de iniciación"
+
+msgid "Action Name"
+msgstr "Nombre de acción"
+
+#, fuzzy
+msgid "Initiation Action Name"
+msgstr "Nombre de acción de iniciación"
+
+msgid "Sensitivity"
+msgstr "Sensibilidad"
+
+msgid "How sensitive gestures should be"
+msgstr "Cómo deberían ser los gestos sensibles"
+
+msgid "Reporting"
+msgstr "Informes"
+
+msgid "Reporter List"
+msgstr "Lista de reporteros"
+
+msgid "Wii Remote Number"
+msgstr "Número de control remoto Wii"
+
+#, fuzzy
+msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
+msgstr "Número de control remoto Wii (en orden de la lista de configuraciones wiimote. Comienza en 0)"
+
+
+msgid "Report Type"
+msgstr "Tipo de informe"
+
+#, fuzzy
+msgid "What to report"
+msgstr "Que reportar"
+
+msgid "Plugin Name"
+msgstr "Nombre del complemento"
+
+#, fuzzy
+msgid "Plugin to report to"
+msgstr "Complemento para informar a"
+
+msgid "Action Name"
+msgstr "Nombre de acción"
+
+#, fuzzy
+msgid "Action to report to"
+msgstr "Acción para informar a"
+
+msgid "X Argument"
+msgstr "X Argumento"
+
+#, fuzzy
+msgid "What option name the plugin expects for the X value"
+msgstr "¿Qué nombre de opción espera el complemento para el valor X?"
+
+msgid "Y Argument"
+msgstr "Y argumento"
+
+#, fuzzy
+msgid "What option name the plugin expects for the Y value"
+msgstr "¿Qué nombre de opción espera el complemento para el valor Y?"
+
+msgid "Z Argument"
+msgstr "Argumento Z"
+
+#, fuzzy
+msgid "What option name the plugin expects for the Z value"
+msgstr "¿Qué nombre de opción espera el complemento para el valor de Z?"
+
+msgid "Data Type"
+msgstr "Tipo de datos"
+
+#, fuzzy
+msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
+msgstr "Qué tipo de datos espera el complemento (use el otro si el actual no funciona)"
+
+
+msgid "Sensitivity"
+msgstr "Sensibilidad"
+
+msgid "How sensitive Wii Remote movements should be"
+msgstr "Qué tan sensibles deben ser los movimientos del mando de Wii"
+
+msgid "Notification"
+msgstr "Notificación"
+
+#, fuzzy
+msgid "Font size for the window title"
+msgstr "Tamaño de fuente para el título de la ventana"
+
+#, fuzzy
+msgid "Font color for the window title"
+msgstr "Color de fuente para el título de la ventana"
+
+
+msgid "WiiTrack"
 msgstr ""
 
 #, fuzzy
-msgid "Use this bindings to invert the rotation mode."
-msgstr "Usar estas vinculaciones para evitar pegado."
-
-msgid "Manual Transformation"
-msgstr ""
-
-#, fuzzy
-msgid "Scaling"
-msgstr "Escalado"
-
-#, fuzzy
-msgid "Scale Up"
-msgstr "Escalado"
-
-msgid "Scale up by one increment"
-msgstr ""
-
-# berylog: no sé muy bien cómo traducir Scale Addons, pero creo que es mejor poner Extras y no Añadidos
-#, fuzzy
-msgid "Scale Down"
-msgstr "Extras para Escalar ventanas"
-
-#, fuzzy
-msgid "Scale down by one increment"
-msgstr "Habilitar o deshabilitar \"Pantalla completa\" para ventanas"
-
-#, fuzzy
-msgid "Rotate Up"
-msgstr "Rotar copos"
-
-msgid "Rotate up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Down"
-msgstr "Mover abajo"
-
-msgid "Rotate down by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Left"
-msgstr "Mover a la izquierda"
-
-msgid "Rotate left by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Right"
-msgstr "Rotar iluminación"
-
-msgid "Rotate right by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Clockwise"
-msgstr "Rotar anillo en el sentido de las agujas del reloj"
-
-#, fuzzy
-msgid "Rotate clockwise by one increment"
-msgstr "Rotar anillo en el sentido de las agujas del reloj"
-
-#, fuzzy
-msgid "Rotate Counter-Clockwise"
-msgstr "Rotar anillo en el sentido de las agujas del reloj"
-
-#, fuzzy
-msgid "Rotate counter-clockwise by one increment"
-msgstr "Rotar anillo en el sentido de las agujas del reloj"
-
-msgid "Snap by default"
-msgstr ""
-
-msgid "Snap to common points by default"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Threshold"
-msgstr "Tipo de pegado"
-
-#, fuzzy
-msgid "Snap to every one of these angles"
-msgstr "Velocidad de estos elementos"
-
-#, fuzzy
-msgid "Mouse sensitivity"
-msgstr "Cambiador de ratón"
-
-#, fuzzy
-msgid "How sensitive the mouse movement should be"
-msgstr "Cúanto se debería parecer a un muelle la animación Zoom."
-
-#, fuzzy
-msgid "Scale Mode"
-msgstr "Escalado"
-
-#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
-#, fuzzy
-msgid "How to scale windows"
-msgstr "Ventanas incerrables"
-
-#, fuzzy
-msgid "Allow negative"
-msgstr "Negativo"
-
-msgid "Allow negative scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Maintain aspect ratio"
-msgstr "Mantener la proporción de aspecto de la cima"
-
-msgid "Keep aspect ratio constant when scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum scale"
-msgstr "Factor de escalado mínimo"
-
-msgid ""
-"How small the scale is allowed to be when 'Allow Negative' is not toggled"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation Type"
-msgstr "Angulo de rotación"
-
-#, fuzzy
-msgid "2D/3D Rotation Type"
-msgstr "Angulo de rotación"
-
-#, fuzzy
-msgid "Rotation Axis"
-msgstr "Angulo de rotación"
+msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
+msgstr "Cree un verdadero escritorio 3D con un Wiimote en algunos tonos habilitados con IR."
 
 msgid "How Freely Transformable Windows should determine the rotation axis"
 msgstr ""
