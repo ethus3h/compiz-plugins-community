@@ -777,7 +777,6 @@ msgstr "Color de la fuente"
 msgid "Font Size"
 msgstr "Tamaño de la fuente"
 
-#, fuzzy
 msgid "Font size for the window title"
 msgstr "Tamaño de fuente para el título de la ventana"
 
@@ -807,15 +806,12 @@ msgid ""
 msgstr ""
 "Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que las cucarachas se muevan más suavemente, pero también aumentará el uso de la CPU."
 
-#, fuzzy
 msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
 
-#, fuzzy
 msgid "Roaches Over Windows"
 msgstr "cucarachas sobre las ventanas"
 
-#, fuzzy
 msgid "Roaches are drawn above windows"
 msgstr "Dibujar las cucarachas sobre las ventanas"
 
