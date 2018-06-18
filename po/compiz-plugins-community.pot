@@ -28,7 +28,7 @@ msgid "Number of balls"
 msgstr ""
 
 msgid "Size Of balls"
-sgstr ""
+msgstr ""
 
 msgid "Size of balls"
 msgstr ""
