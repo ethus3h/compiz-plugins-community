@@ -488,56 +488,48 @@ msgstr "Mueva el puntero hacia abajo por la cantidad especificada"
 msgid "Maze"
 msgstr "Laberinto"
 
-#, fuzzy
 msgid "Render a maze inside of the transparent cube"
 msgstr "Hacer un laberinto dentro del cubo transparente"
 
 msgid "Max Speed"
 msgstr "Máxima velocidad"
 
-#, fuzzy
 msgid "Maximum velocity the ball is allowed to travel at."
 msgstr "Velocidad máxima a la que la pelota puede viajar."
 
 msgid "Scale"
 msgstr "Escala"
 
-#, fuzzy
 msgid "Scale the maze size up or down."
 msgstr "Escala el tamaño del laberinto hacia arriba o hacia abajo."
 
 msgid "Height"
 msgstr "Altura"
 
-#, fuzzy
 msgid "Where to place the maze within the cube"
 msgstr "Dónde colocar el laberinto dentro del cubo"
 
 msgid "Top Colour"
 msgstr "Color superior"
 
-#, fuzzy
 msgid "Colour to display on top"
 msgstr "Color para mostrar en la parte superior"
 
 msgid "Bottom Colour"
 msgstr "Color inferior"
 
-#, fuzzy
 msgid "Colour to display on the bottom"
 msgstr "Color para mostrar en la parte inferior"
 
 msgid "North Face Colour"
 msgstr "Color de la cara norte"
 
-#, fuzzy
 msgid "Colour to display on the north face"
 msgstr "Color para mostrar en la cara norte"
 
 msgid "East Face Colour"
 msgstr "Color de la cara este"
 
-#, fuzzy
 msgid "Colour to display on the east face wall"
 msgstr "Color para mostrar en la pared de la cara este."
 
