@@ -1060,4 +1060,23 @@ msgstr "Regresar a la posición"
 msgid "Off Screen"
 msgstr "Fuera de pantalla"
 
+msgid "Enable roaches by default."
+msgstr "Permitir cucarachas por defecto."
+
+msgid "Roach textures"
+msgstr "Textura de las cucarachas"
+
+msgid "No Wind"
+msgstr "Sin viento"
+
+msgid "Up"
+msgstr "Arriba"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Right"
+msgstr "Derecha"
+
+
 
