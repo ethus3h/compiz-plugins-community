@@ -1026,102 +1026,93 @@ msgid "Display a desktop for each cap."
 msgstr "Muestre un escritorio para cada tapa."
 
 #, fuzzy
-msgid "Star Textures"
-msgstr "Textura de la nieve"
-
-#, fuzzy
-msgid "Star textures"
-msgstr "Textura de la nieve"
-
-#, fuzzy
-msgid "Fireflies for Compiz"
-msgstr "Nieve para Compiz"
-
-msgid "Settings"
-msgstr "Configuraciones"
-
-#, fuzzy
-msgid "Number Of Fireflies"
-msgstr "Número de Partículas de Fuego"
-
-#, fuzzy
-msgid "The maximum number of fireflies allowed on screen"
-msgstr "Cantidad máxima de ondas para Lámpara Mágica."
-
-#, fuzzy
-msgid "Size Of Fireflies"
-msgstr "Filtros de archivos"
-
-msgid "Update Delay"
-msgstr "Actualizar retraso"
-
-msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make snow "
-"fall more smoothly, but will also increase CPU usage."
-msgstr ""
-"Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
-"valor más suave caerá la nieve, pero aumentará el uso del CPU."
-
-#, fuzzy
-msgid "Screen Boxing"
-msgstr "Pantalla empaquetada"
-
-#, fuzzy
-msgid ""
-"How far outside the screen resolution fireflies can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-"Qué tan lejos del exterior de la resolución de la pantalla los copos de "
-"nieve pueden estar hasta ser removidos. Necesario para el campo de vista."
-
-#, fuzzy
-msgid "How deep into the screen fireflies can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados los copos de nieve hasta desaparecer"
-
-#, fuzzy
-msgid "Fireflies Over Windows"
-msgstr "Nieve sobre las ventanas"
-
-#, fuzzy
-msgid "Fireflies is drawn above windows"
-msgstr "Dibujar la nieve sobre las ventanas"
-
-#, fuzzy
-msgid "Rotate Flies. Redundant"
-msgstr "Rotar copos"
-
-#, fuzzy
-msgid "Flies rotate if checked."
-msgstr "Rotar copos al seleccionar."
-
-#, fuzzy
-msgid "Fireflies Direction. Redundant"
-msgstr "Dirección del fuego."
-
-msgid "Top to Bottom"
-msgstr "De arriba a abajo"
-
-msgid "Bottom to Top"
-msgstr "De abajo a arriba"
-
-msgid "Right to Left"
-msgstr "De derecha a izquierda"
-
-msgid "Left to Right"
-msgstr "De izquierda a derecha"
-
-msgid "Enable by default"
+msgid "Visual Event"
 msgstr ""
 
 #, fuzzy
-msgid "Enable fireflies by default."
-msgstr "Ventanas que deberían ser filtradas por defecto."
+msgid "Display information when various input events are raised"
+msgstr "Muestra información cuando se generan varios eventos de entrada"
 
-msgid "Textures"
-msgstr "Texturas"
+#, fuzzy
+msgid "Behaviour"
+msgstr "Comportamiento"
 
-msgid "Debug"
-msgstr "Depurar"
+msgid "Key/Button Release Timeout"
+msgstr "Tiempo de espera de liberación de la tecla/Botón"
+
+#, fuzzy
+msgid "Duration (in s) a key or button should remain visually pressed after being released."
+msgstr "Duración (en s) una tecla o botón debe permanecer visualmente presionado después de ser lanzado."
+
+msgid "Key bindings"
+msgstr "Combinaciones de teclas"
+
+msgid "Toggle display"
+msgstr "Teclas en la pantalla"
+
+msgid "Toggle display."
+msgstr "Teclas en la pantalla."
+
+msgid "Mouse border Color"
+msgstr "Color del borde en mouse"
+
+#, fuzzy
+msgid "Color of the border of the mouse"
+msgstr "Color del borde en el mouse"
+
+#, fuzzy
+msgid "Mouse body Color"
+msgstr "Color del cuerpo en mouse"
+
+
+#, fuzzy
+msgid "Color of the body of the mouse"
+msgstr "Color del cuerpo en el mouse"
+
+#, fuzzy
+msgid "Left button Color"
+msgstr "Color del botón izquierdo"
+
+#, fuzzy
+msgid "Color of the left button"
+msgstr "Color en el botón izquierdo"
+
+#, fuzzy
+msgid "Middle button Color"
+msgstr "Botón del Color central"
+
+#, fuzzy
+msgid "Right button Color"
+msgstr "Botón derecho Color"
+
+#, fuzzy
+msgid "Color of the right button"
+msgstr "Color en el botón derecho"
+
+msgid "Keyboard left margin"
+msgstr "Teclado margen izquierdo"
+
+msgid "Left margin of the visual keyboard"
+msgstr "Margen izquierdo del teclado visual"
+
+msgid "Keyboard bottom margin"
+msgstr "Margen inferior del teclado"
+
+msgid "Bottom margin of the visual keyboard"
+msgstr "Margen inferior del teclado visual"
+
+msgid "Mouse right margin"
+msgstr "Margen derecho del mouse"
+
+#, fuzzy
+msgid "Right margin of the visual mouse"
+msgstr "Margen derecho del mouse visual"
+
+msgid "Mouse bottom margin"
+msgstr "Margen inferior del ratón"
+
+msgid "Bottom margin of the visual mouse"
+msgstr "Margen inferior del mouse visual"
 
 msgid "Enable Blending"
 msgstr "Habilitar mezcla"
