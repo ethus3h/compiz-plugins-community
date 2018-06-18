@@ -925,7 +925,6 @@ msgstr "Multiplicador de Calibración Y"
 msgid "X Adjust"
 msgstr "X Ajustar"
 
-
 msgid "Y Adjust"
 msgstr "Ajuste Y"
 
@@ -937,7 +936,6 @@ msgstr "Gesticular"
 
 msgid "The number of the wii remote on the list (starts at 0)"
 msgstr "El número del control remoto wii en la lista (comienza en 0)"
-
 
 msgid "Gesture Type"
 msgstr "Tipo de gesto"
@@ -1001,7 +999,6 @@ msgstr "Tipo de datos"
 
 msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
 msgstr "Qué tipo de datos espera el complemento (use el otro si el actual no funciona)"
-
 
 msgid "Sensitivity"
 msgstr "Sensibilidad"
