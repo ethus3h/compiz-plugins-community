@@ -22,22 +22,19 @@ msgid "Boing"
 msgstr ""
 
 msgid "Number Of balls"
-msgstr "Número de bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Number of balls"
-msgstr "Número de bolas"
+msgstr ""
 
-#, fuzzy
 msgid "Size Of balls"
-msgstr "Tamaño de las bolas"
+sgstr ""
 
-#, fuzzy
 msgid "Size of balls"
-msgstr "Tamaño de las bolas"
+msgstr ""
 
 msgid "Update Delay"
-msgstr "Actualizar retraso"
+msgstr ""
 
 #, fuzzy
 msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
