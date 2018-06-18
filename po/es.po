@@ -1077,6 +1077,3 @@ msgstr "Izquierda"
 
 msgid "Right"
 msgstr "Derecha"
-
-
-
