@@ -120,573 +120,515 @@ msgstr ""
 msgid "Click List"
 msgstr ""
 
-msgid "Click List"
-msgstr "Lista de Clic"
-
-#, fuzzy
 msgid "Button Number"
-msgstr "Número de Botón"
-
-msgid "Button Number"
-msgstr "Número de Botón"
+msgstr ""
 
 msgid "Modifiers"
-msgstr "Modificaciones"
+msgstr ""
 
 #, fuzzy
 msgid "What Modifiers must be used in order to trigger the action"
-msgstr "Qué modificadores deben usarse para desencadenar la acción"
+msgstr ""
 
 #, fuzzy
 msgid "Plugin Name"
-msgstr "Nombre del complemento"
+msgstr ""
 
 msgid "Initiation Plugin Name"
-msgstr "Nombre del complemento de iniciación"
+msgstr ""
 
 msgid "Action Name"
-msgstr "Nombre de acción"
+msgstr ""
 
 #, fuzzy
 msgid "Initiation Action Name"
-msgstr "Nombre de acción que Desea Iniciar"
+msgstr ""
 
 msgid "Call Type"
-msgstr "Tipo de llamada"
+msgstr ""
 
 msgid "How to handle the action calling"
-msgstr "Cómo manejar la llamada de la acción"
+msgstr ""
 
 msgid "Dodge"
-msgstr "Esquivar"
+msgstr ""
 
 msgid "Makes windows stay out of your way"
-msgstr "Hace que las ventanas se mantengan fuera de tu camino"
+msgstr ""
 
 msgid "Toggle Dodging"
-msgstr "Habilitar o deshabilitar Esquivar"
+msgstr ""
 
 #, fuzzy
 msgid "Toggle Dodging"
-msgstr "Habilitar o deshabilitar Esquivar"
+msgstr ""
 
 msgid "Window Types"
-msgstr "Tipos de ventana"
+msgstr ""
 
 msgid "Windows which should dodge"
-msgstr "Ventanas que debería esquivar"
+msgstr ""
 
 msgid "Select Window"
-msgstr "Seleccionar ventana"
+msgstr ""
 
 #, fuzzy
 msgid "Mark the active window so it will dodge"
-msgstr "Marque la ventana activa para que la esquive"
+msgstr ""
 
 msgid "Dodge Model"
-msgstr "modos de Esquivar"
+msgstr ""
 
 msgid "What model Dodge should use when dodging"
-msgstr "Qué modos debería usar cuando se utiliza esquivar"
+msgstr ""
 
 #, fuzzy
 msgid "Dodge the active window"
-msgstr "Esquivar la ventana cuando este activa"
+msgstr ""
 
 msgid "Controls whether the active window will be dodged"
-msgstr "Control de esquivar si la ventana esta activa"
+msgstr ""
 
 msgid "Spring K"
 msgstr ""
 
 #, fuzzy
 msgid "Spring Stiffness"
-msgstr "fuerza del resorte"
-
-msgid "Friction"
-msgstr "Fricción"
+msgstr ""
 
 #, fuzzy
 msgid "Friction"
-msgstr "Fricción"
+msgstr ""
 
 msgid "Padding"
-msgstr "Relleno"
+msgstr ""
 
 #, fuzzy
 msgid "Padding around windows"
-msgstr "Relleno alrededor de las ventanas"
+msgstr ""
 
 msgid "Lightning Bolts"
-msgstr "Relámpagos"
+msgstr ""
 
 #, fuzzy
 msgid "Lightning bolts between your cursor and the nearest window"
-msgstr "Rayos entre el cursor y la ventana más cercana"
+msgstr ""
 
 msgid "Initiate"
-msgstr "Iniciar"
+msgstr ""
 
 #, fuzzy
 msgid "Start flash"
-msgstr "Iniciar flash"
+msgstr ""
 
 msgid "Initiate"
-msgstr "Iniciar"
+msgstr ""
 
 #, fuzzy
 msgid "Start flash"
-msgstr "Iniciar flash"
+msgstr ""
 
 msgid "Distance max"
-msgstr "Distancia máxima"
+msgstr ""
 
 #, fuzzy
 msgid "Distance max between pointer and active window."
-msgstr "Distancia máxima entre el puntero y la ventana activa."
+msgstr ""
 
 msgid "Digression max"
-msgstr "Digresión máximo"
+msgstr ""
 
 #, fuzzy
 msgid "Digression max between pointer's projection and lightning's impact."
-msgstr "Digresión máxima entre la proyección del puntero y el impacto del rayo."
+msgstr ""
 
 msgid "Minimum interval between two lightning"
-msgstr "Intervalo mínimo entre dos rayos"
+msgstr ""
 
 #, fuzzy
 msgid "Interval in milliseconde between two lightning"
-msgstr "Intervalo en milisegundos entre dos rayos"
+msgstr ""
 
 msgid "Time of lightnings"
-msgstr "Tiempo de relámpagos"
+msgstr ""
 
 #, fuzzy
 msgid "Time in milliseconds of lightnings"
-msgstr "Tiempo en milisegundos de relámpagos"
+msgstr ""
 
 msgid "Side of lightnings color"
-msgstr "Lado del color de los relámpagos"
-
-msgid "Middle of lightnings color"
-msgstr "Medio del color de los relámpagos"
+msgstr ""
 
 #, fuzzy
 msgid "Middle of lightnings color"
-msgstr "Medio del color de los relámpagos"
+msgstr ""
 
 msgid "The other side of lightnings color"
-msgstr "El otro lado del color de los relámpagos"
-
-#, fuzzy
-msgid "The other side of lightnings color"
-msgstr "El otro lado del color de los relámpagos"
+msgstr ""
 
 msgid "Window Types"
-msgstr "Tipos de ventana"
+msgstr ""
 
 #, fuzzy
 msgid "The window types that lightning bolts will hit"
-msgstr "tipos de ventana que los rayos alcanzarán"
+msgstr ""
 
 msgid "HeadTracking"
-msgstr "Seguimiento de cabeza"
+msgstr ""
 
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
-msgstr "Crea un escritorio 3D verdadero con un Wiimote algunos tonos habilitados con IR o una cámara web."
+msgstr ""
 
 msgid "HeadTracking"
-msgstr "Seguimiento de cabeza"
+msgstr ""
 
 msgid "Keybindings"
-msgstr "Atajos de teclado"
+msgstr ""
 
 msgid "Move Window Closer"
-msgstr "Mover la ventana más cerca"
+msgstr ""
 
 #, fuzzy
 msgid "anually move a window closer. Z-depth is ignored"
-msgstr "mover manualmente una ventana más cerca. Z-depth es ignorado"
+msgstr ""
 
 msgid "Move Window Away"
-msgstr "Mover ventana Lejos"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move a window further out. Z-depth is ignored"
-msgstr "Mueva manualmente una ventana más hacia afuera. Z-depth es ignorado"
+msgstr ""
 
 msgid "Reset Window Depth"
-msgstr "Restablecer la profundidad de la ventana"
+msgstr ""
 
 #, fuzzy
 msgid "Reset the window's depth so it uses Z level"
-msgstr "Restablece la profundidad de las ventanas para que use el nivel Z."
+msgstr ""
 
 msgid "Enable debugging keys"
-msgstr "Tecla de habilitación de depuración"
+msgstr ""
 
 #, fuzzy
 msgid "Enable the debugging key combinations"
-msgstr "Tecla de habilitación o deshabilitación de depuración"
+msgstr ""
 
 msgid "Camera up"
-msgstr "Cámara arriba"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera up"
-msgstr "Mover Manualmente la cámara hacia arriba"
+msgstr ""
 
 msgid "Camera down"
-msgstr "Cámara hacia abajo"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera down"
-msgstr "Mueva manualmente la cámara hacia abajo"
+msgstr ""
 
 msgid "Camera left"
-msgstr "Cámara izquierda"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera left"
-msgstr "Mueva manualmente la cámara hacia la izquierda"
+msgstr ""
 
 msgid "Camera right"
-msgstr "Cámara derecha"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera right"
-msgstr "Mueva la cámara hacia la derecha manualmente"
+msgstr ""
 
 msgid "Camera in"
-msgstr "Cámara en"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera closer to screen"
-msgstr "Mueva manualmente la cámara más cerca de la pantalla"
+msgstr ""
 
 msgid "Camera out"
-msgstr "Cámara fuera"
+msgstr ""
 
 #, fuzzy
 msgid "Manually move camera away from screen"
-msgstr "Mueva la cámara manualmente a la pantalla"
+msgstr ""
 
 msgid "Camera reset"
-msgstr "Restablecer la cámara"
+msgstr ""
 
 #, fuzzy
 msgid "Reset camera to default head position"
-msgstr "Restablecer la cámara a la posición predeterminada de la cabeza"
+msgstr ""
 
 msgid "Toggle mouse tracking"
-msgstr "Habilitar o deshabilitar seguimiento del mouse"
+msgstr ""
 
 #, fuzzy
 msgid "Toggle mouse tracking on and off"
-msgstr "Activar y desactivar el seguimiento del mouse"
+msgstr ""
 
 msgid "Window depth"
-msgstr "Profundidad de la ventana"
+msgstr ""
 
-#, fuzzy
 msgid "How far apart windows are when stacked based on Z level"
-msgstr "Qué tan separadas están las ventanas cuando se apilan según el nivel Z"
+msgstr ""
 
 msgid "Stack Padding"
-msgstr "Apilar Relleno"
+msgstr ""
 
-#, fuzzy
 msgid "Make your windows pop out this far from the screen. 100 is cube size"
-msgstr "Haga que sus ventanas salgan tan lejos de la pantalla. 100 es el tamaño del cubo"
+msgstr ""
 
 msgid "Enable WII Tracking"
-msgstr "Habilitar el seguimiento de WII"
+msgstr ""
 
-#, fuzzy
 msgid "Enable tracking using JCL's algorithm. You must have wiimote enabled to use this."
-msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener wiimote habilitado para usar esto."
+msgstr ""
 
 msgid "Enable Webcam Tracking"
-msgstr "Habilitar el seguimiento de la cámara web"
+msgstr ""
 
-#, fuzzy
 msgid "Enable tracking using JCL's algorithm. You must have webcam enabled to use this."
-msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener la cámara web habilitada para usar esto."
+msgstr ""
 
 msgid "Fade Time"
-msgstr "tiempo de duración"
+msgstr ""
 
-#, fuzzy
 msgid "Length of animation for 3d window stacking z-order changes"
-msgstr "Duración de la animación para el cambio de orden z de apilamiento de ventana en 3D"
+msgstr ""
 
 msgid "WiiMote or Cam Above Screen"
-msgstr "WiiMote o Cam en pantalla"
+msgstr ""
 
-#, fuzzy
 msgid "Enable this if your Wiimote or your Webcam is above your screen."
-msgstr "Habilíte si su Wiimote o su Webcam en su pantalla."
+msgstr ""
 
 msgid "Height adjustment"
-msgstr "Ajuste de altura"
+msgstr ""
 
-#, fuzzy
 msgid "Use this to adjust the head height"
-msgstr "Use esto para ajustar la altura de la cabeza"
+msgstr ""
 
 msgid "Sensor Bar Width"
-msgstr "Ancho en franja de sensor"
+msgstr ""
 
-#, fuzzy
 msgid "Use this to adjust your distance from the screen"
-msgstr "Use esto para ajustar su distancia desde la pantalla"
+msgstr ""
 
 msgid "Wiimote or Cam Vertical Angle"
-msgstr "Ángulo vertical de Wiimote o Cam"
+msgstr ""
 
-#, fuzzy
 msgid "Angle of wiimote or webcam in radians * 100"
-msgstr "Ángulo de wiimote o cámara web en radianes * 100"
+msgstr ""
 
 msgid "Avoid jumpings and trembling"
-msgstr "Evite los saltos y temblores"
+msgstr ""
 
-#, fuzzy
 msgid "Use this if the windows are unstable when you don't move your head"
-msgstr "Use esto si las ventanas son inestables cuando no mueve la cabeza"
+msgstr ""
 
 msgid "Smoothen the movements"
-msgstr "Suavice los movimientos"
+msgstr ""
 
-#, fuzzy
 msgid "Use this if the windows are jumping brutally"
-msgstr "Usa esto si las ventanas saltan brutalmente"
+msgstr ""
 
 msgid "Camera move increment"
-msgstr "Incremento de movimiento de la cámara"
+msgstr ""
 
-#, fuzzy
 msgid "How far to move the camera on one key press"
-msgstr "Qué tan lejos mover la cámara con solo presionar una tecla"
+msgstr ""
 
 msgid "Mouse Screen Percentage"
-msgstr "Porcentaje de pantalla del mouse"
+msgstr ""
 
 msgid "Wave amplitude"
-msgstr "Amplitud de onda"
+msgstr ""
 
-msgid "How much of the screen represents the actual screen. 100 is "exact""
-msgstr "¿Cuánto representa la pantalla actual? 100 es "exacto""
-	 
-# no se si poner eso o dejarlo asi no se con exactitud que hace el plugin
 msgid "Lazy Pointer"
-msgstr "Puntero perezoso"
+msgstr ""
 
-#, fuzzy
 msgid "Warp the pointer around the screen on window events"
-msgstr "Deformar el puntero alrededor de la pantalla en eventos de ventana"
+msgstr ""
 
 msgid "Center Mouse on Focussed Window"
-msgstr "Centrar el ratón en la ventana enfocada"
+msgstr ""
 
-#, fuzzy
 msgid "Center the mouse in the middle of a window when it is focussed"
-msgstr "Centre el mouse en el medio de una ventana cuando está enfocado"
+msgstr ""
 
 msgid "Center Mouse on Activated Window"
-msgstr "Centrar el ratón en la ventana activada"
+msgstr ""
 
-#, fuzzy
 msgid "Center the mouse in the middle of a window when it is activated"
-msgstr "Centre el mouse en el medio de una ventana cuando esté activado"
+msgstr ""
 
 msgid "Center Mouse on Placed Window"
-msgstr "Centrar el mouse en la ventana colocada"
+msgstr ""
 
-#, fuzzy
 msgid "Center the mouse in the middle of a window when it is placed"
-msgstr "Centre el mouse en el medio de una ventana cuando se coloca"
+msgstr ""
 
 msgid "Cursor Movement speed"
-msgstr "Velocidad de movimiento del cursor"
+msgstr ""
 
-#, fuzzy
 msgid "How fast the cursor should move when animated"
-msgstr "Qué tan rápido debe moverse el cursor cuando está animado"
+msgstr ""
 
 msgid "Center the mouse in a window"
-msgstr "Centre el mouse en una ventana"
+msgstr ""
 
 #, fuzzy
 msgid "Center the mouse in the activated screen"
-msgstr "Centre el mouse en la pantalla activada"
+msgstr ""
 
 msgid "Move pointer left"
-msgstr "Mover el puntero a la izquierda"
+msgstr ""
 
-#, fuzzy
 msgid "Move the pointer left by specified amount"
-msgstr "Mueva el puntero hacia la izquierda por la cantidad especificada"
+msgstr ""
 
 msgid "Move pointer right"
-msgstr "Mover el puntero a la derecha"
+msgstr ""
 
-#, fuzzy
 msgid "Move the pointer right by specified amount"
-msgstr "Mueva el puntero a la derecha por cantidad especificada"
+msgstr ""
 
 msgid "Move pointer up"
-msgstr "Mover el puntero hacia arriba"
+msgstr ""
 
-#, fuzzy
 msgid "Move the pointer up by specified amount"
-msgstr "Mueva el puntero hacia arriba por la cantidad especificada"
+msgstr ""
 
 msgid "Move pointer down"
-msgstr "Mover el puntero hacia abajo"
+msgstr ""
 
 msgid "Move the pointer down by specified amount"
-msgstr "Mueva el puntero hacia abajo por la cantidad especificada"
+msgstr ""
 
 msgid "Maze"
-msgstr "Laberinto"
+msgstr ""
 
-#, fuzzy
 msgid "Render a maze inside of the transparent cube"
-msgstr "Hacer un laberinto dentro del cubo transparente"
+msgstr ""
 
 msgid "Max Speed"
-msgstr "Máxima velocidad"
+msgstr ""
 
-#, fuzzy
 msgid "Maximum velocity the ball is allowed to travel at."
-msgstr "Velocidad máxima a la que la pelota puede viajar."
+msgstr ""
 
 msgid "Scale"
-msgstr "Escala"
+msgstr ""
 
-#, fuzzy
 msgid "Scale the maze size up or down."
-msgstr "Escala el tamaño del laberinto hacia arriba o hacia abajo."
+msgstr ""
 
 msgid "Height"
-msgstr "Altura"
+msgstr ""
 
-#, fuzzy
 msgid "Where to place the maze within the cube"
-msgstr "Dónde colocar el laberinto dentro del cubo"
+msgstr ""
 
 msgid "Top Colour"
-msgstr "Color superior"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on top"
-msgstr "Color para mostrar en la parte superior"
+msgstr ""
 
 msgid "Bottom Colour"
-msgstr "Color inferior"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on the bottom"
-msgstr "Color para mostrar en la parte inferior"
+msgstr ""
 
 msgid "North Face Colour"
-msgstr "Color de la cara norte"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on the north face"
-msgstr "Color para mostrar en la cara norte"
+msgstr ""
 
 msgid "East Face Colour"
-msgstr "Color de la cara este"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on the east face wall"
-msgstr "Color para mostrar en la pared de la cara este."
+msgstr ""
 
 msgid "South Face Colour"
-msgstr "Color de la cara sur"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on the south face wall"
-msgstr "Color para mostrar en la pared de la cara sur"
+msgstr ""
 
 msgid "West Face Colour"
-msgstr "Color de la cara oeste"
+msgstr ""
 
-#, fuzzy
 msgid "Colour to display on the west face wall"
-msgstr "Color de la cara oeste para mostrar en la pared de la cara oeste"
+msgstr ""
 
 msgid "First Ball Colour"
-msgstr "Primer color de bola"
+msgstr ""
 
-#, fuzzy
 msgid "First colour to draw the ball in"
-msgstr "Primer color para dibujar la pelota"
+msgstr ""
 
 msgid "Second Ball Colour"
-msgstr "Segundo color de bola"
+msgstr ""
 
-#, fuzzy
 msgid "Second colour to draw the ball in"
-msgstr "Segundo color para dibujar la pelota"
+msgstr ""
 
 msgid "Border Colour"
-msgstr "Color del borde"
+msgstr ""
 
 msgid "Colour to draw the surrounding border in"
-msgstr "Color para dibujar el borde"
+msgstr ""
 
 msgid "Mousegestures"
-msgstr "Gestos del mouse"
+msgstr ""
 
-#, fuzzy
 msgid "Assign mousegestures to any existing action"
-msgstr "Asignar gestos del mouse a cualquier acción existente"
+msgstr ""
 
 msgid "Initiate"
-msgstr "Iniciar"
+msgstr ""
 
-#, fuzzy
 msgid "Start gesture"
-msgstr "Comience gesto"
+msgstr ""
 
 msgid "Gestures"
-msgstr "Gestos"
+msgstr ""
 
 msgid "Detect Diagonal Movements"
-msgstr "Detecta movimientos diagonales"
+msgstr ""
 
 msgid ""
 "If this option is selected, diagonal movements are detected, which may lead to a decreased detection accuracy."
 msgstr ""
-"Si se selecciona esta opción, se detectan movimientos diagonales,lo que puede conducir a una menor precisión de detección."
+""
 
 msgid "Gesture assignment"
-msgstr "Asignación de gestos"
+msgstr ""
 
 msgid "Gesture"
-msgstr "Gestos"
+msgstr ""
 
-#, fuzzy
 msgid "Mouse gesture to assign an action to."
-msgstr "Gesto del mouse para asignar una acción a."
+msgstr ""
 
 msgid "Plugin"
 msgstr ""
 
-#, fuzzy
 msgid "Plugin the action belongs to."
-msgstr "Complemento a la acción a."
+msgstr ""
 
 msgid "Action"
-msgstr "Acción"
+msgstr ""
 
-#, fuzzy
 msgid "Action that is to be invoked."
-msgstr "Acción que debe invocarse."
+msgstr ""
 
 msgid "Newton"
 msgstr ""
@@ -695,81 +637,70 @@ msgstr ""
 msgid ""
 "Creates iconified windows that can be selected to select the main window and are affected by physics."
 msgstr "" 
-"Crea ventanas iconificadas que se pueden seleccionar para seleccionar la ventana principal y se ven afectadas por la física."
+""
 
 msgid "Bindings"
-msgstr "teclas"
+msgstr ""
 
 msgid "Trigger Physics on the window"
-msgstr "Dispara la Física en la ventana"
+msgstr ""
 
-#, fuzzy
 msgid "Toggle physics on the selected window."
-msgstr "Alternar la física en la ventana seleccionada."
+msgstr ""
 
 msgid "Trigger rotation on the window"
-msgstr "Dispara la rotación en la ventana"
+msgstr ""
 
-#, fuzzy
 msgid "Toggle rotation on the selected window."
-msgstr "Alternar la rotación en la ventana seleccionada."
+msgstr ""
 
-#, fuzzy
 msgid "Invert mouse attraction/repulsion"
-msgstr "Invierta la atracción/repulsión del mouse"
+msgstr ""
 
-#, fuzzy
 msgid "Inverts mouse attraction or repulsion."
-msgstr "Invierte la atracción o repulsión del ratón."
+msgstr ""
 
 msgid "Detach the window"
-msgstr "Separar la ventana"
+msgstr ""
 
-#, fuzzy
 msgid "Detaches the window from the desktop."
-msgstr "Separa la ventana del escritorio."
+msgstr ""
 
 msgid "Attach the window"
-msgstr "Adjuntar la ventana"
+msgstr ""
 
-#, fuzzy
 msgid "Attaches the window to the desktop."
-msgstr "Adjunta la ventana al escritorio."
+msgstr ""
 
 msgid "Bounce elasticity"
-msgstr "Elasticidad de rebote"
+msgstr ""
 
-#, fuzzy
 msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
-msgstr "Elasticidad de las ventanas (0 significa no rebote, 1 es elasticidad perfecta)."
+msgstr ""
 
 msgid "Fluid friction"
-msgstr "Fricción de fluido"
+msgstr ""
 
-#, fuzzy
 msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
-msgstr "La fluidez del escritorio (0 significa sólido y 1 totalmente líquido)."
+msgstr ""
 
 msgid "Gravity"
-msgstr "Gravedad"
+msgstr ""
 
-#, fuzzy
 msgid "Constant force."
-msgstr "Fuerza constante."
+msgstr ""
 
 msgid "Mouse attraction"
-msgstr "Atracción al mouse"
+msgstr ""
 
-#, fuzzy
 msgid "Attracts/repels the windows to the mouse."
-msgstr "Atrae/repele las ventanas al mouse."
+msgstr ""
 
 msgid "Attract by default"
-msgstr "Atraer por defecto"
+msgstr ""
 
-#, fuzzy
 msgid "Attracts the windows to the mouse when the invert action key is not pressed."
-msgstr "Atrae las ventanas hacia el mouse cuando la tecla de acción de inversión no está presionada."
+msgstr ""
 
 msgid "Mouse attraction strength"
 msgstr ""
