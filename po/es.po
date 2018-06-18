@@ -25,18 +25,15 @@ msgstr ""
 msgid "Boing for Compiz"
 msgstr "Boing para Compiz"
 
+msgid "Settings"
+msgstr "Configuraciones"
+
 msgid "Number Of balls"
 msgstr "Número de bolas"
 
-#, fuzzy
-msgid "Number of balls"
-msgstr "Número de bolas"
-
-#, fuzzy
 msgid "Size Of balls"
 msgstr "Tamaño de las bolas"
 
-#, fuzzy
 msgid "Size of balls"
 msgstr "Tamaño de las bolas"
 
@@ -61,14 +58,13 @@ msgstr "Rotar bolas al seleccionar."
 msgid "Wind Direction"
 msgstr "Dirección de las bolas"
 
+msgid "Textures"
+msgstr "Texturas"
+
 msgid "Select the wind direction"
 msgstr "Seleccione la dirección del movimiento de las bolas"
 
 msgid "Ball Textures"
-msgstr "Textura de las bolas"
-
-#, fuzzy
-msgid "Ball textures"
 msgstr "Textura de las bolas"
 
 msgid "Enable by default"
@@ -77,18 +73,23 @@ msgstr "Habilitar por defecto"
 msgid "Enable boing by default."
 msgstr "Habilite el boing de forma predeterminada."
 
+msgid "Debug"
+msgstr "Depurar"
+
 msgid "Enable Blending"
 msgstr "Habilitar mezcla"
 
 msgid "Enables alpha blending of balls."
 msgstr "Habilitar mezcla alfa para las bolas."
 
-#, fuzzy
 msgid "Enable Textures"
 msgstr "Habilitar texturas"
 
 msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr "Habilitar las bolas texturadas, sino se usarán los gradientes de color."
+
+msgid "Key Bindings"
+msgstr "Combinaciones de teclas"
 
 msgid "Toggle Boing"
 msgstr "Habilitar o deshabilitar Boing"
