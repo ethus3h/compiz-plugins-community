@@ -99,9 +99,6 @@ msgstr "Tecla de habilitación o deshabilitación de Boing"
 msgid "Desktop Click"
 msgstr "Clic de Escritorio"
 
-msgid "Perform actions on desktop clicks"
-msgstr "Realiza acciones con Clic en el escritorio"
-
 msgid "Click List"
 msgstr "Lista de Clic"
 
