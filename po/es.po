@@ -55,10 +55,6 @@ msgstr ""
 msgid "Screen Depth"
 msgstr "Profundidad de la pantalla"
 
-#, fuzzy
-msgid "How deep into the screen leaves can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados las bolas hasta desaparecer"
-
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
 
@@ -170,10 +166,6 @@ msgstr "Hace que las ventanas se mantengan fuera de tu camino"
 msgid "Toggle Dodging"
 msgstr "Habilitar o deshabilitar Esquivar"
 
-#, fuzzy
-msgid "Toggle Dodging"
-msgstr "Habilitar o deshabilitar Esquivar"
-
 msgid "Window Types"
 msgstr "Tipos de ventana"
 
@@ -210,10 +202,6 @@ msgstr "fuerza del resorte"
 msgid "Friction"
 msgstr "Fricción"
 
-#, fuzzy
-msgid "Friction"
-msgstr "Fricción"
-
 msgid "Padding"
 msgstr "Relleno"
 
@@ -237,10 +225,6 @@ msgstr "Iniciar flash"
 
 msgid "Initiate"
 msgstr "Iniciar"
-
-#, fuzzy
-msgid "Start flash"
-msgstr "Iniciar flash"
 
 msgid "Distance max"
 msgstr "Distancia máxima"
@@ -283,10 +267,6 @@ msgstr "Medio del color de los relámpagos"
 msgid "The other side of lightnings color"
 msgstr "El otro lado del color de los relámpagos"
 
-#, fuzzy
-msgid "The other side of lightnings color"
-msgstr "El otro lado del color de los relámpagos"
-
 msgid "Window Types"
 msgstr "Tipos de ventana"
 
@@ -299,9 +279,6 @@ msgstr "Seguimiento de cabeza"
 
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
 msgstr "Crea un escritorio 3D verdadero con un Wiimote algunos tonos habilitados con IR o una cámara web."
-
-msgid "HeadTracking"
-msgstr "Seguimiento de cabeza"
 
 msgid "Keybindings"
 msgstr "Atajos de teclado"
@@ -647,9 +624,6 @@ msgstr "Gestos del mouse"
 msgid "Assign mousegestures to any existing action"
 msgstr "Asignar gestos del mouse a cualquier acción existente"
 
-msgid "Initiate"
-msgstr "Iniciar"
-
 #, fuzzy
 msgid "Start gesture"
 msgstr "Comience gesto"
@@ -865,14 +839,6 @@ msgstr "Cucarachas para Compiz"
 msgid "Number Of roaches"
 msgstr "Número de cucarachas"
 
-#, fuzzy
-msgid "Number of roaches"
-msgstr "Número de cucarachas"
-
-msgid "Size Of roaches"
-msgstr "Tamaño de las cucarachas"
-
-#, fuzzy
 msgid "Size Of roaches"
 msgstr "Tamaño de las cucarachas"
 
@@ -883,9 +849,6 @@ msgid ""
 "Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
 msgstr ""
 "Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que las cucarachas se muevan más suavemente, pero también aumentará el uso de la CPU."
-
-msgid "Screen Boxing"
-msgstr ""
 
 #, fuzzy
 msgid ""
@@ -939,10 +902,6 @@ msgstr "Comience/termine el efecto del cubo de Rubik."
 
 msgid "Toggle Rubik's cube"
 msgstr "Habilitar o deshabilitar cubo de Rubik"
-
-#, fuzzy
-msgid "Start/stop Rubik's cube effect."
-msgstr "Comience/termine el efecto del cubo de Rubik."
 
 msgid "Speed factor"
 msgstr "Factor de velocidad"
@@ -1147,18 +1106,8 @@ msgstr "Cuánto deben diferir las lecturas entre los controles de gestos"
 msgid "Individual Setup"
 msgstr "Configuración individual"
 
-msgid "X Calibration Multiplier"
-msgstr "X multiplicador de calibración"
-
-#, fuzzy
-msgid "Change this depending on your screen size"
-msgstr "Cambie esto dependiendo de su tamaño de pantalla"
-
 msgid "Y Calibration Multiplier"
 msgstr "Multiplicador de Calibración Y"
-
-msgid "Change this depending on your screen size"
-msgstr "Cambie esto dependiendo de su tamaño de pantalla"
 
 msgid "X Adjust"
 msgstr "X Ajustar"
@@ -1176,9 +1125,6 @@ msgstr "Se usa para ajustarse a la posición de su pantalla"
 
 msgid "Gesturing"
 msgstr "Gesticular"
-
-msgid "Wii Remote Number"
-msgstr "Número de control remoto Wii"
 
 #, fuzzy
 msgid "The number of the wii remote on the list (starts at 0)"
@@ -1204,9 +1150,6 @@ msgstr "Nombre de acción"
 #, fuzzy
 msgid "Initiation Action Name"
 msgstr "Nombre de acción de iniciación"
-
-msgid "Sensitivity"
-msgstr "Sensibilidad"
 
 msgid "How sensitive gestures should be"
 msgstr "Cómo deberían ser los gestos sensibles"
@@ -1283,10 +1226,6 @@ msgstr "Qué tan sensibles deben ser los movimientos del mando de Wii"
 
 msgid "Notification"
 msgstr "Notificación"
-
-#, fuzzy
-msgid "Font size for the window title"
-msgstr "Tamaño de fuente para el título de la ventana"
 
 msgid "WiiTrack"
 msgstr ""
