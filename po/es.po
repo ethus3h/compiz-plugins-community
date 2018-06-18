@@ -832,18 +832,15 @@ msgstr "Muestre un escritorio para cada tapa."
 msgid "Visual Event"
 msgstr ""
 
-#, fuzzy
 msgid "Display information when various input events are raised"
 msgstr "Muestra información cuando se generan varios eventos de entrada"
 
-#, fuzzy
 msgid "Behaviour"
 msgstr "Comportamiento"
 
 msgid "Key/Button Release Timeout"
 msgstr "Tiempo de espera de liberación de la tecla/Botón"
 
-#, fuzzy
 msgid "Duration (in s) a key or button should remain visually pressed after being released."
 msgstr "Duración (en s) una tecla o botón debe permanecer visualmente presionado después de ser lanzado."
 
@@ -859,36 +856,27 @@ msgstr "Teclas en la pantalla."
 msgid "Mouse border Color"
 msgstr "Color del borde en mouse"
 
-#, fuzzy
 msgid "Color of the border of the mouse"
 msgstr "Color del borde en el mouse"
 
-#, fuzzy
 msgid "Mouse body Color"
 msgstr "Color del cuerpo en mouse"
 
-
-#, fuzzy
 msgid "Color of the body of the mouse"
 msgstr "Color del cuerpo en el mouse"
 
-#, fuzzy
 msgid "Left button Color"
 msgstr "Color del botón izquierdo"
 
-#, fuzzy
 msgid "Color of the left button"
 msgstr "Color en el botón izquierdo"
 
-#, fuzzy
 msgid "Middle button Color"
 msgstr "Botón del Color central"
 
-#, fuzzy
 msgid "Right button Color"
 msgstr "Botón derecho Color"
 
-#, fuzzy
 msgid "Color of the right button"
 msgstr "Color en el botón derecho"
 
@@ -907,7 +895,6 @@ msgstr "Margen inferior del teclado visual"
 msgid "Mouse right margin"
 msgstr "Margen derecho del mouse"
 
-#, fuzzy
 msgid "Right margin of the visual mouse"
 msgstr "Margen derecho del mouse visual"
 
@@ -1011,7 +998,6 @@ msgstr "Lista de reporteros"
 msgid "Wii Remote Number"
 msgstr "Número de control remoto Wii"
 
-#, fuzzy
 msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr "Número de control remoto Wii (en orden de la lista de configuraciones wiimote. Comienza en 0)"
 
