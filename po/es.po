@@ -77,9 +77,6 @@ msgid "Wind Direction"
 msgstr "Dirección de las bolas"
 
 msgid "Select the wind direction"
-msgstr "Seleccione la dirección del viento"
-
-msgid "Select the wind direction"
 msgstr "Seleccione la dirección del movimiento de las bolas"
 
 msgid "Textures"
