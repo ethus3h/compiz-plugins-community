@@ -54,7 +54,7 @@
       </option>
       <option name="gravity" type="float">
        <_short>Gravity</_short>
-       <_long> Constant force. </_long>
+       <_long>Constant force.</_long>
        <default>9.8</default>
        <min>-20</min>
        <max>20</max>
