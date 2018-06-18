@@ -712,6 +712,7 @@ msgstr "Tamaño de las cucarachas"
 msgid "Update Delay"
 msgstr "Actualizar retraso"
 
+msgid ""
 "Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
 msgstr ""
 "Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que se muevan más suavemente, pero también aumentará el uso de la CPU."
@@ -925,6 +926,7 @@ msgstr "Multiplicador de Calibración Y"
 msgid "X Adjust"
 msgstr "X Ajustar"
 
+
 msgid "Y Adjust"
 msgstr "Ajuste Y"
 
@@ -936,6 +938,7 @@ msgstr "Gesticular"
 
 msgid "The number of the wii remote on the list (starts at 0)"
 msgstr "El número del control remoto wii en la lista (comienza en 0)"
+
 
 msgid "Gesture Type"
 msgstr "Tipo de gesto"
@@ -999,6 +1002,7 @@ msgstr "Tipo de datos"
 
 msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
 msgstr "Qué tipo de datos espera el complemento (use el otro si el actual no funciona)"
+
 
 msgid "Sensitivity"
 msgstr "Sensibilidad"
