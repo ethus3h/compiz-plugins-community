@@ -124,6 +124,9 @@ msgstr "Tecla de habilitación o deshabilitación de Boing"
 msgid "Desktop Click"
 msgstr "Clic de Escritorio"
 
+msgid "Perform actions on desktop clicks"
+msgstr "Realizar acciones en clics de escritorio"
+
 msgid "Click List"
 msgstr "Lista de Clic"
 
@@ -135,6 +138,9 @@ msgstr "Modificaciones"
 
 msgid "What Modifiers must be used in order to trigger the action"
 msgstr "Qué modificadores deben usarse para desencadenar la acción"
+
+msgid "Plugin Name"
+msgstr "Nombre del Plugin"
 
 msgid "Initiation Action Name"
 msgstr "Nombre de acción que Desea Iniciar"
