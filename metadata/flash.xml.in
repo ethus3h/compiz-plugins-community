@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compiz>
-   <plugin name="flash" useBcop="true">
+   <plugin name="flash">
 	<short>Lightning Bolts</short>
 	<long>Lightning bolts between your cursor and the nearest window</long>
         <category>Effects</category>
