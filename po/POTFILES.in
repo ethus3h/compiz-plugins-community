@@ -1,8 +1,18 @@
 # List of source files containing translatable strings.
 # Please keep this file sorted alphabetically.
 metadata/boing.xml.in
+metadata/dclick.xml.in
+metadata/dodge.xml.in
+metadata/flash.xml.in
 metadata/headtracking.xml.in
+metadata/lazypointer.xml.in
 metadata/maze.xml.in
+metadata/mousegestures.xml.in
 metadata/newton.xml.in
+metadata/peek.xml.in
+metadata/prompt.xml.in
 metadata/roach.xml.in 
 metadata/rubik.xml.in
+metadata/visualevent.xml.in
+metadata/wiimote.xml.in
+metadata/wiitrack.xml.in

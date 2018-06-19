@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <compiz>
 	<plugin name="maze" useBcop="true">
-		<short>Maze</short>
-		<long>Render a maze inside of the transparent cube</long>
+		<_short>Maze</_short>
+		<_long>Render a maze inside of the transparent cube</_long>
 		<category>Effects</category>
 		<deps>
 		    <relation type="after">
@@ -15,24 +15,24 @@
 		</deps>
 		<screen>
 			<option name="max_speed" type="float">
-				<short>Max Speed</short>
-				<long>Maximum velocity the ball is allowed to travel at.</long>
+				<_short>Max Speed</_short>
+				<_long>Maximum velocity the ball is allowed to travel at.</_long>
 				<default>32</default>
 				<min>16</min>
 				<max>64</max>
 				<precision>0.5</precision>
 			</option>
 			<option name="scale" type="float">
-				<short>Scale</short>
-				<long>Scale the maze size up or down.</long>
+				<_short>Scale</_short>
+				<_long>Scale the maze size up or down.</_long>
 				<default>0.028</default>
 				<min>0.02</min>
 				<max>0.03</max>
 				<precision>0.001</precision>
 			</option>
 			<option name="height" type="float">
-				<short>Height</short>
-				<long>Where to place the maze within the cube</long>
+				<_short>Height</_short>
+				<_long>Where to place the maze within the cube</_long>
 				<default>-15</default>
 				<min>-18</min>
 				<max>18</max>
