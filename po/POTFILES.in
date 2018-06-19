@@ -13,6 +13,7 @@ metadata/peek.xml.in
 metadata/prompt.xml.in
 metadata/roach.xml.in 
 metadata/rubik.xml.in
+metadata/showrepaint.xml.in
 metadata/visualevent.xml.in
 metadata/wiimote.xml.in
 metadata/wiitrack.xml.in
