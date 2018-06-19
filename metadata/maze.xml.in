@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <compiz>
 	<plugin name="maze" useBcop="true">
-		<short>Maze</short>
+		<short>maze</short>
 		<long>Render a maze inside of the transparent cube</long>
 		<category>Effects</category>
 		<deps>
