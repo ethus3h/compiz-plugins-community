@@ -763,9 +763,6 @@ msgstr "Habilitar o deshabilitar cucarachas"
 msgid "Roach toggle key"
 msgstr "Tecla de habilitación o deshabilitación cucarachas"
 
-msgid "Rubik's Cube"
-msgstr "Cubo rubik"
-
 msgid "Turn cube into a Rubik's cube"
 msgstr "Convierte el cubo en un cubo de Rubik"
 
