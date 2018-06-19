@@ -464,6 +464,30 @@ msgstr "Mover el puntero hacia abajo"
 msgid "Move the pointer down by specified amount"
 msgstr "Mueva el puntero hacia abajo por la cantidad especificada"
 
+msgid "maze"
+msgstr "Laberinto"
+
+msgid "Render a maze inside of the transparent cube"
+msgstr "Hacer un laberinto dentro del cubo transparente"
+
+msgid "Max Speed"
+msgstr "Máxima velocidad"
+
+msgid "Maximum velocity the ball is allowed to travel at."
+msgstr "Velocidad máxima a la que la pelota puede viajar."
+
+msgid "Scale"
+msgstr "Escala"
+
+msgid "Scale the maze size up or down."
+msgstr "Escala el tamaño del laberinto hacia arriba o hacia abajo."
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Where to place the maze within the cube"
+msgstr "Dónde colocar el laberinto dentro del cubo"
+
 msgid "Top Colour"
 msgstr "Color superior"
 
@@ -1053,27 +1077,3 @@ msgstr "Izquierda"
 
 msgid "Right"
 msgstr "Derecha"
-
-msgid "Maze"
-msgstr "Laberinto"
-
-msgid "Render a maze inside of the transparent cube"
-msgstr "Hacer un laberinto dentro del cubo transparente"
-
-msgid "Max Speed"
-msgstr "Máxima velocidad"
-
-msgid "Maximum velocity the ball is allowed to travel at."
-msgstr "Velocidad máxima a la que la pelota puede viajar."
-
-msgid "Scale"
-msgstr "Escala"
-
-msgid "Scale the maze size up or down."
-msgstr "Escala el tamaño del laberinto hacia arriba o hacia abajo."
-
-msgid "Height"
-msgstr "Altura"
-
-msgid "Where to place the maze within the cube"
-msgstr "Dónde colocar el laberinto dentro del cubo"
