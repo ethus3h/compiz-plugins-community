@@ -1077,3 +1077,33 @@ msgstr "Izquierda"
 
 msgid "Right"
 msgstr "Derecha"
+
+msgid "Debugging"
+msgstr "Depuración"
+
+msgid "Calibration"
+msgstr "Calibración"
+
+msgid "Webcam"
+msgstr "Cámara web"
+
+msgid "WiiMote Above Screen"
+msgstr "WiiMote sobre la pantalla"
+
+msgid "Wiimote Vertical Angle"
+msgstr "Ángulo vertical Wiimote"
+
+msgid "Angle of wiimote in radians * 100"
+msgstr "Ángulo de wiimote en radianes * 100"
+
+msgid "Enable this if your Wiimote is above your screen."
+msgstr "Habilítalo si tu Wiimote está sobre tu pantalla."
+
+msgid "Enable Tracking"
+msgstr "Habilitar seguimiento"
+
+msgid "Appearance"
+msgstr "Apariencia"
+
+msgid "Position"
+msgstr "Posición"
