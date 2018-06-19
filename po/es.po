@@ -1119,3 +1119,9 @@ msgstr "Número de Cucarachas"
 
 msgid "Size of roaches"
 msgstr "Tamaño de las cucarachas"
+
+msgid "X Calibration Multiplier"
+msgstr "X multiplicador de calibración"
+
+msgid "Change this depending on your screen size"
+msgstr "Cambie esto dependiendo de su tamaño de pantalla"
