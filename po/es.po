@@ -196,9 +196,6 @@ msgstr "Relleno"
 msgid "Padding around windows"
 msgstr "Relleno alrededor de las ventanas"
 
-msgid "Lightning Bolts"
-msgstr "Relámpagoss"
-
 msgid "Lightning bolts between your cursor and the nearest window"
 msgstr "Rayos entre el cursor y la ventana más cercana"
 
