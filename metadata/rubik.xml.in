@@ -3,7 +3,7 @@
 	<plugin name="rubik" useBcop="true">
 		<_short>Rubik's Cube</_short>
 		<_long>Turn cube into a Rubik's cube</_long>
-		<category>Extras</_short>
+		<category>Extras</category>
 		<deps>
 		<relation type="after">
 			<plugin>cube</plugin>
