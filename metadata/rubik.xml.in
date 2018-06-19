@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compiz>
 	<plugin name="rubik" useBcop="true">
-		<short>Rubik's Cube</short>
-		<long>Turn cube into a Rubik's cube</long>
-		<category>Extras</category>
+		<_short>Rubik's Cube</_short>
+		<_long>Turn cube into a Rubik's cube</_long>
+		<category>Extras</_short>
 		<deps>
 		<relation type="after">
 			<plugin>cube</plugin>
@@ -14,8 +14,8 @@
 		</deps>
 		<display>
 			<option name="toggle_key" type="key">
-				<short>Toggle Rubik's cube</short>
-				<long>Start/stop Rubik's cube effect.</long>
+				<_short>Toggle Rubik's cube</_short>
+				<_long>Start/stop Rubik's cube effect.</_long>
 			</option>
 			<option name="toggle_button" type="button">
 				<_short>Toggle Rubik's cube</_short>
@@ -25,48 +25,48 @@
 
 		<screen>
 				<option name="speed_factor" type="float">
-					<short>Speed factor</short>
-					<long>Multiply the speed of rotations by this factor.</long>
+					<_short>Speed factor</_short>
+					<_long>Multiply the speed of rotations by this factor.</_long>
 					<default>1</default>
 					<min>0.1</min>
 					<max>10</max>
 					<precision>0.01</precision>
 				</option>
 				<option name="number_strips" type="int">
-					<short>Rubik Size</short>
-					<long>Number of horizontal/vertical strips.</long>
+					<_short>Rubik Size</_short>
+					<_long>Number of horizontal/vertical strips.</_long>
 					<default>3</default>
 					<min>1</min>
 					<max>10</max>
 				</option>
 				<option name="rotate_all_axes" type="bool">
-					<short>Rotate around all axes</short>
-					<long>Rotate Rubik's cube around all axes (convert windows to pixmaps also).</long>
+					<_short>Rotate around all axes</_short>
+					<_long>Rotate Rubik's cube around all axes (convert windows to pixmaps also).</_long>
 					<default>true</default>
 				</option>
 				<option name="enable_on_manual_rotate" type="bool">
-					<short>On manual rotate</short>
-					<long>Enable effect only on cube rotate.</long>
+					<_short>On manual rotate</_short>
+					<_long>Enable effect only on cube rotate.</_long>
 					<default>true</default>
 				</option>
 				<option name="rotate_desktop" type="bool">
-					<short>Rotate desktop</short>
-					<long>Rotate desktop as well as windows.</long>
+					<_short>Rotate desktop</_short>
+					<_long>Rotate desktop as well as windows.</_long>
 					<default>true</default>
 				</option>
 				<option name="colored_sides" type="bool">
-					<short>Colored Sides</short>
-					<long>Replace wallpaper with colored sides.</long>
+					<_short>Colored Sides</_short>
+					<_long>Replace wallpaper with colored sides.</_long>
 					<default>false</default>
 				</option>
 				<option name="enable_depth_test" type="bool">
-					<short>Enable Depth Test</short>
-					<long>Hide windows that are behind other windows.</long>
+					<_short>Enable Depth Test</_short>
+					<_long>Hide windows that are behind other windows.</_long>
 					<default>true</default>
 				</option>
 				<option name="desktop_caps" type="bool">
-					<short>Desktop caps</short>
-					<long>Display a desktop for each cap.</long>
+					<_short>Desktop caps</_short>
+					<_long>Display a desktop for each cap.</_long>
 					<default>false</default>
 				</option>
 		</screen>
