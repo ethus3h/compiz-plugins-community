@@ -461,7 +461,7 @@ msgstr "Mover el puntero hacia abajo"
 msgid "Move the pointer down by specified amount"
 msgstr "Mueva el puntero hacia abajo por la cantidad especificada"
 
-msgid "maze"
+msgid "Maze"
 msgstr "Laberinto"
 
 msgid "Render a maze inside of the transparent cube"
