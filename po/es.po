@@ -1107,3 +1107,6 @@ msgstr "Apariencia"
 
 msgid "Position"
 msgstr "Posición"
+
+msgid "Font color for the window title"
+msgstr "Color de fuente para el título de la ventana"
