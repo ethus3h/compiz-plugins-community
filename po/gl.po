@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compiz-plugins\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
-"community/issues\n"
-"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: 2009-04-13 12:54+0200\n"
 "Last-Translator: Francisco Dieguez <fran.dieguez@glug.es>\n"
 "Language-Team: Galician <gl@li.org>\n"
@@ -18,1020 +17,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Anaglyph"
+msgid "Boing"
 msgstr ""
 
-msgid "Anaglyph window and Desktop"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Window"
-msgstr "Activar xanela"
-
-#, fuzzy
-msgid "Start anaglyph window"
-msgstr "Seleccionar a seguinte xanela de tipo panel."
-
-#, fuzzy
-msgid "Initiate Screen"
-msgstr "Iniciar captura de pantalla"
-
-msgid "Start anaglyph screen"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Window Button"
-msgstr "Iniciar (botón)"
-
-#, fuzzy
-msgid "Start anaglyph active window"
-msgstr "Xirar as xanelas inactivas"
-
-#, fuzzy
-msgid "Initiate Screen Button"
-msgstr "Iniciar captura de pantalla"
-
-#, fuzzy
-msgid "Anaglyph Windows"
-msgstr "Fiestras Anel"
-
-#, fuzzy
-msgid "Windows to be anaglyph by default"
-msgstr "Fiestras que deben ser negativas por omisión"
-
-msgid "Exclude Windows"
-msgstr "Excluír Fiestras"
-
-#, fuzzy
-msgid "Windows to exclude from anaglyph"
-msgstr "Fiestras a ser excluídas do negativo"
-
-#, fuzzy
-msgid "Offset"
-msgstr "Desvío X da Estrela"
-
-msgid "offset anaglyph"
-msgstr ""
-
-msgid "Increase Desktop deep"
-msgstr ""
-
-#, fuzzy
-msgid "Desaturate"
-msgstr "Saturación"
-
-msgid "Mipmaps"
-msgstr "Mapas de imaxes"
-
-#, fuzzy
-msgid "Animations Plus"
-msgstr "Animacións"
-
-#, fuzzy
-msgid "More window animations"
-msgstr "Filtrar as decoracións das xanelas"
-
-msgid "Effect Settings"
-msgstr "Configuracións de Efectos"
-
-msgid "Helix"
-msgstr ""
-
-#, fuzzy
-msgid "Helix Number of Twists"
-msgstr "Número de Partículas de Escalón."
-
-#, fuzzy
-msgid "Number of twists to do in the animation"
-msgstr "Ángulo da xanela ó fin da animación"
-
-msgid "Helix Gridsize Y"
-msgstr ""
-
-msgid "Number of blocks in the animation"
-msgstr ""
-
-#, fuzzy
-msgid "Helix Thickness"
-msgstr "Anchura"
-
-#, fuzzy
-msgid "Thickness of blocks in the animation"
-msgstr "Anchura dos Polígonos Animados"
-
-#, fuzzy
-msgid "Spin Direction"
-msgstr "Dirección da Neve"
-
-msgid "Direction the strips spin."
-msgstr ""
-
-msgid "Counter-Clockwise"
-msgstr ""
-
-msgid "Clockwise"
-msgstr ""
-
-#, fuzzy
-msgid "Vertical Helix"
-msgstr "Gradiente vertical"
-
-msgid ""
-"Whether Helix should rotate with its axis up/down or in/out of the screen"
-msgstr ""
-
-msgid "Blinds"
-msgstr ""
-
-msgid "Blinds Number of Half Twists"
-msgstr ""
-
-#, fuzzy
-msgid "Number of half twists to do in the animation"
-msgstr "Ángulo da xanela ó fin da animación"
-
-#, fuzzy
-msgid "Blinds Thickness"
-msgstr "Anchura"
-
-msgid "Shatter"
-msgstr ""
-
-#, fuzzy
-msgid "Shatter number of spokes"
-msgstr "Número de pezas das Barras"
-
-msgid "Number of spokes (divided by 4) in the animation"
-msgstr ""
-
-msgid "Shatter Number of Tiers"
-msgstr "Número de Partículas de Escalón."
-
-msgid "Number of concentric circles in the animation"
-msgstr ""
-
-msgid "Bonanza"
-msgstr ""
-
-msgid "Number Of Fire Particles"
-msgstr "Número De Partículas de Lume"
-
-msgid "Number of fire particles."
-msgstr "Números de partículas de lume."
-
-msgid "Fire Particle Size"
-msgstr "Tamaño das partículas"
-
-msgid "Fire particle size."
-msgstr "Tamaño das partículas de lume."
-
-msgid "Fire Particle Life"
-msgstr "Vida das partículas"
-
-msgid "Fire particle life."
-msgstr "Vida das partículas."
-
-msgid "Fire Particle Color"
-msgstr "Cor das partículas"
-
-msgid "Fire particle color."
-msgstr "Cor das partículas."
-
-msgid "Randomly Colored Fire"
-msgstr "Lume con cores aleatorias"
-
-msgid "Have random colors for the fire effect, also known as Mystical Fire."
-msgstr ""
-"Cores aleatorias para o efecto de lume. Opción tamén coñecida como Lume "
-"Místico."
-
-#, fuzzy
-msgid "Simple Animations"
-msgstr "Animación ó Abrir"
-
-msgid "Animations that are simple on the eye"
-msgstr ""
-
-msgid "Fly In"
-msgstr ""
-
-#, fuzzy
-msgid "Fly In Direction"
-msgstr "Dirección de pregado."
-
-msgid "The direction in which the fly in should take place"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction X"
-msgstr "Dirección de pregado."
-
-msgid "Direction and Distance X for user defined fly in"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction Y"
-msgstr "Dirección de pregado."
-
-msgid "Direction and Distance Y for user defined fly in"
-msgstr ""
-
-msgid "Fade"
-msgstr "Desvanecemento"
-
-msgid "Fade when flying in"
-msgstr ""
-
-msgid "Distance"
-msgstr "Distancia"
-
-#, fuzzy
-msgid "Distance to fly in"
-msgstr "Distancia"
-
-#, fuzzy
-msgid "Rotate In"
-msgstr "Rotación de iluminación"
-
-#, fuzzy
-msgid "Rotate In Direction"
-msgstr "Dirección do Movemento"
-
-msgid "The direction in which the window rotates"
-msgstr ""
-
-#, fuzzy
-msgid "Angle"
-msgstr "Ángulo Afastado"
-
-msgid "Angle to start from"
-msgstr ""
-
-msgid "Bounce"
-msgstr ""
-
-#, fuzzy
-msgid "Maximum Size"
-msgstr "Maximizado"
-
-msgid "Maximum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum Size"
-msgstr "Maximizado"
-
-msgid "Minimum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Number of Bounces"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "How many bounces during the animation"
-msgstr "Fiestras que non deben deslizarse na animación de tobogán"
-
-msgid "Sheet"
-msgstr ""
-
-#, fuzzy
-msgid "Starting Percent"
-msgstr "Comezar xesto"
-
-msgid ""
-"How wide the begginning of the sheet animation should be compared to the end"
-msgstr ""
-
-msgid "Expand Piecewise"
-msgstr ""
-
-#, fuzzy
-msgid "First expand horizontally"
-msgstr "Mosaico Horizontal"
-
-msgid "If checked, initially expand horizontally, then vertically"
-msgstr ""
-
-#, fuzzy
-msgid "Initial horizontal size"
-msgstr "Mosaico Horizontal"
-
-msgid "Number of pixels initially in horizontal direction"
-msgstr ""
-
-#, fuzzy
-msgid "Initial vertical size"
-msgstr "Tamaño das partículas."
-
-msgid "Number of pixels initially in vertical direction"
-msgstr ""
-
-#, fuzzy
-msgid "Delay"
-msgstr "Atraso Aparecemento"
-
-msgid ""
-"Delay between expanding horizontally and vertically (expressed as a fraction)"
-msgstr ""
-
-msgid "Expand"
-msgstr ""
-
-msgid "Cube Atlantis"
-msgstr "Atlántica dentro do Cubo"
-
-msgid "Render some sea animals inside of the transparent cube"
-msgstr "Mostra algúns animais do mar dentro do cubo transparente"
-
-msgid "Speed factor"
-msgstr "Factor de zoom"
-
-msgid "Multiply the speed of the fish by this factor."
-msgstr "Multiplicar a velocidade do peixe por este factor."
-
-msgid "Start crabs on bottom"
-msgstr "Comezar cangrexo na parte inferior"
-
-msgid "Start crabs on the bottom of the cube."
-msgstr "Comezar o enganche dende a parte inferior do cubo."
-
-msgid "School similar groups"
-msgstr "Instruír grupos similares"
-
-msgid "Fish in different groups, but of the same type, swim together."
-msgstr "Peixes en diferentes grupos, pero do mesmo tipo, nadan conxuntamente."
-
-msgid "Low detail models"
-msgstr "Modelos de detalle baixo"
-
-msgid "Use less detailed models for increased performance."
-msgstr "Empregar menos modelos detallados para incrementar o rendemento."
-
-msgid "Creature Selection"
-msgstr "Selección de criaturas"
-
-msgid "Type"
-msgstr "Tipo"
-
-msgid "Type of sea creature."
-msgstr "Tipo de criatura do mar."
-
-msgid "Color"
-msgstr "Cor"
-
-msgid "The color of the sea creature."
-msgstr "Cor da marxe da barra das lapelas"
-
-msgid "Number"
-msgstr "Número"
-
-msgid "The number of the sea creature."
-msgstr "O estilo das criaturas de mar."
-
-msgid "Size"
-msgstr "Tamaño"
-
-msgid "The size of the sea creature."
-msgstr "O tamaño da criatura de mar."
-
-msgid "Miscellaneous Selection"
-msgstr "Selección variada"
-
-msgid "Type of sea plant."
-msgstr "Tipo de planta de mar."
-
-msgid "The color of the sea plant."
-msgstr "A cor das plantas de mar."
-
-msgid "The number of the sea plants."
-msgstr "O número das plantas de mar."
-
-msgid "The size of the sea plant."
-msgstr "O tamaño da planta de mar."
-
-msgid "Water / Ground"
-msgstr "Auga / Chan"
-
-msgid "Render water"
-msgstr "Renderizar auga"
-
-msgid "Render water inside the cube."
-msgstr "Renderizar auga dentro do cubo"
-
-msgid "Render water wireframe"
-msgstr "Renderizar maia de alambre da auga"
-
-msgid "Render water wireframe inside the cube."
-msgstr "Renderizar malla de alambre dentro do cubo."
-
-msgid "Render ground"
-msgstr "Renderizar chan"
-
-msgid "Render ground inside the cube."
-msgstr "Renderizar chan dentro do cubo."
-
-msgid "Ground color"
-msgstr "Cor do chan"
-
-msgid "Color of ground in the cube."
-msgstr "Cor do chan dentro do cubo."
-
-msgid "Water surface height"
-msgstr "Altura da superficie de auga"
-
-msgid "Height of water surface in the cube."
-msgstr "Altura da superficie de auga no cubo."
-
-msgid "Water color"
-msgstr "Cor da auga"
-
-msgid "Color of water in the cube."
-msgstr "Cora da auga dentro cubo."
-
-msgid "Water/Ground grid smoothness"
-msgstr "Suavidade da grella de Auga/Chan"
-
-msgid "Number of subdivisions that create a finer grid."
-msgstr "Número de subdivisións a crear pola grella fina."
-
-msgid "Waves"
-msgstr "Ondas"
-
-msgid "Render waves"
-msgstr "Renderizar ondas"
-
-msgid "Render water waves inside the cube."
-msgstr "Renderizar ondas de auga dentro do cubo."
-
-msgid "Ripple effect"
-msgstr "Efecto de rizo"
-
-msgid "Semi-randomize light scattering off water waves."
-msgstr "Dispersión semi-aleatoria da luz  das ondas de auga."
-
-msgid "Wave amplitude"
-msgstr "Amplitude da onda"
-
-msgid "Amplitude of water waves."
-msgstr "Amplitude das ondas de auga."
-
-msgid "Wave frequency"
-msgstr "Frecuencia da onda"
-
-msgid "Frequency of water waves."
-msgstr "Frecuencia das ondas de auga."
-
-msgid "Small wave amplitude"
-msgstr "Amplitude da onda pequena"
-
-msgid "Amplitude of small water waves on the bigger ones."
-msgstr "Amplitude das ondas de auga pequenas dentro das máis grandes."
-
-msgid "Small wave frequency"
-msgstr "Frecuencia de onda pequena"
-
-msgid "Frequency of small water waves on the bigger ones."
-msgstr "Frecuencia das ondas de auga pequenas dentro das máis grandes."
-
-msgid "Display"
-msgstr "Pantalla"
-
-msgid "Rescale for screen ratio"
-msgstr "Reescalar cara o ratio de pantalla"
-
-msgid ""
-"Rescale along the sides of the cube by the ratio of screen width to height."
-msgstr ""
-"Reescala ao longo das caras do cubo polo ratio de alto ao ancho da pantalla."
-
-msgid "Lighting"
-msgstr "Iluminación"
-
-msgid "Rotate lighting"
-msgstr "Rotación de iluminación"
-
-msgid "Preserve light direction when rotating the cube."
-msgstr "Preservar a dirección da luz cando se rota o cubo."
-
-msgid "Light inclination"
-msgstr "Inclinación da Luz"
-
-msgid ""
-"The angle of light rays from the horizon in degrees (0 is from the viewer's "
-"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
-"false."
-msgstr ""
-"O ángulo dos raios de luz dende o horizonte en graos (0 se dende a "
-"perspectiva do viso, 90 dende arriba). So ten efecto cando Iluminación "
-"Rotativa é falso."
-
-msgid "Ambient light"
-msgstr "Luz Ambiente"
-
-msgid "Component of light coming from all directions equally."
-msgstr "A compoñente de luz proven de tódalas direccións equitativamente."
-
-msgid "Cube 3D Models"
-msgstr "Modelos do Cubo 3D"
-
-msgid "Render still/animated 3D mesh models inside of the transparent cube"
-msgstr "Renderizar modelos da malla 3D dentro do cubo transparente"
-
-msgid "Scale all factor"
-msgstr "Escalar tódolos factores"
-
-msgid "Scale all the 3D models by this factor."
-msgstr "Escalar tódolos modelos 3D por este factor."
-
-msgid "3D Models"
-msgstr "Modelos 3D"
-
-msgid "Model"
-msgstr "Modelo"
-
-msgid "Full path to 3D wavefront (.obj) model file."
-msgstr "Ruta completa ao ficheiro modelo wavefront 3D (.obj)."
-
-msgid "Scale factor"
-msgstr "Factor de escala"
-
-msgid "Scale the 3D model by this factor."
-msgstr "Escalar o modelo 3D por este factor."
-
-msgid "X"
-msgstr "X"
-
-msgid "X coordinate offset from the center of the cube."
-msgstr "Desvío da coordenada X dende o centro do cubo."
-
-msgid "Y"
-msgstr "Y"
-
-msgid "Y coordinate offset from the center of the cube."
-msgstr "Desvío da coordenada Y dende o centro do cubo."
-
-msgid "Z"
-msgstr "Z"
-
-msgid "Z coordinate offset from the center of the cube."
-msgstr "Desvío da coordenada Z dende o centro do cubo."
-
-msgid "Rotation plane"
-msgstr "Rotación do plano"
-
-msgid "Plane of rotation for the 3D model."
-msgstr "Plano da rotación para o modelo 3D."
-
-msgid "Rotation rate"
-msgstr "Ratio de Rotación"
-
-msgid "Rate of rotation of 3D model (in rotations per second)."
-msgstr "Ratio da rotación do modelo 3D (en rotacións por segunto)."
-
-msgid "Model type"
-msgstr "Tipo de modelo"
-
-msgid "Type of 3D model (still or animated)."
-msgstr "Tipo de modelo 3D (quieto ou animado)."
-
-msgid "Frames per second"
-msgstr "Cadros por segundo"
-
-msgid "Framerate (per second) for the animated series of obj files."
-msgstr ""
-"Ratio de cadros (por segundo) para as series animadas de ficheiros obj."
-
-msgid "Render front and back sides"
-msgstr "Renderizar partes frontal e traseira"
-
-msgid ""
-"Renders the front surface and then the back surface. This can be useful for "
-"models which show black spots but can cause a performance hit."
-msgstr ""
-"Renderizar a superficie frontal e logo a superficie traseira. Isto pode ser "
-"útil para os modelos que amosan puntos negros que poida ser causa dun pico "
-"de rendemento."
-
-msgid "Ambient light intensity"
-msgstr "Intensidade da luz ambiental"
-
-msgid "Diffuse light intensity"
-msgstr "Intensidade da luz ambiental"
-
-msgid ""
-"Component of light coming from the direction set by inclination or from the "
-"viewer if Rotate Lighting is true."
-msgstr ""
-"Compoñente de luz que proven dende o conxunto de dirección pola inclinación "
-"ou dende o espectador se Rotar Luz está configurado a verdadeiro."
-
-msgid "Specular light intensity"
-msgstr "Intensidade da luz Especular"
-
-msgid ""
-"Highly directional component of light coming from the direction set by "
-"inclination or from the viewer if Rotate Lighting is true."
-msgstr ""
-"Compoñente altamente direccional da luz que chega dende a dirección "
-"configurada pola inclinación ou polo visor se Iluminación de Rotación é "
-"certo."
-
-msgid "Loading"
-msgstr "Cargando"
-
-msgid "Use separate threads"
-msgstr "Empregar fíos separados"
-
-msgid ""
-"Use separate threads to load each model faster and allow other interaction "
-"whilst loading."
-msgstr ""
-"Empregar fíos separados para cargar máis rápido cada modelo e permitir outra "
-"interacción mentres se carga."
-
-#, fuzzy
-msgid "Dialog Match"
-msgstr "Coincidencia de Fiestra"
-
-msgid "Dialogs which will trigger fading"
-msgstr ""
-
-msgid "Speed"
-msgstr "Velocidade"
-
-#, fuzzy
-msgid "The speed of the animation"
-msgstr "Tempo de desvanecemento das animacións de texto"
-
-msgid "Opacity"
-msgstr "Opacidade"
-
-msgid "The Opacity of windows with open dialogs"
-msgstr ""
-
-msgid "Saturation"
-msgstr "Saturación"
-
-#, fuzzy
-msgid "The Saturation of windows with open dialogs"
-msgstr "Saturación das xanelas non-widget nos modos widget."
-
-msgid "Brightness"
-msgstr "Brillo"
-
-#, fuzzy
-msgid "The Brightness of windows with open dialogs"
-msgstr "Brillo das xanelas non widget en modos widget."
-
-msgid "Elements"
-msgstr "Elementos"
-
-msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
-msgstr ""
-
-msgid "General"
-msgstr "Xeral"
-
-#, fuzzy
-msgid "Global Speed"
-msgstr "Velocidade do Zoom"
-
-msgid "Elements speed will be multiplied by this value"
-msgstr ""
-
-msgid "Screen Depth"
-msgstr "Profundidade da pantalla"
-
-msgid "How deep into the screen snowflakes can be drawn before being removed"
-msgstr ""
-"Ata que profundidade da pantalla son debuxados os flocos de neve antes de "
-"que desaparezan"
-
-msgid "Apply Screen Transform"
-msgstr ""
-
-msgid "Moves particles with screen transforms when over_windows is enabled"
-msgstr ""
-
-msgid "Draw Over Windows"
-msgstr "Debuxar Sobre Fiestras"
-
-msgid "Elements drawn above windows"
-msgstr "Elementos debuxados sobre as xanelas"
-
-msgid "Toggle Elements with Keys:"
-msgstr ""
-
-msgid ""
-"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
-"checkboxes."
-msgstr ""
-
-msgid "Snow"
-msgstr "Neve"
-
-msgid "Number Of Snowflakes"
-msgstr "Número de flocos de neve"
-
-msgid "Number of snowflakes"
-msgstr "Número de flocos de neve"
-
-msgid "Size Of Snowflakes"
-msgstr "Tamaño das Folerpas de Neve"
-
-msgid "Size of snowflakes"
-msgstr "Tamaño dos flocos de neve"
-
-msgid "Snow Speed"
-msgstr "Velocidade da Neve"
-
-msgid "Speed of falling snow"
-msgstr "Velocidade da queda de neve"
-
-msgid "Snow sway"
-msgstr "Balanceo da Neve"
-
-msgid ""
-"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Snowflakes"
-msgstr "Rotar folerpas"
-
-#, fuzzy
-msgid "Toggle snow"
-msgstr "Trocar o  modo Mosaico"
-
-msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Snow"
-msgstr "Trocar modo de Mostrar en tódalas pantallas"
-
-msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-msgid "Snow Direction"
-msgstr "Dirección da Neve"
-
-msgid "Select snow flake movement direction"
-msgstr "Seleccionar dirección do movemento dos flocos de neve"
-
-msgid "None"
-msgstr "Ningunha"
-
-msgid "Up"
-msgstr "Cara arriba"
-
-msgid "Left"
-msgstr "Para a esquerda"
-
-msgid "Right"
-msgstr "Para a dereita"
-
-msgid "Snow Textures"
-msgstr "Texturas da Neve"
-
-msgid "Snow textures"
-msgstr "Texturas da neve"
-
-msgid "Autumn"
-msgstr "Outono"
-
-#, fuzzy
-msgid "Number Of leaves"
-msgstr "Número de flocos de neve"
-
-#, fuzzy
-msgid "Number of leaves"
-msgstr "Número de elementos"
-
-#, fuzzy
-msgid "Size Of leaves"
-msgstr "Balanceo das follas"
-
-#, fuzzy
-msgid "Size of leaves"
-msgstr "Tamaño dos flocos de neve"
-
-msgid "Sway Of leaves"
-msgstr "Balanceo das follas"
-
-msgid "sway of leaves"
-msgstr "balanceo das follas"
-
-#, fuzzy
-msgid "Leaf Speed"
-msgstr "Extensión de Folla"
-
-msgid "Speed of falling leaves"
-msgstr "Velocidade dos flocos de neve"
-
-#, fuzzy
-msgid "Rotate Leaves"
-msgstr "Rotar folerpas"
-
-#, fuzzy
-msgid "Toggle Autumn"
-msgstr "Outono"
-
-msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Autumn Textures"
-msgstr "Texturas da Neve"
-
-#, fuzzy
-msgid "Autumn textures"
-msgstr "Texturas da neve"
-
-msgid "Bubbles"
-msgstr "Burbullas"
-
-#, fuzzy
-msgid "Number Of bubbles"
-msgstr "Número De Partículas"
-
-#, fuzzy
-msgid "Number of bubbles"
-msgstr "Número de elementos"
-
-#, fuzzy
-msgid "Size Of bubbles"
-msgstr "Tamaño das regras"
-
-#, fuzzy
-msgid "Size of bubbles"
-msgstr "Tamaño das regras"
-
-msgid "Viscosity of liquid"
-msgstr "Viscosidade do líquido"
-
-#, fuzzy
-msgid "Rotate Bubbles"
-msgstr "Rotar folerpas"
-
-#, fuzzy
-msgid "Toggle Bubbles"
-msgstr "Burbullas"
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Bubble Textures"
-msgstr "Activar Texturas"
-
-#, fuzzy
-msgid "Bubble textures"
-msgstr "Activar Texturas"
-
-msgid "Fireflies"
-msgstr "Lapas de lume"
-
-#, fuzzy
-msgid "Number Of fireflies"
-msgstr "Número De Partículas de Lume"
-
-#, fuzzy
-msgid "Number of fireflies"
-msgstr "Números de partículas de lume."
-
-#, fuzzy
-msgid "Size Of fireflies"
-msgstr "Tamaño das Folerpas de Neve"
-
-#, fuzzy
-msgid "Size of fireflies"
-msgstr "Tamaño dos flocos de neve"
-
-#, fuzzy
-msgid "Firefly Speed"
-msgstr "Lapas de lume"
-
-msgid "Speed of firefly lifecycle and movement"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Fireflies"
-msgstr "Rotar folerpas"
-
-msgid "When using \"glows\", you definitely want this ON"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Fireflies"
-msgstr "Lapas de lume"
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Fireflies Textures"
-msgstr "Lapas de lume"
-
-#, fuzzy
-msgid "Fireflies textures"
-msgstr "Lapas de lume"
-
-msgid "Stars"
-msgstr "Estrelas"
-
-#, fuzzy
-msgid "Number Of stars"
-msgstr "Número De Partículas"
-
-#, fuzzy
-msgid "Number of stars"
-msgstr "Número de partículas"
-
-#, fuzzy
-msgid "Size Of stars"
-msgstr "Tamaño das Folerpas de Neve"
-
-#, fuzzy
-msgid "Size of stars"
-msgstr "Tamaño dos flocos de neve"
-
-#, fuzzy
-msgid "Star Speed"
-msgstr "Velocidade da Neve"
-
-#, fuzzy
-msgid "Speed of stars"
-msgstr "Factor de zoom"
-
-msgid "Star X Offset"
-msgstr "Desvío X da Estrela"
-
-msgid "The X point on the screen where stars should start"
-msgstr "O punto X da pantalla onde as estrelas deberían comezar"
-
-msgid "Star Y Offset"
-msgstr "Desvío Y da Estrela"
-
-msgid "The Y point on the screen where stars should start"
-msgstr "O punto Y da pantalla onde as estrelas deberían comezar"
-
-#, fuzzy
-msgid "Rotate Stars"
-msgstr "Rotar folerpas"
-
-#, fuzzy
-msgid "Toggle Stars"
-msgstr "Trocar modo de Mostrar en tódalas pantallas"
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Star Textures"
-msgstr "Texturas da Neve"
-
-#, fuzzy
-msgid "Star textures"
-msgstr "Texturas da neve"
-
 #, fuzzy
-msgid "Fireflies for Compiz"
+msgid "Boing for Compiz"
 msgstr "Snow para Compiz"
 
 msgid "Settings"
 msgstr "Configuracións"
 
 #, fuzzy
-msgid "Number Of Fireflies"
-msgstr "Número De Partículas de Lume"
+msgid "Number Of balls"
+msgstr "Número De Partículas"
 
 #, fuzzy
-msgid "The maximum number of fireflies allowed on screen"
-msgstr "Número máximo de ondas para Lámpada Máxica."
+msgid "Number of balls"
+msgstr "Número de elementos"
 
 #, fuzzy
-msgid "Size Of Fireflies"
-msgstr "Lapas de lume"
+msgid "Size Of balls"
+msgstr "Tamaño das regras"
+
+#, fuzzy
+msgid "Size of balls"
+msgstr "Tamaño das regras"
 
 msgid "Update Delay"
 msgstr "Atraso de actualización"
 
+#, fuzzy
 msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make snow "
+"Delay (in ms) between screen updates. Decreasing this value may make leaves "
 "fall more smoothly, but will also increase CPU usage."
 msgstr ""
 "Atraso (en ms) entre actualizacións da pantalla. Diminuír este valor pode "
@@ -1042,59 +59,75 @@ msgstr "Caixa da pantalla"
 
 #, fuzzy
 msgid ""
-"How far outside the screen resolution fireflies can be before being removed. "
+"How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
 msgstr ""
 "Ata quón lonxe da resolución da pantalla os flocos de neve poden estar antes "
 "de desapareceren. Necesario por causa do campo de visión."
 
+msgid "Screen Depth"
+msgstr "Profundidade da pantalla"
+
 #, fuzzy
-msgid "How deep into the screen fireflies can be drawn before being removed"
+msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr ""
 "Ata que profundidade da pantalla son debuxados os flocos de neve antes de "
 "que desaparezan"
 
 #, fuzzy
-msgid "Fireflies Over Windows"
+msgid "Balls Over Windows"
 msgstr "Debuxar Sobre Fiestras"
 
 #, fuzzy
-msgid "Fireflies is drawn above windows"
+msgid "Balls are drawn above windows"
 msgstr "A Neve é mostrada por cima das xanelas"
 
 #, fuzzy
-msgid "Rotate Flies. Redundant"
+msgid "Rotate Balls"
 msgstr "Rotar folerpas"
 
 #, fuzzy
-msgid "Flies rotate if checked."
+msgid "Balls rotate if checked."
 msgstr "Flocos rodan se activado."
 
 #, fuzzy
-msgid "Fireflies Direction. Redundant"
-msgstr "Dirección do lume."
+msgid "Wind Direction"
+msgstr "Dirección da Neve"
 
-msgid "Top to Bottom"
-msgstr "Cima para Baixo"
+#, fuzzy
+msgid "Select the wind direction"
+msgstr "Seleccionar dirección do movemento dos flocos de neve"
 
-msgid "Bottom to Top"
-msgstr "Baixo cara arriba"
+#, fuzzy
+msgid "No Wind"
+msgstr "Seguinte Fiestra"
 
-msgid "Right to Left"
-msgstr "Dereita para a Esquerda"
+msgid "Up"
+msgstr "Cara arriba"
 
-msgid "Left to Right"
-msgstr "Esquerda para a Dereita"
+msgid "Left"
+msgstr "Para a esquerda"
+
+msgid "Right"
+msgstr "Para a dereita"
+
+msgid "Textures"
+msgstr "Texturas"
+
+#, fuzzy
+msgid "Ball Textures"
+msgstr "Activar Texturas"
+
+#, fuzzy
+msgid "Ball textures"
+msgstr "Activar Texturas"
 
 msgid "Enable by default"
 msgstr ""
 
 #, fuzzy
-msgid "Enable fireflies by default."
+msgid "Enable boing by default."
 msgstr "Fiestras que deben ser filtradas por omisión."
-
-msgid "Textures"
-msgstr "Texturas"
 
 msgid "Debug"
 msgstr "Depuración"
@@ -1103,14 +136,14 @@ msgid "Enable Blending"
 msgstr "Activar Mistura"
 
 #, fuzzy
-msgid "Enables alpha blending of flies."
+msgid "Enables alpha blending of balls."
 msgstr "Activa mistura alfa dos flocos de neve."
 
 msgid "Enable Textures"
 msgstr "Activar Texturas"
 
 #, fuzzy
-msgid "Enables textures flies. If not selected, color cradients are used."
+msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
 "Activa texturas dos flocos de neve. Se non estivera seleccionado, serán "
 "usados gradientes de cores."
@@ -1119,1092 +152,771 @@ msgid "Key Bindings"
 msgstr "Tecras de Atallo"
 
 #, fuzzy
-msgid "Firefly toggle key"
+msgid "Toggle Boing"
+msgstr "Trocar o  modo Mosaico"
+
+#, fuzzy
+msgid "Boing toggle key"
 msgstr "Tecla para trocar a activación da Neve"
 
 #, fuzzy
-msgid "Freely Transformable Windows"
-msgstr "Restaurar xanelas"
+msgid "Desktop Click"
+msgstr "Mural das Áreas de Traballo"
 
-#, fuzzy
-msgid "Freely transform windows"
-msgstr "Por abaixo de outras xanelas"
+msgid "Perform actions on desktop clicks"
+msgstr ""
 
-#, fuzzy
-msgid "Free Transformation"
-msgstr "Deformación"
-
-#, fuzzy
-msgid "Initiate Rotation"
-msgstr "Iniciar (botón)"
-
-#, fuzzy
-msgid "Start Free Rotation"
-msgstr "Saturación"
-
-#, fuzzy
-msgid "Initiate Scaling"
-msgstr "Iniciar captura de pantalla"
-
-msgid "Reset"
+msgid "Click List"
 msgstr ""
 
 #, fuzzy
-msgid "Reset Transformation"
-msgstr "Deformación"
-
-msgid "Axis help toggle"
-msgstr ""
+msgid "Button Number"
+msgstr "Número"
 
 #, fuzzy
-msgid "Axis selection helper"
-msgstr "Cor da selección"
-
-msgid "Transformation Behavior"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Modifier"
+msgid "Modifiers"
 msgstr "Modificador para Evitar Atracción"
 
-#, fuzzy
-msgid "Use this bindings to enable/disable snapping."
-msgstr "Use este atallo para evitar atraccións."
-
-msgid "Shift"
-msgstr "Shift"
-
-msgid "Alt"
-msgstr "Alt"
-
-msgid "Control"
-msgstr "Control"
-
-msgid "Meta"
-msgstr "Meta"
-
-#, fuzzy
-msgid "Rotation"
-msgstr "Ratio de Rotación"
-
-msgid "Invert Modifier"
+msgid "What Modifiers must be used in order to trigger the action"
 msgstr ""
 
 #, fuzzy
-msgid "Use this bindings to invert the rotation mode."
-msgstr "Use este atallo para evitar atraccións."
+msgid "Plugin Name"
+msgstr "Complemento"
 
-msgid "Manual Transformation"
+#, fuzzy
+msgid "Initiation Plugin Name"
+msgstr "Complemento para acción iniciar"
+
+#, fuzzy
+msgid "Action Name"
+msgstr "Acción"
+
+#, fuzzy
+msgid "Initiation Action Name"
+msgstr "Complemento para acción iniciar"
+
+#, fuzzy
+msgid "Call Type"
+msgstr "Tipo de aura"
+
+msgid "How to handle the action calling"
+msgstr ""
+
+msgid "Dodge"
+msgstr "Desvío"
+
+msgid "Makes windows stay out of your way"
 msgstr ""
 
 #, fuzzy
-msgid "Scaling"
-msgstr "Escalado"
-
-#, fuzzy
-msgid "Scale Up"
-msgstr "Escalado"
-
-msgid "Scale up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Scale Down"
-msgstr "Adicións ao Scale"
-
-#, fuzzy
-msgid "Scale down by one increment"
-msgstr "Reducción á pantalla"
-
-#, fuzzy
-msgid "Rotate Up"
-msgstr "Rotar folerpas"
-
-msgid "Rotate up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Down"
-msgstr "Mover abaixo"
-
-msgid "Rotate down by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Left"
-msgstr "Mover á esquerda"
-
-msgid "Rotate left by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Right"
-msgstr "Rotación de iluminación"
-
-msgid "Rotate right by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Clockwise"
-msgstr "Rodar Anel no Sentido Horario cando Seguinte"
-
-#, fuzzy
-msgid "Rotate clockwise by one increment"
-msgstr "Rodar Anel no Sentido Horario cando Seguinte"
-
-#, fuzzy
-msgid "Rotate Counter-Clockwise"
-msgstr "Rodar Anel no Sentido Horario cando Seguinte"
-
-#, fuzzy
-msgid "Rotate counter-clockwise by one increment"
-msgstr "Rodar Anel no Sentido Horario cando Seguinte"
-
-msgid "Snap by default"
-msgstr ""
-
-msgid "Snap to common points by default"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Threshold"
-msgstr "Tipo de Atracción"
-
-#, fuzzy
-msgid "Snap to every one of these angles"
-msgstr "Velocidade para estes elementos"
-
-#, fuzzy
-msgid "Mouse sensitivity"
-msgstr "Interruptor do Rato"
-
-#, fuzzy
-msgid "How sensitive the mouse movement should be"
-msgstr "Canto se debe parecer o resorte á animación Zoom."
-
-#, fuzzy
-msgid "Scale Mode"
-msgstr "Escalado"
-
-#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
-#, fuzzy
-msgid "How to scale windows"
-msgstr "Fiestras impedidas de ser pechadas"
-
-#, fuzzy
-msgid "Allow negative"
-msgstr "Negativo"
-
-msgid "Allow negative scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Maintain aspect ratio"
-msgstr "Manter a proporción de aspecto da parte superior"
-
-msgid "Keep aspect ratio constant when scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum scale"
-msgstr "Factor Mínimo de Escalado"
-
-msgid ""
-"How small the scale is allowed to be when 'Allow Negative' is not toggled"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation Type"
-msgstr "Rotación do plano"
-
-#, fuzzy
-msgid "2D/3D Rotation Type"
-msgstr "Rotación do plano"
-
-#, fuzzy
-msgid "Rotation Axis"
-msgstr "Ángulo de Rotación"
-
-msgid "How Freely Transformable Windows should determine the rotation axis"
-msgstr ""
-
-#, fuzzy
-msgid "3D Rotation Percentage"
-msgstr "Ratio de Rotación"
-
-msgid "Percentage of the window area used for 3D rotation"
-msgstr ""
-
-#, fuzzy
-msgid "Auto-Zoom"
-msgstr "Zoom automático"
-
-msgid "Auto-Zoom when rotating so that windows do not get too large"
-msgstr ""
-
-#, fuzzy
-msgid "Disable on Transformed Screen"
-msgstr "Distorsión durante movemento en pantallas transformados"
-
-msgid ""
-"Disable rotation on transformed screen. This prevents ugly looking clipped "
-"windows when the screen is transformed"
-msgstr ""
-
-#, fuzzy
-msgid "Speed of window rotation"
-msgstr "Filtrar as decoracións das xanelas"
-
-msgid "How fast the window should rotate"
-msgstr ""
-
-msgid "Rotate increment amount"
-msgstr ""
-
-msgid "How far to rotate a window when rotating an 'increment'"
-msgstr ""
-
-msgid "Scale increment amount"
-msgstr ""
-
-msgid "How much to scale a window by when scaling by an 'increment'"
-msgstr ""
-
-msgid "Misc"
-msgstr "Varios"
-
-msgid "Input Prevention"
-msgstr ""
-
-#, fuzzy
-msgid "Prevented Input Window Types"
-msgstr "Tipos de Fiestras"
-
-#, fuzzy
-msgid "Window types that should be Shaped. Disable problematic windows here"
-msgstr "Tipos de xanelas que deberán ser consideradas polo Seguemento de foco."
-
-msgid "Prevent input"
-msgstr ""
-
-msgid "Prevent input in transformed windows"
-msgstr ""
-
-#, fuzzy
-msgid "Immediate Moves"
-msgstr "Movementos inmediatos"
-
-msgid ""
-"Don't allow plugins like wobbly to transform the transformed window while "
-"it's being moved"
-msgstr ""
-
-#, fuzzy
-msgid "Helper Options"
-msgstr "Opcións das Particulas"
-
-#, fuzzy
-msgid "Helper Circle Color"
-msgstr "Cor das Partículas"
-
-#, fuzzy
-msgid "Color of the circle."
-msgstr "Cor do chan (ó preto)"
-
-#, fuzzy
-msgid "Helper Line Color"
-msgstr "Cor da liña"
-
-#, fuzzy
-msgid "Helper line color around the circle"
-msgstr "Cor da liña do rectángulo de selección"
-
-#, fuzzy
-msgid "Helper Cross Line Color"
-msgstr "Cor da liña"
-
-#, fuzzy
-msgid "Color of the cross line"
-msgstr "Cor do chan (ó preto)"
-
-msgid "Show 3D rotation circle"
-msgstr ""
-
-msgid "Show click area for 3D rotation"
-msgstr ""
-
-msgid "Show rotation gizmo"
-msgstr ""
-
-#, fuzzy
-msgid "Show rotation axis info"
-msgstr "Permitir a rotación neste elemento"
-
-#, fuzzy
-msgid "Show crosshair"
-msgstr "Amosar redebuxado"
-
-msgid "Show crosshair (for scaling click regions)"
-msgstr ""
-
-#, fuzzy
-msgid "Show input regions"
-msgstr "Amosar redebuxado"
-
-#, fuzzy
-msgid "Show input region rectangle"
-msgstr "Amosar rectángulo"
-
-msgid "Color Opacity"
-msgstr "Opacidade de cores"
-
-msgid "Alter window opacity based on color."
-msgstr "Alterar opacidade da xanela con base na cor."
-
-msgid "Toggle Window Fake ARGB"
-msgstr "Trocar ARGB falsos da xanela"
-
-msgid "Toggle window fake ARGB."
-msgstr "Trocar ARGB falsos da xanela."
-
-#, fuzzy
-msgid "Toggle Ghost"
-msgstr "Trocar modo de Mostrar en tódalas pantallas"
-
-#, fuzzy
-msgid "Toggle ghost for all matching windows"
-msgstr "Trocar estado Sempre arriba na xanela activa"
-
-#, fuzzy
-msgid "Toggle Ghost Window"
-msgstr "Pechar Fiestra"
-
-#, fuzzy
-msgid "Toggle ghosting of individual window"
-msgstr "Troca o visionado das rexións redebuxadas"
+msgid "Toggle Dodging"
+msgstr "Trocar o  modo Mosaico"
 
 msgid "Window Types"
 msgstr "Tipos de Fiestras"
 
 #, fuzzy
-msgid "Windows which should become ghosts"
+msgid "Windows which should dodge"
 msgstr "Tipos de xanelas a excluír do modo mosaico"
 
 #, fuzzy
-msgid "Ghost Active Window"
-msgstr "Activar xanela"
+msgid "Select Window"
+msgstr "Seleccionar unha Soa Fiestra"
 
-msgid "Whether a ghosted active window will accept input or not"
+#, fuzzy
+msgid "Mark the active window so it will dodge"
+msgstr "Cor da profundidade dunha xanela activa"
+
+#, fuzzy
+msgid "Dodge Model"
+msgstr "Modelos 3D"
+
+msgid "What model Dodge should use when dodging"
 msgstr ""
 
 #, fuzzy
-msgid "Fade windows only on mousover"
-msgstr "Definir xanela como imposíbel de mover"
-
-msgid ""
-"Whether a ghosted window will always be faded or only when the cursor is "
-"over it"
-msgstr ""
+msgid "Simple Avoid"
+msgstr "Simples"
 
 #, fuzzy
-msgid "The Opacity of Ghosted Windows"
-msgstr "Opacidade das xanelas seleccionadas"
-
-#, fuzzy
-msgid "The Saturation of Ghosted Windows"
-msgstr "Contrastes das xanelas seleccionadas"
-
-#, fuzzy
-msgid "The Brightness of Ghosted Windows"
-msgstr "Brillo das xanelas seleccionadas"
-
-msgid "Mouse switch"
-msgstr "Interruptor do Rato"
-
-msgid "Switch viewport in response to mouse gesture"
-msgstr "Trocar escritorio en resposta a un xestos do rato"
-
-msgid "Begin Gesture"
-msgstr "Comezo de Xesto"
-
-msgid "Begin Mouse Gesture"
-msgstr "Comezo do Xesto do Rato"
-
-msgid "Photowheel"
-msgstr ""
-
-#, fuzzy
-msgid "Render photo turn wheel inside of the transparent cube"
-msgstr "Mostra engrenaxes dentro do cubo transparente"
-
-#, fuzzy
-msgid "Photo Textures"
-msgstr "Texturas da Neve"
-
-#, fuzzy
-msgid "Photo textures"
-msgstr "Texturas da neve"
-
-msgid "Height"
-msgstr "Altura"
-
-msgid "Width"
-msgstr "Ancho"
-
-#, fuzzy
-msgid "X Offset"
-msgstr "Desvío X da Estrela"
-
-msgid "X Offset (this is width)"
-msgstr ""
-
-#, fuzzy
-msgid "Y Offset"
-msgstr "Desvío Y da Estrela"
-
-msgid "Y Offset (this is height)"
-msgstr ""
-
-#, fuzzy
-msgid "Z Offset"
-msgstr "Desvío X da Estrela"
-
-msgid "Z Offset (this is depth)"
-msgstr ""
-
-msgid "Rotate Around Axis"
-msgstr ""
-
-msgid "Otherwise rotate around its center of cube"
-msgstr ""
-
-#, fuzzy
-msgid "Top Color"
-msgstr "Cor da Cara Superior do Cubo"
-
-#, fuzzy
-msgid "Color of top face of the photo wheel"
-msgstr "Cor da cara superior do cubo"
-
-#, fuzzy
-msgid "Bottom Color"
-msgstr "Cor da Cara Inferior do Cubo"
-
-#, fuzzy
-msgid "Color of bottom face of the photo wheel"
-msgstr "Cor da cara inferior do cubo"
-
-msgid "Backface Culling"
-msgstr ""
-
-#, fuzzy
-msgid "Enable backface culling"
-msgstr "Activar seguimento de foco"
-
-msgid "Put Plus"
-msgstr ""
-
-#, fuzzy
-msgid "Put Plus window"
-msgstr "Colocar a xanela"
-
-msgid "Put On Viewport"
-msgstr "Colocar no Escritorio"
-
-msgid "Move window to a certain viewport"
-msgstr "Mover xanela a un escritorio determinado"
-
-msgid "Bindings"
-msgstr "Atallos"
-
-msgid "Put to arbitrary viewport"
-msgstr "Colocar nun escritorio arbitrario"
-
-msgid "Put On Viewport 1"
-msgstr "Colocar no Escritorio 1"
-
-msgid "Move window to viewport 1"
-msgstr "Mover xanela ao escritorio 1"
-
-msgid "Put On Viewport 2"
-msgstr "Colocar no Escritorio 2"
-
-msgid "Move window to viewport 2"
-msgstr "Mover xanela ao escritorio 2"
-
-msgid "Put On Viewport 3"
-msgstr "Colocar no Escritorio 3"
-
-msgid "Move window to viewport 3"
-msgstr "Mover xanela ao escritorio 3"
-
-msgid "Put On Viewport 4"
-msgstr "Colocar no Escritorio 4"
-
-msgid "Move window to viewport 4"
-msgstr "Mover xanela ao escritorio 4"
-
-msgid "Put On Viewport 5"
-msgstr "Colocar no Escritorio 5"
-
-msgid "Move window to viewport 5"
-msgstr "Mover xanela ao escritorio 5"
-
-msgid "Put On Viewport 6"
-msgstr "Colocar no Escritorio 6"
-
-msgid "Move window to viewport 6"
-msgstr "Mover xanela ao escritorio 6"
-
-msgid "Put On Viewport 7"
-msgstr "Colocar no Escritorio 7"
-
-msgid "Move window to viewport 7"
-msgstr "Mover xanela ao escritorio 7"
-
-msgid "Put On Viewport 8"
-msgstr "Colocar no Escritorio 8"
-
-msgid "Move window to viewport 8"
-msgstr "Mover xanela ao escritorio 8"
-
-msgid "Put On Viewport 9"
-msgstr "Colocar no Escritorio 10"
-
-msgid "Move window to viewport 9"
-msgstr "Mover xanela ao escritorio 9"
-
-msgid "Put On Viewport 10"
-msgstr "Colocar no Escritorio 10"
-
-msgid "Move window to viewport 10"
-msgstr "Mover xanela ao escritorio 10"
-
-msgid "Put On Viewport 11"
-msgstr "Colocar no Escritorio 11"
-
-msgid "Move window to viewport 11"
-msgstr "Mover xanela ao escritorio 11"
-
-msgid "Put On Viewport 12"
-msgstr "Colocar no Escritorio 12"
-
-msgid "Move window to viewport 12"
-msgstr "Mover xanela ao escritorio 12"
-
-msgid "Put to adjacent viewport"
-msgstr "Colocar no Escritorio adxacente"
-
-msgid "Viewport Left"
-msgstr "Escritorio da Esquerda"
-
-msgid "Move window to the viewport on the left"
-msgstr "Mover xanela ao escritorio da esquerda"
-
-msgid "Viewport Right"
-msgstr "Escritorio da Dereita"
-
-msgid "Move window to the viewport on the right"
-msgstr "Mover xanela ao escritorio da dereita"
-
-msgid "Viewport Top"
-msgstr "Escritorio de arriba"
-
-msgid "Move window to the viewport on the top"
-msgstr "Mover xanela ao escritorio de arriba"
-
-msgid "Viewport Bottom"
-msgstr "Escritorio do Fondo"
-
-msgid "Move window to the viewport on the bottom"
-msgstr "Mover xanela ao escritorio de abaixo"
-
-msgid "Put within viewport"
-msgstr "Colocar dentro do escritorio"
-
-msgid "Put Center"
-msgstr "Colocar no Centro"
-
-msgid "Move window to the center"
-msgstr "Mover xanela para o centro"
-
-msgid "Put Left"
-msgstr "Colocar na Esquerda"
-
-msgid "Move window to the left edge"
-msgstr "Mover xanela para a marxe esquerda"
-
-msgid "Put Right"
-msgstr "Colocar na Dereita"
-
-msgid "Move window to the right edge"
-msgstr "Mover xanela para a marxe dereita"
-
-msgid "Put Top"
-msgstr "Colocar no Cimo"
-
-msgid "Move window to the top edge"
-msgstr "Mover xanela para a marxe de cima"
-
-msgid "Put Bottom"
-msgstr "Colocar abaixo"
-
-msgid "Move window to the bottom edge"
-msgstr "Mover xanela para a marxe de abaixo"
-
-msgid "Put Top Left"
-msgstr "Colocar Canto Superior Esquerdo"
-
-msgid "Move window to the top left corner"
-msgstr "Mover xanela para o canto superior esquerdo"
-
-msgid "Put Top Right"
-msgstr "Colocar Canto Superior Dereito"
-
-msgid "Move window to the top right corner"
-msgstr "Mover xanela para o canto superior dereito"
-
-msgid "Put Bottom Left"
-msgstr "Colocar abaixo á Esquerda"
-
-msgid "Move window to the bottom left corner"
-msgstr "Mover xanela para o canto inferior esquerdo"
-
-msgid "Put Bottom Right"
-msgstr "Colocar abaixo á Dereita"
-
-msgid "Move window to the bottom right corner"
-msgstr "Mover xanela para o canto inferior dereito"
-
-msgid "Put on empty regions"
-msgstr ""
-
-msgid "Restore Position"
+msgid "Return to position"
 msgstr "Restaurar a Posición"
 
-msgid "Move window to the last position"
-msgstr "Mover xanela á última posición"
+#, fuzzy
+msgid "Off Screen"
+msgstr "Evitar Posicionamento Fora Pantalla"
 
-msgid "Put Pointer"
-msgstr "Colocar no Punteiro"
+#, fuzzy
+msgid "Dodge the active window"
+msgstr "Xirar as xanelas inactivas"
 
-msgid "Move window to the pointer position"
-msgstr "Mover xanela para a posición do cursor"
+#, fuzzy
+msgid "Controls whether the active window will be dodged"
+msgstr "Cor da profundidade dunha xanela activa"
 
-msgid "Put"
-msgstr "Posicionamento"
+#, fuzzy
+msgid "Spring K"
+msgstr "Constante K da mola"
 
-msgid "Move window arbitrarily by passing x, y and type."
-msgstr "Mover a xanela arbitrariamente pasando x, y e o tipo."
+#, fuzzy
+msgid "Spring Stiffness"
+msgstr "Elasticidade do Zoom"
 
-msgid "Misc. Options"
-msgstr "Opcións varias"
+#, fuzzy
+msgid "Friction"
+msgstr "Dirección do lume"
 
 msgid "Padding"
 msgstr "Movemento"
 
-msgid "Pad Left"
-msgstr "Mover á Esquerda"
-
-msgid "Number of pixels from the left edge where the window will come to rest"
-msgstr ""
-"Número de píxeles da marxe do lado esquerdo da pantalla en que a xanela "
-"parará"
-
-msgid "Pad Right"
-msgstr "Mover á Dereita"
-
-msgid "Number of pixels from the right edge where the window will come to rest"
-msgstr ""
-"Número de píxeles da marxe do lado dereito da pantalla onde a xanela parará"
-
-msgid "Pad Top"
-msgstr "Mover Arriba"
-
-msgid "Number of pixels from the top edge where the window will come to rest"
-msgstr ""
-"Número de píxeles dende a marxe de arriba da pantalla onde a xanela parará"
-
-msgid "Pad Bottom"
-msgstr "Mover Abaixo"
-
-msgid ""
-"Number of pixels from the bottom edge where the window will come to rest"
-msgstr ""
-"Número de píxeles dende marxe de abaixo da pantalla onde a xanela parará"
-
-msgid "Unfocus Window"
-msgstr "Desenfocar a xanela"
-
-msgid "Unfocus windows that are moved off the viewport"
-msgstr "Desenfocar xanelas que son movidas para fora do escritorio"
-
-msgid "Window Center"
-msgstr "Centro da xanela"
-
-msgid "Put pointer uses the center of the window"
-msgstr "O cursor de Colocar usa o centro da xanela como referencia"
-
-msgid "Avoid Offscreen"
-msgstr "Evitar Posicionamento Fora Pantalla"
-
-msgid "Avoids putting window borders offscreen"
-msgstr "Evita colocar as marxes das xanelas fora da pantalla"
-
-msgid "Animation"
-msgstr "Animación"
-
-msgid "Animation speed"
-msgstr "Velocidade da animación"
-
-msgid "Timestep"
-msgstr "Espazo de tempo"
-
-msgid "Animation timestep"
-msgstr "Salto de Tempo da animación"
+#, fuzzy
+msgid "Padding around windows"
+msgstr "Desagrupar Fiestras"
 
 #, fuzzy
-msgid "Screen Saver"
-msgstr "Profundidade da pantalla"
+msgid "Lightning Bolts"
+msgstr "Iluminación"
+
+msgid "Lightning bolts between your cursor and the nearest window"
+msgstr ""
 
 msgid "Initiate"
 msgstr "Iniciar"
 
-msgid "Start and stop the screensaver"
-msgstr ""
+#, fuzzy
+msgid "Start flash"
+msgstr "Iniciar pantalla de logotipo."
 
 #, fuzzy
-msgid "Screensaver mode"
-msgstr "Marxes da pantalla"
+msgid "Distance max"
+msgstr "Distancia"
 
 #, fuzzy
-msgid "Screensaver mode."
-msgstr "Modo do alternador."
-
-#, fuzzy
-msgid "Start Automatically"
-msgstr "Automático"
-
-#, fuzzy
-msgid "Start Automatically."
-msgstr "Automático"
-
-msgid "After (min)"
-msgstr ""
-
-msgid "After (min)."
-msgstr ""
-
-#, fuzzy
-msgid "Fade In duration (sec)"
-msgstr "Duración Desvanecemento"
-
-#, fuzzy
-msgid "Fade In duration (sec)."
-msgstr "Duración do desvanecemento en segundos."
-
-#, fuzzy
-msgid "Fade Out duration (sec)"
-msgstr "Duración Desvanecemento"
-
-#, fuzzy
-msgid "Fade Out duration (sec)."
-msgstr "Duración do desvanecemento en segundos."
-
-#, fuzzy
-msgid "Flying windows"
-msgstr "Fiestras Anel"
-
-#, fuzzy
-msgid "ScreenSaver Windows"
-msgstr "Debuxar Sobre Fiestras"
-
-msgid ":)"
-msgstr ""
-
-msgid "Generate mipmaps"
-msgstr "Crear Mipmaps"
-
-#, fuzzy
-msgid "Attraction Depth"
-msgstr "Distancia da Atracción á Marxe"
-
-#, fuzzy
-msgid "Attraction Depth."
-msgstr "Distancia da Atracción á Marxe"
-
-msgid "Attraction/Repulsion ratio"
-msgstr ""
-
-msgid "Attraction/Repulsion ratio."
-msgstr ""
-
-msgid ""
-"Make windows bounce on the floor, still buggy, but essential with cube "
-"reflexion."
-msgstr ""
-
-#, fuzzy
-msgid "Rotating cube"
-msgstr "Ratio de Rotación"
-
-#, fuzzy
-msgid "Cube rotation speed"
-msgstr "Velocidade da Rotación"
-
-msgid "Zoom"
-msgstr "Zoom"
-
-msgid "Smart Put"
-msgstr ""
-
-#, fuzzy
-msgid "Smart way to fit windows."
-msgstr "Contrastes das xanelas seleccionadas"
-
-msgid "Apply Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current window."
-msgstr ""
-
-msgid "Initiate Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current viewport"
-msgstr ""
-
-msgid "Smart Put!!!"
-msgstr ""
-
-msgid "Undo Smart Put on last \"smartputed\" window"
-msgstr ""
-
-msgid "Undo!!!"
-msgstr ""
-
-msgid "Also use apply-key to undo"
-msgstr ""
-
-msgid "If set, you can also use the same key for undo as you use for applying."
-msgstr ""
-
-msgid "Options"
-msgstr "Opcións"
-
-#, fuzzy
-msgid "Allow stack windows"
-msgstr "Tódalas xanelas"
-
-msgid "Stack windows on each other if there is no place left to place them."
-msgstr ""
-
-#, fuzzy
-msgid "Allow windows shrink"
-msgstr "Tódalas xanelas"
-
-msgid "Just place the window when the new size is larger than the old one."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window height"
-msgstr "Debuxar realce da xanela"
-
-msgid "Minimal height that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window width"
-msgstr "Tamaño máximo da xanela"
-
-msgid "Minimal width that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Window margin"
-msgstr "Tipos de xanelas"
-
-#, fuzzy
-msgid "The distance between windows."
+msgid "Distance max between pointer and active window."
 msgstr "Distancia entre escritorios"
 
-msgid "Snow for Compiz"
-msgstr "Snow para Compiz"
+msgid "Digression max"
+msgstr ""
+
+msgid "Digression max between pointer's projection and lightning's impact."
+msgstr ""
+
+msgid "Minimum interval between two lightning"
+msgstr ""
+
+msgid "Interval in milliseconde between two lightning"
+msgstr ""
+
+#, fuzzy
+msgid "Time of lightnings"
+msgstr "Rotación de iluminación"
+
+msgid "Time in milliseconds of lightnings"
+msgstr ""
+
+msgid "Side of lightnings color"
+msgstr ""
+
+msgid "Middle of lightnings color"
+msgstr ""
+
+msgid "The other side of lightnings color"
+msgstr ""
+
+#, fuzzy
+msgid "The window types that lightning bolts will hit"
+msgstr "Fiestras que serán animadas."
+
+#, fuzzy
+msgid "HeadTracking"
+msgstr "Seguemento do Foco"
 
 msgid ""
-"How far outside the screen resolution snow flakes can be before being "
-"removed. Needed because of FOV."
-msgstr ""
-"Ata quón lonxe da resolución da pantalla os flocos de neve poden estar antes "
-"de desapareceren. Necesario por causa do campo de visión."
-
-msgid "Snow Over Windows"
-msgstr "Neve por arriba das Fiestras"
-
-msgid "Snow is drawn above windows"
-msgstr "A Neve é mostrada por cima das xanelas"
-
-msgid "Rotate Flakes"
-msgstr "Rotar folerpas"
-
-msgid "Flakes rotate if checked."
-msgstr "Flocos rodan se activado."
-
-msgid "Enable snow by default."
+"Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
 msgstr ""
 
-msgid "Enables alpha blending of snowflakes."
-msgstr "Activa mistura alfa dos flocos de neve."
-
-msgid "Enables textured snowflakes. If not selected, color gradients are used."
-msgstr ""
-"Activa texturas dos flocos de neve. Se non estivera seleccionado, serán "
-"usados gradientes de cores."
-
-msgid "Snow Toggle"
-msgstr "Trocar Neve"
-
-msgid "Snow toggle key"
-msgstr "Tecla para trocar a activación da Neve"
-
 #, fuzzy
-msgid "Maximum number of snowflakes."
-msgstr "Número de flocos de neve"
-
-#, fuzzy
-msgid "Size of snowflakes."
-msgstr "Tamaño dos flocos de neve"
-
-#, fuzzy
-msgid "Size of snowman"
-msgstr "Tamaño dos flocos de neve"
-
-#, fuzzy
-msgid "Size of snowman inside the cube."
-msgstr "Renderizar auga dentro do cubo"
-
-msgid "Stack Window Switcher"
-msgstr "Pila do Trocador de Fiestras"
-
-msgid "Key bindings"
+msgid "Keybindings"
 msgstr "Atallos de teclado"
 
-msgid "Next Window"
-msgstr "Seguinte Fiestra"
+#, fuzzy
+msgid "Move Window Closer"
+msgstr "Mover xanela ao escritorio 1"
 
-msgid "Show switcher if not visible and select next window."
-msgstr "Mostrar anel se non estivera visíbel e seleccionar a próxima xanela."
-
-msgid "Previous Window"
-msgstr "Fiestra Anterior"
-
-msgid "Show switcher if not visible and select previous window."
-msgstr "Mostrar anel se non estivera visíbel e seleccionar a xanela anterior."
-
-msgid "Next Window (All Workspaces)"
-msgstr "Seguinte Fiestra (Todolos Espazos de Traballo)"
-
-msgid "Show switcher if not visible and select next window out of all windows."
+msgid "Manually move a window closer. Z-depth is ignored"
 msgstr ""
-"Mostrar anel, se non estivera visíbel, e selecionar próxima xanela de todas "
-"as xanelas."
 
-msgid "Previous Window (All Workspaces)"
-msgstr "Fiestra Anterior (Todolos Espazos de Traballo)"
+#, fuzzy
+msgid "Move Window Away"
+msgstr "Retraso da Fiestra Popup"
+
+msgid "Manually move a window further out. Z-depth is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "Reset Window Depth"
+msgstr "Profundidade da Fiestra"
+
+#, fuzzy
+msgid "Reset the window's depth so it uses Z level"
+msgstr "Adequar dimensión da xanela para o nivel de zoom"
+
+#, fuzzy
+msgid "Debugging"
+msgstr "Depuración"
+
+#, fuzzy
+msgid "Enable debugging keys"
+msgstr "Activar Mistura"
+
+msgid "Enable the debugging key combinations"
+msgstr ""
+
+msgid "Camera up"
+msgstr ""
+
+msgid "Manually move camera up"
+msgstr ""
+
+#, fuzzy
+msgid "Camera down"
+msgstr "Mover cara abaixo"
+
+msgid "Manually move camera down"
+msgstr ""
+
+msgid "Camera left"
+msgstr ""
+
+msgid "Manually move camera left"
+msgstr ""
+
+#, fuzzy
+msgid "Camera right"
+msgstr "Trocar para a lapela da dereita"
+
+#, fuzzy
+msgid "Manually move camera right"
+msgstr "Percorrer (mover) a área magnificada cara a dereita"
+
+msgid "Camera in"
+msgstr ""
+
+msgid "Manually move camera closer to screen"
+msgstr ""
+
+msgid "Camera out"
+msgstr ""
+
+msgid "Manually move camera away from screen"
+msgstr ""
+
+msgid "Camera reset"
+msgstr ""
+
+msgid "Reset camera to default head position"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle mouse tracking"
+msgstr "Trocar filtro da pantalla"
+
+#, fuzzy
+msgid "Toggle mouse tracking on and off"
+msgstr "Trocar efecto de Distorsión durante Movemento."
+
+msgid "Window depth"
+msgstr "Profundidade da xanela"
+
+msgid "How far apart windows are when stacked based on Z level"
+msgstr ""
+
+#, fuzzy
+msgid "Stack Padding"
+msgstr "Movemento"
+
+msgid "Make your windows pop out this far from the screen. 100 is cube size"
+msgstr ""
+
+#, fuzzy
+msgid "Enable WII Tracking"
+msgstr "Activar seguimento de foco"
 
 msgid ""
-"Show switcher if not visible and select previous window out of all windows."
+"Enable tracking using JCL's algorithm. You must have wiimote enabled to use "
+"this."
 msgstr ""
-"Mostrar anel, se non estivera visíbel, e selecionar xanela anterior de todas "
-"as xanelas"
 
-msgid "Next Window (Group)"
-msgstr "Seguinte xanela (Grupo)"
+#, fuzzy
+msgid "Enable Webcam Tracking"
+msgstr "Activar seguimento de foco"
 
 msgid ""
-"Show switcher if not visible and select next window of the current "
-"application."
+"Enable tracking using JCL's algorithm. You must have webcam enabled to use "
+"this."
 msgstr ""
-"Mostar anel se non visíbel e seleccionar a próxima xanela da aplicación "
-"actual."
 
-msgid "Previous Window (Group)"
-msgstr "Fiestra Anterior (Grupo)"
+msgid "Fade Time"
+msgstr "Tempo de desvanecemento"
 
-msgid ""
-"Show switcher if not visible and select previous window of the current "
-"application."
+msgid "Length of animation for 3d window stacking z-order changes"
 msgstr ""
-"Mostar anel se non visíbel e seleccionar a xanela anterior da aplicación "
-"actual."
 
-msgid "Behavior"
-msgstr "Comportamento"
+#, fuzzy
+msgid "Calibration"
+msgstr "Duración do prema"
 
-msgid "Inactive Window Opacity"
-msgstr "Opacidade da Fiestra Inactiva"
-
-msgid ""
-"Amount of opacity (in percent) for windows in the switcher which are not "
-"selected"
+msgid "WiiMote or Cam Above Screen"
 msgstr ""
-"Nivel de opacidade (en porcentaxe) para xanelas no anel que non están "
-"seleccionadas"
 
-msgid "Rotate inactive windows"
+msgid "Enable this if your Wiimote or your Webcam is above your screen."
+msgstr ""
+
+#, fuzzy
+msgid "Height adjustment"
+msgstr "Valores de Altura"
+
+msgid "Use this to adjust the head height"
+msgstr ""
+
+#, fuzzy
+msgid "Sensor Bar Width"
+msgstr "Ancho da marxe"
+
+msgid "Use this to adjust your distance from the screen"
+msgstr ""
+
+msgid "Wiimote or Cam Vertical Angle"
+msgstr ""
+
+msgid "Angle of wiimote or webcam in radians * 100"
+msgstr ""
+
+msgid "Webcam"
+msgstr ""
+
+msgid "Avoid jumpings and trembling"
+msgstr ""
+
+msgid "Use this if the windows are unstable when you don't move your head"
+msgstr ""
+
+#, fuzzy
+msgid "Smoothen the movements"
+msgstr "Movemento da Área de Zoom"
+
+msgid "Use this if the windows are jumping brutally"
+msgstr ""
+
+#, fuzzy
+msgid "Camera move increment"
+msgstr "Reducción á pantalla"
+
+msgid "How far to move the camera on one key press"
+msgstr ""
+
+msgid "Mouse Screen Percentage"
+msgstr ""
+
+msgid "How much of the screen represents the actual screen. 100 is \"exact\""
+msgstr ""
+
+#, fuzzy
+msgid "Lazy Pointer"
+msgstr "Colocar no Punteiro"
+
+#, fuzzy
+msgid "Warp the pointer around the screen on window events"
+msgstr "O cursor de Colocar usa o centro da xanela como referencia"
+
+#, fuzzy
+msgid "Center Mouse on Focussed Window"
+msgstr "Nivel de Brillo das xanelas enfocadas"
+
+msgid "Center the mouse in the middle of a window when it is focussed"
+msgstr ""
+
+#, fuzzy
+msgid "Center Mouse on Activated Window"
+msgstr "Activar xanela"
+
+msgid "Center the mouse in the middle of a window when it is activated"
+msgstr ""
+
+msgid "Center Mouse on Placed Window"
+msgstr ""
+
+msgid "Center the mouse in the middle of a window when it is placed"
+msgstr ""
+
+#, fuzzy
+msgid "Cursor Movement speed"
+msgstr "Velocidade do movemento da xanela"
+
+msgid "How fast the cursor should move when animated"
+msgstr ""
+
+#, fuzzy
+msgid "Center the mouse in a window"
+msgstr "Centrar o rato"
+
+#, fuzzy
+msgid "Center the mouse in the activated window"
 msgstr "Xirar as xanelas inactivas"
 
-msgid "Should not selected windows be rotated"
-msgstr "Non se deben xirar as xanelas seleccionadas"
+#, fuzzy
+msgid "Center the mouse in a screen"
+msgstr "Centrado na pantalla "
 
-msgid "Windows"
-msgstr "Fiestras"
-
-msgid "Windows that should be shown in the switcher"
-msgstr "Fiestras que se deben mostrar no trocador"
-
-msgid "Darken Background"
-msgstr "Escurecer Fondo"
-
-msgid "Darken background when showing the stack"
-msgstr "Escurecer fondo cando se mostre a pila"
-
-msgid "Show Minimized"
-msgstr "Mostrar Fiestras Minimizadas"
-
-msgid "Show windows that are minimized, shaded or in show desktop mode."
+msgid "Center the mouse in the activated screen"
 msgstr ""
-"Mostrar xanelas que están minimizadas, sombreadas ou en modo mostrar "
-"escritorio."
-
-msgid "Tilt"
-msgstr "Inclinación"
-
-msgid "Tilt angle of the background."
-msgstr "Ángulo de inclinación do fondo."
-
-msgid "Window title display"
-msgstr "Mostrar título da xanela"
-
-msgid "Show Window Title"
-msgstr "Mostrar Título Fiestras"
-
-msgid "Show window title of currently selected window."
-msgstr "Mostrar título da xanela actualmente seleccionada."
-
-msgid "Bold Font"
-msgstr "Fonte en Negriña"
-
-msgid "Selects if the window title should be displayed in bold font or not."
-msgstr "Selecciona se o título da xanela debe ser mostrada a negrito ou non."
 
 #, fuzzy
-msgid "Font Family"
-msgstr "Tamaño da fonte"
+msgid "Move pointer left"
+msgstr "Mover cara a esquerda"
+
+msgid "Move the pointer left by specified amount"
+msgstr ""
 
 #, fuzzy
-msgid "Font family for the window title"
-msgstr "Tamaño da fonte para o título da xanela"
+msgid "Move pointer right"
+msgstr "Mover cara a dereita"
+
+msgid "Move the pointer right by specified amount"
+msgstr ""
+
+#, fuzzy
+msgid "Move pointer up"
+msgstr "Mover ao longo do muro cara arriba"
+
+#, fuzzy
+msgid "Move the pointer up by specified amount"
+msgstr "Mover xanela para a posición do cursor"
+
+#, fuzzy
+msgid "Move pointer down"
+msgstr "Mover cara abaixo"
+
+#, fuzzy
+msgid "Move the pointer down by specified amount"
+msgstr "Mover xanela para a posición do cursor"
+
+msgid "Maze"
+msgstr ""
+
+#, fuzzy
+msgid "Render a maze inside of the transparent cube"
+msgstr "Mostra algúns animais do mar dentro do cubo transparente"
+
+#, fuzzy
+msgid "Max Speed"
+msgstr "Extensión de Folla"
+
+msgid "Maximum velocity the ball is allowed to travel at."
+msgstr ""
+
+#, fuzzy
+msgid "Scale"
+msgstr "Escalado"
+
+#, fuzzy
+msgid "Scale the maze size up or down."
+msgstr "Escalar o punteiro do rato"
+
+msgid "Height"
+msgstr "Altura"
+
+#, fuzzy
+msgid "Where to place the maze within the cube"
+msgstr "Selecciona onde posicionar o título da xanela."
+
+#, fuzzy
+msgid "Top Colour"
+msgstr "Cor da Cara Superior do Cubo"
+
+msgid "Colour to display on top"
+msgstr ""
+
+#, fuzzy
+msgid "Bottom Colour"
+msgstr "Cor da Cara Inferior do Cubo"
+
+#, fuzzy
+msgid "Colour to display on the bottom"
+msgstr "Por canto tempo amosar o título (en ms)"
+
+#, fuzzy
+msgid "North Face Colour"
+msgstr "Cor das partículas"
+
+msgid "Colour to display on the north face"
+msgstr ""
+
+#, fuzzy
+msgid "East Face Colour"
+msgstr "Cor Base"
+
+msgid "Colour to display on the east face wall"
+msgstr ""
+
+#, fuzzy
+msgid "South Face Colour"
+msgstr "Cor da sombra"
+
+msgid "Colour to display on the south face wall"
+msgstr ""
+
+#, fuzzy
+msgid "West Face Colour"
+msgstr "Cor das partículas"
+
+msgid "Colour to display on the west face wall"
+msgstr ""
+
+#, fuzzy
+msgid "First Ball Colour"
+msgstr "Cor das partículas"
+
+#, fuzzy
+msgid "First colour to draw the ball in"
+msgstr "Primeira cor da seta da xanela do switcher."
+
+#, fuzzy
+msgid "Second Ball Colour"
+msgstr "Segunda cor de degradado."
+
+#, fuzzy
+msgid "Second colour to draw the ball in"
+msgstr "Segunda color of the arrow of the switcher window."
+
+#, fuzzy
+msgid "Border Colour"
+msgstr "Cor do bordo"
+
+msgid "Colour to draw the surrounding border in"
+msgstr ""
+
+msgid "Mousegestures"
+msgstr "Xestos do rato"
+
+msgid "Assign mousegestures to any existing action"
+msgstr "Asigna xestos de rato a calquera acción existe"
+
+msgid "Bindings"
+msgstr "Atallos"
+
+#, fuzzy
+msgid "Start gesture"
+msgstr "Texturas da Neve"
+
+msgid "Gestures"
+msgstr "Xestos"
+
+msgid "Detect Diagonal Movements"
+msgstr "Detectar Movementos Diagonais"
+
+msgid ""
+"If this option is selected, diagonal movements are detected, which may lead "
+"to a decreased detection accuracy."
+msgstr ""
+"Se esta opción está seleccionada, detectaranse os movementos, o que pode "
+"causar a redución de exactitude de detección."
+
+msgid "Gesture assignment"
+msgstr "Asignación de Xestos"
+
+msgid "Gesture"
+msgstr "Xesto"
+
+msgid "Mouse gesture to assign an action to."
+msgstr "Xestos do rato para asignar unha acción"
+
+msgid "Plugin"
+msgstr "Complemento"
+
+msgid "Plugin the action belongs to."
+msgstr "Complemento ó que pertence a acción."
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Action that is to be invoked."
+msgstr "Acción que ten que invocada"
+
+msgid "Newton"
+msgstr ""
+
+msgid ""
+"Creates iconified windows that can be selected to select the main window and "
+"are affected by physics."
+msgstr ""
+
+#, fuzzy
+msgid "Trigger Physics on the window"
+msgstr "Activar reducción"
+
+msgid "Toggle physics on the selected window."
+msgstr ""
+
+#, fuzzy
+msgid "Trigger rotation on the window"
+msgstr "Contrastes das xanelas seleccionadas"
+
+#, fuzzy
+msgid "Toggle rotation on the selected window."
+msgstr "Contrastes das xanelas seleccionadas"
+
+msgid "Invert mouse attraction/repulsion"
+msgstr ""
+
+msgid "Inverts mouse attraction or repulsion."
+msgstr ""
+
+#, fuzzy
+msgid "Detach the window"
+msgstr "Trocador de xanelas"
+
+#, fuzzy
+msgid "Detaches the window from the desktop."
+msgstr "Trocar filtro de tódalas xanelas da pantalla."
+
+#, fuzzy
+msgid "Attach the window"
+msgstr "Trocador de xanelas"
+
+#, fuzzy
+msgid "Attaches the window to the desktop."
+msgstr "Trocar filtro de tódalas xanelas da pantalla."
+
+msgid "Bounce elasticity"
+msgstr ""
+
+msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
+msgstr ""
+
+#, fuzzy
+msgid "Fluid friction"
+msgstr "Fricción de arrastramento"
+
+msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
+msgstr ""
+
+#, fuzzy
+msgid "Gravity"
+msgstr "Gravidade Y do Balanceo"
+
+msgid "Constant force."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction"
+msgstr "Atracción nas marxes"
+
+#, fuzzy
+msgid "Attracts/repels the windows to the mouse."
+msgstr "Adequar dimensión da xanela para o nivel de zoom"
+
+msgid "Attract by default"
+msgstr ""
+
+msgid ""
+"Attracts the windows to the mouse when the invert action key is not pressed."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction strength"
+msgstr "Forza da Distorsión durante Movemento."
+
+#, fuzzy
+msgid "Strength of the attraction/repulsion force."
+msgstr "Forza da deformación do modo curva"
+
+#, fuzzy
+msgid "Stop Hovered windows"
+msgstr "Fiestras filtradas"
+
+#, fuzzy
+msgid "Stops the windows under the pointer."
+msgstr "Mover xanela para o centro"
+
+msgid "Peek"
+msgstr ""
+
+#, fuzzy
+msgid "Show the window you are hovering hover in the taskbar"
+msgstr "Tamaño da fonte do título da xanela na barra das lapelas"
+
+msgid "Misc. Options"
+msgstr "Opcións varias"
+
+#, fuzzy
+msgid "Delay until Peeking"
+msgstr "Atraso ata Opacidade"
+
+#, fuzzy
+msgid "The delay (in ms) before Peek reveals the window you are hovering"
+msgstr ""
+"O atraso (en ms) antes de que Opacidade troque a opacidade despois cambiar "
+"da xanela activa."
+
+msgid "Window Match"
+msgstr "Coincidencia de Fiestra"
+
+#, fuzzy
+msgid "Windows that should become transparent"
+msgstr "Fiestras que se deben opacar."
+
+msgid "Opacity Levels"
+msgstr "Niveis de Opacidade"
+
+msgid "Active Opacity"
+msgstr "Opacidade Activa"
+
+msgid ""
+"The minimum opacity percentage to ensure a targeted window has. A target "
+"window will have either this opacity or the preset opacity, whichever is "
+"higher."
+msgstr ""
+"A porcentaxe mínima de opacidade que pode ter a xanela destino. A xanela "
+"terá o maior valor entre este valor ou o valor por omisión."
+
+msgid "Passive Opacity"
+msgstr "Opacidade Pasiva"
+
+msgid ""
+"The maximum opacity percentage a window blocking the current targeted window "
+"can have. A blocking window will have either this opacity or the preset "
+"opacity, whichever is lower."
+msgstr ""
+"A porcentaxe máxima de opacidade que pode ter que unha xanela que bloquea a "
+"xanela destino. Unha xanela que estea bloqueando terá o valor máis pequeno "
+"entre este valor ou o valor por omisión."
+
+#, fuzzy
+msgid "Taskbar only shows windows of current viewport"
+msgstr "Barra de tarefas Mostra Só Fiestras doescritorio Actual"
+
+#, fuzzy
+msgid "Only dim the windows that the taskbar shows as on the current viewport"
+msgstr ""
+"Seleccione se a Barra de tarefas mostra só Fiestras doescritorio Actual."
+
+msgid "Prompt"
+msgstr ""
+
+msgid "Compiz interface for the prompting the user."
+msgstr ""
+
+#, fuzzy
+msgid "Notification"
+msgstr "Notificacións de Erro"
+
+msgid "Font Color"
+msgstr "Cor da fonte"
+
+msgid "Font color for the window title"
+msgstr "Cor da fonte para o título da xanela"
 
 msgid "Font Size"
 msgstr "Tamaño da fonte"
@@ -2218,1000 +930,2555 @@ msgstr "Cor de fondo"
 msgid "Background color for the window title"
 msgstr "Cor de fondo para o título da xanela"
 
-msgid "Font Color"
-msgstr "Cor da fonte"
-
-msgid "Font color for the window title"
-msgstr "Cor da fonte para o título da xanela"
-
-msgid "Text Placement"
-msgstr "Colocación Texto"
-
-msgid "Selects where to place the window title."
-msgstr "Selecciona onde posicionar o título da xanela."
-
-msgid "On Thumbnail"
-msgstr "En Miniatura"
-
-msgid "Centered on screen"
-msgstr "Centrado na pantalla "
-
-msgid "Above"
-msgstr "Enriba"
-
-msgid "Below"
-msgstr "Por Baixo"
-
-#, fuzzy
-msgid "Stars for Compiz"
-msgstr "Snow para Compiz"
-
-#, fuzzy
-msgid "Number Of Stars"
-msgstr "Número De Partículas"
-
-#, fuzzy
-msgid "Maximum number of stars"
-msgstr "Número máximo de partículas activas."
-
-#, fuzzy
-msgid "Size Of Stars"
-msgstr "Tamaño das Folerpas de Neve"
-
-#, fuzzy
-msgid "Speed of traveling stars"
-msgstr "Velocidade dos flocos de neve"
-
-#, fuzzy
-msgid ""
-"How far outside the screen resolution stars can be before being removed. "
-"Needed because of FOV."
+msgid "Rubik's Cube"
 msgstr ""
-"Ata quón lonxe da resolución da pantalla os flocos de neve poden estar antes "
-"de desapareceren. Necesario por causa do campo de visión."
 
-#, fuzzy
-msgid "How deep into the screen stars can be drawn before being removed"
+msgid "Turn cube into a Rubik's cube"
 msgstr ""
-"Ata que profundidade da pantalla son debuxados os flocos de neve antes de "
-"que desaparezan"
 
 #, fuzzy
-msgid "Stars Over Windows"
-msgstr "Debuxar Sobre Fiestras"
+msgid "Toggle Rubik's cube"
+msgstr "Burbullas"
+
+msgid "Start/stop Rubik's cube effect."
+msgstr ""
+
+msgid "Speed factor"
+msgstr "Factor de zoom"
 
 #, fuzzy
-msgid "Stars are drawn above windows"
-msgstr "A Neve é mostrada por cima das xanelas"
+msgid "Multiply the speed of rotations by this factor."
+msgstr "Multiplicar a velocidade do peixe por este factor."
 
 #, fuzzy
-msgid "Rotate Flakes. Redundant"
+msgid "Rubik Size"
+msgstr "Tamaño da Miniatura"
+
+#, fuzzy
+msgid "Number of horizontal/vertical strips."
+msgstr "Número de dobras horizontais"
+
+#, fuzzy
+msgid "Rotate around all axes"
 msgstr "Rotar folerpas"
 
-#, fuzzy
-msgid "Snow Direction. Redundant"
-msgstr "Dirección da Neve"
+msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
+msgstr ""
 
-#, fuzzy
-msgid "Stars Textures"
-msgstr "Texturas da Neve"
-
-msgid "Images to use as 'stars'"
+msgid "On manual rotate"
 msgstr ""
 
 #, fuzzy
-msgid "Enables textures snowflakes. If not selected, color gradients are used."
-msgstr ""
-"Activa texturas dos flocos de neve. Se non estivera seleccionado, serán "
-"usados gradientes de cores."
+msgid "Enable effect only on cube rotate."
+msgstr "Deformar só co xiro do rato"
 
 #, fuzzy
-msgid "Stars Toggle"
-msgstr "Trocar Neve"
+msgid "Rotate desktop"
+msgstr "Mover á esquerda"
 
-#, fuzzy
-msgid "Stars toggle key"
-msgstr "Tecla para trocar a activación da Neve"
-
-#, fuzzy
-msgid "Static Windows"
-msgstr "Fiestras Fixas"
-
-msgid "Keep windows such as dock or panels static"
+msgid "Rotate desktop as well as windows."
 msgstr ""
 
-msgid "Window Match"
-msgstr "Coincidencia de Fiestra"
+#, fuzzy
+msgid "Colored Sides"
+msgstr "Brillo"
+
+msgid "Replace wallpaper with colored sides."
+msgstr ""
 
 #, fuzzy
-msgid "Windows that should be kept static during transformations."
-msgstr "Fiestras que non deben deslizarse na animación de tobogán"
+msgid "Enable Depth Test"
+msgstr "Activar Texturas"
 
 #, fuzzy
-msgid "Swap Windows"
-msgstr "Atracción de Fiestras"
+msgid "Hide windows that are behind other windows."
+msgstr "Desenfocar xanelas que son movidas para fora do escritorio"
 
-msgid "Next window"
-msgstr "Seguinte xanela"
+#, fuzzy
+msgid "Desktop caps"
+msgstr "Mural das Áreas de Traballo"
 
-msgid "Popup switcher if not visible and select next window"
+msgid "Display a desktop for each cap."
 msgstr ""
-"Amostrar trocador se non estivera visíbel e seleccionar a seguinte xanela."
 
-msgid "Prev window"
-msgstr "Fiestra Ant."
-
-msgid "Popup switcher if not visible and select previous window"
-msgstr "Amosar anel se non estivera visíbel e seleccionar a xanela anterior"
-
-msgid "Next window (All windows)"
-msgstr "Seguinte Fiestra"
-
-msgid "Popup switcher if not visible and select next window out of all windows"
+msgid "Visual Event"
 msgstr ""
-"Amosar anel, se non estivera visíbel, e selecionar próxima xanela de todas "
-"as xanelas."
 
-msgid "Prev window (All windows)"
-msgstr "Fiestra Ant. (Todos as xanelas)"
+msgid "Display information when various input events are raised"
+msgstr ""
 
+#, fuzzy
+msgid "Behaviour"
+msgstr "Comportamento"
+
+msgid "Key/Button Release Timeout"
+msgstr ""
+
+#, fuzzy
 msgid ""
-"Popup switcher if not visible and select previous window out of all windows"
+"Duration (in s) a key or button should remain visually pressed after being "
+"released."
 msgstr ""
-"Amosar trocador, se non estivera visíbel, e selecionar xanela anterior de "
-"todas as xanelas"
+"Duración (en s) que a vista previa do alvo do switch deberá permanecer "
+"visíbel despois terminar o modo de switch."
 
-msgid "Next window (Group)"
-msgstr "Seguinte xanela (Grupo)"
+msgid "Key bindings"
+msgstr "Atallos de teclado"
 
-msgid ""
-"Popup switcher if not visible and select next window of the current "
-"application."
-msgstr ""
-"Amosar anel se non visíbel e seleccionar a próxima xanela da aplicación "
-"actual."
+#, fuzzy
+msgid "Toggle display"
+msgstr "Trocar Mostrar Widget"
 
-msgid "Prev window (Group)"
-msgstr "Fiestra Ant. (Grupo)"
-
-msgid ""
-"Popup switcher if not visible and select previous window of the current "
-"application."
-msgstr ""
-"Mostar anel se non é visíbel e seleccionar a xanela anterior da aplicación "
-"actual."
-
-msgid "Next window (No popup)"
-msgstr "Seguinte xanela (Grupo)"
-
-msgid "Select next window without showing the popup window."
-msgstr "Seleccionar a seguinte xanela sen amosar a xanela popup"
-
-msgid "Prev window (No popup)"
-msgstr "Fiestra Ant. (Grupo)"
-
-msgid "Select previous window without showing the popup window."
-msgstr "Seleccionar as xanelas anteriores sen amosar a xanela popup."
-
-msgid "Next Panel"
-msgstr "Seg. Panel"
-
-msgid "Select next panel type window."
-msgstr "Seleccionar a seguinte xanela de tipo panel."
-
-msgid "Prev Panel"
-msgstr "Ant. Panel"
-
-msgid "Select previous panel type window."
-msgstr "Selecciona a xanela anterior de tipo panel."
-
-msgid "Switcher speed"
-msgstr "Velocidade de Trocador"
-
-msgid "Switcher timestep"
-msgstr "Salto de tempo do trocador"
-
-msgid "Switcher windows"
-msgstr "Trocador de xanelas"
-
-msgid "Windows that should be shown in switcher"
-msgstr "Fiestras que se deben mostrar no trocador"
-
-msgid "Show minimized windows"
-msgstr "Amosar xanelas minimizadas"
-
-msgid "Auto Change Viewport"
-msgstr "Cambiar automáticamente o Escritorio"
-
-msgid "Change to the viewport of the selected window while switching"
-msgstr "Cambiar o Escritorio das xanela seleccionada mentres se cambia"
-
-msgid "Popup Window Delay"
-msgstr "Retraso da Fiestra Popup"
-
-msgid "Time (in s) the popup window should be delayed before appearing"
-msgstr "Tempo (en seg) que se debe retrasar a xanela popup antes de amosala"
+#, fuzzy
+msgid "Toggle display."
+msgstr "Trocar Mostrar Widget"
 
 msgid "Appearance"
 msgstr "Aparencia"
 
-msgid "Amount of saturation in percent"
-msgstr "Nivel de Saturación en porcentaxe"
+#, fuzzy
+msgid "Mouse border Color"
+msgstr "Cor do Borde da Lapela"
 
-msgid "Amount of brightness in percent"
-msgstr "Nivel de brillo en porcentaxe"
+#, fuzzy
+msgid "Color of the border of the mouse"
+msgstr "Cora da auga dentro cubo."
 
-msgid "Amount of opacity in percent"
-msgstr "Nivel de opacidade en porcentaxe"
+#, fuzzy
+msgid "Mouse body Color"
+msgstr "Cor Base"
 
-msgid "Icon"
-msgstr "Icona"
+#, fuzzy
+msgid "Color of the body of the mouse"
+msgstr "Cora da auga dentro cubo."
 
-msgid "Show icon next to thumbnail"
-msgstr "Amosar a icona ó lado da vista previa"
+#, fuzzy
+msgid "Left button Color"
+msgstr "Cor da Cara Inferior do Cubo"
 
-msgid "Mipmap"
-msgstr "Mipmap"
+#, fuzzy
+msgid "Color of the left button"
+msgstr "Cor do chan (ó preto)"
 
-msgid "Generate mipmaps when possible for higher quality scaling"
-msgstr ""
-"Xerar mapas de imaxe cando sexa posíbel cando se emprega escalado de "
-"calidade moi alta"
+#, fuzzy
+msgid "Middle button Color"
+msgstr "Cor da fonte do título da xanela."
 
-msgid "Row Alignment"
-msgstr "Aliñado de Fila"
+#, fuzzy
+msgid "Color of the middle button"
+msgstr "Cor do chan (ó preto)"
 
-msgid "Alignment for rows that are not fully filled"
-msgstr "Alixación das filas que non están totalmente recheas"
-
-msgid "Centered"
-msgstr "Centrado"
-
-msgid "Selected Window Highlight"
-msgstr "Seleccionar Fiestra Resaltada"
-
-msgid "Highlight Mode"
-msgstr "Cor de Resaltado"
-
-msgid "Mode for highlighting the currently selected window"
-msgstr "Modo de resalte da xanela actualmente seleccionada"
-
-msgid "Bring Selected To Front"
-msgstr "Traer as Seleccionadas á Fronte"
-
-msgid "Show Rectangle"
-msgstr "Amosar rectángulo"
-
-msgid "Minimized Window Highlight Rectangle"
-msgstr "Rectángulo de Resalte de Fiestra Minimizada"
-
-msgid "Where to draw highlight rectangle for minimized windows"
-msgstr "Onde se debuxa o rectángulo de resalte para as xanelas minimizadas"
-
-msgid "Taskbar Entry"
-msgstr "Entrada da Barra de Tarefas"
-
-msgid "Original Window Position"
-msgstr "Posición Orixinal da Fiestra"
-
-msgid "Highlight Color"
+#, fuzzy
+msgid "Right button Color"
 msgstr "Cor Realce"
 
-msgid "Color of highlight rectangle"
-msgstr "Cor do rectángulo de resaltado"
-
-msgid "Highlight Border Color"
-msgstr "Cor do Borde de Resaltado"
-
-msgid "Color of highlight rectangle border"
-msgstr "Cor do borde do rectángulo de resalte"
-
-msgid "Highlight Border Inlay Color"
-msgstr "Cor do Borde de Resalte Incrustado "
-
-msgid "Color of inlay in highlight rectangle border"
-msgstr "Cor da incrustación no borde do rectángulo de resalte"
+#, fuzzy
+msgid "Color of the right button"
+msgstr "Cor do chan (ó preto)"
 
 #, fuzzy
-msgid "Throw Windows"
-msgstr "Agrupar xanelas"
-
-msgid "Windows have a velocity once they are released after moving"
-msgstr ""
-
-#, fuzzy
-msgid "X Velocity Multiplier"
-msgstr "Multiplicador da Amplitude da Onda"
-
-#, fuzzy
-msgid "X Velocity Multipler"
-msgstr "Multiplicador da Amplitude da Onda"
-
-#, fuzzy
-msgid "Y Velocity Multiplier"
-msgstr "Multiplicador da Amplitude da Onda"
-
-#, fuzzy
-msgid "Y Velocity Multipler"
-msgstr "Multiplicador da Amplitude da Onda"
-
-#, fuzzy
-msgid "Friction constant"
-msgstr "Velocidade da constante de lume"
-
-msgid "How much friction the screen provides"
-msgstr ""
-
-msgid "Constrain X"
-msgstr ""
-
-#, fuzzy
-msgid "Constrain window in display width"
-msgstr "Tamaño da fonte do título da xanela"
-
-msgid "Constrain Y"
-msgstr ""
-
-#, fuzzy
-msgid "Constrain window in display height"
-msgstr "Tamaño da fonte do título da xanela"
-
-msgid "Tile"
-msgstr "Mosaico"
-
-msgid "Tile windows"
-msgstr "Crear mosaico das xanelas"
-
-msgid "Tiling Animation Type"
-msgstr "Tipo de Animación do Mosaico"
-
-msgid "Selects the animation used while tiling"
-msgstr ""
-"Seleccionar a animación que se vai empregar cando se entra en modo mosaico"
-
-msgid "Filled Outline"
-msgstr "Contorno recheo"
-
-msgid "Slide"
-msgstr "Deslizar"
-
-msgid "Drop From Top"
-msgstr "Eliminar de enrriba"
-
-msgid "Animation Duration"
-msgstr "Duración da Animación"
-
-msgid "Duration (in ms) of the tiling animation"
-msgstr "Duración (en ms) da animación do mosaico"
-
-msgid "Tiling Method For Toggle"
-msgstr "Tipo de Mosaico cando se Alterna o Estado"
-
-msgid "Choose the tiling type you want when using toggle."
-msgstr ""
-"Escolle o tipo de mosaico que queres empregar cando se activa/desactiva o "
-"modo mosaico."
-
-msgid "Tile Vertically"
-msgstr "Mosaico Vertical"
-
-msgid "Tile Horizontally"
-msgstr "Mosaico Horizontal"
-
-msgid "Cascade"
-msgstr "Cascada"
-
-msgid "Join Windows (EXPERIMENTAL)"
-msgstr "Xuntar Fiestras (EXPERIMENTAL)"
-
-msgid ""
-"Tries to join the windows together when horizontal, vertical or left tiling "
-"is enabled so that when you resize a window surrounding windows resize "
-"accordingly. This may cause problems if you dont leave them enough space."
-msgstr ""
-"Tenta xuntar as xanelas cando estivera en modo mosaico horizontal, vertical "
-"ou á esquerda, de modo que cando se redimensiona unha xanela, as xanelas "
-"adxacentes sexan tamén redimensionadas. Isto pode causar problemas se non "
-"deixa espazo suficiente a esas mesmas xanelas adxacentes."
-
-msgid "Cascade Delta"
-msgstr "Distancia entre Fiestras en cascada"
-
-msgid "Distance between windows when using cascade"
-msgstr "Distancia entre xanelas cando en cascada"
-
-msgid "Left Occupancy"
-msgstr "Ocupación á Esquerda"
-
-msgid ""
-"Occupancy percentage for window placed left. This number is percentage of "
-"screen width, which the active window will have it as width when tiled. "
-"Applies to Left tiling type."
-msgstr ""
-"Porcentaxe de ocupación da xanela colocada á esquerda. Este valor é a "
-"percentaxe de largura da pantalla que a xanela activa terá como largura,"
-"cando se estivera en modo mosaico. Só é aplicada cando se estivera no modo "
-"de mosaico á esquerda."
-
-msgid "Excluded Windows"
-msgstr "Fiestras Excluidas"
-
-msgid "Windows which should be excluded from tiling"
-msgstr "Tipos de xanelas a excluír do modo mosaico"
-
-msgid "Tile Windows Vertically"
-msgstr "Crear Mosaico Vertical das Fiestras"
-
-msgid ""
-"Move and resize all visible windows so that they have full height, same "
-"width and occupy whole screen."
-msgstr ""
-"Mover e redimensionar todas as xanelas visibles, de forma que fiquen con "
-"altura igual á pantalla, con larguras todas iguais e de maneira que ocupen a "
-"pantalla enteira."
-
-msgid "Tile Windows Horizontally"
-msgstr "Crear Mosaico Horizontal das Fiestras"
-
-msgid ""
-"Move and resize all visible windows so that they have full width, same "
-"height and occupy whole screen."
-msgstr ""
-"Mover e redimensionar todas as xanelas visibles, de forma que fiquen con "
-"largura igual á pantalla, con alturas todas iguais e de maneira a ocupar a "
-"pantalla inteiro."
-
-msgid "Tile Windows"
-msgstr "Crear Mosaico das Fiestras"
-
-msgid ""
-"Move and resize all visible windows both vertically and horizontally, so "
-"that the occupy whole screen and are in a grid."
-msgstr ""
-"Mover e redimensionar xanelas visibles tanto verticalmente como "
-"horizontalmente, de maneira que formen unha grella que ocupe a pantalla "
-"enteira."
-
-msgid "Cascade Windows"
-msgstr "Mostrar Fiestras en cascada"
-
-msgid ""
-"Move and resize all visible windows with the delta value set for cascading."
-msgstr ""
-"Mover e redimensionar todas as xanelas visibles co valor de diferenza "
-"definido para cascada."
-
-msgid "Restore Windows"
-msgstr "Restaurar xanelas"
-
-msgid "Restore windows to their original position they had before tiling."
-msgstr ""
-"Restaurar xanelas ás súas posicións orixinais (posicións antes de entrar en "
-"modo mosaico) ."
-
-msgid "Toggle Tiling"
-msgstr "Trocar o  modo Mosaico"
-
-msgid "Toggle between tile and restore"
-msgstr "Trocar entre o modo mosaico e o modo orixinal"
-
-#, fuzzy
-msgid "Toggle Decoration"
-msgstr "Negativo das Decoracións"
-
-#, fuzzy
-msgid "Toggles decoration."
-msgstr "Negativo das Decoracións"
-
-#, fuzzy
-msgid "Toggle decoration"
-msgstr "Trocar Redirección"
-
-#, fuzzy
-msgid "Toggles decoration on/off."
-msgstr "Trocar efecto de Distorsión durante Movemento."
-
-msgid "Toggle decoration on desktop"
-msgstr ""
-
-#, fuzzy
-msgid "Toggles decoration of every window on the desktop."
-msgstr "Trocar filtro de tódalas xanelas da pantalla."
-
-msgid "Wizard"
-msgstr ""
-
-msgid ""
-"Wastes resources to create fancy particle systems for wizard-wannabes :)"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle all particle effects."
-msgstr "Trocar efecto de Distorsión durante Movemento."
-
-#, fuzzy
-msgid "Enable wizard by default."
-msgstr "Fiestras que deben ser filtradas por omisión."
-
-#, fuzzy
-msgid "Gravity"
-msgstr "Gravidade Y do Balanceo"
-
-msgid "Global gravity"
-msgstr ""
-
-#, fuzzy
-msgid "Gravity X"
-msgstr "Gravidade Y do Balanceo"
-
-#, fuzzy
-msgid "Global horizontal gravity"
-msgstr "Gradiente horizontal"
-
-#, fuzzy
-msgid "Gravity Y"
-msgstr "Gravidade Y do Balanceo"
-
-#, fuzzy
-msgid "Global vertical gravity"
-msgstr "Gradiente vertical"
-
-msgid "Point gravity sources"
-msgstr ""
-
-#, fuzzy
-msgid "Strength"
-msgstr "Ancho da curva"
-
-msgid ""
-"The strength of this gravity source. Use negative values for a repulsing "
-"effect."
-msgstr ""
-
-#, fuzzy
-msgid "Position X"
+msgid "Position"
 msgstr "Posición"
 
-msgid ""
-"The horizontal position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
+msgid "Keyboard left margin"
+msgstr ""
+
+msgid "Left margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Position Y"
-msgstr "Posición"
+msgid "Keyboard bottom margin"
+msgstr "Seguinte Imaxe Inferior"
 
-msgid ""
-"The vertical position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The speed of this gravity source. May be ignored or used for initialization, "
-"depending on the movement type."
-msgstr ""
-
-msgid ""
-"The angle for the movement of this gravity source. May be ignored or used "
-"for initialization, depending on the movement type."
+msgid "Bottom margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Movement Type"
-msgstr "Tipo do elemento"
+msgid "Mouse right margin"
+msgstr "Marxe Restrinxemento Rato"
 
-msgid ""
-"The movement type of this source: Fixed (not moving at all), Mouse Position "
-"(exactly on the core pointer), Follow Mouse (moving towards core pointer at "
-"set speed), Bounce (moving at constant speed, bouncing off the walls) or "
-"Wrap (moving at constant speed, jumping to the opposite side at a wall)."
+msgid "Right margin of the visual mouse"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse Position"
-msgstr "Restaurar a Posición"
+msgid "Mouse bottom margin"
+msgstr "Axustar a imaxe da tapa inferior"
 
-#, fuzzy
-msgid "Follow Mouse"
-msgstr "Seguir Atraso Foco"
+msgid "Bottom margin of the visual mouse"
+msgstr ""
 
-msgid "Wrap"
+msgid "Wii Remote"
+msgstr ""
+
+msgid "Compiz interface for the Nintendo Wii Remote."
 msgstr ""
 
 #, fuzzy
-msgid "Emitters"
-msgstr "Emisores"
-
-#, fuzzy
-msgid "Active"
-msgstr "Activar"
+msgid "Toggle status reporting"
+msgstr "Negativo das Decoracións"
 
 msgid ""
-"Since emitters have a lot of options, you can simply deactivate and name "
-"them instead of deleting them."
+"Use this to enable status reporting from the Wii Remote. Remember to hold "
+"down (1)+(2)."
 msgstr ""
 
-msgid "Name"
+msgid "Disable status reporting"
 msgstr ""
 
-msgid "Trigger"
+msgid "Use this to disable status reporting from the Wii Remote."
 msgstr ""
+
+msgid "Status reporting"
+msgstr ""
+
+msgid "Togle status reporting from the Wii Remote."
+msgstr ""
+
+msgid "Wiimote Setup"
+msgstr ""
+
+#, fuzzy
+msgid "Reporting Timeout"
+msgstr "Tempo para Esconder"
 
 msgid ""
-"The trigger to create particles: Persitent (create particles all the time), "
-"Mouse Movement (create particles when the mouse is being moved), Random Shot "
-"(a single particle burst once in a while), Random Period (randomly turning "
-"on and off particle production) or Notification (a single particle burst on "
-"notification events)."
-msgstr ""
-
-msgid "Persistent"
+"The more often you call it, the higher the CPU usage will be, so be careful "
+"with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse Movement"
-msgstr "Velocidade do movemento do rato"
-
-#, fuzzy
-msgid "Random Shot"
-msgstr "Aleatorio"
-
-#, fuzzy
-msgid "Random Period"
-msgstr "Aleatorio"
+msgid "Gesture Timeout"
+msgstr "Asignación de Xestos"
 
 msgid ""
-"The horizontal position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The vertical position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
+"The more often you call it, the higher the CPU usage will be and the faster "
+"you have to move"
 msgstr ""
 
 #, fuzzy
-msgid "Emitter Speed"
-msgstr "Velocidade de Trocador"
+msgid "Gesture Sensitvity"
+msgstr "Interruptor do Rato"
 
-msgid ""
-"The speed of this emitter. May be ignored or used for initialization, "
-"depending on the movement type."
+msgid "How much the readings must differ between gesture checks"
+msgstr ""
+
+msgid "Individual Setup"
 msgstr ""
 
 #, fuzzy
-msgid "Emitter Angle"
-msgstr "Emisores"
+msgid "X Calibration Multiplier"
+msgstr "Multiplicador da Amplitude da Onda"
 
-msgid ""
-"The angle for the movement of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The movement type of this emitter: Mouse Position (exactly on the core "
-"pointer), Follow Mouse (moving towards core pointer at set speed), Bounce "
-"(moving at constant speed, bouncing off the walls) or Wrap (moving at "
-"constant speed, jumping to the opposite side at a wall)."
+msgid "Change this depending on your screen size"
 msgstr ""
 
 #, fuzzy
-msgid "Particle count"
-msgstr "Cor das partículas."
+msgid "Y Calibration Multiplier"
+msgstr "Multiplicador da Amplitude da Onda"
 
-msgid "The amount of particles generated each time this emitter is triggered."
+msgid "X Adjust"
+msgstr ""
+
+msgid "Used to adjust to the position of your screen"
+msgstr ""
+
+msgid "Y Adjust"
 msgstr ""
 
 #, fuzzy
-msgid "Color hue"
-msgstr "Cor 1"
+msgid "Gesturing"
+msgstr "Xesto"
 
-msgid ""
-"The color of the particles. This is hue like in HSL colors. It is the center "
-"of the range given below."
+#, fuzzy
+msgid "Gesture List"
+msgstr "Xestos"
+
+msgid "Wii Remote Number"
+msgstr ""
+
+msgid "The number of the wii remote on the list (starts at 0)"
 msgstr ""
 
 #, fuzzy
-msgid "Color hue range"
-msgstr "Cambiar a cor da aura"
+msgid "Gesture Type"
+msgstr "Xesto"
 
-msgid ""
-"The color of the particles can be any value from the hue (given above) plus/"
-"minus this range. A range of 500 means any color."
+msgid "Which gesture calls the action"
 msgstr ""
 
 #, fuzzy
-msgid "Color lightness"
-msgstr "Brillo"
-
-msgid ""
-"The color of the particles. This is lightness like in HSL colors. It is the "
-"center of the range given below."
-msgstr ""
+msgid "Sensitivity"
+msgstr "Interruptor do Rato"
 
 #, fuzzy
-msgid "Color lightness range"
-msgstr "Cor do rectángulo de resaltado"
-
-msgid ""
-"The color of the particles can be any value from the lightness (given above) "
-"plus/minus this range."
-msgstr ""
-
-msgid "Alpha"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles. This is the center of the range given "
-"below."
-msgstr ""
-
-msgid "Alpha range"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles can be any value from the alpha (given "
-"above) plus/minus this range."
-msgstr ""
-
-msgid "X range"
-msgstr ""
-
-msgid "The horizontal range of the particles."
-msgstr ""
-
-msgid "Y range"
-msgstr ""
+msgid "How sensitive gestures should be"
+msgstr "Canto se debe parecer o resorte á animación Zoom."
 
 #, fuzzy
-msgid "The vertical range of the particles."
-msgstr "Cores aleatorias para partículas"
-
-msgid "Circular range"
-msgstr ""
+msgid "Reporting"
+msgstr "Escritorio da Dereita"
 
 #, fuzzy
-msgid "The circular range of the particles."
-msgstr "Cores aleatorias para partículas"
-
-#, fuzzy
-msgid "X speed"
-msgstr "Velocidade do Anel"
-
-msgid "The horizontal speed of the particles."
-msgstr ""
-
-#, fuzzy
-msgid "Y speed"
-msgstr "Velocidade do Anel"
-
-#, fuzzy
-msgid "The vertical speed of the particles."
-msgstr "Cores aleatorias para partículas"
-
-#, fuzzy
-msgid "Aging speed"
-msgstr "Velocidade do Anel"
-
-msgid "The more negative the sooner particles disappear."
-msgstr ""
-
-msgid "Rotation speed"
-msgstr "Velocidade da Rotación"
-
-msgid ""
-"The rotation of the particles can probably only be seen on the really big "
-"ones."
-msgstr ""
-
-msgid "X speed range"
-msgstr ""
-
-msgid "The horizontal speed range of the particles."
-msgstr ""
-
-msgid "Y speed range"
-msgstr ""
-
-msgid "The vertical speed range of the particles."
-msgstr ""
-
-msgid "Circular speed range"
-msgstr ""
-
-msgid "The circular speed range of the particles."
-msgstr ""
-
-#, fuzzy
-msgid "Aging speed range"
-msgstr "Velocidade do Anel"
-
-msgid "The range of aging speeds"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation speed range"
-msgstr "Velocidade da Rotación"
-
-msgid "Particle Size"
-msgstr "Tamaño das partículas"
-
-#, fuzzy
-msgid "The size of the particles."
-msgstr "O tamaño da planta de mar."
-
-#, fuzzy
-msgid "Particle Size Range"
-msgstr "Tamaño das partículas"
-
-#, fuzzy
-msgid "The size range of the particles."
-msgstr "O tamaño da planta de mar."
-
-#, fuzzy
-msgid "New Size"
-msgstr "Tamaño da aura"
-
-#, fuzzy
-msgid "The size of the particles when they are new."
-msgstr "Cría partículas de lume  na pantalla "
-
-msgid "New Size Range"
-msgstr ""
-
-#, fuzzy
-msgid "The size range of the particles when they are new."
-msgstr "Cría partículas de lume  na pantalla "
-
-msgid ""
-"The strength of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Range"
-msgstr ""
-
-msgid ""
-"The strength range of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Probability"
-msgstr ""
-
-msgid ""
-"The probability that a particle has the gravity effect, that has been set up "
-"above. This value represents gravity particles out of 10000 particles. "
-"(Using gravity on too many particles may be very resource consuming)"
-msgstr ""
-
-msgid "Advanced"
-msgstr ""
-
-#, fuzzy
-msgid "Hard limit for particles"
-msgstr "Cores aleatorias para partículas"
-
-msgid "If this hard limit is reached, no new particles are created"
-msgstr ""
-
-#, fuzzy
-msgid "Soft limit for particles"
-msgstr "Límite da velocidade para o modelo de mola"
-
-msgid ""
-"This soft limit can be exceeded. If this happens, particles will die faster"
-msgstr ""
-
-msgid "Darken backgound"
-msgstr "Fondo máis escuro"
-
-msgid "Darken background under particles"
-msgstr "Fondo de escritorio máis escuro baixo as partículas"
-
-msgid "Additive blending"
-msgstr "Mistura aditiva"
-
-msgid "Additive blending of particles"
-msgstr "Mistura aditiva de partículas"
-
-#, fuzzy
-msgid "New particle time"
-msgstr "Vida das partículas."
-
-msgid ""
-"If the age of a particle is above this value, it is regarded as new and is "
-"especially bright and large. Particles are born at the age of 1.0 and die at "
-"the age of 0.0"
-msgstr ""
-
-#, fuzzy
-msgid "Old particle time"
-msgstr "Vida das partículas."
-
-msgid ""
-"If the age of a particle is below this value, it is regarded as old and "
-"starts to fade. Particles are born at the age of 1.0 and die at the age of "
-"0.0"
-msgstr ""
-
-msgid "Workspace Naming"
-msgstr ""
-
-msgid "Allows assigning descriptions to workspaces"
-msgstr ""
-
-msgid "Names"
-msgstr ""
-
-msgid "Workspace Names"
-msgstr ""
-
-#, fuzzy
-msgid "Viewport"
-msgstr "Escritorio de arriba"
-
-#, fuzzy
-msgid "Number of viewport to be named"
-msgstr "Número de Fiestras a Acompañar"
-
-#, fuzzy
-msgid "Viewport name"
+msgid "Reporter List"
 msgstr "Escritorio da Esquerda"
 
-msgid "Display Time"
-msgstr "Duración da Fiestra de logotipo."
-
-msgid "Timeout (in s) of the name display"
+msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr ""
 
-msgid "Fade Time"
-msgstr "Tempo de desvanecemento"
-
 #, fuzzy
-msgid "Time (in s) the name display fades out after being shown."
+msgid "Report Type"
+msgstr "Escritorio de arriba"
+
+msgid "What to report"
 msgstr ""
-"Tempo (en s) que a barra das lapelas é visíbel logo dalgunha alteración nas "
-"lapelas"
 
 #, fuzzy
-msgid "Text Display"
-msgstr "Pantalla"
+msgid "Plugin to report to"
+msgstr "Complemento ó que pertence a acción."
+
+msgid "Action to report to"
+msgstr ""
 
 #, fuzzy
-msgid "Selects if the text should be displayed in bold font or not."
-msgstr "Selecciona se o título da xanela debe ser mostrada a negrito ou non."
+msgid "X Argument"
+msgstr "Aliñado de Fila"
+
+msgid "What option name the plugin expects for the X value"
+msgstr ""
 
 #, fuzzy
-msgid "Font family for the text display."
-msgstr "Tamaño da fonte do título da xanela"
+msgid "Y Argument"
+msgstr "Aliñado de Fila"
+
+msgid "What option name the plugin expects for the Y value"
+msgstr ""
 
 #, fuzzy
-msgid "Font size for the text display."
-msgstr "Tamaño da fonte do título da xanela"
+msgid "Z Argument"
+msgstr "Aliñado de Fila"
+
+msgid "What option name the plugin expects for the Z value"
+msgstr ""
 
 #, fuzzy
-msgid "Selects where to place the text."
-msgstr "Selecciona onde posicionar o título da xanela."
+msgid "Data Type"
+msgstr "Rotación do plano"
+
+msgid ""
+"What data type the plugin expects (Use the other one if the current one "
+"doesn't work)"
+msgstr ""
 
 #, fuzzy
-msgid "Top of screen"
-msgstr "Tipo de criatura do mar."
+msgid "How sensitive Wii Remote movements should be"
+msgstr "Canto se debe parecer o resorte á animación Zoom."
+
+msgid "WiiTrack"
+msgstr ""
+
+msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
+msgstr ""
 
 #, fuzzy
-msgid "Bottom of screen"
-msgstr "Baixo cara arriba"
-
-msgid "Colors"
-msgstr "Cores"
+msgid "Enable Tracking"
+msgstr "Activar seguimento de foco"
 
 #, fuzzy
-msgid "Background color for the text display."
-msgstr "Cor de fondo para o título da xanela"
+msgid "WiiMote Above Screen"
+msgstr "Iniciar captura de pantalla"
+
+msgid "Enable this if your Wiimote is above your screen."
+msgstr ""
 
 #, fuzzy
-msgid "Font color for the text display."
-msgstr "Cor da fonte para o título da xanela"
+msgid "Wiimote Vertical Angle"
+msgstr "Mosaico Vertical"
+
+msgid "Angle of wiimote in radians * 100"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Initiate Window"
+#~ msgstr "Activar xanela"
+
+#, fuzzy
+#~ msgid "Start anaglyph window"
+#~ msgstr "Seleccionar a seguinte xanela de tipo panel."
+
+#, fuzzy
+#~ msgid "Initiate Window Button"
+#~ msgstr "Iniciar (botón)"
+
+#, fuzzy
+#~ msgid "Start anaglyph active window"
+#~ msgstr "Xirar as xanelas inactivas"
+
+#, fuzzy
+#~ msgid "Initiate Screen Button"
+#~ msgstr "Iniciar captura de pantalla"
+
+#, fuzzy
+#~ msgid "Anaglyph Windows"
+#~ msgstr "Fiestras Anel"
+
+#, fuzzy
+#~ msgid "Windows to be anaglyph by default"
+#~ msgstr "Fiestras que deben ser negativas por omisión"
+
+#~ msgid "Exclude Windows"
+#~ msgstr "Excluír Fiestras"
+
+#, fuzzy
+#~ msgid "Windows to exclude from anaglyph"
+#~ msgstr "Fiestras a ser excluídas do negativo"
+
+#, fuzzy
+#~ msgid "Offset"
+#~ msgstr "Desvío X da Estrela"
+
+#, fuzzy
+#~ msgid "Desaturate"
+#~ msgstr "Saturación"
+
+#~ msgid "Mipmaps"
+#~ msgstr "Mapas de imaxes"
+
+#, fuzzy
+#~ msgid "Animations Plus"
+#~ msgstr "Animacións"
+
+#, fuzzy
+#~ msgid "More window animations"
+#~ msgstr "Filtrar as decoracións das xanelas"
+
+#~ msgid "Effect Settings"
+#~ msgstr "Configuracións de Efectos"
+
+#, fuzzy
+#~ msgid "Helix Number of Twists"
+#~ msgstr "Número de Partículas de Escalón."
+
+#, fuzzy
+#~ msgid "Number of twists to do in the animation"
+#~ msgstr "Ángulo da xanela ó fin da animación"
+
+#, fuzzy
+#~ msgid "Helix Thickness"
+#~ msgstr "Anchura"
+
+#, fuzzy
+#~ msgid "Thickness of blocks in the animation"
+#~ msgstr "Anchura dos Polígonos Animados"
+
+#, fuzzy
+#~ msgid "Vertical Helix"
+#~ msgstr "Gradiente vertical"
+
+#, fuzzy
+#~ msgid "Number of half twists to do in the animation"
+#~ msgstr "Ángulo da xanela ó fin da animación"
+
+#, fuzzy
+#~ msgid "Blinds Thickness"
+#~ msgstr "Anchura"
+
+#, fuzzy
+#~ msgid "Shatter number of spokes"
+#~ msgstr "Número de pezas das Barras"
+
+#~ msgid "Shatter Number of Tiers"
+#~ msgstr "Número de Partículas de Escalón."
+
+#~ msgid "Number Of Fire Particles"
+#~ msgstr "Número De Partículas de Lume"
+
+#~ msgid "Number of fire particles."
+#~ msgstr "Números de partículas de lume."
+
+#~ msgid "Fire Particle Size"
+#~ msgstr "Tamaño das partículas"
+
+#~ msgid "Fire particle size."
+#~ msgstr "Tamaño das partículas de lume."
+
+#~ msgid "Fire Particle Life"
+#~ msgstr "Vida das partículas"
+
+#~ msgid "Fire particle life."
+#~ msgstr "Vida das partículas."
+
+#~ msgid "Fire particle color."
+#~ msgstr "Cor das partículas."
+
+#~ msgid "Randomly Colored Fire"
+#~ msgstr "Lume con cores aleatorias"
+
+#~ msgid "Have random colors for the fire effect, also known as Mystical Fire."
+#~ msgstr ""
+#~ "Cores aleatorias para o efecto de lume. Opción tamén coñecida como Lume "
+#~ "Místico."
+
+#, fuzzy
+#~ msgid "Simple Animations"
+#~ msgstr "Animación ó Abrir"
+
+#, fuzzy
+#~ msgid "Fly In Direction"
+#~ msgstr "Dirección de pregado."
+
+#, fuzzy
+#~ msgid "UD Direction X"
+#~ msgstr "Dirección de pregado."
+
+#, fuzzy
+#~ msgid "UD Direction Y"
+#~ msgstr "Dirección de pregado."
+
+#~ msgid "Fade"
+#~ msgstr "Desvanecemento"
+
+#, fuzzy
+#~ msgid "Distance to fly in"
+#~ msgstr "Distancia"
+
+#, fuzzy
+#~ msgid "Rotate In"
+#~ msgstr "Rotación de iluminación"
+
+#, fuzzy
+#~ msgid "Rotate In Direction"
+#~ msgstr "Dirección do Movemento"
+
+#, fuzzy
+#~ msgid "Angle"
+#~ msgstr "Ángulo Afastado"
+
+#, fuzzy
+#~ msgid "Maximum Size"
+#~ msgstr "Maximizado"
+
+#, fuzzy
+#~ msgid "Minimum Size"
+#~ msgstr "Maximizado"
+
+#, fuzzy
+#~ msgid "Number of Bounces"
+#~ msgstr "Número de partículas"
+
+#, fuzzy
+#~ msgid "How many bounces during the animation"
+#~ msgstr "Fiestras que non deben deslizarse na animación de tobogán"
+
+#, fuzzy
+#~ msgid "Starting Percent"
+#~ msgstr "Comezar xesto"
+
+#, fuzzy
+#~ msgid "First expand horizontally"
+#~ msgstr "Mosaico Horizontal"
+
+#, fuzzy
+#~ msgid "Initial horizontal size"
+#~ msgstr "Mosaico Horizontal"
+
+#, fuzzy
+#~ msgid "Initial vertical size"
+#~ msgstr "Tamaño das partículas."
+
+#, fuzzy
+#~ msgid "Delay"
+#~ msgstr "Atraso Aparecemento"
+
+#~ msgid "Cube Atlantis"
+#~ msgstr "Atlántica dentro do Cubo"
+
+#~ msgid "Start crabs on bottom"
+#~ msgstr "Comezar cangrexo na parte inferior"
+
+#~ msgid "Start crabs on the bottom of the cube."
+#~ msgstr "Comezar o enganche dende a parte inferior do cubo."
+
+#~ msgid "School similar groups"
+#~ msgstr "Instruír grupos similares"
+
+#~ msgid "Fish in different groups, but of the same type, swim together."
+#~ msgstr ""
+#~ "Peixes en diferentes grupos, pero do mesmo tipo, nadan conxuntamente."
+
+#~ msgid "Low detail models"
+#~ msgstr "Modelos de detalle baixo"
+
+#~ msgid "Use less detailed models for increased performance."
+#~ msgstr "Empregar menos modelos detallados para incrementar o rendemento."
+
+#~ msgid "Creature Selection"
+#~ msgstr "Selección de criaturas"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Type of sea creature."
+#~ msgstr "Tipo de criatura do mar."
+
+#~ msgid "Color"
+#~ msgstr "Cor"
+
+#~ msgid "The color of the sea creature."
+#~ msgstr "Cor da marxe da barra das lapelas"
+
+#~ msgid "The number of the sea creature."
+#~ msgstr "O estilo das criaturas de mar."
+
+#~ msgid "Size"
+#~ msgstr "Tamaño"
+
+#~ msgid "The size of the sea creature."
+#~ msgstr "O tamaño da criatura de mar."
+
+#~ msgid "Miscellaneous Selection"
+#~ msgstr "Selección variada"
+
+#~ msgid "Type of sea plant."
+#~ msgstr "Tipo de planta de mar."
+
+#~ msgid "The color of the sea plant."
+#~ msgstr "A cor das plantas de mar."
+
+#~ msgid "The number of the sea plants."
+#~ msgstr "O número das plantas de mar."
+
+#~ msgid "The size of the sea plant."
+#~ msgstr "O tamaño da planta de mar."
+
+#~ msgid "Water / Ground"
+#~ msgstr "Auga / Chan"
+
+#~ msgid "Render water"
+#~ msgstr "Renderizar auga"
+
+#~ msgid "Render water inside the cube."
+#~ msgstr "Renderizar auga dentro do cubo"
+
+#~ msgid "Render water wireframe"
+#~ msgstr "Renderizar maia de alambre da auga"
+
+#~ msgid "Render water wireframe inside the cube."
+#~ msgstr "Renderizar malla de alambre dentro do cubo."
+
+#~ msgid "Render ground"
+#~ msgstr "Renderizar chan"
+
+#~ msgid "Render ground inside the cube."
+#~ msgstr "Renderizar chan dentro do cubo."
+
+#~ msgid "Ground color"
+#~ msgstr "Cor do chan"
+
+#~ msgid "Color of ground in the cube."
+#~ msgstr "Cor do chan dentro do cubo."
+
+#~ msgid "Water surface height"
+#~ msgstr "Altura da superficie de auga"
+
+#~ msgid "Height of water surface in the cube."
+#~ msgstr "Altura da superficie de auga no cubo."
+
+#~ msgid "Water color"
+#~ msgstr "Cor da auga"
+
+#~ msgid "Water/Ground grid smoothness"
+#~ msgstr "Suavidade da grella de Auga/Chan"
+
+#~ msgid "Number of subdivisions that create a finer grid."
+#~ msgstr "Número de subdivisións a crear pola grella fina."
+
+#~ msgid "Waves"
+#~ msgstr "Ondas"
+
+#~ msgid "Render waves"
+#~ msgstr "Renderizar ondas"
+
+#~ msgid "Render water waves inside the cube."
+#~ msgstr "Renderizar ondas de auga dentro do cubo."
+
+#~ msgid "Ripple effect"
+#~ msgstr "Efecto de rizo"
+
+#~ msgid "Semi-randomize light scattering off water waves."
+#~ msgstr "Dispersión semi-aleatoria da luz  das ondas de auga."
+
+#~ msgid "Wave amplitude"
+#~ msgstr "Amplitude da onda"
+
+#~ msgid "Amplitude of water waves."
+#~ msgstr "Amplitude das ondas de auga."
+
+#~ msgid "Wave frequency"
+#~ msgstr "Frecuencia da onda"
+
+#~ msgid "Frequency of water waves."
+#~ msgstr "Frecuencia das ondas de auga."
+
+#~ msgid "Small wave amplitude"
+#~ msgstr "Amplitude da onda pequena"
+
+#~ msgid "Amplitude of small water waves on the bigger ones."
+#~ msgstr "Amplitude das ondas de auga pequenas dentro das máis grandes."
+
+#~ msgid "Small wave frequency"
+#~ msgstr "Frecuencia de onda pequena"
+
+#~ msgid "Frequency of small water waves on the bigger ones."
+#~ msgstr "Frecuencia das ondas de auga pequenas dentro das máis grandes."
+
+#~ msgid "Display"
+#~ msgstr "Pantalla"
+
+#~ msgid "Rescale for screen ratio"
+#~ msgstr "Reescalar cara o ratio de pantalla"
+
+#~ msgid ""
+#~ "Rescale along the sides of the cube by the ratio of screen width to "
+#~ "height."
+#~ msgstr ""
+#~ "Reescala ao longo das caras do cubo polo ratio de alto ao ancho da "
+#~ "pantalla."
+
+#~ msgid "Preserve light direction when rotating the cube."
+#~ msgstr "Preservar a dirección da luz cando se rota o cubo."
+
+#~ msgid "Light inclination"
+#~ msgstr "Inclinación da Luz"
+
+#~ msgid ""
+#~ "The angle of light rays from the horizon in degrees (0 is from the "
+#~ "viewer's perspective, 90 is from on top). Only has effect when Rotate "
+#~ "Lighting is false."
+#~ msgstr ""
+#~ "O ángulo dos raios de luz dende o horizonte en graos (0 se dende a "
+#~ "perspectiva do viso, 90 dende arriba). So ten efecto cando Iluminación "
+#~ "Rotativa é falso."
+
+#~ msgid "Ambient light"
+#~ msgstr "Luz Ambiente"
+
+#~ msgid "Component of light coming from all directions equally."
+#~ msgstr "A compoñente de luz proven de tódalas direccións equitativamente."
+
+#~ msgid "Cube 3D Models"
+#~ msgstr "Modelos do Cubo 3D"
+
+#~ msgid "Render still/animated 3D mesh models inside of the transparent cube"
+#~ msgstr "Renderizar modelos da malla 3D dentro do cubo transparente"
+
+#~ msgid "Scale all factor"
+#~ msgstr "Escalar tódolos factores"
+
+#~ msgid "Scale all the 3D models by this factor."
+#~ msgstr "Escalar tódolos modelos 3D por este factor."
+
+#~ msgid "Model"
+#~ msgstr "Modelo"
+
+#~ msgid "Full path to 3D wavefront (.obj) model file."
+#~ msgstr "Ruta completa ao ficheiro modelo wavefront 3D (.obj)."
+
+#~ msgid "Scale factor"
+#~ msgstr "Factor de escala"
+
+#~ msgid "Scale the 3D model by this factor."
+#~ msgstr "Escalar o modelo 3D por este factor."
+
+#~ msgid "X"
+#~ msgstr "X"
+
+#~ msgid "X coordinate offset from the center of the cube."
+#~ msgstr "Desvío da coordenada X dende o centro do cubo."
+
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Y coordinate offset from the center of the cube."
+#~ msgstr "Desvío da coordenada Y dende o centro do cubo."
+
+#~ msgid "Z"
+#~ msgstr "Z"
+
+#~ msgid "Z coordinate offset from the center of the cube."
+#~ msgstr "Desvío da coordenada Z dende o centro do cubo."
+
+#~ msgid "Rotation plane"
+#~ msgstr "Rotación do plano"
+
+#~ msgid "Plane of rotation for the 3D model."
+#~ msgstr "Plano da rotación para o modelo 3D."
+
+#~ msgid "Rotation rate"
+#~ msgstr "Ratio de Rotación"
+
+#~ msgid "Rate of rotation of 3D model (in rotations per second)."
+#~ msgstr "Ratio da rotación do modelo 3D (en rotacións por segunto)."
+
+#~ msgid "Model type"
+#~ msgstr "Tipo de modelo"
+
+#~ msgid "Type of 3D model (still or animated)."
+#~ msgstr "Tipo de modelo 3D (quieto ou animado)."
+
+#~ msgid "Frames per second"
+#~ msgstr "Cadros por segundo"
+
+#~ msgid "Framerate (per second) for the animated series of obj files."
+#~ msgstr ""
+#~ "Ratio de cadros (por segundo) para as series animadas de ficheiros obj."
+
+#~ msgid "Render front and back sides"
+#~ msgstr "Renderizar partes frontal e traseira"
+
+#~ msgid ""
+#~ "Renders the front surface and then the back surface. This can be useful "
+#~ "for models which show black spots but can cause a performance hit."
+#~ msgstr ""
+#~ "Renderizar a superficie frontal e logo a superficie traseira. Isto pode "
+#~ "ser útil para os modelos que amosan puntos negros que poida ser causa dun "
+#~ "pico de rendemento."
+
+#~ msgid "Ambient light intensity"
+#~ msgstr "Intensidade da luz ambiental"
+
+#~ msgid "Diffuse light intensity"
+#~ msgstr "Intensidade da luz ambiental"
+
+#~ msgid ""
+#~ "Component of light coming from the direction set by inclination or from "
+#~ "the viewer if Rotate Lighting is true."
+#~ msgstr ""
+#~ "Compoñente de luz que proven dende o conxunto de dirección pola "
+#~ "inclinación ou dende o espectador se Rotar Luz está configurado a "
+#~ "verdadeiro."
+
+#~ msgid "Specular light intensity"
+#~ msgstr "Intensidade da luz Especular"
+
+#~ msgid ""
+#~ "Highly directional component of light coming from the direction set by "
+#~ "inclination or from the viewer if Rotate Lighting is true."
+#~ msgstr ""
+#~ "Compoñente altamente direccional da luz que chega dende a dirección "
+#~ "configurada pola inclinación ou polo visor se Iluminación de Rotación é "
+#~ "certo."
+
+#~ msgid "Loading"
+#~ msgstr "Cargando"
+
+#~ msgid "Use separate threads"
+#~ msgstr "Empregar fíos separados"
+
+#~ msgid ""
+#~ "Use separate threads to load each model faster and allow other "
+#~ "interaction whilst loading."
+#~ msgstr ""
+#~ "Empregar fíos separados para cargar máis rápido cada modelo e permitir "
+#~ "outra interacción mentres se carga."
+
+#, fuzzy
+#~ msgid "Dialog Match"
+#~ msgstr "Coincidencia de Fiestra"
+
+#~ msgid "Speed"
+#~ msgstr "Velocidade"
+
+#, fuzzy
+#~ msgid "The speed of the animation"
+#~ msgstr "Tempo de desvanecemento das animacións de texto"
+
+#~ msgid "Opacity"
+#~ msgstr "Opacidade"
+
+#~ msgid "Saturation"
+#~ msgstr "Saturación"
+
+#, fuzzy
+#~ msgid "The Saturation of windows with open dialogs"
+#~ msgstr "Saturación das xanelas non-widget nos modos widget."
+
+#~ msgid "Brightness"
+#~ msgstr "Brillo"
+
+#, fuzzy
+#~ msgid "The Brightness of windows with open dialogs"
+#~ msgstr "Brillo das xanelas non widget en modos widget."
+
+#~ msgid "Elements"
+#~ msgstr "Elementos"
+
+#~ msgid "General"
+#~ msgstr "Xeral"
+
+#, fuzzy
+#~ msgid "Global Speed"
+#~ msgstr "Velocidade do Zoom"
+
+#~ msgid ""
+#~ "How deep into the screen snowflakes can be drawn before being removed"
+#~ msgstr ""
+#~ "Ata que profundidade da pantalla son debuxados os flocos de neve antes de "
+#~ "que desaparezan"
+
+#~ msgid "Draw Over Windows"
+#~ msgstr "Debuxar Sobre Fiestras"
+
+#~ msgid "Elements drawn above windows"
+#~ msgstr "Elementos debuxados sobre as xanelas"
+
+#~ msgid "Snow"
+#~ msgstr "Neve"
+
+#~ msgid "Number Of Snowflakes"
+#~ msgstr "Número de flocos de neve"
+
+#~ msgid "Number of snowflakes"
+#~ msgstr "Número de flocos de neve"
+
+#~ msgid "Size Of Snowflakes"
+#~ msgstr "Tamaño das Folerpas de Neve"
+
+#~ msgid "Size of snowflakes"
+#~ msgstr "Tamaño dos flocos de neve"
+
+#~ msgid "Snow Speed"
+#~ msgstr "Velocidade da Neve"
+
+#~ msgid "Speed of falling snow"
+#~ msgstr "Velocidade da queda de neve"
+
+#~ msgid "Snow sway"
+#~ msgstr "Balanceo da Neve"
+
+#, fuzzy
+#~ msgid "Rotate Snowflakes"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Toggle snow"
+#~ msgstr "Trocar o  modo Mosaico"
+
+#, fuzzy
+#~ msgid "Toggle Snow"
+#~ msgstr "Trocar modo de Mostrar en tódalas pantallas"
+
+#~ msgid "Snow Direction"
+#~ msgstr "Dirección da Neve"
+
+#~ msgid "None"
+#~ msgstr "Ningunha"
+
+#~ msgid "Snow Textures"
+#~ msgstr "Texturas da Neve"
+
+#~ msgid "Snow textures"
+#~ msgstr "Texturas da neve"
+
+#~ msgid "Autumn"
+#~ msgstr "Outono"
+
+#, fuzzy
+#~ msgid "Number Of leaves"
+#~ msgstr "Número de flocos de neve"
+
+#, fuzzy
+#~ msgid "Number of leaves"
+#~ msgstr "Número de elementos"
+
+#, fuzzy
+#~ msgid "Size Of leaves"
+#~ msgstr "Balanceo das follas"
+
+#, fuzzy
+#~ msgid "Size of leaves"
+#~ msgstr "Tamaño dos flocos de neve"
+
+#~ msgid "Sway Of leaves"
+#~ msgstr "Balanceo das follas"
+
+#~ msgid "sway of leaves"
+#~ msgstr "balanceo das follas"
+
+#~ msgid "Speed of falling leaves"
+#~ msgstr "Velocidade dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Rotate Leaves"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Toggle Autumn"
+#~ msgstr "Outono"
+
+#, fuzzy
+#~ msgid "Autumn Textures"
+#~ msgstr "Texturas da Neve"
+
+#, fuzzy
+#~ msgid "Autumn textures"
+#~ msgstr "Texturas da neve"
+
+#~ msgid "Bubbles"
+#~ msgstr "Burbullas"
+
+#~ msgid "Viscosity of liquid"
+#~ msgstr "Viscosidade do líquido"
+
+#~ msgid "Fireflies"
+#~ msgstr "Lapas de lume"
+
+#, fuzzy
+#~ msgid "Number Of fireflies"
+#~ msgstr "Número De Partículas de Lume"
+
+#, fuzzy
+#~ msgid "Number of fireflies"
+#~ msgstr "Números de partículas de lume."
+
+#, fuzzy
+#~ msgid "Size Of fireflies"
+#~ msgstr "Tamaño das Folerpas de Neve"
+
+#, fuzzy
+#~ msgid "Size of fireflies"
+#~ msgstr "Tamaño dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Firefly Speed"
+#~ msgstr "Lapas de lume"
+
+#, fuzzy
+#~ msgid "Rotate Fireflies"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Toggle Fireflies"
+#~ msgstr "Lapas de lume"
+
+#, fuzzy
+#~ msgid "Fireflies Textures"
+#~ msgstr "Lapas de lume"
+
+#, fuzzy
+#~ msgid "Fireflies textures"
+#~ msgstr "Lapas de lume"
+
+#~ msgid "Stars"
+#~ msgstr "Estrelas"
+
+#, fuzzy
+#~ msgid "Number Of stars"
+#~ msgstr "Número De Partículas"
+
+#, fuzzy
+#~ msgid "Number of stars"
+#~ msgstr "Número de partículas"
+
+#, fuzzy
+#~ msgid "Size Of stars"
+#~ msgstr "Tamaño das Folerpas de Neve"
+
+#, fuzzy
+#~ msgid "Size of stars"
+#~ msgstr "Tamaño dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Star Speed"
+#~ msgstr "Velocidade da Neve"
+
+#, fuzzy
+#~ msgid "Speed of stars"
+#~ msgstr "Factor de zoom"
+
+#~ msgid "Star X Offset"
+#~ msgstr "Desvío X da Estrela"
+
+#~ msgid "The X point on the screen where stars should start"
+#~ msgstr "O punto X da pantalla onde as estrelas deberían comezar"
+
+#~ msgid "Star Y Offset"
+#~ msgstr "Desvío Y da Estrela"
+
+#~ msgid "The Y point on the screen where stars should start"
+#~ msgstr "O punto Y da pantalla onde as estrelas deberían comezar"
+
+#, fuzzy
+#~ msgid "Rotate Stars"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Toggle Stars"
+#~ msgstr "Trocar modo de Mostrar en tódalas pantallas"
+
+#, fuzzy
+#~ msgid "Star textures"
+#~ msgstr "Texturas da neve"
+
+#, fuzzy
+#~ msgid "Fireflies for Compiz"
+#~ msgstr "Snow para Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Fireflies"
+#~ msgstr "Número De Partículas de Lume"
+
+#, fuzzy
+#~ msgid "The maximum number of fireflies allowed on screen"
+#~ msgstr "Número máximo de ondas para Lámpada Máxica."
+
+#, fuzzy
+#~ msgid "Size Of Fireflies"
+#~ msgstr "Lapas de lume"
+
+#, fuzzy
+#~ msgid ""
+#~ "How far outside the screen resolution fireflies can be before being "
+#~ "removed. Needed because of FOV."
+#~ msgstr ""
+#~ "Ata quón lonxe da resolución da pantalla os flocos de neve poden estar "
+#~ "antes de desapareceren. Necesario por causa do campo de visión."
+
+#, fuzzy
+#~ msgid "How deep into the screen fireflies can be drawn before being removed"
+#~ msgstr ""
+#~ "Ata que profundidade da pantalla son debuxados os flocos de neve antes de "
+#~ "que desaparezan"
+
+#, fuzzy
+#~ msgid "Fireflies Over Windows"
+#~ msgstr "Debuxar Sobre Fiestras"
+
+#, fuzzy
+#~ msgid "Fireflies is drawn above windows"
+#~ msgstr "A Neve é mostrada por cima das xanelas"
+
+#, fuzzy
+#~ msgid "Rotate Flies. Redundant"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Fireflies Direction. Redundant"
+#~ msgstr "Dirección do lume."
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Cima para Baixo"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Baixo cara arriba"
+
+#~ msgid "Right to Left"
+#~ msgstr "Dereita para a Esquerda"
+
+#~ msgid "Left to Right"
+#~ msgstr "Esquerda para a Dereita"
+
+#, fuzzy
+#~ msgid "Enable fireflies by default."
+#~ msgstr "Fiestras que deben ser filtradas por omisión."
+
+#, fuzzy
+#~ msgid "Firefly toggle key"
+#~ msgstr "Tecla para trocar a activación da Neve"
+
+#, fuzzy
+#~ msgid "Freely Transformable Windows"
+#~ msgstr "Restaurar xanelas"
+
+#, fuzzy
+#~ msgid "Freely transform windows"
+#~ msgstr "Por abaixo de outras xanelas"
+
+#, fuzzy
+#~ msgid "Free Transformation"
+#~ msgstr "Deformación"
+
+#, fuzzy
+#~ msgid "Initiate Rotation"
+#~ msgstr "Iniciar (botón)"
+
+#, fuzzy
+#~ msgid "Start Free Rotation"
+#~ msgstr "Saturación"
+
+#, fuzzy
+#~ msgid "Initiate Scaling"
+#~ msgstr "Iniciar captura de pantalla"
+
+#, fuzzy
+#~ msgid "Reset Transformation"
+#~ msgstr "Deformación"
+
+#, fuzzy
+#~ msgid "Axis selection helper"
+#~ msgstr "Cor da selección"
+
+#, fuzzy
+#~ msgid "Use this bindings to enable/disable snapping."
+#~ msgstr "Use este atallo para evitar atraccións."
+
+#~ msgid "Shift"
+#~ msgstr "Shift"
+
+#~ msgid "Alt"
+#~ msgstr "Alt"
+
+#~ msgid "Control"
+#~ msgstr "Control"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#, fuzzy
+#~ msgid "Rotation"
+#~ msgstr "Ratio de Rotación"
+
+#, fuzzy
+#~ msgid "Use this bindings to invert the rotation mode."
+#~ msgstr "Use este atallo para evitar atraccións."
+
+#, fuzzy
+#~ msgid "Scaling"
+#~ msgstr "Escalado"
+
+#, fuzzy
+#~ msgid "Scale Down"
+#~ msgstr "Adicións ao Scale"
+
+#, fuzzy
+#~ msgid "Rotate Up"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Rotate Down"
+#~ msgstr "Mover abaixo"
+
+#, fuzzy
+#~ msgid "Rotate Right"
+#~ msgstr "Rotación de iluminación"
+
+#, fuzzy
+#~ msgid "Rotate Clockwise"
+#~ msgstr "Rodar Anel no Sentido Horario cando Seguinte"
+
+#, fuzzy
+#~ msgid "Rotate clockwise by one increment"
+#~ msgstr "Rodar Anel no Sentido Horario cando Seguinte"
+
+#, fuzzy
+#~ msgid "Rotate Counter-Clockwise"
+#~ msgstr "Rodar Anel no Sentido Horario cando Seguinte"
+
+#, fuzzy
+#~ msgid "Rotate counter-clockwise by one increment"
+#~ msgstr "Rodar Anel no Sentido Horario cando Seguinte"
+
+#, fuzzy
+#~ msgid "Snap Threshold"
+#~ msgstr "Tipo de Atracción"
+
+#, fuzzy
+#~ msgid "Snap to every one of these angles"
+#~ msgstr "Velocidade para estes elementos"
+
+#, fuzzy
+#~ msgid "Scale Mode"
+#~ msgstr "Escalado"
+
+#, fuzzy
+#~ msgid "How to scale windows"
+#~ msgstr "Fiestras impedidas de ser pechadas"
+
+#, fuzzy
+#~ msgid "Allow negative"
+#~ msgstr "Negativo"
+
+#, fuzzy
+#~ msgid "Maintain aspect ratio"
+#~ msgstr "Manter a proporción de aspecto da parte superior"
+
+#, fuzzy
+#~ msgid "Minimum scale"
+#~ msgstr "Factor Mínimo de Escalado"
+
+#, fuzzy
+#~ msgid "2D/3D Rotation Type"
+#~ msgstr "Rotación do plano"
+
+#, fuzzy
+#~ msgid "Rotation Axis"
+#~ msgstr "Ángulo de Rotación"
+
+#, fuzzy
+#~ msgid "3D Rotation Percentage"
+#~ msgstr "Ratio de Rotación"
+
+#, fuzzy
+#~ msgid "Auto-Zoom"
+#~ msgstr "Zoom automático"
+
+#, fuzzy
+#~ msgid "Disable on Transformed Screen"
+#~ msgstr "Distorsión durante movemento en pantallas transformados"
+
+#, fuzzy
+#~ msgid "Speed of window rotation"
+#~ msgstr "Filtrar as decoracións das xanelas"
+
+#~ msgid "Misc"
+#~ msgstr "Varios"
+
+#, fuzzy
+#~ msgid "Prevented Input Window Types"
+#~ msgstr "Tipos de Fiestras"
+
+#, fuzzy
+#~ msgid "Window types that should be Shaped. Disable problematic windows here"
+#~ msgstr ""
+#~ "Tipos de xanelas que deberán ser consideradas polo Seguemento de foco."
+
+#, fuzzy
+#~ msgid "Immediate Moves"
+#~ msgstr "Movementos inmediatos"
+
+#, fuzzy
+#~ msgid "Helper Options"
+#~ msgstr "Opcións das Particulas"
+
+#, fuzzy
+#~ msgid "Helper Circle Color"
+#~ msgstr "Cor das Partículas"
+
+#, fuzzy
+#~ msgid "Helper Line Color"
+#~ msgstr "Cor da liña"
+
+#, fuzzy
+#~ msgid "Helper line color around the circle"
+#~ msgstr "Cor da liña do rectángulo de selección"
+
+#, fuzzy
+#~ msgid "Helper Cross Line Color"
+#~ msgstr "Cor da liña"
+
+#, fuzzy
+#~ msgid "Show rotation axis info"
+#~ msgstr "Permitir a rotación neste elemento"
+
+#, fuzzy
+#~ msgid "Show crosshair"
+#~ msgstr "Amosar redebuxado"
+
+#, fuzzy
+#~ msgid "Show input regions"
+#~ msgstr "Amosar redebuxado"
+
+#, fuzzy
+#~ msgid "Show input region rectangle"
+#~ msgstr "Amosar rectángulo"
+
+#~ msgid "Color Opacity"
+#~ msgstr "Opacidade de cores"
+
+#~ msgid "Alter window opacity based on color."
+#~ msgstr "Alterar opacidade da xanela con base na cor."
+
+#~ msgid "Toggle Window Fake ARGB"
+#~ msgstr "Trocar ARGB falsos da xanela"
+
+#~ msgid "Toggle window fake ARGB."
+#~ msgstr "Trocar ARGB falsos da xanela."
+
+#, fuzzy
+#~ msgid "Toggle Ghost"
+#~ msgstr "Trocar modo de Mostrar en tódalas pantallas"
+
+#, fuzzy
+#~ msgid "Toggle ghost for all matching windows"
+#~ msgstr "Trocar estado Sempre arriba na xanela activa"
+
+#, fuzzy
+#~ msgid "Toggle Ghost Window"
+#~ msgstr "Pechar Fiestra"
+
+#, fuzzy
+#~ msgid "Toggle ghosting of individual window"
+#~ msgstr "Troca o visionado das rexións redebuxadas"
+
+#, fuzzy
+#~ msgid "Fade windows only on mousover"
+#~ msgstr "Definir xanela como imposíbel de mover"
+
+#, fuzzy
+#~ msgid "The Opacity of Ghosted Windows"
+#~ msgstr "Opacidade das xanelas seleccionadas"
+
+#, fuzzy
+#~ msgid "The Brightness of Ghosted Windows"
+#~ msgstr "Brillo das xanelas seleccionadas"
+
+#~ msgid "Mouse switch"
+#~ msgstr "Interruptor do Rato"
+
+#~ msgid "Switch viewport in response to mouse gesture"
+#~ msgstr "Trocar escritorio en resposta a un xestos do rato"
+
+#~ msgid "Begin Gesture"
+#~ msgstr "Comezo de Xesto"
+
+#~ msgid "Begin Mouse Gesture"
+#~ msgstr "Comezo do Xesto do Rato"
+
+#, fuzzy
+#~ msgid "Render photo turn wheel inside of the transparent cube"
+#~ msgstr "Mostra engrenaxes dentro do cubo transparente"
+
+#, fuzzy
+#~ msgid "Photo Textures"
+#~ msgstr "Texturas da Neve"
+
+#, fuzzy
+#~ msgid "Photo textures"
+#~ msgstr "Texturas da neve"
+
+#~ msgid "Width"
+#~ msgstr "Ancho"
+
+#, fuzzy
+#~ msgid "X Offset"
+#~ msgstr "Desvío X da Estrela"
+
+#, fuzzy
+#~ msgid "Y Offset"
+#~ msgstr "Desvío Y da Estrela"
+
+#, fuzzy
+#~ msgid "Z Offset"
+#~ msgstr "Desvío X da Estrela"
+
+#, fuzzy
+#~ msgid "Color of top face of the photo wheel"
+#~ msgstr "Cor da cara superior do cubo"
+
+#, fuzzy
+#~ msgid "Color of bottom face of the photo wheel"
+#~ msgstr "Cor da cara inferior do cubo"
+
+#, fuzzy
+#~ msgid "Put Plus window"
+#~ msgstr "Colocar a xanela"
+
+#~ msgid "Put On Viewport"
+#~ msgstr "Colocar no Escritorio"
+
+#~ msgid "Move window to a certain viewport"
+#~ msgstr "Mover xanela a un escritorio determinado"
+
+#~ msgid "Put to arbitrary viewport"
+#~ msgstr "Colocar nun escritorio arbitrario"
+
+#~ msgid "Put On Viewport 1"
+#~ msgstr "Colocar no Escritorio 1"
+
+#~ msgid "Put On Viewport 2"
+#~ msgstr "Colocar no Escritorio 2"
+
+#~ msgid "Move window to viewport 2"
+#~ msgstr "Mover xanela ao escritorio 2"
+
+#~ msgid "Put On Viewport 3"
+#~ msgstr "Colocar no Escritorio 3"
+
+#~ msgid "Move window to viewport 3"
+#~ msgstr "Mover xanela ao escritorio 3"
+
+#~ msgid "Put On Viewport 4"
+#~ msgstr "Colocar no Escritorio 4"
+
+#~ msgid "Move window to viewport 4"
+#~ msgstr "Mover xanela ao escritorio 4"
+
+#~ msgid "Put On Viewport 5"
+#~ msgstr "Colocar no Escritorio 5"
+
+#~ msgid "Move window to viewport 5"
+#~ msgstr "Mover xanela ao escritorio 5"
+
+#~ msgid "Put On Viewport 6"
+#~ msgstr "Colocar no Escritorio 6"
+
+#~ msgid "Move window to viewport 6"
+#~ msgstr "Mover xanela ao escritorio 6"
+
+#~ msgid "Put On Viewport 7"
+#~ msgstr "Colocar no Escritorio 7"
+
+#~ msgid "Move window to viewport 7"
+#~ msgstr "Mover xanela ao escritorio 7"
+
+#~ msgid "Put On Viewport 8"
+#~ msgstr "Colocar no Escritorio 8"
+
+#~ msgid "Move window to viewport 8"
+#~ msgstr "Mover xanela ao escritorio 8"
+
+#~ msgid "Put On Viewport 9"
+#~ msgstr "Colocar no Escritorio 10"
+
+#~ msgid "Move window to viewport 9"
+#~ msgstr "Mover xanela ao escritorio 9"
+
+#~ msgid "Put On Viewport 10"
+#~ msgstr "Colocar no Escritorio 10"
+
+#~ msgid "Move window to viewport 10"
+#~ msgstr "Mover xanela ao escritorio 10"
+
+#~ msgid "Put On Viewport 11"
+#~ msgstr "Colocar no Escritorio 11"
+
+#~ msgid "Move window to viewport 11"
+#~ msgstr "Mover xanela ao escritorio 11"
+
+#~ msgid "Put On Viewport 12"
+#~ msgstr "Colocar no Escritorio 12"
+
+#~ msgid "Move window to viewport 12"
+#~ msgstr "Mover xanela ao escritorio 12"
+
+#~ msgid "Put to adjacent viewport"
+#~ msgstr "Colocar no Escritorio adxacente"
+
+#~ msgid "Move window to the viewport on the left"
+#~ msgstr "Mover xanela ao escritorio da esquerda"
+
+#~ msgid "Move window to the viewport on the right"
+#~ msgstr "Mover xanela ao escritorio da dereita"
+
+#~ msgid "Move window to the viewport on the top"
+#~ msgstr "Mover xanela ao escritorio de arriba"
+
+#~ msgid "Viewport Bottom"
+#~ msgstr "Escritorio do Fondo"
+
+#~ msgid "Move window to the viewport on the bottom"
+#~ msgstr "Mover xanela ao escritorio de abaixo"
+
+#~ msgid "Put within viewport"
+#~ msgstr "Colocar dentro do escritorio"
+
+#~ msgid "Put Center"
+#~ msgstr "Colocar no Centro"
+
+#~ msgid "Put Left"
+#~ msgstr "Colocar na Esquerda"
+
+#~ msgid "Move window to the left edge"
+#~ msgstr "Mover xanela para a marxe esquerda"
+
+#~ msgid "Put Right"
+#~ msgstr "Colocar na Dereita"
+
+#~ msgid "Move window to the right edge"
+#~ msgstr "Mover xanela para a marxe dereita"
+
+#~ msgid "Put Top"
+#~ msgstr "Colocar no Cimo"
+
+#~ msgid "Move window to the top edge"
+#~ msgstr "Mover xanela para a marxe de cima"
+
+#~ msgid "Put Bottom"
+#~ msgstr "Colocar abaixo"
+
+#~ msgid "Move window to the bottom edge"
+#~ msgstr "Mover xanela para a marxe de abaixo"
+
+#~ msgid "Put Top Left"
+#~ msgstr "Colocar Canto Superior Esquerdo"
+
+#~ msgid "Move window to the top left corner"
+#~ msgstr "Mover xanela para o canto superior esquerdo"
+
+#~ msgid "Put Top Right"
+#~ msgstr "Colocar Canto Superior Dereito"
+
+#~ msgid "Move window to the top right corner"
+#~ msgstr "Mover xanela para o canto superior dereito"
+
+#~ msgid "Put Bottom Left"
+#~ msgstr "Colocar abaixo á Esquerda"
+
+#~ msgid "Move window to the bottom left corner"
+#~ msgstr "Mover xanela para o canto inferior esquerdo"
+
+#~ msgid "Put Bottom Right"
+#~ msgstr "Colocar abaixo á Dereita"
+
+#~ msgid "Move window to the bottom right corner"
+#~ msgstr "Mover xanela para o canto inferior dereito"
+
+#~ msgid "Move window to the last position"
+#~ msgstr "Mover xanela á última posición"
+
+#~ msgid "Put"
+#~ msgstr "Posicionamento"
+
+#~ msgid "Move window arbitrarily by passing x, y and type."
+#~ msgstr "Mover a xanela arbitrariamente pasando x, y e o tipo."
+
+#~ msgid "Pad Left"
+#~ msgstr "Mover á Esquerda"
+
+#~ msgid ""
+#~ "Number of pixels from the left edge where the window will come to rest"
+#~ msgstr ""
+#~ "Número de píxeles da marxe do lado esquerdo da pantalla en que a xanela "
+#~ "parará"
+
+#~ msgid "Pad Right"
+#~ msgstr "Mover á Dereita"
+
+#~ msgid ""
+#~ "Number of pixels from the right edge where the window will come to rest"
+#~ msgstr ""
+#~ "Número de píxeles da marxe do lado dereito da pantalla onde a xanela "
+#~ "parará"
+
+#~ msgid "Pad Top"
+#~ msgstr "Mover Arriba"
+
+#~ msgid ""
+#~ "Number of pixels from the top edge where the window will come to rest"
+#~ msgstr ""
+#~ "Número de píxeles dende a marxe de arriba da pantalla onde a xanela parará"
+
+#~ msgid "Pad Bottom"
+#~ msgstr "Mover Abaixo"
+
+#~ msgid ""
+#~ "Number of pixels from the bottom edge where the window will come to rest"
+#~ msgstr ""
+#~ "Número de píxeles dende marxe de abaixo da pantalla onde a xanela parará"
+
+#~ msgid "Unfocus Window"
+#~ msgstr "Desenfocar a xanela"
+
+#~ msgid "Window Center"
+#~ msgstr "Centro da xanela"
+
+#~ msgid "Avoids putting window borders offscreen"
+#~ msgstr "Evita colocar as marxes das xanelas fora da pantalla"
+
+#~ msgid "Animation"
+#~ msgstr "Animación"
+
+#~ msgid "Animation speed"
+#~ msgstr "Velocidade da animación"
+
+#~ msgid "Timestep"
+#~ msgstr "Espazo de tempo"
+
+#~ msgid "Animation timestep"
+#~ msgstr "Salto de Tempo da animación"
+
+#, fuzzy
+#~ msgid "Screen Saver"
+#~ msgstr "Profundidade da pantalla"
+
+#, fuzzy
+#~ msgid "Screensaver mode"
+#~ msgstr "Marxes da pantalla"
+
+#, fuzzy
+#~ msgid "Screensaver mode."
+#~ msgstr "Modo do alternador."
+
+#, fuzzy
+#~ msgid "Start Automatically"
+#~ msgstr "Automático"
+
+#, fuzzy
+#~ msgid "Start Automatically."
+#~ msgstr "Automático"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)"
+#~ msgstr "Duración Desvanecemento"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)."
+#~ msgstr "Duración do desvanecemento en segundos."
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)"
+#~ msgstr "Duración Desvanecemento"
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)."
+#~ msgstr "Duración do desvanecemento en segundos."
+
+#, fuzzy
+#~ msgid "Flying windows"
+#~ msgstr "Fiestras Anel"
+
+#, fuzzy
+#~ msgid "ScreenSaver Windows"
+#~ msgstr "Debuxar Sobre Fiestras"
+
+#~ msgid "Generate mipmaps"
+#~ msgstr "Crear Mipmaps"
+
+#, fuzzy
+#~ msgid "Attraction Depth"
+#~ msgstr "Distancia da Atracción á Marxe"
+
+#, fuzzy
+#~ msgid "Attraction Depth."
+#~ msgstr "Distancia da Atracción á Marxe"
+
+#, fuzzy
+#~ msgid "Rotating cube"
+#~ msgstr "Ratio de Rotación"
+
+#, fuzzy
+#~ msgid "Cube rotation speed"
+#~ msgstr "Velocidade da Rotación"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#, fuzzy
+#~ msgid "Smart way to fit windows."
+#~ msgstr "Contrastes das xanelas seleccionadas"
+
+#~ msgid "Options"
+#~ msgstr "Opcións"
+
+#, fuzzy
+#~ msgid "Allow stack windows"
+#~ msgstr "Tódalas xanelas"
+
+#, fuzzy
+#~ msgid "Allow windows shrink"
+#~ msgstr "Tódalas xanelas"
+
+#, fuzzy
+#~ msgid "Minimal window height"
+#~ msgstr "Debuxar realce da xanela"
+
+#, fuzzy
+#~ msgid "Minimal window width"
+#~ msgstr "Tamaño máximo da xanela"
+
+#, fuzzy
+#~ msgid "Window margin"
+#~ msgstr "Tipos de xanelas"
+
+#~ msgid ""
+#~ "How far outside the screen resolution snow flakes can be before being "
+#~ "removed. Needed because of FOV."
+#~ msgstr ""
+#~ "Ata quón lonxe da resolución da pantalla os flocos de neve poden estar "
+#~ "antes de desapareceren. Necesario por causa do campo de visión."
+
+#~ msgid "Snow Over Windows"
+#~ msgstr "Neve por arriba das Fiestras"
+
+#~ msgid "Snow is drawn above windows"
+#~ msgstr "A Neve é mostrada por cima das xanelas"
+
+#~ msgid "Flakes rotate if checked."
+#~ msgstr "Flocos rodan se activado."
+
+#~ msgid "Enables alpha blending of snowflakes."
+#~ msgstr "Activa mistura alfa dos flocos de neve."
+
+#~ msgid ""
+#~ "Enables textured snowflakes. If not selected, color gradients are used."
+#~ msgstr ""
+#~ "Activa texturas dos flocos de neve. Se non estivera seleccionado, serán "
+#~ "usados gradientes de cores."
+
+#~ msgid "Snow Toggle"
+#~ msgstr "Trocar Neve"
+
+#, fuzzy
+#~ msgid "Maximum number of snowflakes."
+#~ msgstr "Número de flocos de neve"
+
+#, fuzzy
+#~ msgid "Size of snowflakes."
+#~ msgstr "Tamaño dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Size of snowman"
+#~ msgstr "Tamaño dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Size of snowman inside the cube."
+#~ msgstr "Renderizar auga dentro do cubo"
+
+#~ msgid "Stack Window Switcher"
+#~ msgstr "Pila do Trocador de Fiestras"
+
+#~ msgid "Show switcher if not visible and select next window."
+#~ msgstr ""
+#~ "Mostrar anel se non estivera visíbel e seleccionar a próxima xanela."
+
+#~ msgid "Previous Window"
+#~ msgstr "Fiestra Anterior"
+
+#~ msgid "Show switcher if not visible and select previous window."
+#~ msgstr ""
+#~ "Mostrar anel se non estivera visíbel e seleccionar a xanela anterior."
+
+#~ msgid "Next Window (All Workspaces)"
+#~ msgstr "Seguinte Fiestra (Todolos Espazos de Traballo)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window out of all windows."
+#~ msgstr ""
+#~ "Mostrar anel, se non estivera visíbel, e selecionar próxima xanela de "
+#~ "todas as xanelas."
+
+#~ msgid "Previous Window (All Workspaces)"
+#~ msgstr "Fiestra Anterior (Todolos Espazos de Traballo)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select previous window out of all "
+#~ "windows."
+#~ msgstr ""
+#~ "Mostrar anel, se non estivera visíbel, e selecionar xanela anterior de "
+#~ "todas as xanelas"
+
+#~ msgid "Next Window (Group)"
+#~ msgstr "Seguinte xanela (Grupo)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Mostar anel se non visíbel e seleccionar a próxima xanela da aplicación "
+#~ "actual."
+
+#~ msgid "Previous Window (Group)"
+#~ msgstr "Fiestra Anterior (Grupo)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select previous window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Mostar anel se non visíbel e seleccionar a xanela anterior da aplicación "
+#~ "actual."
+
+#~ msgid "Inactive Window Opacity"
+#~ msgstr "Opacidade da Fiestra Inactiva"
+
+#~ msgid ""
+#~ "Amount of opacity (in percent) for windows in the switcher which are not "
+#~ "selected"
+#~ msgstr ""
+#~ "Nivel de opacidade (en porcentaxe) para xanelas no anel que non están "
+#~ "seleccionadas"
+
+#~ msgid "Should not selected windows be rotated"
+#~ msgstr "Non se deben xirar as xanelas seleccionadas"
+
+#~ msgid "Windows"
+#~ msgstr "Fiestras"
+
+#~ msgid "Windows that should be shown in the switcher"
+#~ msgstr "Fiestras que se deben mostrar no trocador"
+
+#~ msgid "Darken Background"
+#~ msgstr "Escurecer Fondo"
+
+#~ msgid "Darken background when showing the stack"
+#~ msgstr "Escurecer fondo cando se mostre a pila"
+
+#~ msgid "Show Minimized"
+#~ msgstr "Mostrar Fiestras Minimizadas"
+
+#~ msgid "Show windows that are minimized, shaded or in show desktop mode."
+#~ msgstr ""
+#~ "Mostrar xanelas que están minimizadas, sombreadas ou en modo mostrar "
+#~ "escritorio."
+
+#~ msgid "Tilt"
+#~ msgstr "Inclinación"
+
+#~ msgid "Tilt angle of the background."
+#~ msgstr "Ángulo de inclinación do fondo."
+
+#~ msgid "Window title display"
+#~ msgstr "Mostrar título da xanela"
+
+#~ msgid "Show Window Title"
+#~ msgstr "Mostrar Título Fiestras"
+
+#~ msgid "Show window title of currently selected window."
+#~ msgstr "Mostrar título da xanela actualmente seleccionada."
+
+#~ msgid "Bold Font"
+#~ msgstr "Fonte en Negriña"
+
+#~ msgid "Selects if the window title should be displayed in bold font or not."
+#~ msgstr ""
+#~ "Selecciona se o título da xanela debe ser mostrada a negrito ou non."
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Tamaño da fonte"
+
+#, fuzzy
+#~ msgid "Font family for the window title"
+#~ msgstr "Tamaño da fonte para o título da xanela"
+
+#~ msgid "Text Placement"
+#~ msgstr "Colocación Texto"
+
+#~ msgid "On Thumbnail"
+#~ msgstr "En Miniatura"
+
+#~ msgid "Above"
+#~ msgstr "Enriba"
+
+#~ msgid "Below"
+#~ msgstr "Por Baixo"
+
+#, fuzzy
+#~ msgid "Stars for Compiz"
+#~ msgstr "Snow para Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Stars"
+#~ msgstr "Número De Partículas"
+
+#, fuzzy
+#~ msgid "Maximum number of stars"
+#~ msgstr "Número máximo de partículas activas."
+
+#, fuzzy
+#~ msgid "Size Of Stars"
+#~ msgstr "Tamaño das Folerpas de Neve"
+
+#, fuzzy
+#~ msgid "Speed of traveling stars"
+#~ msgstr "Velocidade dos flocos de neve"
+
+#, fuzzy
+#~ msgid "Rotate Flakes. Redundant"
+#~ msgstr "Rotar folerpas"
+
+#, fuzzy
+#~ msgid "Snow Direction. Redundant"
+#~ msgstr "Dirección da Neve"
+
+#, fuzzy
+#~ msgid "Stars Textures"
+#~ msgstr "Texturas da Neve"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enables textures snowflakes. If not selected, color gradients are used."
+#~ msgstr ""
+#~ "Activa texturas dos flocos de neve. Se non estivera seleccionado, serán "
+#~ "usados gradientes de cores."
+
+#, fuzzy
+#~ msgid "Stars Toggle"
+#~ msgstr "Trocar Neve"
+
+#, fuzzy
+#~ msgid "Stars toggle key"
+#~ msgstr "Tecla para trocar a activación da Neve"
+
+#, fuzzy
+#~ msgid "Static Windows"
+#~ msgstr "Fiestras Fixas"
+
+#, fuzzy
+#~ msgid "Windows that should be kept static during transformations."
+#~ msgstr "Fiestras que non deben deslizarse na animación de tobogán"
+
+#, fuzzy
+#~ msgid "Swap Windows"
+#~ msgstr "Atracción de Fiestras"
+
+#~ msgid "Next window"
+#~ msgstr "Seguinte xanela"
+
+#~ msgid "Popup switcher if not visible and select next window"
+#~ msgstr ""
+#~ "Amostrar trocador se non estivera visíbel e seleccionar a seguinte xanela."
+
+#~ msgid "Prev window"
+#~ msgstr "Fiestra Ant."
+
+#~ msgid "Popup switcher if not visible and select previous window"
+#~ msgstr "Amosar anel se non estivera visíbel e seleccionar a xanela anterior"
+
+#~ msgid "Next window (All windows)"
+#~ msgstr "Seguinte Fiestra"
+
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window out of all windows"
+#~ msgstr ""
+#~ "Amosar anel, se non estivera visíbel, e selecionar próxima xanela de "
+#~ "todas as xanelas."
+
+#~ msgid "Prev window (All windows)"
+#~ msgstr "Fiestra Ant. (Todos as xanelas)"
+
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window out of all "
+#~ "windows"
+#~ msgstr ""
+#~ "Amosar trocador, se non estivera visíbel, e selecionar xanela anterior de "
+#~ "todas as xanelas"
+
+#~ msgid "Next window (Group)"
+#~ msgstr "Seguinte xanela (Grupo)"
+
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Amosar anel se non visíbel e seleccionar a próxima xanela da aplicación "
+#~ "actual."
+
+#~ msgid "Prev window (Group)"
+#~ msgstr "Fiestra Ant. (Grupo)"
+
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Mostar anel se non é visíbel e seleccionar a xanela anterior da "
+#~ "aplicación actual."
+
+#~ msgid "Next window (No popup)"
+#~ msgstr "Seguinte xanela (Grupo)"
+
+#~ msgid "Select next window without showing the popup window."
+#~ msgstr "Seleccionar a seguinte xanela sen amosar a xanela popup"
+
+#~ msgid "Prev window (No popup)"
+#~ msgstr "Fiestra Ant. (Grupo)"
+
+#~ msgid "Select previous window without showing the popup window."
+#~ msgstr "Seleccionar as xanelas anteriores sen amosar a xanela popup."
+
+#~ msgid "Next Panel"
+#~ msgstr "Seg. Panel"
+
+#~ msgid "Select next panel type window."
+#~ msgstr "Seleccionar a seguinte xanela de tipo panel."
+
+#~ msgid "Prev Panel"
+#~ msgstr "Ant. Panel"
+
+#~ msgid "Select previous panel type window."
+#~ msgstr "Selecciona a xanela anterior de tipo panel."
+
+#~ msgid "Switcher speed"
+#~ msgstr "Velocidade de Trocador"
+
+#~ msgid "Switcher timestep"
+#~ msgstr "Salto de tempo do trocador"
+
+#~ msgid "Windows that should be shown in switcher"
+#~ msgstr "Fiestras que se deben mostrar no trocador"
+
+#~ msgid "Show minimized windows"
+#~ msgstr "Amosar xanelas minimizadas"
+
+#~ msgid "Auto Change Viewport"
+#~ msgstr "Cambiar automáticamente o Escritorio"
+
+#~ msgid "Change to the viewport of the selected window while switching"
+#~ msgstr "Cambiar o Escritorio das xanela seleccionada mentres se cambia"
+
+#~ msgid "Time (in s) the popup window should be delayed before appearing"
+#~ msgstr "Tempo (en seg) que se debe retrasar a xanela popup antes de amosala"
+
+#~ msgid "Amount of saturation in percent"
+#~ msgstr "Nivel de Saturación en porcentaxe"
+
+#~ msgid "Amount of brightness in percent"
+#~ msgstr "Nivel de brillo en porcentaxe"
+
+#~ msgid "Amount of opacity in percent"
+#~ msgstr "Nivel de opacidade en porcentaxe"
+
+#~ msgid "Icon"
+#~ msgstr "Icona"
+
+#~ msgid "Show icon next to thumbnail"
+#~ msgstr "Amosar a icona ó lado da vista previa"
+
+#~ msgid "Mipmap"
+#~ msgstr "Mipmap"
+
+#~ msgid "Generate mipmaps when possible for higher quality scaling"
+#~ msgstr ""
+#~ "Xerar mapas de imaxe cando sexa posíbel cando se emprega escalado de "
+#~ "calidade moi alta"
+
+#~ msgid "Alignment for rows that are not fully filled"
+#~ msgstr "Alixación das filas que non están totalmente recheas"
+
+#~ msgid "Centered"
+#~ msgstr "Centrado"
+
+#~ msgid "Selected Window Highlight"
+#~ msgstr "Seleccionar Fiestra Resaltada"
+
+#~ msgid "Highlight Mode"
+#~ msgstr "Cor de Resaltado"
+
+#~ msgid "Mode for highlighting the currently selected window"
+#~ msgstr "Modo de resalte da xanela actualmente seleccionada"
+
+#~ msgid "Bring Selected To Front"
+#~ msgstr "Traer as Seleccionadas á Fronte"
+
+#~ msgid "Show Rectangle"
+#~ msgstr "Amosar rectángulo"
+
+#~ msgid "Minimized Window Highlight Rectangle"
+#~ msgstr "Rectángulo de Resalte de Fiestra Minimizada"
+
+#~ msgid "Where to draw highlight rectangle for minimized windows"
+#~ msgstr "Onde se debuxa o rectángulo de resalte para as xanelas minimizadas"
+
+#~ msgid "Taskbar Entry"
+#~ msgstr "Entrada da Barra de Tarefas"
+
+#~ msgid "Original Window Position"
+#~ msgstr "Posición Orixinal da Fiestra"
+
+#~ msgid "Color of highlight rectangle"
+#~ msgstr "Cor do rectángulo de resaltado"
+
+#~ msgid "Highlight Border Color"
+#~ msgstr "Cor do Borde de Resaltado"
+
+#~ msgid "Color of highlight rectangle border"
+#~ msgstr "Cor do borde do rectángulo de resalte"
+
+#~ msgid "Highlight Border Inlay Color"
+#~ msgstr "Cor do Borde de Resalte Incrustado "
+
+#~ msgid "Color of inlay in highlight rectangle border"
+#~ msgstr "Cor da incrustación no borde do rectángulo de resalte"
+
+#, fuzzy
+#~ msgid "Throw Windows"
+#~ msgstr "Agrupar xanelas"
+
+#, fuzzy
+#~ msgid "X Velocity Multipler"
+#~ msgstr "Multiplicador da Amplitude da Onda"
+
+#, fuzzy
+#~ msgid "Y Velocity Multipler"
+#~ msgstr "Multiplicador da Amplitude da Onda"
+
+#, fuzzy
+#~ msgid "Friction constant"
+#~ msgstr "Velocidade da constante de lume"
+
+#, fuzzy
+#~ msgid "Constrain window in display width"
+#~ msgstr "Tamaño da fonte do título da xanela"
+
+#, fuzzy
+#~ msgid "Constrain window in display height"
+#~ msgstr "Tamaño da fonte do título da xanela"
+
+#~ msgid "Tile"
+#~ msgstr "Mosaico"
+
+#~ msgid "Tile windows"
+#~ msgstr "Crear mosaico das xanelas"
+
+#~ msgid "Tiling Animation Type"
+#~ msgstr "Tipo de Animación do Mosaico"
+
+#~ msgid "Selects the animation used while tiling"
+#~ msgstr ""
+#~ "Seleccionar a animación que se vai empregar cando se entra en modo mosaico"
+
+#~ msgid "Filled Outline"
+#~ msgstr "Contorno recheo"
+
+#~ msgid "Slide"
+#~ msgstr "Deslizar"
+
+#~ msgid "Drop From Top"
+#~ msgstr "Eliminar de enrriba"
+
+#~ msgid "Animation Duration"
+#~ msgstr "Duración da Animación"
+
+#~ msgid "Duration (in ms) of the tiling animation"
+#~ msgstr "Duración (en ms) da animación do mosaico"
+
+#~ msgid "Tiling Method For Toggle"
+#~ msgstr "Tipo de Mosaico cando se Alterna o Estado"
+
+#~ msgid "Choose the tiling type you want when using toggle."
+#~ msgstr ""
+#~ "Escolle o tipo de mosaico que queres empregar cando se activa/desactiva o "
+#~ "modo mosaico."
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Mosaico Horizontal"
+
+#~ msgid "Cascade"
+#~ msgstr "Cascada"
+
+#~ msgid "Join Windows (EXPERIMENTAL)"
+#~ msgstr "Xuntar Fiestras (EXPERIMENTAL)"
+
+#~ msgid ""
+#~ "Tries to join the windows together when horizontal, vertical or left "
+#~ "tiling is enabled so that when you resize a window surrounding windows "
+#~ "resize accordingly. This may cause problems if you dont leave them enough "
+#~ "space."
+#~ msgstr ""
+#~ "Tenta xuntar as xanelas cando estivera en modo mosaico horizontal, "
+#~ "vertical ou á esquerda, de modo que cando se redimensiona unha xanela, as "
+#~ "xanelas adxacentes sexan tamén redimensionadas. Isto pode causar "
+#~ "problemas se non deixa espazo suficiente a esas mesmas xanelas adxacentes."
+
+#~ msgid "Cascade Delta"
+#~ msgstr "Distancia entre Fiestras en cascada"
+
+#~ msgid "Distance between windows when using cascade"
+#~ msgstr "Distancia entre xanelas cando en cascada"
+
+#~ msgid "Left Occupancy"
+#~ msgstr "Ocupación á Esquerda"
+
+#~ msgid ""
+#~ "Occupancy percentage for window placed left. This number is percentage of "
+#~ "screen width, which the active window will have it as width when tiled. "
+#~ "Applies to Left tiling type."
+#~ msgstr ""
+#~ "Porcentaxe de ocupación da xanela colocada á esquerda. Este valor é a "
+#~ "percentaxe de largura da pantalla que a xanela activa terá como largura,"
+#~ "cando se estivera en modo mosaico. Só é aplicada cando se estivera no "
+#~ "modo de mosaico á esquerda."
+
+#~ msgid "Excluded Windows"
+#~ msgstr "Fiestras Excluidas"
+
+#~ msgid "Windows which should be excluded from tiling"
+#~ msgstr "Tipos de xanelas a excluír do modo mosaico"
+
+#~ msgid "Tile Windows Vertically"
+#~ msgstr "Crear Mosaico Vertical das Fiestras"
+
+#~ msgid ""
+#~ "Move and resize all visible windows so that they have full height, same "
+#~ "width and occupy whole screen."
+#~ msgstr ""
+#~ "Mover e redimensionar todas as xanelas visibles, de forma que fiquen con "
+#~ "altura igual á pantalla, con larguras todas iguais e de maneira que "
+#~ "ocupen a pantalla enteira."
+
+#~ msgid "Tile Windows Horizontally"
+#~ msgstr "Crear Mosaico Horizontal das Fiestras"
+
+#~ msgid ""
+#~ "Move and resize all visible windows so that they have full width, same "
+#~ "height and occupy whole screen."
+#~ msgstr ""
+#~ "Mover e redimensionar todas as xanelas visibles, de forma que fiquen con "
+#~ "largura igual á pantalla, con alturas todas iguais e de maneira a ocupar "
+#~ "a pantalla inteiro."
+
+#~ msgid "Tile Windows"
+#~ msgstr "Crear Mosaico das Fiestras"
+
+#~ msgid ""
+#~ "Move and resize all visible windows both vertically and horizontally, so "
+#~ "that the occupy whole screen and are in a grid."
+#~ msgstr ""
+#~ "Mover e redimensionar xanelas visibles tanto verticalmente como "
+#~ "horizontalmente, de maneira que formen unha grella que ocupe a pantalla "
+#~ "enteira."
+
+#~ msgid "Cascade Windows"
+#~ msgstr "Mostrar Fiestras en cascada"
+
+#~ msgid ""
+#~ "Move and resize all visible windows with the delta value set for "
+#~ "cascading."
+#~ msgstr ""
+#~ "Mover e redimensionar todas as xanelas visibles co valor de diferenza "
+#~ "definido para cascada."
+
+#~ msgid "Restore Windows"
+#~ msgstr "Restaurar xanelas"
+
+#~ msgid "Restore windows to their original position they had before tiling."
+#~ msgstr ""
+#~ "Restaurar xanelas ás súas posicións orixinais (posicións antes de entrar "
+#~ "en modo mosaico) ."
+
+#~ msgid "Toggle between tile and restore"
+#~ msgstr "Trocar entre o modo mosaico e o modo orixinal"
+
+#, fuzzy
+#~ msgid "Toggle Decoration"
+#~ msgstr "Negativo das Decoracións"
+
+#, fuzzy
+#~ msgid "Toggle decoration"
+#~ msgstr "Trocar Redirección"
+
+#, fuzzy
+#~ msgid "Toggle all particle effects."
+#~ msgstr "Trocar efecto de Distorsión durante Movemento."
+
+#, fuzzy
+#~ msgid "Gravity X"
+#~ msgstr "Gravidade Y do Balanceo"
+
+#, fuzzy
+#~ msgid "Global horizontal gravity"
+#~ msgstr "Gradiente horizontal"
+
+#, fuzzy
+#~ msgid "Gravity Y"
+#~ msgstr "Gravidade Y do Balanceo"
+
+#, fuzzy
+#~ msgid "Global vertical gravity"
+#~ msgstr "Gradiente vertical"
+
+#, fuzzy
+#~ msgid "Strength"
+#~ msgstr "Ancho da curva"
+
+#, fuzzy
+#~ msgid "Position Y"
+#~ msgstr "Posición"
+
+#, fuzzy
+#~ msgid "Movement Type"
+#~ msgstr "Tipo do elemento"
+
+#, fuzzy
+#~ msgid "Mouse Position"
+#~ msgstr "Restaurar a Posición"
+
+#, fuzzy
+#~ msgid "Follow Mouse"
+#~ msgstr "Seguir Atraso Foco"
+
+#, fuzzy
+#~ msgid "Emitters"
+#~ msgstr "Emisores"
+
+#, fuzzy
+#~ msgid "Active"
+#~ msgstr "Activar"
+
+#, fuzzy
+#~ msgid "Mouse Movement"
+#~ msgstr "Velocidade do movemento do rato"
+
+#, fuzzy
+#~ msgid "Random Shot"
+#~ msgstr "Aleatorio"
+
+#, fuzzy
+#~ msgid "Random Period"
+#~ msgstr "Aleatorio"
+
+#, fuzzy
+#~ msgid "Emitter Speed"
+#~ msgstr "Velocidade de Trocador"
+
+#, fuzzy
+#~ msgid "Emitter Angle"
+#~ msgstr "Emisores"
+
+#, fuzzy
+#~ msgid "Particle count"
+#~ msgstr "Cor das partículas."
+
+#, fuzzy
+#~ msgid "Color hue"
+#~ msgstr "Cor 1"
+
+#, fuzzy
+#~ msgid "Color hue range"
+#~ msgstr "Cambiar a cor da aura"
+
+#, fuzzy
+#~ msgid "Color lightness range"
+#~ msgstr "Cor do rectángulo de resaltado"
+
+#, fuzzy
+#~ msgid "The vertical range of the particles."
+#~ msgstr "Cores aleatorias para partículas"
+
+#, fuzzy
+#~ msgid "The circular range of the particles."
+#~ msgstr "Cores aleatorias para partículas"
+
+#, fuzzy
+#~ msgid "X speed"
+#~ msgstr "Velocidade do Anel"
+
+#, fuzzy
+#~ msgid "Y speed"
+#~ msgstr "Velocidade do Anel"
+
+#, fuzzy
+#~ msgid "The vertical speed of the particles."
+#~ msgstr "Cores aleatorias para partículas"
+
+#, fuzzy
+#~ msgid "Aging speed"
+#~ msgstr "Velocidade do Anel"
+
+#~ msgid "Rotation speed"
+#~ msgstr "Velocidade da Rotación"
+
+#, fuzzy
+#~ msgid "Aging speed range"
+#~ msgstr "Velocidade do Anel"
+
+#, fuzzy
+#~ msgid "Rotation speed range"
+#~ msgstr "Velocidade da Rotación"
+
+#~ msgid "Particle Size"
+#~ msgstr "Tamaño das partículas"
+
+#, fuzzy
+#~ msgid "The size of the particles."
+#~ msgstr "O tamaño da planta de mar."
+
+#, fuzzy
+#~ msgid "Particle Size Range"
+#~ msgstr "Tamaño das partículas"
+
+#, fuzzy
+#~ msgid "The size range of the particles."
+#~ msgstr "O tamaño da planta de mar."
+
+#, fuzzy
+#~ msgid "New Size"
+#~ msgstr "Tamaño da aura"
+
+#, fuzzy
+#~ msgid "The size of the particles when they are new."
+#~ msgstr "Cría partículas de lume  na pantalla "
+
+#, fuzzy
+#~ msgid "The size range of the particles when they are new."
+#~ msgstr "Cría partículas de lume  na pantalla "
+
+#, fuzzy
+#~ msgid "Hard limit for particles"
+#~ msgstr "Cores aleatorias para partículas"
+
+#, fuzzy
+#~ msgid "Soft limit for particles"
+#~ msgstr "Límite da velocidade para o modelo de mola"
+
+#~ msgid "Darken backgound"
+#~ msgstr "Fondo máis escuro"
+
+#~ msgid "Darken background under particles"
+#~ msgstr "Fondo de escritorio máis escuro baixo as partículas"
+
+#~ msgid "Additive blending"
+#~ msgstr "Mistura aditiva"
+
+#~ msgid "Additive blending of particles"
+#~ msgstr "Mistura aditiva de partículas"
+
+#, fuzzy
+#~ msgid "New particle time"
+#~ msgstr "Vida das partículas."
+
+#, fuzzy
+#~ msgid "Old particle time"
+#~ msgstr "Vida das partículas."
+
+#, fuzzy
+#~ msgid "Viewport"
+#~ msgstr "Escritorio de arriba"
+
+#, fuzzy
+#~ msgid "Number of viewport to be named"
+#~ msgstr "Número de Fiestras a Acompañar"
+
+#, fuzzy
+#~ msgid "Viewport name"
+#~ msgstr "Escritorio da Esquerda"
+
+#~ msgid "Display Time"
+#~ msgstr "Duración da Fiestra de logotipo."
+
+#, fuzzy
+#~ msgid "Time (in s) the name display fades out after being shown."
+#~ msgstr ""
+#~ "Tempo (en s) que a barra das lapelas é visíbel logo dalgunha alteración "
+#~ "nas lapelas"
+
+#, fuzzy
+#~ msgid "Text Display"
+#~ msgstr "Pantalla"
+
+#, fuzzy
+#~ msgid "Selects if the text should be displayed in bold font or not."
+#~ msgstr ""
+#~ "Selecciona se o título da xanela debe ser mostrada a negrito ou non."
+
+#, fuzzy
+#~ msgid "Font family for the text display."
+#~ msgstr "Tamaño da fonte do título da xanela"
+
+#, fuzzy
+#~ msgid "Font size for the text display."
+#~ msgstr "Tamaño da fonte do título da xanela"
+
+#, fuzzy
+#~ msgid "Selects where to place the text."
+#~ msgstr "Selecciona onde posicionar o título da xanela."
+
+#, fuzzy
+#~ msgid "Top of screen"
+#~ msgstr "Tipo de criatura do mar."
+
+#, fuzzy
+#~ msgid "Bottom of screen"
+#~ msgstr "Baixo cara arriba"
+
+#~ msgid "Colors"
+#~ msgstr "Cores"
+
+#, fuzzy
+#~ msgid "Background color for the text display."
+#~ msgstr "Cor de fondo para o título da xanela"
+
+#, fuzzy
+#~ msgid "Font color for the text display."
+#~ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "3D Only On Mouse Rotate"
 #~ msgstr "Mostrar en 3D Só Coa Roda do Rato"
@@ -3256,9 +3523,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Color of an inactive window's depth"
 #~ msgstr "Cor da profundidade dunha xanela inactiva"
 
-#~ msgid "Color of the active window's depth"
-#~ msgstr "Cor da profundidade dunha xanela activa"
-
 #~ msgid "Elevates windows while rotating the cube"
 #~ msgstr "Elevar as xanelas mentres se rota o cubo"
 
@@ -3286,14 +3550,8 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Window Color (Inactive)"
 #~ msgstr "Color da Fiestra (inactiva)"
 
-#~ msgid "Window Depth"
-#~ msgstr "Profundidade da Fiestra"
-
 #~ msgid "Window Space"
 #~ msgstr "Espazo de Fiestra"
-
-#~ msgid "Window depth"
-#~ msgstr "Profundidade da xanela"
 
 #~ msgid "Windows that should be handled by 3D"
 #~ msgstr "Fiestras que se deben xestionadas en 3D"
@@ -3413,9 +3671,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Fire Smoke"
 #~ msgstr "Fume de Lume"
-
-#~ msgid "Fire direction"
-#~ msgstr "Dirección do lume"
 
 #~ msgid "Fire particle slowdown."
 #~ msgstr "Desaparicion das partículas de lume."
@@ -3630,9 +3885,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Curved Fold Amplitude Multiplier"
 #~ msgstr "Multiplicador da amplitude das dobras curvadas"
 
-#~ msgid "Dodge"
-#~ msgstr "Desvío"
-
 #~ msgid "Dodge Gap Ratio"
 #~ msgstr "Radio do espazo do Desvío"
 
@@ -3702,9 +3954,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Minimize/Unminimize Only"
 #~ msgstr "Minimizar/Restaurar só"
-
-#~ msgid "Number of Horizontal Folds"
-#~ msgstr "Número de dobras horizontais"
 
 #~ msgid "Number of rotations for Sidekick (plus or minus 10% for randomness)."
 #~ msgstr ""
@@ -3827,9 +4076,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "The width of the wave relative to the window height."
 #~ msgstr "O Ancho da onda relativa á altura da xanela"
 
-#~ msgid "The windows that will be animated."
-#~ msgstr "Fiestras que serán animadas."
-
 #~ msgid "Use various animations as window effects"
 #~ msgstr "Empregar varias animacións como efectos das xanelas"
 
@@ -3923,9 +4169,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Fiestras que deben ser animadas con este efecto cando son sombreadas."
 
-#~ msgid "Zoom Springiness"
-#~ msgstr "Elasticidade do Zoom"
-
 #~ msgid "Zoom from Center"
 #~ msgstr "Zoom dende o Centro"
 
@@ -4006,9 +4249,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Filter colors for accessibility purposes"
 #~ msgstr "Filtrar cores co fin de mellorar a accesibilidade."
 
-#~ msgid "Filtered windows"
-#~ msgstr "Fiestras filtradas"
-
 #~ msgid "Filters files"
 #~ msgstr "Ficheiros de filtros"
 
@@ -4033,9 +4273,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Toggle filtering for currently focused window."
 #~ msgstr "Trocar filtro cara a xanela enfocada actualmente."
-
-#~ msgid "Toggle screen filtering"
-#~ msgstr "Trocar filtro da pantalla"
 
 #~ msgid "Toggle window filtering"
 #~ msgstr "Trocar filtro das xanelas"
@@ -4082,9 +4319,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Adjust bottom face image to rotation"
 #~ msgstr "Axustar a imaxe da tapa inferior ó efectuar a rotación"
-
-#~ msgid "Adjust bottom image"
-#~ msgstr "Axustar a imaxe da tapa inferior"
 
 #~ msgid "Adjust top face image to rotation"
 #~ msgstr "Axustar a imaxe da tapa superior ó efectuar a rotación"
@@ -4159,9 +4393,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Deform cube caps."
 #~ msgstr "Deforma as tapas do cubo."
 
-#~ msgid "Deform only on mouse rotate"
-#~ msgstr "Deformar só co xiro do rato"
-
 #~ msgid "Deformation in unfold cube mode."
 #~ msgstr "Deforma no modo de cubo estendido"
 
@@ -4231,9 +4462,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Maintain top cap image aspect ratio."
 #~ msgstr "Mantén a proporción de aspecto da imaxe da tapa superior"
-
-#~ msgid "Next bottom image"
-#~ msgstr "Seguinte Imaxe Inferior"
 
 #~ msgid "Next top image"
 #~ msgstr "Seguinte Imaxe Superior"
@@ -4320,9 +4548,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Ata cando a pantalla de flocos de neve pode ser debuxada logo de que se "
 #~ "elimine"
-
-#~ msgid "How long to display the title (in ms)"
-#~ msgstr "Por canto tempo amosar o título (en ms)"
 
 #~ msgid "Image file for this Element"
 #~ msgstr "Ficheiro de Imaxe para este Elemento"
@@ -4491,9 +4716,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Show a reflection of the viewports on the ground"
 #~ msgstr "Mostra unha reflexo dos escritorios no \"chan\""
 
-#~ msgid "Strength of the deformation in curve mode"
-#~ msgstr "Forza da deformación do modo curva"
-
 #~ msgid "Timeframe to execute a double click"
 #~ msgstr "Espazo de tempo para executar duplo prema"
 
@@ -4561,9 +4783,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Autoscale threshold"
 #~ msgstr "Umbral de autoescala"
 
-#~ msgid "Center the mouse"
-#~ msgstr "Centrar o rato"
-
 #~ msgid "Dynamic mouse pointer scale"
 #~ msgstr "Escala do punteiro do rato dinámica"
 
@@ -4591,9 +4810,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Filter Linear"
 #~ msgstr "Filtro Linear"
 
-#~ msgid "Fit the window to the zoom level"
-#~ msgstr "Adequar dimensión da xanela para o nivel de zoom"
-
 #~ msgid ""
 #~ "Fit the zoomed area to the window when the zoomed area moves as a result "
 #~ "of focus tracking."
@@ -4619,9 +4835,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Fitting"
 #~ msgstr "Axuste"
 
-#~ msgid "Focus Tracking"
-#~ msgstr "Seguemento do Foco"
-
 #~ msgid "Hide original mouse pointer"
 #~ msgstr "Esconder o cursor orixinal do rato"
 
@@ -4636,9 +4849,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Mouse Behavior"
 #~ msgstr "Comportamento do Rato"
-
-#~ msgid "Mouse Restrain Margin"
-#~ msgstr "Marxe Restrinxemento Rato"
 
 #~ msgid "Mouse panning"
 #~ msgstr "Seguemento do rato"
@@ -4673,9 +4883,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Pan (move) the zoom area left"
 #~ msgstr "Percorrer (mover) a área magnificada cara a esquerda"
-
-#~ msgid "Pan (move) the zoom area right"
-#~ msgstr "Percorrer (mover) a área magnificada cara a dereita"
 
 #~ msgid "Pan (move) the zoom area up"
 #~ msgstr "Percorrer (mover) a área magnificada cara arriba"
@@ -4717,9 +4924,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Restrain the mouse to the zoom area"
 #~ msgstr "Restrinxe o cursor do rato á área magnificada"
-
-#~ msgid "Scale the mouse pointer"
-#~ msgstr "Escalar o punteiro do rato"
 
 #~ msgid "Specific Zoom"
 #~ msgstr "Zoom Específico"
@@ -4778,9 +4982,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Cando se escala o punteiro do rato, esta opción fai que a escala se "
 #~ "axuste de acordo co nivel actual de zoom."
-
-#~ msgid "Zoom Area Movement"
-#~ msgstr "Movemento da Área de Zoom"
 
 #~ msgid "Zoom Box"
 #~ msgstr "Caixa de Zoom"
@@ -4909,17 +5110,11 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Border Radius"
 #~ msgstr "Radio da marxe"
 
-#~ msgid "Border Width"
-#~ msgstr "Ancho da marxe"
-
 #~ msgid "Border color of the tab bar"
 #~ msgstr "Cor da marxe da barra das lapelas"
 
 #~ msgid "Change Tab Left"
 #~ msgstr "Trocar para a lapela da esquerda"
-
-#~ msgid "Change Tab Right"
-#~ msgstr "Trocar para a lapela da dereita"
 
 #~ msgid "Change tab animation duration"
 #~ msgstr "Duración da animación"
@@ -4980,9 +5175,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Glow"
 #~ msgstr "Aura"
-
-#~ msgid "Glow Type"
-#~ msgstr "Tipo de aura"
 
 #~ msgid "Glow ring"
 #~ msgstr "Aura circular"
@@ -5117,26 +5309,14 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Select"
 #~ msgstr "Seleccionar"
 
-#~ msgid "Select Single Window"
-#~ msgstr "Seleccionar unha Soa Fiestra"
-
 #~ msgid "Selection"
 #~ msgstr "Selección"
 
 #~ msgid "Shade with group"
 #~ msgstr "Escurecer o grupo"
 
-#~ msgid "Simple"
-#~ msgstr "Simples"
-
-#~ msgid "Slot Drag Spring K"
-#~ msgstr "Constante K da mola"
-
 #~ msgid "Slot Dragging"
 #~ msgstr "Arrastre da ranura"
-
-#~ msgid "Slot drag friction"
-#~ msgstr "Fricción de arrastramento"
 
 #~ msgid "Space"
 #~ msgstr "Espazo"
@@ -5152,9 +5332,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Tab Base Color"
 #~ msgstr "Cor Base da Lapela"
-
-#~ msgid "Tab Border Color"
-#~ msgstr "Cor do Borde da Lapela"
 
 #~ msgid "Tab Group"
 #~ msgstr "Lapela de Grupo"
@@ -5229,9 +5406,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "The size of the window thumbs in the task bar"
 #~ msgstr "Tamaño das miniaturas das xanelas na barra de tarefas"
 
-#~ msgid "The size of the window title font in the tab bar"
-#~ msgstr "Tamaño da fonte do título da xanela na barra das lapelas"
-
 #~ msgid "The space between the thumbs"
 #~ msgstr "Espazo entre miniaturas"
 
@@ -5243,9 +5417,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "The width of the tab bar outline"
 #~ msgstr "Ancho do bordo da barra das lapelas"
-
-#~ msgid "Thumb Size"
-#~ msgstr "Tamaño da Miniatura"
 
 #~ msgid "Time (in s) before the tab bar is shown after hovering the title bar"
 #~ msgstr ""
@@ -5264,9 +5435,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Tempo (en seg) logo do cal se activa unha xanela agrupada se unha xanela "
 #~ "de outro grupo é arrastrada enriba dela"
-
-#~ msgid "Ungroup Windows"
-#~ msgstr "Desagrupar Fiestras"
 
 #~ msgid "Ungroup the windows if only one window is left"
 #~ msgstr "Desagrupar as xanelas se só queda unha xanela"
@@ -5345,9 +5513,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Window opacity."
 #~ msgstr "Opacidade da xanela."
-
-#~ msgid "Border color"
-#~ msgstr "Cor do bordo"
 
 #~ msgid "Border width"
 #~ msgstr "Ancho do borde"
@@ -5637,9 +5802,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Motion Blur render mode."
 #~ msgstr "Tipo de Distorsión durante Movemento."
 
-#~ msgid "Motion Blur strength."
-#~ msgstr "Forza da Distorsión durante Movemento."
-
 #~ msgid "Motion blur"
 #~ msgstr "Distorsión durante Movemento"
 
@@ -5654,46 +5816,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Visibility/Performance"
 #~ msgstr "Visibilidade/Rendemento"
-
-#~ msgid "Action"
-#~ msgstr "Acción"
-
-#~ msgid "Action that is to be invoked."
-#~ msgstr "Acción que ten que invocada"
-
-#~ msgid "Assign mousegestures to any existing action"
-#~ msgstr "Asigna xestos de rato a calquera acción existe"
-
-#~ msgid "Detect Diagonal Movements"
-#~ msgstr "Detectar Movementos Diagonais"
-
-#~ msgid "Gesture"
-#~ msgstr "Xesto"
-
-#~ msgid "Gesture assignment"
-#~ msgstr "Asignación de Xestos"
-
-#~ msgid "Gestures"
-#~ msgstr "Xestos"
-
-#~ msgid ""
-#~ "If this option is selected, diagonal movements are detected, which may "
-#~ "lead to a decreased detection accuracy."
-#~ msgstr ""
-#~ "Se esta opción está seleccionada, detectaranse os movementos, o que pode "
-#~ "causar a redución de exactitude de detección."
-
-#~ msgid "Mouse gesture to assign an action to."
-#~ msgstr "Xestos do rato para asignar unha acción"
-
-#~ msgid "Mousegestures"
-#~ msgstr "Xestos do rato"
-
-#~ msgid "Plugin"
-#~ msgstr "Complemento"
-
-#~ msgid "Plugin the action belongs to."
-#~ msgstr "Complemento ó que pertence a acción."
 
 #~ msgid ""
 #~ "How often to poll the mouse position, in miliseconds. Reduce this to "
@@ -5738,14 +5860,8 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Error"
 #~ msgstr "Erro"
 
-#~ msgid "Error Notifications"
-#~ msgstr "Notificacións de Erro"
-
 #~ msgid "Fatal"
 #~ msgstr "Fatal"
-
-#~ msgid "Hide Timeout"
-#~ msgstr "Tempo para Esconder"
 
 #~ msgid "Info"
 #~ msgstr "Información"
@@ -5766,9 +5882,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Warning"
 #~ msgstr "Advertencia"
 
-#~ msgid "Active Opacity"
-#~ msgstr "Opacidade Activa"
-
 #~ msgid ""
 #~ "Bypass delay when Opacify is reducing the opacity on one or more windows "
 #~ "already."
@@ -5778,9 +5891,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Bypass delay when the new active window is the focused window."
 #~ msgstr "Ignorar atraso cando a nova xanela activa é a xanela enfocada."
-
-#~ msgid "Delay until Opacification"
-#~ msgstr "Atraso ata Opacidade"
 
 #~ msgid ""
 #~ "Do not wait if the window we are hovering is the focused window. This "
@@ -5808,12 +5918,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Opacify"
 #~ msgstr "Opacidade"
 
-#~ msgid "Opacity Levels"
-#~ msgstr "Niveis de Opacidade"
-
-#~ msgid "Passive Opacity"
-#~ msgstr "Opacidade Pasiva"
-
 #~ msgid "Reset opacity to original values when toggling"
 #~ msgstr ""
 #~ "Reiniciar a opacidade aos valores orixinais cando se cambia o estado"
@@ -5825,30 +5929,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ "Reiniciar opacidade de todas as xanelas modificadas (por este "
 #~ "complemento) aos valores orixinais cando trocar o estado do complemento "
 #~ "de Opacidade coa combinación de teclas definida."
-
-#~ msgid ""
-#~ "The delay (in ms) before Opacify changes opacity after the active window "
-#~ "has changed."
-#~ msgstr ""
-#~ "O atraso (en ms) antes de que Opacidade troque a opacidade despois "
-#~ "cambiar da xanela activa."
-
-#~ msgid ""
-#~ "The maximum opacity percentage a window blocking the current targeted "
-#~ "window can have. A blocking window will have either this opacity or the "
-#~ "preset opacity, whichever is lower."
-#~ msgstr ""
-#~ "A porcentaxe máxima de opacidade que pode ter que unha xanela que bloquea "
-#~ "a xanela destino. Unha xanela que estea bloqueando terá o valor máis "
-#~ "pequeno entre este valor ou o valor por omisión."
-
-#~ msgid ""
-#~ "The minimum opacity percentage to ensure a targeted window has. A target "
-#~ "window will have either this opacity or the preset opacity, whichever is "
-#~ "higher."
-#~ msgstr ""
-#~ "A porcentaxe mínima de opacidade que pode ter a xanela destino. A xanela "
-#~ "terá o maior valor entre este valor ou o valor por omisión."
 
 #~ msgid ""
 #~ "This enables you to let Opacify instantly opacify new windows when you're "
@@ -5873,9 +5953,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ "Empregue isto para (des)activar a Opacidade instantánea. Fiestras que "
 #~ "foron opacadas previamente non voltarán aos estados iniciais unha vez se "
 #~ "desactive."
-
-#~ msgid "Windows that should be opacified."
-#~ msgstr "Fiestras que se deben opacar."
 
 #~ msgid ""
 #~ "With this enabled, opacify will be on when you load Opacify, which is "
@@ -6257,9 +6334,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ "incrementado ou decrementado manualmente. Números máis grandes significan "
 #~ "cambios máis liviáns."
 
-#~ msgid "Trigger scale down"
-#~ msgstr "Activar reducción"
-
 #~ msgid ""
 #~ "Visually scales a window down to allow easy monitoring without true/"
 #~ "traditional resizing."
@@ -6272,9 +6346,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Background intensity."
 #~ msgstr "Intensidade do fondo"
-
-#~ msgid "Click duration"
-#~ msgstr "Duración do prema"
 
 #~ msgid "Cover"
 #~ msgstr "Capas"
@@ -6398,9 +6469,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Window Part Size"
 #~ msgstr "Tamaño da Parte Non Oculta das Fiestras"
 
-#~ msgid "Window movement speed"
-#~ msgstr "Velocidade do movemento da xanela"
-
 #~ msgid "Window movement timestep"
 #~ msgstr "Espazo de tempo do movemento da xanela."
 
@@ -6465,9 +6533,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Edge Resistance Distance"
 #~ msgstr "Distancia da Resistencia á Marxe"
 
-#~ msgid "Edge attraction"
-#~ msgstr "Atracción nas marxes"
-
 #~ msgid "Edge resistance"
 #~ msgstr "Resistencia nas marxes"
 
@@ -6528,9 +6593,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Splash"
 #~ msgstr "Pantalla de Logotipo"
 
-#~ msgid "Start Splash."
-#~ msgstr "Iniciar pantalla de logotipo."
-
 #~ msgid "Allow selection of windows from the switcher window with the mouse"
 #~ msgstr "Permitir a selección de xanelas dende o selector de xanelas co rato"
 
@@ -6561,10 +6623,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Paint Window Like Background instead of Glow."
 #~ msgstr "Pintar xanela como fondo no canto de aura."
 
-#~ msgid "Set it if the Taskbar shows only Windows of Current Viewport."
-#~ msgstr ""
-#~ "Seleccione se a Barra de tarefas mostra só Fiestras doescritorio Actual."
-
 #~ msgid "Should be the window title Bold."
 #~ msgstr "Deberá o título da xanela ser mostra a negrito"
 
@@ -6576,9 +6634,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Taskbar"
 #~ msgstr "Barra de tarefas"
-
-#~ msgid "Taskbar Shows Only Windows of Current Viewport"
-#~ msgstr "Barra de tarefas Mostra Só Fiestras doescritorio Actual"
 
 #~ msgid "Thumbnail Background and Border Glow Color."
 #~ msgstr "Fondo da Miniatura e Cor da Aura da Borda"
@@ -6610,9 +6665,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Window title"
 #~ msgstr "Título da xanela"
 
-#~ msgid "Window title Font Color."
-#~ msgstr "Cor da fonte do título da xanela."
-
 #~ msgid "Window title Font Size."
 #~ msgstr "Tamaño da fonte do título da xanela."
 
@@ -6622,9 +6674,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Axustar a opacidade, saturación e brillo de xanelas con base na última "
 #~ "vez que elas estiveron enfocadas."
-
-#~ msgid "Brightness Level of Focused Windows"
-#~ msgstr "Nivel de Brillo das xanelas enfocadas"
 
 #~ msgid "Brightness Level of Unfocused Windows"
 #~ msgstr "Nivel de brillo das xanelas non enfocadas"
@@ -6722,9 +6771,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Go to specific viewport"
 #~ msgstr "Ir para un escritorio específico"
 
-#~ msgid "Initiate plugin action"
-#~ msgstr "Complemento para acción iniciar"
-
 #~ msgid "Initiate viewport changes through several events"
 #~ msgstr "Iniciar alteracións de escritorio através de varios eventos"
 
@@ -6743,20 +6789,11 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Move Up"
 #~ msgstr "Mover arriba"
 
-#~ msgid "Move down"
-#~ msgstr "Mover cara abaixo"
-
-#~ msgid "Move to the left"
-#~ msgstr "Mover cara a esquerda"
-
 #~ msgid "Move to the next viewport"
 #~ msgstr "Mover xanela ao escritorio seguinte"
 
 #~ msgid "Move to the previous viewport"
 #~ msgstr "Mover xanela ao escritorio anterior"
-
-#~ msgid "Move to the right"
-#~ msgstr "Mover cara a dereita"
 
 #~ msgid "Move up"
 #~ msgstr "Mover cara arriba"
@@ -6859,12 +6896,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Background Gradient"
 #~ msgstr "Degradado do fondo"
 
-#~ msgid "Base Color"
-#~ msgstr "Cor Base"
-
-#~ msgid "Desktop Wall"
-#~ msgstr "Mural das Áreas de Traballo"
-
 #~ msgid "Desktop Wall Plugin"
 #~ msgstr "Complemento que crea un mural dás areas de traballo"
 
@@ -6872,13 +6903,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgstr ""
 #~ "Duración (en ms) da animación de deslice cando se troca de escritorio no "
 #~ "Muro"
-
-#~ msgid ""
-#~ "Duration (in s) the switch target preview should remain visible after "
-#~ "switching ends."
-#~ msgstr ""
-#~ "Duración (en s) que a vista previa do alvo do switch deberá permanecer "
-#~ "visíbel despois terminar o modo de switch."
 
 #~ msgid "Edge Flip DnD"
 #~ msgstr "Trocar no borde arrastrando e soltando"
@@ -6906,9 +6930,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "First color for the thumb highlight gradient of the switcher window."
 #~ msgstr "Primeira cor para o realce da miniatura da xanela do switcher."
-
-#~ msgid "First color of the arrow of the switcher window."
-#~ msgstr "Primeira cor da seta da xanela do switcher."
 
 #~ msgid "Flip Down"
 #~ msgstr "Trocar para Baixo"
@@ -6982,9 +7003,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Move along the wall to the right"
 #~ msgstr "Mover xanela ao longo do muro cara a dereita"
 
-#~ msgid "Move along the wall up"
-#~ msgstr "Mover ao longo do muro cara arriba"
-
 #~ msgid "Move with window along the wall down"
 #~ msgstr "Mover coa xanela ao longo do muro cara abaixo"
 
@@ -7030,12 +7048,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid ""
 #~ "Second color for the thumb highlight gradient of the switcher window."
 #~ msgstr "Segunda cor para o realce da miniatura da xanela do switcher."
-
-#~ msgid "Second color of the arrow of the switcher window."
-#~ msgstr "Segunda color of the arrow of the switcher window."
-
-#~ msgid "Shadow Color"
-#~ msgstr "Cor da sombra"
 
 #~ msgid "Show Live Viewport Previews"
 #~ msgstr "Mostrar Antevisións ao Vivo dos Vieports"
@@ -7114,9 +7126,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Scale and Crop"
 #~ msgstr "Recorte e Escala"
 
-#~ msgid "Second gradient color."
-#~ msgstr "Segunda cor de degradado."
-
 #~ msgid "Solid fill"
 #~ msgstr "Recheo sólido"
 
@@ -7150,9 +7159,6 @@ msgstr "Cor da fonte para o título da xanela"
 #~ msgid "Time (in s) for fading into/out of the widget layer."
 #~ msgstr "Tempo (en s) de desvanecemento da capa de widgets."
 
-#~ msgid "Toggle Widget Display"
-#~ msgstr "Trocar Mostrar Widget"
-
 #~ msgid "Widget Layer"
 #~ msgstr "Capa Widget"
 
@@ -7179,9 +7185,6 @@ msgstr "Cor da fonte para o título da xanela"
 
 #~ msgid "Fullscreen windows"
 #~ msgstr "Fiestras de pantalla inteiro"
-
-#~ msgid "Height values"
-#~ msgstr "Valores de Altura"
 
 #~ msgid "Matches"
 #~ msgstr "Coincidencias"

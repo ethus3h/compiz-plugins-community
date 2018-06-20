@@ -8,9 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compiz-plugins\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
-"community/issues\n"
-"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: 2018-06-15 16:55+0200\n"
 "Last-Translator: Eignar Samaniego <eignar17@gmail.com>\n"
 "Language-Team: Spanish <es@li.org>\n"
@@ -40,10 +39,16 @@ msgstr "Tamaño de las bolas"
 msgid "Size of balls"
 msgstr "Tamaño de las bolas"
 
-msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
+msgid "Update Delay"
+msgstr "Actualizar retraso"
+
+msgid ""
+"Delay (in ms) between screen updates. Decreasing this value may make leaves "
 "fall more smoothly, but will also increase CPU usage."
-msgstr "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
-"valor más suave se movera la bola, pero aumentará el uso del CPU. "
+msgstr ""
+"Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este "
+"valor puede hacer que se muevan más suavemente, pero también aumentará el "
+"uso de la CPU."
 
 msgid "Screen Boxing"
 msgstr ""
@@ -52,14 +57,14 @@ msgid ""
 "How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
 msgstr ""
-"Qué tan lejos del exterior de la resolución de la pantalla"
-"pueden estar hasta ser removidos. Necesario para el campo de vista."
+"Qué tan lejos del exterior de la resolución de la pantallapueden estar hasta "
+"ser removidos. Necesario para el campo de vista."
 
 msgid "Screen Depth"
 msgstr "Profundidad de la pantalla"
 
-msgid "How deep into the screen snowflakes can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados los copos de nieve hasta desaparecer"
+msgid "How deep into the screen leaves can be drawn before being removed"
+msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
 
 msgid "Balls Over Windows"
 msgstr "Bolas sobre las ventanas"
@@ -78,6 +83,18 @@ msgstr "Dirección de las bolas"
 
 msgid "Select the wind direction"
 msgstr "Seleccione la dirección del movimiento de las bolas"
+
+msgid "No Wind"
+msgstr "Sin viento"
+
+msgid "Up"
+msgstr "Arriba"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Right"
+msgstr "Derecha"
 
 msgid "Textures"
 msgstr "Texturas"
@@ -107,7 +124,8 @@ msgid "Enable Textures"
 msgstr "Habilitar texturas"
 
 msgid "Enables textured balls. If not selected, color gradients are used."
-msgstr "Habilitar las bolas texturadas, sino se usarán los gradientes de color."
+msgstr ""
+"Habilitar las bolas texturadas, sino se usarán los gradientes de color."
 
 msgid "Key Bindings"
 msgstr "Combinaciones de teclas"
@@ -138,6 +156,12 @@ msgstr "Qué modificadores deben usarse para desencadenar la acción"
 
 msgid "Plugin Name"
 msgstr "Nombre del Plugin"
+
+msgid "Initiation Plugin Name"
+msgstr "Nombre del complemento de iniciación"
+
+msgid "Action Name"
+msgstr "Nombre de acción"
 
 msgid "Initiation Action Name"
 msgstr "Nombre de acción que Desea Iniciar"
@@ -174,6 +198,15 @@ msgstr "modos de Esquivar"
 
 msgid "What model Dodge should use when dodging"
 msgstr "Qué modos debería usar cuando se utiliza esquivar"
+
+msgid "Simple Avoid"
+msgstr "Simple Evitar"
+
+msgid "Return to position"
+msgstr "Regresar a la posición"
+
+msgid "Off Screen"
+msgstr "Fuera de pantalla"
 
 msgid "Dodge the active window"
 msgstr "Esquivar la ventana cuando este activa"
@@ -218,7 +251,8 @@ msgid "Digression max"
 msgstr "Digresión máximo"
 
 msgid "Digression max between pointer's projection and lightning's impact."
-msgstr "Digresión máxima entre la proyección del puntero y el impacto del rayo."
+msgstr ""
+"Digresión máxima entre la proyección del puntero y el impacto del rayo."
 
 msgid "Minimum interval between two lightning"
 msgstr "Intervalo mínimo entre dos rayos"
@@ -247,8 +281,11 @@ msgstr "Los tipos de ventana que los rayos alcanzarán"
 msgid "HeadTracking"
 msgstr "Seguimiento de cabeza"
 
-msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
-msgstr "Crea un escritorio 3D verdadero con un Wiimote algunos tonos habilitados con IR o una cámara web."
+msgid ""
+"Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
+msgstr ""
+"Crea un escritorio 3D verdadero con un Wiimote algunos tonos habilitados con "
+"IR o una cámara web."
 
 msgid "Keybindings"
 msgstr "Atajos de teclado"
@@ -256,7 +293,8 @@ msgstr "Atajos de teclado"
 msgid "Move Window Closer"
 msgstr "Mover la ventana más cerca"
 
-msgid "anually move a window closer. Z-depth is ignored"
+#, fuzzy
+msgid "Manually move a window closer. Z-depth is ignored"
 msgstr "mover manualmente una ventana más cerca. Z-depth es ignorado"
 
 msgid "Move Window Away"
@@ -270,6 +308,9 @@ msgstr "Restablecer la profundidad de la ventana"
 
 msgid "Reset the window's depth so it uses Z level"
 msgstr "Restablece la profundidad de las ventanas para que use el nivel Z."
+
+msgid "Debugging"
+msgstr "Depuración"
 
 msgid "Enable debugging keys"
 msgstr "Tecla de habilitación de depuración"
@@ -335,25 +376,40 @@ msgid "Stack Padding"
 msgstr "Apilar Relleno"
 
 msgid "Make your windows pop out this far from the screen. 100 is cube size"
-msgstr "Haga que sus ventanas salgan tan lejos de la pantalla. 100 es el tamaño del cubo"
+msgstr ""
+"Haga que sus ventanas salgan tan lejos de la pantalla. 100 es el tamaño del "
+"cubo"
 
 msgid "Enable WII Tracking"
 msgstr "Habilitar el seguimiento de WII"
 
-msgid "Enable tracking using JCL's algorithm. You must have wiimote enabled to use this."
-msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener wiimote habilitado para usar esto."
+msgid ""
+"Enable tracking using JCL's algorithm. You must have wiimote enabled to use "
+"this."
+msgstr ""
+"Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener wiimote "
+"habilitado para usar esto."
 
 msgid "Enable Webcam Tracking"
 msgstr "Habilitar el seguimiento de la cámara web"
 
-msgid "Enable tracking using JCL's algorithm. You must have webcam enabled to use this."
-msgstr "Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener la cámara web habilitada para usar esto."
+msgid ""
+"Enable tracking using JCL's algorithm. You must have webcam enabled to use "
+"this."
+msgstr ""
+"Habilite el seguimiento utilizando el algoritmo de JCL. Debe tener la cámara "
+"web habilitada para usar esto."
 
 msgid "Fade Time"
 msgstr "tiempo de duración"
 
 msgid "Length of animation for 3d window stacking z-order changes"
-msgstr "Duración de la animación para el cambio de orden z de apilamiento de ventana en 3D"
+msgstr ""
+"Duración de la animación para el cambio de orden z de apilamiento de ventana "
+"en 3D"
+
+msgid "Calibration"
+msgstr "Calibración"
 
 msgid "WiiMote or Cam Above Screen"
 msgstr "WiiMote o Cam en pantalla"
@@ -379,6 +435,9 @@ msgstr "Ángulo vertical de Wiimote o Cam"
 msgid "Angle of wiimote or webcam in radians * 100"
 msgstr "Ángulo de wiimote o cámara web en radianes * 100"
 
+msgid "Webcam"
+msgstr "Cámara web"
+
 msgid "Avoid jumpings and trembling"
 msgstr "Evite los saltos y temblores"
 
@@ -400,9 +459,9 @@ msgstr "Qué tan lejos mover la cámara con solo presionar una tecla"
 msgid "Mouse Screen Percentage"
 msgstr "Porcentaje de pantalla del mouse"
 
-msgid "Wave amplitude"
-msgstr "Amplitud de onda"
-	 
+msgid "How much of the screen represents the actual screen. 100 is \"exact\""
+msgstr ""
+
 # no se si poner eso o dejarlo asi no se con exactitud que hace el plugin
 msgid "Lazy Pointer"
 msgstr "Puntero perezoso"
@@ -436,6 +495,14 @@ msgstr "Qué tan rápido debe moverse el cursor cuando está animado"
 
 msgid "Center the mouse in a window"
 msgstr "Centre el mouse en una ventana"
+
+#, fuzzy
+msgid "Center the mouse in the activated window"
+msgstr "Centre el mouse en la pantalla activada"
+
+#, fuzzy
+msgid "Center the mouse in a screen"
+msgstr "Centre el mouse en la pantalla activada"
 
 msgid "Center the mouse in the activated screen"
 msgstr "Centre el mouse en la pantalla activada"
@@ -548,6 +615,9 @@ msgstr "Gestos del mouse"
 msgid "Assign mousegestures to any existing action"
 msgstr "Asignar gestos del mouse a cualquier acción existente"
 
+msgid "Bindings"
+msgstr "teclas"
+
 msgid "Start gesture"
 msgstr "Comience gesto"
 
@@ -558,9 +628,11 @@ msgid "Detect Diagonal Movements"
 msgstr "Detecta movimientos diagonales"
 
 msgid ""
-"If this option is selected, diagonal movements are detected, which may lead to a decreased detection accuracy."
+"If this option is selected, diagonal movements are detected, which may lead "
+"to a decreased detection accuracy."
 msgstr ""
-"Si se selecciona esta opción, se detectan movimientos diagonales,lo que puede conducir a una menor precisión de detección."
+"Si se selecciona esta opción, se detectan movimientos diagonales,lo que "
+"puede conducir a una menor precisión de detección."
 
 msgid "Gesture assignment"
 msgstr "Asignación de gestos"
@@ -587,12 +659,11 @@ msgid "Newton"
 msgstr ""
 
 msgid ""
-"Creates iconified windows that can be selected to select the main window and are affected by physics."
-msgstr "" 
-"Crea ventanas iconificadas que se pueden seleccionar para seleccionar la ventana principal y se ven afectadas por la física."
-
-msgid "Bindings"
-msgstr "teclas"
+"Creates iconified windows that can be selected to select the main window and "
+"are affected by physics."
+msgstr ""
+"Crea ventanas iconificadas que se pueden seleccionar para seleccionar la "
+"ventana principal y se ven afectadas por la física."
 
 msgid "Trigger Physics on the window"
 msgstr "Dispara la Física en la ventana"
@@ -628,7 +699,9 @@ msgid "Bounce elasticity"
 msgstr "Elasticidad de rebote"
 
 msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
-msgstr "Elasticidad de las ventanas (0 significa no rebote, 1 es elasticidad perfecta)."
+msgstr ""
+"Elasticidad de las ventanas (0 significa no rebote, 1 es elasticidad "
+"perfecta)."
 
 msgid "Fluid friction"
 msgstr "Fricción de fluido"
@@ -651,8 +724,11 @@ msgstr "Atrae/repele las ventanas al mouse."
 msgid "Attract by default"
 msgstr "Atraer por defecto"
 
-msgid "Attracts the windows to the mouse when the invert action key is not pressed."
-msgstr "Atrae las ventanas hacia el mouse cuando la tecla de acción de inversión no está presionada."
+msgid ""
+"Attracts the windows to the mouse when the invert action key is not pressed."
+msgstr ""
+"Atrae las ventanas hacia el mouse cuando la tecla de acción de inversión no "
+"está presionada."
 
 msgid "Mouse attraction strength"
 msgstr "Fuerza de atracción del mouse"
@@ -670,13 +746,18 @@ msgid "Peek"
 msgstr ""
 
 msgid "Show the window you are hovering hover in the taskbar"
-msgstr "Mostrar la ventana en la que está pasando el cursor sobre la barra de tareas"
+msgstr ""
+"Mostrar la ventana en la que está pasando el cursor sobre la barra de tareas"
+
+msgid "Misc. Options"
+msgstr ""
 
 msgid "Delay until Peeking"
 msgstr "Demora hasta mirar"
 
 msgid "The delay (in ms) before Peek reveals the window you are hovering"
-msgstr "La demora (en ms) antes de Peek revela la ventana en la que estás marcando"
+msgstr ""
+"La demora (en ms) antes de Peek revela la ventana en la que estás marcando"
 
 msgid "Window Match"
 msgstr ""
@@ -691,21 +772,27 @@ msgid "Active Opacity"
 msgstr "Opacidad activa"
 
 msgid ""
-"The minimum opacity percentage to ensure a targeted window has. A target window will have either this opacity or the preset opacity, whichever is higher."
+"The minimum opacity percentage to ensure a targeted window has. A target "
+"window will have either this opacity or the preset opacity, whichever is "
+"higher."
 msgstr ""
 
 msgid "Passive Opacity"
 msgstr "Opacidad Pasiva"
 
 msgid ""
-"The maximum opacity percentage a window blocking the current targeted window can have. A blocking window will have either this opacity or the preset opacity, whichever is lower."
+"The maximum opacity percentage a window blocking the current targeted window "
+"can have. A blocking window will have either this opacity or the preset "
+"opacity, whichever is lower."
 msgstr ""
 
 msgid "Taskbar only shows windows of current viewport"
 msgstr "barra de tareas que solo muestra la ventana gráfica actual"
 
 msgid "Only dim the windows that the taskbar shows as on the current viewport"
-msgstr "Solo atenúe las ventanas que muestra la barra de tareas como en la ventana gráfica actual"
+msgstr ""
+"Solo atenúe las ventanas que muestra la barra de tareas como en la ventana "
+"gráfica actual"
 
 msgid "Prompt"
 msgstr ""
@@ -713,8 +800,14 @@ msgstr ""
 msgid "Compiz interface for the prompting the user."
 msgstr "Interfaz Compiz para solicitar al usuario."
 
+msgid "Notification"
+msgstr "Notificación"
+
 msgid "Font Color"
 msgstr "Color de la fuente"
+
+msgid "Font color for the window title"
+msgstr "Color de fuente para el título de la ventana"
 
 msgid "Font Size"
 msgstr "Tamaño de la fuente"
@@ -727,44 +820,6 @@ msgstr "Color de fondo"
 
 msgid "Background color for the window title"
 msgstr "Color de fondo para el título de la ventana"
-
-msgid "roach"
-msgstr "Cucaracha"
-
-msgid "Roaches for Compiz"
-msgstr "Cucarachas para Compiz"
-
-msgid "Number Of roaches"
-msgstr "Número de Cucarachas"
-
-msgid "Size Of roaches"
-msgstr "Tamaño de las cucarachas"
-
-msgid "Update Delay"
-msgstr "Actualizar retraso"
-
-msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
-msgstr ""
-"Retraso (en ms) entre las actualizaciones de la pantalla. Disminuir este valor puede hacer que se muevan más suavemente, pero también aumentará el uso de la CPU."
-
-msgid "How deep into the screen leaves can be drawn before being removed"
-msgstr "Qué tan profundos serán dibujados las cucarachas hasta desaparecer"
-
-msgid "Roaches Over Windows"
-msgstr "cucarachas sobre las ventanas"
-
-msgid "Roaches are drawn above windows"
-msgstr "Dibujar las cucarachas sobre las ventanas"
-
-msgid "Roach Textures"
-msgstr "Textura de las cucarachas"
-
-msgid "Toggle Roaches"
-msgstr "Habilitar o deshabilitar cucarachas"
-
-msgid "Roach toggle key"
-msgstr "Tecla de habilitación o deshabilitación cucarachas"
 
 msgid "Rubik's Cube"
 msgstr "Cubo rubik"
@@ -794,7 +849,9 @@ msgid "Rotate around all axes"
 msgstr "Girar alrededor de todos los ejes"
 
 msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
-msgstr "Gire el cubo de Rubik alrededor de todos los ejes (también convierta ventanas en mapas de píxeles)."
+msgstr ""
+"Gire el cubo de Rubik alrededor de todos los ejes (también convierta "
+"ventanas en mapas de píxeles)."
 
 msgid "On manual rotate"
 msgstr "En rotación manual"
@@ -838,8 +895,12 @@ msgstr "Comportamiento"
 msgid "Key/Button Release Timeout"
 msgstr "Tiempo de espera de liberación de la tecla/Botón"
 
-msgid "Duration (in s) a key or button should remain visually pressed after being released."
-msgstr "Duración (en s) una tecla o botón debe permanecer visualmente presionado después de ser lanzado."
+msgid ""
+"Duration (in s) a key or button should remain visually pressed after being "
+"released."
+msgstr ""
+"Duración (en s) una tecla o botón debe permanecer visualmente presionado "
+"después de ser lanzado."
 
 msgid "Key bindings"
 msgstr "Combinaciones de teclas"
@@ -849,6 +910,9 @@ msgstr "Teclas en la pantalla"
 
 msgid "Toggle display."
 msgstr "Teclas en la pantalla."
+
+msgid "Appearance"
+msgstr "Apariencia"
 
 msgid "Mouse border Color"
 msgstr "Color del borde en mouse"
@@ -871,11 +935,18 @@ msgstr "Color en el botón izquierdo"
 msgid "Middle button Color"
 msgstr "Botón del Color central"
 
+#, fuzzy
+msgid "Color of the middle button"
+msgstr "Color en el botón izquierdo"
+
 msgid "Right button Color"
 msgstr "Botón derecho Color"
 
 msgid "Color of the right button"
 msgstr "Color en el botón derecho"
+
+msgid "Position"
+msgstr "Posición"
 
 msgid "Keyboard left margin"
 msgstr "Teclado margen izquierdo"
@@ -910,14 +981,19 @@ msgstr "Interfaz Compiz para el mando de Nintendo Wii."
 msgid "Toggle status reporting"
 msgstr "Deshabilitar informes de estado"
 
-msgid "Use this to enable status reporting from the Wii Remote. Remember to hold down (1)+(2)."
-msgstr "Úselo para habilitar el informe de estado desde el control remoto de Wii. Recuerde presionar (1) + (2)."
+msgid ""
+"Use this to enable status reporting from the Wii Remote. Remember to hold "
+"down (1)+(2)."
+msgstr ""
+"Úselo para habilitar el informe de estado desde el control remoto de Wii. "
+"Recuerde presionar (1) + (2)."
 
 msgid "Disable status reporting"
 msgstr "Combinaciones de teclas"
 
 msgid "Use this to disable status reporting from the Wii Remote."
-msgstr "Úselo para deshabilitar el informe de estado desde el control remoto de Wii."
+msgstr ""
+"Úselo para deshabilitar el informe de estado desde el control remoto de Wii."
 
 msgid "Status reporting"
 msgstr "Reporte de estado"
@@ -932,15 +1008,21 @@ msgid "Reporting Timeout"
 msgstr "Tiempo de espera de informes"
 
 msgid ""
-"The more often you call it, the higher the CPU usage will be, so be careful with this! The less you call it however, means the jerkier the reporting"
+"The more often you call it, the higher the CPU usage will be, so be careful "
+"with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
-"Cuanto más lo llame, mayor será el uso de la CPU, así que tenga cuidado con esto. Sin embargo, cuanto menos lo llame, más jerkier será el informe"
+"Cuanto más lo llame, mayor será el uso de la CPU, así que tenga cuidado con "
+"esto. Sin embargo, cuanto menos lo llame, más jerkier será el informe"
 
 msgid "Gesture Timeout"
 msgstr "Tiempo de espera de gesto"
 
-msgid "The more often you call it, the higher the CPU usage will be and the faster you have to move"
-msgstr "Cuanto más lo llame, mayor será el uso de la CPU y más rápido tendrá que moverse"
+msgid ""
+"The more often you call it, the higher the CPU usage will be and the faster "
+"you have to move"
+msgstr ""
+"Cuanto más lo llame, mayor será el uso de la CPU y más rápido tendrá que "
+"moverse"
 
 msgid "Gesture Sensitvity"
 msgstr "Sensibilidad al gesto"
@@ -951,25 +1033,35 @@ msgstr "Cuánto deben diferir las lecturas entre los controles de gestos"
 msgid "Individual Setup"
 msgstr "Configuración individual"
 
+msgid "X Calibration Multiplier"
+msgstr "X multiplicador de calibración"
+
+msgid "Change this depending on your screen size"
+msgstr "Cambie esto dependiendo de su tamaño de pantalla"
+
 msgid "Y Calibration Multiplier"
 msgstr "Multiplicador de Calibración Y"
 
 msgid "X Adjust"
 msgstr "X Ajustar"
 
+msgid "Used to adjust to the position of your screen"
+msgstr "Se usa para ajustarse a la posición de su pantalla"
 
 msgid "Y Adjust"
 msgstr "Ajuste Y"
 
-msgid "Used to adjust to the position of your screen"
-msgstr "Se usa para ajustarse a la posición de su pantalla"
-
 msgid "Gesturing"
 msgstr "Gesticular"
 
+msgid "Gesture List"
+msgstr "Lista de gestos"
+
+msgid "Wii Remote Number"
+msgstr "Número de control remoto Wii"
+
 msgid "The number of the wii remote on the list (starts at 0)"
 msgstr "El número del control remoto wii en la lista (comienza en 0)"
-
 
 msgid "Gesture Type"
 msgstr "Tipo de gesto"
@@ -977,11 +1069,8 @@ msgstr "Tipo de gesto"
 msgid "Which gesture calls the action"
 msgstr "Qué gesto llama la acción"
 
-msgid "Initiation Plugin Name"
-msgstr "Nombre del complemento de iniciación"
-
-msgid "Action Name"
-msgstr "Nombre de acción"
+msgid "Sensitivity"
+msgstr "Sensibilidad"
 
 msgid "How sensitive gestures should be"
 msgstr "Cómo deberían ser los gestos sensibles"
@@ -992,11 +1081,10 @@ msgstr "Informes"
 msgid "Reporter List"
 msgstr "Lista de reporteros"
 
-msgid "Wii Remote Number"
-msgstr "Número de control remoto Wii"
-
 msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
-msgstr "Número de control remoto Wii (en orden de la lista de configuraciones wiimote. Comienza en 0)"
+msgstr ""
+"Número de control remoto Wii (en orden de la lista de configuraciones "
+"wiimote. Comienza en 0)"
 
 msgid "Report Type"
 msgstr "Tipo de informe"
@@ -1031,64 +1119,32 @@ msgstr "¿Qué nombre de opción espera el complemento para el valor de Z?"
 msgid "Data Type"
 msgstr "Tipo de datos"
 
-msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
-msgstr "Qué tipo de datos espera el complemento (use el otro si el actual no funciona)"
-
-
-msgid "Sensitivity"
-msgstr "Sensibilidad"
+msgid ""
+"What data type the plugin expects (Use the other one if the current one "
+"doesn't work)"
+msgstr ""
+"Qué tipo de datos espera el complemento (use el otro si el actual no "
+"funciona)"
 
 msgid "How sensitive Wii Remote movements should be"
 msgstr "Qué tan sensibles deben ser los movimientos del mando de Wii"
-
-msgid "Notification"
-msgstr "Notificación"
 
 msgid "WiiTrack"
 msgstr ""
 
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
-msgstr "Cree un verdadero escritorio 3D con un Wiimote en algunos tonos habilitados con IR."
+msgstr ""
+"Cree un verdadero escritorio 3D con un Wiimote en algunos tonos habilitados "
+"con IR."
 
-
-msgid "Simple Avoid"
-msgstr "Simple Evitar"
-
-msgid "Return to position"
-msgstr "Regresar a la posición"
-
-msgid "Off Screen"
-msgstr "Fuera de pantalla"
-
-msgid "Enable roaches by default."
-msgstr "Permitir cucarachas por defecto."
-
-msgid "Roach textures"
-msgstr "Textura de las cucarachas"
-
-msgid "No Wind"
-msgstr "Sin viento"
-
-msgid "Up"
-msgstr "Arriba"
-
-msgid "Left"
-msgstr "Izquierda"
-
-msgid "Right"
-msgstr "Derecha"
-
-msgid "Debugging"
-msgstr "Depuración"
-
-msgid "Calibration"
-msgstr "Calibración"
-
-msgid "Webcam"
-msgstr "Cámara web"
+msgid "Enable Tracking"
+msgstr "Habilitar seguimiento"
 
 msgid "WiiMote Above Screen"
 msgstr "WiiMote sobre la pantalla"
+
+msgid "Enable this if your Wiimote is above your screen."
+msgstr "Habilítalo si tu Wiimote está sobre tu pantalla."
 
 msgid "Wiimote Vertical Angle"
 msgstr "Ángulo vertical Wiimote"
@@ -1096,32 +1152,56 @@ msgstr "Ángulo vertical Wiimote"
 msgid "Angle of wiimote in radians * 100"
 msgstr "Ángulo de wiimote en radianes * 100"
 
-msgid "Enable this if your Wiimote is above your screen."
-msgstr "Habilítalo si tu Wiimote está sobre tu pantalla."
+#~ msgid ""
+#~ "Delay (in ms) between screen updates. Decreasing this value may make "
+#~ "leavesfall more smoothly, but will also increase CPU usage."
+#~ msgstr ""
+#~ "Retraso (en ms) entre actualizaciones de pantallas. Cuanto menor sea este "
+#~ "valor más suave se movera la bola, pero aumentará el uso del CPU. "
 
-msgid "Enable Tracking"
-msgstr "Habilitar seguimiento"
+#~ msgid ""
+#~ "How deep into the screen snowflakes can be drawn before being removed"
+#~ msgstr ""
+#~ "Qué tan profundos serán dibujados los copos de nieve hasta desaparecer"
 
-msgid "Appearance"
-msgstr "Apariencia"
+#~ msgid "Wave amplitude"
+#~ msgstr "Amplitud de onda"
 
-msgid "Position"
-msgstr "Posición"
+#~ msgid "roach"
+#~ msgstr "Cucaracha"
 
-msgid "Font color for the window title"
-msgstr "Color de fuente para el título de la ventana"
+#~ msgid "Roaches for Compiz"
+#~ msgstr "Cucarachas para Compiz"
 
-msgid "Gesture List"
-msgstr "Lista de gestos"
+#~ msgid "Number Of roaches"
+#~ msgstr "Número de Cucarachas"
 
-msgid "Number of roaches"
-msgstr "Número de Cucarachas"
+#~ msgid "Size Of roaches"
+#~ msgstr "Tamaño de las cucarachas"
 
-msgid "Size of roaches"
-msgstr "Tamaño de las cucarachas"
+#~ msgid "Roaches Over Windows"
+#~ msgstr "cucarachas sobre las ventanas"
 
-msgid "X Calibration Multiplier"
-msgstr "X multiplicador de calibración"
+#~ msgid "Roaches are drawn above windows"
+#~ msgstr "Dibujar las cucarachas sobre las ventanas"
 
-msgid "Change this depending on your screen size"
-msgstr "Cambie esto dependiendo de su tamaño de pantalla"
+#~ msgid "Roach Textures"
+#~ msgstr "Textura de las cucarachas"
+
+#~ msgid "Toggle Roaches"
+#~ msgstr "Habilitar o deshabilitar cucarachas"
+
+#~ msgid "Roach toggle key"
+#~ msgstr "Tecla de habilitación o deshabilitación cucarachas"
+
+#~ msgid "Enable roaches by default."
+#~ msgstr "Permitir cucarachas por defecto."
+
+#~ msgid "Roach textures"
+#~ msgstr "Textura de las cucarachas"
+
+#~ msgid "Number of roaches"
+#~ msgstr "Número de Cucarachas"
+
+#~ msgid "Size of roaches"
+#~ msgstr "Tamaño de las cucarachas"
