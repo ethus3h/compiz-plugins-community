@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compiz-plugins\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
-"community/issues\n"
-"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: 2008-03-16 19:01+0100\n"
 "Last-Translator: Ketil Wendelbo Aanensen <ketil.w.aanensen@gmail.com>\n"
 "Language-Team: Norwegian Bokmaal <nb@li.org>\n"
@@ -17,1054 +16,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Anaglyph"
+msgid "Boing"
 msgstr ""
 
-msgid "Anaglyph window and Desktop"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Window"
-msgstr "Aktiver vindu"
-
-#, fuzzy
-msgid "Start anaglyph window"
-msgstr "Velger hvor vindustittelen plasseres."
-
-#, fuzzy
-msgid "Initiate Screen"
-msgstr "Start skjermopptak"
-
-msgid "Start anaglyph screen"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Window Button"
-msgstr "Start (knapp)"
-
-#, fuzzy
-msgid "Start anaglyph active window"
-msgstr "Aktiver et gitt vindu"
-
-#, fuzzy
-msgid "Initiate Screen Button"
-msgstr "Start skjermopptak"
-
-#, fuzzy
-msgid "Anaglyph Windows"
-msgstr "Ringvinduer"
-
-#, fuzzy
-msgid "Windows to be anaglyph by default"
-msgstr "Vinduer som skal være negative som standard"
-
-msgid "Exclude Windows"
-msgstr "Ekskluder vinduer"
-
-#, fuzzy
-msgid "Windows to exclude from anaglyph"
-msgstr "Vinduer som skal ekskluderes fra å bli negative"
-
-msgid "Offset"
-msgstr ""
-
-msgid "offset anaglyph"
-msgstr ""
-
-msgid "Increase Desktop deep"
-msgstr ""
-
-#, fuzzy
-msgid "Desaturate"
-msgstr "Metning"
-
-msgid "Mipmaps"
-msgstr "MIP-kart"
-
-#, fuzzy
-msgid "Animations Plus"
-msgstr "Animasjoner"
-
-#, fuzzy
-msgid "More window animations"
-msgstr "Filtrer vindusdekorasjoner"
-
-msgid "Effect Settings"
-msgstr "Effektinnstillinger"
-
-msgid "Helix"
-msgstr ""
-
-#, fuzzy
-msgid "Helix Number of Twists"
-msgstr "Antall fisk"
-
-#, fuzzy
-msgid "Number of twists to do in the animation"
-msgstr "Vinduets vinkel når animasjonen slutter."
-
-msgid "Helix Gridsize Y"
-msgstr ""
-
-#, fuzzy
-msgid "Number of blocks in the animation"
-msgstr "Antall fisk inne i kuben"
-
-#, fuzzy
-msgid "Helix Thickness"
-msgstr "Tykkelse"
-
-#, fuzzy
-msgid "Thickness of blocks in the animation"
-msgstr "Tykkelse på animerte polygoner"
-
-#, fuzzy
-msgid "Spin Direction"
-msgstr "Snøretning"
-
-msgid "Direction the strips spin."
-msgstr ""
-
-msgid "Counter-Clockwise"
-msgstr ""
-
-msgid "Clockwise"
-msgstr ""
-
-#, fuzzy
-msgid "Vertical Helix"
-msgstr "Flislegg vertikalt"
-
-msgid ""
-"Whether Helix should rotate with its axis up/down or in/out of the screen"
-msgstr ""
-
-msgid "Blinds"
-msgstr ""
-
-msgid "Blinds Number of Half Twists"
-msgstr ""
-
-#, fuzzy
-msgid "Number of half twists to do in the animation"
-msgstr "Vinduets vinkel når animasjonen slutter."
-
-#, fuzzy
-msgid "Blinds Thickness"
-msgstr "Tykkelse"
-
-msgid "Shatter"
-msgstr ""
-
-#, fuzzy
-msgid "Shatter number of spokes"
-msgstr "Antall snøfnugg"
-
-msgid "Number of spokes (divided by 4) in the animation"
-msgstr ""
-
-#, fuzzy
-msgid "Shatter Number of Tiers"
-msgstr "Antall fisk"
-
-msgid "Number of concentric circles in the animation"
-msgstr ""
-
-msgid "Bonanza"
-msgstr ""
-
-msgid "Number Of Fire Particles"
-msgstr "Antall brannpartikler"
-
-msgid "Number of fire particles."
-msgstr "Antall brannpartikler."
-
-msgid "Fire Particle Size"
-msgstr "Brannpartikkels størrelse"
-
-msgid "Fire particle size."
-msgstr "Størrelse for brannpartikkel."
-
-msgid "Fire Particle Life"
-msgstr "Brannpartikkels levetid"
-
-msgid "Fire particle life."
-msgstr "Levetid for brannpartikkel."
-
-msgid "Fire Particle Color"
-msgstr "Brannpartikkels farge"
-
-msgid "Fire particle color."
-msgstr "Farge for brannpartikkel."
-
-msgid "Randomly Colored Fire"
-msgstr "Tilfeldig farget brann"
-
-msgid "Have random colors for the fire effect, also known as Mystical Fire."
-msgstr "Ha tilfeldige farger for branneffekten, også kjent som mystisk brann"
-
-#, fuzzy
-msgid "Simple Animations"
-msgstr "Åpne-animasjon"
-
-msgid "Animations that are simple on the eye"
-msgstr ""
-
-msgid "Fly In"
-msgstr ""
-
-#, fuzzy
-msgid "Fly In Direction"
-msgstr "Bretteretning"
-
-msgid "The direction in which the fly in should take place"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction X"
-msgstr "Bretteretning"
-
-msgid "Direction and Distance X for user defined fly in"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction Y"
-msgstr "Bretteretning"
-
-msgid "Direction and Distance Y for user defined fly in"
-msgstr ""
-
-msgid "Fade"
-msgstr "Ton ut/inn"
-
-msgid "Fade when flying in"
-msgstr ""
-
-msgid "Distance"
-msgstr "Avstand"
-
-#, fuzzy
-msgid "Distance to fly in"
-msgstr "Avstand"
-
-#, fuzzy
-msgid "Rotate In"
-msgstr "Roter snøfnugg"
-
-#, fuzzy
-msgid "Rotate In Direction"
-msgstr "Bevegelsesretning"
-
-msgid "The direction in which the window rotates"
-msgstr ""
-
-#, fuzzy
-msgid "Angle"
-msgstr "Vinkel ved bortglidning"
-
-msgid "Angle to start from"
-msgstr ""
-
-msgid "Bounce"
-msgstr ""
-
-#, fuzzy
-msgid "Maximum Size"
-msgstr "Maksimumer"
-
-msgid "Maximum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum Size"
-msgstr "Maksimumer"
-
-msgid "Minimum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Number of Bounces"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "How many bounces during the animation"
-msgstr "Vinduer som skal bli vist i Bytt-skifteren"
-
-msgid "Sheet"
-msgstr ""
-
-#, fuzzy
-msgid "Starting Percent"
-msgstr "Start gest"
-
-msgid ""
-"How wide the begginning of the sheet animation should be compared to the end"
-msgstr ""
-
-msgid "Expand Piecewise"
-msgstr ""
-
-#, fuzzy
-msgid "First expand horizontally"
-msgstr "Flislegg horisontalt"
-
-msgid "If checked, initially expand horizontally, then vertically"
-msgstr ""
-
-#, fuzzy
-msgid "Initial horizontal size"
-msgstr "Flislegg horisontalt"
-
-msgid "Number of pixels initially in horizontal direction"
-msgstr ""
-
-#, fuzzy
-msgid "Initial vertical size"
-msgstr "Partikkelstørrelse."
-
-msgid "Number of pixels initially in vertical direction"
-msgstr ""
-
-#, fuzzy
-msgid "Delay"
-msgstr "Visningsforsinkelse"
-
-msgid ""
-"Delay between expanding horizontally and vertically (expressed as a fraction)"
-msgstr ""
-
-msgid "Expand"
-msgstr ""
-
-msgid "Cube Atlantis"
-msgstr "Atlantiskube"
-
-#, fuzzy
-msgid "Render some sea animals inside of the transparent cube"
-msgstr "Gjengir noen fisk på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Speed factor"
-msgstr "Forstørrelsesfaktor"
-
-msgid "Multiply the speed of the fish by this factor."
-msgstr ""
-
-msgid "Start crabs on bottom"
-msgstr ""
-
-#, fuzzy
-msgid "Start crabs on the bottom of the cube."
-msgstr "Gjengi bilder på toppen og bunnen av kuben"
-
-msgid "School similar groups"
-msgstr ""
-
-msgid "Fish in different groups, but of the same type, swim together."
-msgstr ""
-
-msgid "Low detail models"
-msgstr ""
-
-msgid "Use less detailed models for increased performance."
-msgstr ""
-
-#, fuzzy
-msgid "Creature Selection"
-msgstr "Kuberefleksjon"
-
-#, fuzzy
-msgid "Type"
-msgstr "Glødtype"
-
-msgid "Type of sea creature."
-msgstr ""
-
-#, fuzzy
-msgid "Color"
-msgstr "Farger"
-
-#, fuzzy
-msgid "The color of the sea creature."
-msgstr "Kantfarge for fanelinjen"
-
-msgid "Number"
-msgstr ""
-
-#, fuzzy
-msgid "The number of the sea creature."
-msgstr "Fanelinjens stil"
-
-#, fuzzy
-msgid "Size"
-msgstr "Gli"
-
-#, fuzzy
-msgid "The size of the sea creature."
-msgstr "Fanelinjens stil"
-
-#, fuzzy
-msgid "Miscellaneous Selection"
-msgstr "Tillat musevalg"
-
-msgid "Type of sea plant."
-msgstr ""
-
-#, fuzzy
-msgid "The color of the sea plant."
-msgstr "Kantfarge for fanelinjen"
-
-#, fuzzy
-msgid "The number of the sea plants."
-msgstr "Fanelinjens stil"
-
-#, fuzzy
-msgid "The size of the sea plant."
-msgstr "Fanelinjens stil"
-
-msgid "Water / Ground"
-msgstr ""
-
-msgid "Render water"
-msgstr ""
-
-#, fuzzy
-msgid "Render water inside the cube."
-msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
-
-msgid "Render water wireframe"
-msgstr ""
-
-#, fuzzy
-msgid "Render water wireframe inside the cube."
-msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Render ground"
-msgstr "Gjør bakgrunn mørkere"
-
-#, fuzzy
-msgid "Render ground inside the cube."
-msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Ground color"
-msgstr "Bakkefarge (langt unna)"
-
-#, fuzzy
-msgid "Color of ground in the cube."
-msgstr "Farge på toppen av kuben"
-
-msgid "Water surface height"
-msgstr ""
-
-#, fuzzy
-msgid "Height of water surface in the cube."
-msgstr "Farge på toppen av kuben"
-
-#, fuzzy
-msgid "Water color"
-msgstr "Kantfarge"
-
-#, fuzzy
-msgid "Color of water in the cube."
-msgstr "Farge på toppen av kuben"
-
-msgid "Water/Ground grid smoothness"
-msgstr ""
-
-msgid "Number of subdivisions that create a finer grid."
-msgstr ""
-
-#, fuzzy
-msgid "Waves"
-msgstr "Bølge"
-
-msgid "Render waves"
-msgstr ""
-
-#, fuzzy
-msgid "Render water waves inside the cube."
-msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Ripple effect"
-msgstr "Åpne-effekt"
-
-msgid "Semi-randomize light scattering off water waves."
-msgstr ""
-
-#, fuzzy
-msgid "Wave amplitude"
-msgstr "Bølgeamplitude"
-
-msgid "Amplitude of water waves."
-msgstr ""
-
-msgid "Wave frequency"
-msgstr ""
-
-msgid "Frequency of water waves."
-msgstr ""
-
-#, fuzzy
-msgid "Small wave amplitude"
-msgstr "Max. bølgeamplitude for magisk lampe"
-
-msgid "Amplitude of small water waves on the bigger ones."
-msgstr ""
-
-msgid "Small wave frequency"
-msgstr ""
-
-msgid "Frequency of small water waves on the bigger ones."
-msgstr ""
-
-#, fuzzy
-msgid "Display"
-msgstr "Visningsvarighet"
-
-#, fuzzy
-msgid "Rescale for screen ratio"
-msgstr "Speiling for deokrasjoner"
-
-msgid ""
-"Rescale along the sides of the cube by the ratio of screen width to height."
-msgstr ""
-
-#, fuzzy
-msgid "Lighting"
-msgstr "Tilpasning"
-
-msgid "Rotate lighting"
-msgstr ""
-
-#, fuzzy
-msgid "Preserve light direction when rotating the cube."
-msgstr "Hever vinduer mens kuben roterer"
-
-msgid "Light inclination"
-msgstr ""
-
-msgid ""
-"The angle of light rays from the horizon in degrees (0 is from the viewer's "
-"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
-"false."
-msgstr ""
-
-msgid "Ambient light"
-msgstr ""
-
-msgid "Component of light coming from all directions equally."
-msgstr ""
-
-msgid "Cube 3D Models"
-msgstr ""
-
-#, fuzzy
-msgid "Render still/animated 3D mesh models inside of the transparent cube"
-msgstr "Gjengir noen fisk på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Scale all factor"
-msgstr "Minimum skaleringsfaktor"
-
-msgid "Scale all the 3D models by this factor."
-msgstr ""
-
-#, fuzzy
-msgid "3D Models"
-msgstr "Modus"
-
-#, fuzzy
-msgid "Model"
-msgstr "Modus"
-
-msgid "Full path to 3D wavefront (.obj) model file."
-msgstr ""
-
-#, fuzzy
-msgid "Scale factor"
-msgstr "Minimum skaleringsfaktor"
-
-msgid "Scale the 3D model by this factor."
-msgstr ""
-
-msgid "X"
-msgstr ""
-
-#, fuzzy
-msgid "X coordinate offset from the center of the cube."
-msgstr "Plasser musepeker bruker midten av vinduet"
-
-msgid "Y"
-msgstr ""
-
-#, fuzzy
-msgid "Y coordinate offset from the center of the cube."
-msgstr "Plasser musepeker bruker midten av vinduet"
-
-msgid "Z"
-msgstr ""
-
-#, fuzzy
-msgid "Z coordinate offset from the center of the cube."
-msgstr "Plasser musepeker bruker midten av vinduet"
-
-#, fuzzy
-msgid "Rotation plane"
-msgstr "Rotasjonsvinkel"
-
-msgid "Plane of rotation for the 3D model."
-msgstr ""
-
-#, fuzzy
-msgid "Rotation rate"
-msgstr "Rotasjonsvinkel"
-
-msgid "Rate of rotation of 3D model (in rotations per second)."
-msgstr ""
-
-#, fuzzy
-msgid "Model type"
-msgstr "Fylt omriss"
-
-msgid "Type of 3D model (still or animated)."
-msgstr ""
-
-msgid "Frames per second"
-msgstr ""
-
-msgid "Framerate (per second) for the animated series of obj files."
-msgstr ""
-
-msgid "Render front and back sides"
-msgstr ""
-
-msgid ""
-"Renders the front surface and then the back surface. This can be useful for "
-"models which show black spots but can cause a performance hit."
-msgstr ""
-
-#, fuzzy
-msgid "Ambient light intensity"
-msgstr "Refleksjonens intensitet"
-
-#, fuzzy
-msgid "Diffuse light intensity"
-msgstr "Refleksjonens intensitet"
-
-msgid ""
-"Component of light coming from the direction set by inclination or from the "
-"viewer if Rotate Lighting is true."
-msgstr ""
-
-msgid "Specular light intensity"
-msgstr ""
-
-msgid ""
-"Highly directional component of light coming from the direction set by "
-"inclination or from the viewer if Rotate Lighting is true."
-msgstr ""
-
-#, fuzzy
-msgid "Loading"
-msgstr "Fyll"
-
-msgid "Use separate threads"
-msgstr ""
-
-msgid ""
-"Use separate threads to load each model faster and allow other interaction "
-"whilst loading."
-msgstr ""
-
-#, fuzzy
-msgid "Dialog Match"
-msgstr "Samsvar mellom vinduer"
-
-msgid "Dialogs which will trigger fading"
-msgstr ""
-
-msgid "Speed"
-msgstr "Hastighet"
-
-#, fuzzy
-msgid "The speed of the animation"
-msgstr "Endre farten på 3D-animasjonen"
-
-msgid "Opacity"
-msgstr "Dekkevne"
-
-msgid "The Opacity of windows with open dialogs"
-msgstr ""
-
-msgid "Saturation"
-msgstr "Metning"
-
-#, fuzzy
-msgid "The Saturation of windows with open dialogs"
-msgstr "Metning for vinduer som ikke er miniprogrammer i miniprogram-modus."
-
-msgid "Brightness"
-msgstr "Skarphet"
-
-#, fuzzy
-msgid "The Brightness of windows with open dialogs"
-msgstr ""
-"Skarphet for vinduer som ikke er miniprogram-vinduer i miniprogram-modus"
-
-msgid "Elements"
-msgstr ""
-
-msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
-msgstr ""
-
-msgid "General"
-msgstr "Generelt"
-
-#, fuzzy
-msgid "Global Speed"
-msgstr "Forstørrelseshastighet"
-
-msgid "Elements speed will be multiplied by this value"
-msgstr ""
-
-msgid "Screen Depth"
-msgstr "Skjermdybde"
-
-msgid "How deep into the screen snowflakes can be drawn before being removed"
-msgstr "Hvor dypt inne i skjermen snøfnugg kan tegnes før de blir fjernet"
-
-msgid "Apply Screen Transform"
-msgstr ""
-
-msgid "Moves particles with screen transforms when over_windows is enabled"
-msgstr ""
-
-#, fuzzy
-msgid "Draw Over Windows"
-msgstr "Snø over vinduer"
-
-#, fuzzy
-msgid "Elements drawn above windows"
-msgstr "Snø tegnes over vinduer"
-
-msgid "Toggle Elements with Keys:"
-msgstr ""
-
-msgid ""
-"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
-"checkboxes."
-msgstr ""
-
-msgid "Snow"
-msgstr "Snø"
-
-msgid "Number Of Snowflakes"
-msgstr "Antall snøfnugg"
-
-msgid "Number of snowflakes"
-msgstr "Antall snøfnugg"
-
-msgid "Size Of Snowflakes"
-msgstr "Snøfnuggenes størrelse"
-
-msgid "Size of snowflakes"
-msgstr "Snøfnuggenes størrelse"
-
-msgid "Snow Speed"
-msgstr "Snøhastighet"
-
-msgid "Speed of falling snow"
-msgstr "Hastighet for fallende snø"
-
-#, fuzzy
-msgid "Snow sway"
-msgstr "Visningsforsinkelse"
-
-msgid ""
-"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Snowflakes"
-msgstr "Roter snøfnugg"
-
-#, fuzzy
-msgid "Toggle snow"
-msgstr "Slå av/på flislegging"
-
-msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Snow"
-msgstr "Skru av/på klistre"
-
-msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-msgid "Snow Direction"
-msgstr "Snøretning"
-
-msgid "Select snow flake movement direction"
-msgstr "Velg bevegelsesretning for snøfnugg"
-
-msgid "None"
-msgstr "Ingen"
-
-msgid "Up"
-msgstr "Opp"
-
-msgid "Left"
-msgstr "Venstre"
-
-msgid "Right"
-msgstr "Høyre"
-
-msgid "Snow Textures"
-msgstr "Snøteksturer"
-
-msgid "Snow textures"
-msgstr "Snøteksturer"
-
-msgid "Autumn"
-msgstr ""
-
-#, fuzzy
-msgid "Number Of leaves"
-msgstr "Antall snøfnugg"
-
-#, fuzzy
-msgid "Number of leaves"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Size Of leaves"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Size of leaves"
-msgstr "Snøfnuggenes størrelse"
-
-msgid "Sway Of leaves"
-msgstr ""
-
-msgid "sway of leaves"
-msgstr ""
-
-#, fuzzy
-msgid "Leaf Speed"
-msgstr "Løvspredning"
-
-#, fuzzy
-msgid "Speed of falling leaves"
-msgstr "Hastighet for fallende snø"
-
-#, fuzzy
-msgid "Rotate Leaves"
-msgstr "Roter snøfnugg"
-
-#, fuzzy
-msgid "Toggle Autumn"
-msgstr "Skru av/på klistre"
-
-msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Autumn Textures"
-msgstr "Snøteksturer"
-
-#, fuzzy
-msgid "Autumn textures"
-msgstr "Snøteksturer"
-
-msgid "Bubbles"
-msgstr ""
-
-#, fuzzy
-msgid "Number Of bubbles"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Number of bubbles"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Size Of bubbles"
-msgstr "Størrelsesregler"
-
-#, fuzzy
-msgid "Size of bubbles"
-msgstr "Størrelsesregler"
-
-msgid "Viscosity of liquid"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Bubbles"
-msgstr "Roter snøfnugg"
-
-#, fuzzy
-msgid "Toggle Bubbles"
-msgstr "Skru av/på fullskjerm"
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Bubble Textures"
-msgstr "Slå på teksturer"
-
-#, fuzzy
-msgid "Bubble textures"
-msgstr "Slå på teksturer"
-
-#, fuzzy
-msgid "Fireflies"
-msgstr "Filterfiler"
-
-#, fuzzy
-msgid "Number Of fireflies"
-msgstr "Antall brannpartikler"
-
-#, fuzzy
-msgid "Number of fireflies"
-msgstr "Antall brannpartikler."
-
-#, fuzzy
-msgid "Size Of fireflies"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Size of fireflies"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Firefly Speed"
-msgstr "Filterfiler"
-
-msgid "Speed of firefly lifecycle and movement"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Fireflies"
-msgstr "Roter snøfnugg"
-
-msgid "When using \"glows\", you definitely want this ON"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Fireflies"
-msgstr "Filterfiler"
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Fireflies Textures"
-msgstr "Filterfiler"
-
-#, fuzzy
-msgid "Fireflies textures"
-msgstr "Filterfiler"
-
-msgid "Stars"
-msgstr ""
-
-#, fuzzy
-msgid "Number Of stars"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Number of stars"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Size Of stars"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Size of stars"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Star Speed"
-msgstr "Snøhastighet"
-
-#, fuzzy
-msgid "Speed of stars"
-msgstr "Forstørrelsesfaktor"
-
-msgid "Star X Offset"
-msgstr ""
-
-msgid "The X point on the screen where stars should start"
-msgstr ""
-
-msgid "Star Y Offset"
-msgstr ""
-
-msgid "The Y point on the screen where stars should start"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Stars"
-msgstr "Roter snøfnugg"
-
-#, fuzzy
-msgid "Toggle Stars"
-msgstr "Skru av/på klistre"
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Star Textures"
-msgstr "Snøteksturer"
-
-#, fuzzy
-msgid "Star textures"
-msgstr "Snøteksturer"
-
 #, fuzzy
-msgid "Fireflies for Compiz"
+msgid "Boing for Compiz"
 msgstr "Snø for Compiz"
 
 msgid "Settings"
 msgstr "Innstillinger"
 
 #, fuzzy
-msgid "Number Of Fireflies"
-msgstr "Antall brannpartikler"
+msgid "Number Of balls"
+msgstr "Antall partikler"
 
 #, fuzzy
-msgid "The maximum number of fireflies allowed on screen"
-msgstr "Maksimalt antall bølger for magisk lampe."
+msgid "Number of balls"
+msgstr "Antall partikler"
 
 #, fuzzy
-msgid "Size Of Fireflies"
-msgstr "Filterfiler"
+msgid "Size Of balls"
+msgstr "Størrelsesregler"
+
+#, fuzzy
+msgid "Size of balls"
+msgstr "Størrelsesregler"
 
 msgid "Update Delay"
 msgstr "Oppdateringsforsinkelse"
 
+#, fuzzy
 msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make snow "
+"Delay (in ms) between screen updates. Decreasing this value may make leaves "
 "fall more smoothly, but will also increase CPU usage."
 msgstr ""
 "Forinkelse (in ms) mellom skjermoppdateringer. Reduksjon av denne verdien "
@@ -1075,57 +58,73 @@ msgstr "Skjermboksing"
 
 #, fuzzy
 msgid ""
-"How far outside the screen resolution fireflies can be before being removed. "
+"How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
 msgstr ""
 "Hvor langt utenfor skjermoppløsningen snøfnuggene kan være før de fjerne. "
 "Trengs pga. synsfelt."
 
+msgid "Screen Depth"
+msgstr "Skjermdybde"
+
 #, fuzzy
-msgid "How deep into the screen fireflies can be drawn before being removed"
+msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr "Hvor dypt inne i skjermen snøfnugg kan tegnes før de blir fjernet"
 
 #, fuzzy
-msgid "Fireflies Over Windows"
+msgid "Balls Over Windows"
 msgstr "Snø over vinduer"
 
 #, fuzzy
-msgid "Fireflies is drawn above windows"
+msgid "Balls are drawn above windows"
 msgstr "Snø tegnes over vinduer"
 
 #, fuzzy
-msgid "Rotate Flies. Redundant"
+msgid "Rotate Balls"
 msgstr "Roter snøfnugg"
 
 #, fuzzy
-msgid "Flies rotate if checked."
+msgid "Balls rotate if checked."
 msgstr "Snøfnugg roterer hvis avkrysset"
 
 #, fuzzy
-msgid "Fireflies Direction. Redundant"
-msgstr "Brannretning."
+msgid "Wind Direction"
+msgstr "Snøretning"
 
-msgid "Top to Bottom"
-msgstr "Øverst til nederst"
+#, fuzzy
+msgid "Select the wind direction"
+msgstr "Velg bevegelsesretning for snøfnugg"
 
-msgid "Bottom to Top"
-msgstr "Nederst til øverst"
+#, fuzzy
+msgid "No Wind"
+msgstr "Neste vindu"
 
-msgid "Right to Left"
-msgstr "Høyre til venstre"
+msgid "Up"
+msgstr "Opp"
 
-msgid "Left to Right"
-msgstr "Venstre til høyre"
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Right"
+msgstr "Høyre"
+
+msgid "Textures"
+msgstr "Teksturer"
+
+#, fuzzy
+msgid "Ball Textures"
+msgstr "Slå på teksturer"
+
+#, fuzzy
+msgid "Ball textures"
+msgstr "Slå på teksturer"
 
 msgid "Enable by default"
 msgstr ""
 
 #, fuzzy
-msgid "Enable fireflies by default."
+msgid "Enable boing by default."
 msgstr "Vinduer som skal filtreres som standard."
-
-msgid "Textures"
-msgstr "Teksturer"
 
 msgid "Debug"
 msgstr "Feilsøk"
@@ -1134,1097 +133,782 @@ msgid "Enable Blending"
 msgstr "Slå på blanding"
 
 #, fuzzy
-msgid "Enables alpha blending of flies."
+msgid "Enables alpha blending of balls."
 msgstr "Slår på alfa-blanding av snøfnugg."
 
 msgid "Enable Textures"
 msgstr "Slå på teksturer"
 
 #, fuzzy
-msgid "Enables textures flies. If not selected, color cradients are used."
+msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr "Slår på tekstur-snøfnugg. Hvis ikke valgt blir fargeoverganger brukt."
 
 msgid "Key Bindings"
 msgstr "Hurtigtaster"
 
 #, fuzzy
-msgid "Firefly toggle key"
+msgid "Toggle Boing"
+msgstr "Slå av/på flislegging"
+
+#, fuzzy
+msgid "Boing toggle key"
 msgstr "Tast for å slå av/på snø"
 
 #, fuzzy
-msgid "Freely Transformable Windows"
-msgstr "Gjenopprett vinduer"
+msgid "Desktop Click"
+msgstr "Skrivebordsvegg"
 
-#, fuzzy
-msgid "Freely transform windows"
-msgstr "Under andre vinduer"
+msgid "Perform actions on desktop clicks"
+msgstr ""
 
-#, fuzzy
-msgid "Free Transformation"
-msgstr "Deformering"
+msgid "Click List"
+msgstr ""
 
-#, fuzzy
-msgid "Initiate Rotation"
-msgstr "Start (knapp)"
-
-#, fuzzy
-msgid "Start Free Rotation"
-msgstr "Metning"
-
-#, fuzzy
-msgid "Initiate Scaling"
-msgstr "Start skjermopptak"
-
-msgid "Reset"
+msgid "Button Number"
 msgstr ""
 
 #, fuzzy
-msgid "Reset Transformation"
-msgstr "Deformering"
-
-msgid "Axis help toggle"
-msgstr ""
-
-#, fuzzy
-msgid "Axis selection helper"
-msgstr "Utvalgsfarge"
-
-msgid "Transformation Behavior"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Modifier"
+msgid "Modifiers"
 msgstr "Unngå Smekk-modifikator"
 
-#, fuzzy
-msgid "Use this bindings to enable/disable snapping."
-msgstr "Bruk disse hurtigtastene for å unngå smekking"
-
-msgid "Shift"
-msgstr "Shift"
-
-msgid "Alt"
-msgstr "Alt"
-
-msgid "Control"
-msgstr "Ctrl"
-
-msgid "Meta"
-msgstr "Windows"
-
-#, fuzzy
-msgid "Rotation"
-msgstr "Rotasjonsvinkel"
-
-msgid "Invert Modifier"
+msgid "What Modifiers must be used in order to trigger the action"
 msgstr ""
 
 #, fuzzy
-msgid "Use this bindings to invert the rotation mode."
-msgstr "Bruk disse hurtigtastene for å unngå smekking"
+msgid "Plugin Name"
+msgstr "Tillegg"
 
-msgid "Manual Transformation"
+#, fuzzy
+msgid "Initiation Plugin Name"
+msgstr "Begynn hendelse for tillegg"
+
+#, fuzzy
+msgid "Action Name"
+msgstr "Hendelse"
+
+#, fuzzy
+msgid "Initiation Action Name"
+msgstr "Begynn hendelse for tillegg"
+
+#, fuzzy
+msgid "Call Type"
+msgstr "Glødtype"
+
+msgid "How to handle the action calling"
+msgstr ""
+
+msgid "Dodge"
+msgstr "Unngå"
+
+msgid "Makes windows stay out of your way"
 msgstr ""
 
 #, fuzzy
-msgid "Scaling"
-msgstr "Skaler-tillegg"
-
-#, fuzzy
-msgid "Scale Up"
-msgstr "Skaler-tillegg"
-
-msgid "Scale up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Scale Down"
-msgstr "Skaler-tillegg"
-
-#, fuzzy
-msgid "Scale down by one increment"
-msgstr "Utløs nedskalering"
-
-#, fuzzy
-msgid "Rotate Up"
-msgstr "Roter snøfnugg"
-
-msgid "Rotate up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Down"
-msgstr "Flytt ned"
-
-msgid "Rotate down by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Left"
-msgstr "Flytt venstre"
-
-msgid "Rotate left by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Right"
-msgstr "Flytt høyre"
-
-msgid "Rotate right by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Clockwise"
-msgstr "Roter ringen med klokken på neste"
-
-#, fuzzy
-msgid "Rotate clockwise by one increment"
-msgstr "Roter ringen med klokken på neste"
-
-#, fuzzy
-msgid "Rotate Counter-Clockwise"
-msgstr "Roter ringen med klokken på neste"
-
-#, fuzzy
-msgid "Rotate counter-clockwise by one increment"
-msgstr "Roter ringen med klokken på neste"
-
-msgid "Snap by default"
-msgstr ""
-
-msgid "Snap to common points by default"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Threshold"
-msgstr "Smekktype"
-
-msgid "Snap to every one of these angles"
-msgstr ""
-
-#, fuzzy
-msgid "Mouse sensitivity"
-msgstr "Musebytte"
-
-#, fuzzy
-msgid "How sensitive the mouse movement should be"
-msgstr "Hvor fjær-lik forstørrelses/forminskings-animasjonen skal være."
-
-#, fuzzy
-msgid "Scale Mode"
-msgstr "Skaler-tillegg"
-
-#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
-#, fuzzy
-msgid "How to scale windows"
-msgstr "Ikke-lukkbare vinduer"
-
-#, fuzzy
-msgid "Allow negative"
-msgstr "Negativ"
-
-msgid "Allow negative scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Maintain aspect ratio"
-msgstr "Størrelsesforhold for ekspo-modus"
-
-msgid "Keep aspect ratio constant when scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum scale"
-msgstr "Minimum skaleringsfaktor"
-
-msgid ""
-"How small the scale is allowed to be when 'Allow Negative' is not toggled"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation Type"
-msgstr "Rotasjonsvinkel"
-
-#, fuzzy
-msgid "2D/3D Rotation Type"
-msgstr "Rotasjonsvinkel"
-
-#, fuzzy
-msgid "Rotation Axis"
-msgstr "Rotasjonsvinkel"
-
-msgid "How Freely Transformable Windows should determine the rotation axis"
-msgstr ""
-
-#, fuzzy
-msgid "3D Rotation Percentage"
-msgstr "Rotasjonsvinkel"
-
-msgid "Percentage of the window area used for 3D rotation"
-msgstr ""
-
-#, fuzzy
-msgid "Auto-Zoom"
-msgstr "Autoforstørr/forminsk"
-
-msgid "Auto-Zoom when rotating so that windows do not get too large"
-msgstr ""
-
-#, fuzzy
-msgid "Disable on Transformed Screen"
-msgstr "Bevegelsesslør på forvandlet skjerm"
-
-msgid ""
-"Disable rotation on transformed screen. This prevents ugly looking clipped "
-"windows when the screen is transformed"
-msgstr ""
-
-#, fuzzy
-msgid "Speed of window rotation"
-msgstr "Filtrer vindusdekorasjoner"
-
-msgid "How fast the window should rotate"
-msgstr ""
-
-msgid "Rotate increment amount"
-msgstr ""
-
-msgid "How far to rotate a window when rotating an 'increment'"
-msgstr ""
-
-msgid "Scale increment amount"
-msgstr ""
-
-msgid "How much to scale a window by when scaling by an 'increment'"
-msgstr ""
-
-msgid "Misc"
-msgstr "Div"
-
-msgid "Input Prevention"
-msgstr ""
-
-#, fuzzy
-msgid "Prevented Input Window Types"
-msgstr "Vindustyper"
-
-#, fuzzy
-msgid "Window types that should be Shaped. Disable problematic windows here"
-msgstr "Vindustyper som skal håndteres av Følgfokus"
-
-msgid "Prevent input"
-msgstr ""
-
-msgid "Prevent input in transformed windows"
-msgstr ""
-
-#, fuzzy
-msgid "Immediate Moves"
-msgstr "Umiddelbare forflytninger"
-
-msgid ""
-"Don't allow plugins like wobbly to transform the transformed window while "
-"it's being moved"
-msgstr ""
-
-#, fuzzy
-msgid "Helper Options"
-msgstr "Partikkelvalg"
-
-#, fuzzy
-msgid "Helper Circle Color"
-msgstr "Partikkelfarge"
-
-#, fuzzy
-msgid "Color of the circle."
-msgstr "Farge på bakken (nært)."
-
-#, fuzzy
-msgid "Helper Line Color"
-msgstr "Linjefarge"
-
-#, fuzzy
-msgid "Helper line color around the circle"
-msgstr "Linjefarge på utvalgsrektangelet."
-
-#, fuzzy
-msgid "Helper Cross Line Color"
-msgstr "Linjefarge"
-
-#, fuzzy
-msgid "Color of the cross line"
-msgstr "Farge på bakken (nært)."
-
-msgid "Show 3D rotation circle"
-msgstr ""
-
-msgid "Show click area for 3D rotation"
-msgstr ""
-
-msgid "Show rotation gizmo"
-msgstr ""
-
-msgid "Show rotation axis info"
-msgstr ""
-
-#, fuzzy
-msgid "Show crosshair"
-msgstr "Visningsforsinkelse"
-
-msgid "Show crosshair (for scaling click regions)"
-msgstr ""
-
-#, fuzzy
-msgid "Show input regions"
-msgstr "Visningsforsinkelse"
-
-#, fuzzy
-msgid "Show input region rectangle"
-msgstr "Rektangulær"
-
-msgid "Color Opacity"
-msgstr "Fargedekkevne"
-
-msgid "Alter window opacity based on color."
-msgstr "Endre vinduets dekkevne basert på farge."
-
-msgid "Toggle Window Fake ARGB"
-msgstr "Skru av/på falsk ARGB for vinduer"
-
-msgid "Toggle window fake ARGB."
-msgstr "Skru av/på falsk ARGB for vinduer"
-
-#, fuzzy
-msgid "Toggle Ghost"
-msgstr "Skru av/på klistre"
-
-#, fuzzy
-msgid "Toggle ghost for all matching windows"
-msgstr "Skru av/på alltid-øverst for det aktive vinduet"
-
-#, fuzzy
-msgid "Toggle Ghost Window"
-msgstr "Flislegg vinduer"
-
-#, fuzzy
-msgid "Toggle ghosting of individual window"
-msgstr "Skru av/på vindusfiltrering"
+msgid "Toggle Dodging"
+msgstr "Slå av/på flislegging"
 
 msgid "Window Types"
 msgstr "Vindustyper"
 
 #, fuzzy
-msgid "Windows which should become ghosts"
+msgid "Windows which should dodge"
 msgstr "Vinduer som skal ekskluderes fra flislegging"
 
 #, fuzzy
-msgid "Ghost Active Window"
-msgstr "Aktiver vindu"
+msgid "Select Window"
+msgstr "Velg enkelt vindu"
 
-msgid "Whether a ghosted active window will accept input or not"
+#, fuzzy
+msgid "Mark the active window so it will dodge"
+msgstr "Farge på det aktive vinduets dybde"
+
+#, fuzzy
+msgid "Dodge Model"
+msgstr "Modus"
+
+msgid "What model Dodge should use when dodging"
 msgstr ""
 
 #, fuzzy
-msgid "Fade windows only on mousover"
-msgstr "Sett vindu som ikke-bevegelig"
-
-msgid ""
-"Whether a ghosted window will always be faded or only when the cursor is "
-"over it"
-msgstr ""
+msgid "Simple Avoid"
+msgstr "Enkel"
 
 #, fuzzy
-msgid "The Opacity of Ghosted Windows"
-msgstr "Dekkevne for utvalgte vinduer"
-
-#, fuzzy
-msgid "The Saturation of Ghosted Windows"
-msgstr "Metning for utvalgte vinduer"
-
-#, fuzzy
-msgid "The Brightness of Ghosted Windows"
-msgstr "Skarphet for de valgte vinduene"
-
-msgid "Mouse switch"
-msgstr "Musebytte"
-
-msgid "Switch viewport in response to mouse gesture"
-msgstr "Bytt arbeidsområde ved musegest"
-
-msgid "Begin Gesture"
-msgstr "Start gest"
-
-msgid "Begin Mouse Gesture"
-msgstr "Start musegester"
-
-msgid "Photowheel"
-msgstr ""
-
-#, fuzzy
-msgid "Render photo turn wheel inside of the transparent cube"
-msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
-
-#, fuzzy
-msgid "Photo Textures"
-msgstr "Snøteksturer"
-
-#, fuzzy
-msgid "Photo textures"
-msgstr "Snøteksturer"
-
-msgid "Height"
-msgstr "Høyde"
-
-msgid "Width"
-msgstr "Bredde"
-
-#, fuzzy
-msgid "X Offset"
-msgstr "Bevegelsesforskyvelse"
-
-msgid "X Offset (this is width)"
-msgstr ""
-
-#, fuzzy
-msgid "Y Offset"
-msgstr "Bevegelsesforskyvelse"
-
-msgid "Y Offset (this is height)"
-msgstr ""
-
-#, fuzzy
-msgid "Z Offset"
-msgstr "Bevegelsesforskyvelse"
-
-msgid "Z Offset (this is depth)"
-msgstr ""
-
-msgid "Rotate Around Axis"
-msgstr ""
-
-msgid "Otherwise rotate around its center of cube"
-msgstr ""
-
-#, fuzzy
-msgid "Top Color"
-msgstr "Kubens toppfarge"
-
-#, fuzzy
-msgid "Color of top face of the photo wheel"
-msgstr "Farge på toppen av kuben"
-
-#, fuzzy
-msgid "Bottom Color"
-msgstr "Kubens bunnfarge"
-
-#, fuzzy
-msgid "Color of bottom face of the photo wheel"
-msgstr "Farge på bunnen av kuben"
-
-msgid "Backface Culling"
-msgstr ""
-
-#, fuzzy
-msgid "Enable backface culling"
-msgstr "Bruk fokussporing"
-
-msgid "Put Plus"
-msgstr ""
-
-#, fuzzy
-msgid "Put Plus window"
-msgstr "Plasser vindu"
-
-msgid "Put On Viewport"
-msgstr "Plasser på arbeidsområde"
-
-msgid "Move window to a certain viewport"
-msgstr "Flytt vindu til et spesifikt arbeidsområde"
-
-msgid "Bindings"
-msgstr "Hurtigtast"
-
-msgid "Put to arbitrary viewport"
-msgstr "Plasser på tilfeldig arbeidsområde"
-
-msgid "Put On Viewport 1"
-msgstr "Plasser på arbeidsområde 1"
-
-msgid "Move window to viewport 1"
-msgstr "Flytt vindu til arbeidsområde 1"
-
-msgid "Put On Viewport 2"
-msgstr "Plasser på arbeidsområde 2"
-
-msgid "Move window to viewport 2"
-msgstr "Flytt vindu til arbeidsområde 2"
-
-msgid "Put On Viewport 3"
-msgstr "Plasser på arbeidsområde 3"
-
-msgid "Move window to viewport 3"
-msgstr "Flytt vindu til arbeidsområde 3"
-
-msgid "Put On Viewport 4"
-msgstr "Plasser på arbeidsområde 4"
-
-msgid "Move window to viewport 4"
-msgstr "Flytt vindu til arbeidsområde 4"
-
-msgid "Put On Viewport 5"
-msgstr "Plasser på arbeidsområde 5"
-
-msgid "Move window to viewport 5"
-msgstr "Flytt vindu til arbeidsområde 5"
-
-msgid "Put On Viewport 6"
-msgstr "Plasser på arbeidsområde 6"
-
-msgid "Move window to viewport 6"
-msgstr "Flytt vindu til arbeidsområde 6"
-
-msgid "Put On Viewport 7"
-msgstr "Plasser på arbeidsområde 7"
-
-msgid "Move window to viewport 7"
-msgstr "Flytt vindu til arbeidsområde 7"
-
-msgid "Put On Viewport 8"
-msgstr "Plasser på arbeidsområde 8"
-
-msgid "Move window to viewport 8"
-msgstr "Flytt vindu til arbeidsområde 8"
-
-msgid "Put On Viewport 9"
-msgstr "Plasser på arbeidsområde 9"
-
-msgid "Move window to viewport 9"
-msgstr "Flytt vindu til arbeidsområde 9"
-
-msgid "Put On Viewport 10"
-msgstr "Plasser på arbeidsområde 10"
-
-msgid "Move window to viewport 10"
-msgstr "Flytt vindu til arbeidsområde 10"
-
-msgid "Put On Viewport 11"
-msgstr "Plasser på arbeidsområde 11"
-
-msgid "Move window to viewport 11"
-msgstr "Flytt vindu til arbeidsområde 11"
-
-msgid "Put On Viewport 12"
-msgstr "Plasser på arbeidsområde 12"
-
-msgid "Move window to viewport 12"
-msgstr "Flytt vindu til arbeidsområde 12"
-
-msgid "Put to adjacent viewport"
-msgstr "Plasser på arbeidsområdet ved siden av"
-
-msgid "Viewport Left"
-msgstr "Arbeidsområde venstre"
-
-msgid "Move window to the viewport on the left"
-msgstr "Fltt vindu til venstre arbeidsområde"
-
-msgid "Viewport Right"
-msgstr "Arbeidsområde høyre"
-
-msgid "Move window to the viewport on the right"
-msgstr "Flytt vindu til høyre arbeidsområde"
-
-msgid "Viewport Top"
-msgstr "Arbeidsområde øverst"
-
-msgid "Move window to the viewport on the top"
-msgstr "Flytt vindu til øverste arbeidsområde"
-
-msgid "Viewport Bottom"
-msgstr "Arbeidsområde nederst"
-
-msgid "Move window to the viewport on the bottom"
-msgstr "Flytt vindu til nederste arbeidsområde"
-
-msgid "Put within viewport"
-msgstr "Plasser innen arbeidsområde"
-
-msgid "Put Center"
-msgstr "Plasser i midten"
-
-msgid "Move window to the center"
-msgstr "Flytt vindu til midten"
-
-msgid "Put Left"
-msgstr "Plasser venstre"
-
-msgid "Move window to the left edge"
-msgstr "Flytt vindu til venstre kant"
-
-msgid "Put Right"
-msgstr "Plasser høyre"
-
-msgid "Move window to the right edge"
-msgstr "Flytt vindu ti høyre kant"
-
-msgid "Put Top"
-msgstr "Plasser øverst"
-
-msgid "Move window to the top edge"
-msgstr "Flytt vindu til øverste kant"
-
-msgid "Put Bottom"
-msgstr "Plasser bunn"
-
-msgid "Move window to the bottom edge"
-msgstr "Flytt vindu til nederste kant"
-
-msgid "Put Top Left"
-msgstr "Plasser øverst, venstre"
-
-msgid "Move window to the top left corner"
-msgstr "Flytt vindu til øverste venstre hjørne"
-
-msgid "Put Top Right"
-msgstr "Plasser øverst, høyre"
-
-msgid "Move window to the top right corner"
-msgstr "Flytt vindu til øverste høyre hjørne"
-
-msgid "Put Bottom Left"
-msgstr "Plasser bunn, venstre"
-
-msgid "Move window to the bottom left corner"
-msgstr "Flytt vindu til nederste venstre hjørne"
-
-msgid "Put Bottom Right"
-msgstr "Plasser bunn, høyre"
-
-msgid "Move window to the bottom right corner"
-msgstr "Flytt vindu til nederste høyre hjørne"
-
-msgid "Put on empty regions"
-msgstr ""
-
-msgid "Restore Position"
+msgid "Return to position"
 msgstr "Gjenopprett posisjon"
 
-msgid "Move window to the last position"
-msgstr "Flytt vindu til siste posisjon"
+#, fuzzy
+msgid "Off Screen"
+msgstr "Unngå utenfor skjermen"
 
-msgid "Put Pointer"
-msgstr "Plasser musepeker"
+#, fuzzy
+msgid "Dodge the active window"
+msgstr "Aktiver et gitt vindu"
 
-msgid "Move window to the pointer position"
-msgstr "Flytt vindu til musepekers posisjon"
+#, fuzzy
+msgid "Controls whether the active window will be dodged"
+msgstr "Farge på det aktive vinduets dybde"
 
-msgid "Put"
-msgstr "Plasser"
+#, fuzzy
+msgid "Spring K"
+msgstr "K for fjæring for plassdragning"
 
-msgid "Move window arbitrarily by passing x, y and type."
-msgstr "Flytt vinduer tilfeldig ved å sende x, y og type."
+#, fuzzy
+msgid "Spring Stiffness"
+msgstr "Fjæring ved forstørring/forminsking"
 
-msgid "Misc. Options"
-msgstr "Diverse valg"
+#, fuzzy
+msgid "Friction"
+msgstr "Brannretning"
 
 msgid "Padding"
 msgstr "Fyll"
 
-msgid "Pad Left"
-msgstr "Fyll venstre"
-
-msgid "Number of pixels from the left edge where the window will come to rest"
-msgstr "Antall piksler fra venstre kant hvor vinduet vil plasseres"
-
-msgid "Pad Right"
-msgstr "Fyll høyre"
-
-msgid "Number of pixels from the right edge where the window will come to rest"
-msgstr "Antall piksler fra høyre kant hvor vinduet vil plasseres"
-
-msgid "Pad Top"
-msgstr "Fyll toppen"
-
-msgid "Number of pixels from the top edge where the window will come to rest"
-msgstr "Antall piksler fra øverste kant hvor vinduet vil plassere"
-
-msgid "Pad Bottom"
-msgstr "Fyll bunnen"
-
-msgid ""
-"Number of pixels from the bottom edge where the window will come to rest"
-msgstr "Antall piksler fra nederste kant hvor vinduet vil plasseres"
-
-msgid "Unfocus Window"
-msgstr "Avfokuser vindu"
-
-msgid "Unfocus windows that are moved off the viewport"
-msgstr "Avfokuser vinduer som flyttes bort fra arbeidsområdet"
-
-msgid "Window Center"
-msgstr "Sentrer vindu"
-
-msgid "Put pointer uses the center of the window"
-msgstr "Plasser musepeker bruker midten av vinduet"
-
-msgid "Avoid Offscreen"
-msgstr "Unngå utenfor skjermen"
-
-msgid "Avoids putting window borders offscreen"
-msgstr "Unngår å sette vinduskanter utenfor skjermen"
-
-msgid "Animation"
-msgstr "Animasjon"
-
-msgid "Animation speed"
-msgstr "Animasjonshastighet"
-
-msgid "Timestep"
-msgstr "Tidsskritt"
-
-msgid "Animation timestep"
-msgstr "Tidsskritt for animasjon"
+#, fuzzy
+msgid "Padding around windows"
+msgstr "Avgrupper vinduer"
 
 #, fuzzy
-msgid "Screen Saver"
-msgstr "Skjermdybde"
+msgid "Lightning Bolts"
+msgstr "Tilpasning"
+
+msgid "Lightning bolts between your cursor and the nearest window"
+msgstr ""
 
 msgid "Initiate"
 msgstr "Start"
 
-msgid "Start and stop the screensaver"
-msgstr ""
+#, fuzzy
+msgid "Start flash"
+msgstr "Start Plask"
 
 #, fuzzy
-msgid "Screensaver mode"
-msgstr "Skjermkanter"
+msgid "Distance max"
+msgstr "Avstand"
 
 #, fuzzy
-msgid "Screensaver mode."
-msgstr "Skiftermodus."
-
-#, fuzzy
-msgid "Start Automatically"
-msgstr "Automatisk"
-
-#, fuzzy
-msgid "Start Automatically."
-msgstr "Automatisk"
-
-msgid "After (min)"
-msgstr ""
-
-msgid "After (min)."
-msgstr ""
-
-#, fuzzy
-msgid "Fade In duration (sec)"
-msgstr "Varighet for inn-/ut-toning"
-
-#, fuzzy
-msgid "Fade In duration (sec)."
-msgstr "Varighet for inn-/ut-toning i sekunder"
-
-#, fuzzy
-msgid "Fade Out duration (sec)"
-msgstr "Varighet for inn-/ut-toning"
-
-#, fuzzy
-msgid "Fade Out duration (sec)."
-msgstr "Varighet for inn-/ut-toning i sekunder"
-
-#, fuzzy
-msgid "Flying windows"
-msgstr "Ringvinduer"
-
-#, fuzzy
-msgid "ScreenSaver Windows"
-msgstr "Snø over vinduer"
-
-msgid ":)"
-msgstr ""
-
-msgid "Generate mipmaps"
-msgstr "Lag MIP-kart"
-
-#, fuzzy
-msgid "Attraction Depth"
-msgstr "Avstand for kanttiltrekning"
-
-#, fuzzy
-msgid "Attraction Depth."
-msgstr "Avstand for kanttiltrekning"
-
-msgid "Attraction/Repulsion ratio"
-msgstr ""
-
-msgid "Attraction/Repulsion ratio."
-msgstr ""
-
-msgid ""
-"Make windows bounce on the floor, still buggy, but essential with cube "
-"reflexion."
-msgstr ""
-
-#, fuzzy
-msgid "Rotating cube"
-msgstr "Rotasjonsvinkel"
-
-#, fuzzy
-msgid "Cube rotation speed"
-msgstr "Rotasjonshastighet"
-
-msgid "Zoom"
-msgstr "Forstørr/forminsk"
-
-msgid "Smart Put"
-msgstr ""
-
-#, fuzzy
-msgid "Smart way to fit windows."
-msgstr "Metning for vinduer"
-
-msgid "Apply Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current window."
-msgstr ""
-
-msgid "Initiate Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current viewport"
-msgstr ""
-
-msgid "Smart Put!!!"
-msgstr ""
-
-msgid "Undo Smart Put on last \"smartputed\" window"
-msgstr ""
-
-msgid "Undo!!!"
-msgstr ""
-
-msgid "Also use apply-key to undo"
-msgstr ""
-
-msgid "If set, you can also use the same key for undo as you use for applying."
-msgstr ""
-
-msgid "Options"
-msgstr "Valg"
-
-#, fuzzy
-msgid "Allow stack windows"
-msgstr "Alle vinduer"
-
-msgid "Stack windows on each other if there is no place left to place them."
-msgstr ""
-
-#, fuzzy
-msgid "Allow windows shrink"
-msgstr "Alle vinduer"
-
-msgid "Just place the window when the new size is larger than the old one."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window height"
-msgstr "Tegn vindusfremheving"
-
-msgid "Minimal height that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window width"
-msgstr "Maks vindusstørrelse"
-
-msgid "Minimal width that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Window margin"
-msgstr "Vindustreff"
-
-#, fuzzy
-msgid "The distance between windows."
+msgid "Distance max between pointer and active window."
 msgstr "Avstand mellom skrivebordsområder"
 
-msgid "Snow for Compiz"
-msgstr "Snø for Compiz"
+msgid "Digression max"
+msgstr ""
+
+msgid "Digression max between pointer's projection and lightning's impact."
+msgstr ""
+
+msgid "Minimum interval between two lightning"
+msgstr ""
+
+msgid "Interval in milliseconde between two lightning"
+msgstr ""
+
+msgid "Time of lightnings"
+msgstr ""
+
+msgid "Time in milliseconds of lightnings"
+msgstr ""
+
+msgid "Side of lightnings color"
+msgstr ""
+
+msgid "Middle of lightnings color"
+msgstr ""
+
+msgid "The other side of lightnings color"
+msgstr ""
+
+#, fuzzy
+msgid "The window types that lightning bolts will hit"
+msgstr "Vinduene som vil bli animert."
+
+#, fuzzy
+msgid "HeadTracking"
+msgstr "Fokussporing"
 
 msgid ""
-"How far outside the screen resolution snow flakes can be before being "
-"removed. Needed because of FOV."
-msgstr ""
-"Hvor langt utenfor skjermoppløsningen snøfnuggene kan være før de fjerne. "
-"Trengs pga. synsfelt."
-
-msgid "Snow Over Windows"
-msgstr "Snø over vinduer"
-
-msgid "Snow is drawn above windows"
-msgstr "Snø tegnes over vinduer"
-
-msgid "Rotate Flakes"
-msgstr "Roter snøfnugg"
-
-msgid "Flakes rotate if checked."
-msgstr "Snøfnugg roterer hvis avkrysset"
-
-msgid "Enable snow by default."
+"Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
 msgstr ""
 
-msgid "Enables alpha blending of snowflakes."
-msgstr "Slår på alfa-blanding av snøfnugg."
-
-msgid "Enables textured snowflakes. If not selected, color gradients are used."
-msgstr "Slår på tekstur-snøfnugg. Hvis ikke valgt blir fargeoverganger brukt."
-
-msgid "Snow Toggle"
-msgstr "Slå av/på snø"
-
-msgid "Snow toggle key"
-msgstr "Tast for å slå av/på snø"
-
 #, fuzzy
-msgid "Maximum number of snowflakes."
-msgstr "Antall snøfnugg"
-
-#, fuzzy
-msgid "Size of snowflakes."
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Size of snowman"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Size of snowman inside the cube."
-msgstr "Antall fisk inne i kuben"
-
-#, fuzzy
-msgid "Stack Window Switcher"
-msgstr "Ringskifter"
-
-msgid "Key bindings"
+msgid "Keybindings"
 msgstr "Snarveier"
 
-msgid "Next Window"
-msgstr "Neste vindu"
+#, fuzzy
+msgid "Move Window Closer"
+msgstr "Flytt vindu til arbeidsområde 1"
 
-msgid "Show switcher if not visible and select next window."
-msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
-
-msgid "Previous Window"
-msgstr "Forrige vindu"
-
-msgid "Show switcher if not visible and select previous window."
-msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
-
-msgid "Next Window (All Workspaces)"
-msgstr "Neste vindu (alle arbeidsområder)"
-
-msgid "Show switcher if not visible and select next window out of all windows."
-msgstr "Vis skifteren hvis ikke synlig, og velg neste vindu av alle vinduer."
-
-msgid "Previous Window (All Workspaces)"
-msgstr "Forrige vindu (alle arbeidsområder)"
-
-msgid ""
-"Show switcher if not visible and select previous window out of all windows."
-msgstr "Vis skifter hvis ikke synlig, og velg forrige vindu av alle vinduer."
-
-msgid "Next Window (Group)"
-msgstr "Neste vindu (gruppe)"
-
-msgid ""
-"Show switcher if not visible and select next window of the current "
-"application."
+msgid "Manually move a window closer. Z-depth is ignored"
 msgstr ""
-"Vis skifteren hvis den ikke er synlig, og velg neste vindu av nåværende "
-"program."
-
-msgid "Previous Window (Group)"
-msgstr "Forrige vindu (gruppe)"
-
-msgid ""
-"Show switcher if not visible and select previous window of the current "
-"application."
-msgstr ""
-"Vis skifteren hvis den ikke er synlig, og velg forrige vindu av nåværende "
-"program."
-
-msgid "Behavior"
-msgstr "Oppførsel"
-
-msgid "Inactive Window Opacity"
-msgstr "Dekkevne for inaktivt vindu"
 
 #, fuzzy
-msgid ""
-"Amount of opacity (in percent) for windows in the switcher which are not "
-"selected"
-msgstr "Dekkevne (i prosent) for vinduer i i ringen, som ikke er valgt"
+msgid "Move Window Away"
+msgstr "Flytt vindu til x, y"
+
+msgid "Manually move a window further out. Z-depth is ignored"
+msgstr ""
 
 #, fuzzy
-msgid "Rotate inactive windows"
+msgid "Reset Window Depth"
+msgstr "Vindusdybde"
+
+#, fuzzy
+msgid "Reset the window's depth so it uses Z level"
+msgstr "Tilpass vinduet til forstørrelsesnivået"
+
+#, fuzzy
+msgid "Debugging"
+msgstr "Feilsøk"
+
+#, fuzzy
+msgid "Enable debugging keys"
+msgstr "Slå på blanding"
+
+msgid "Enable the debugging key combinations"
+msgstr ""
+
+msgid "Camera up"
+msgstr ""
+
+msgid "Manually move camera up"
+msgstr ""
+
+#, fuzzy
+msgid "Camera down"
+msgstr "Flytt ned"
+
+msgid "Manually move camera down"
+msgstr ""
+
+msgid "Camera left"
+msgstr ""
+
+msgid "Manually move camera left"
+msgstr ""
+
+#, fuzzy
+msgid "Camera right"
+msgstr "Bytt fane høyre"
+
+#, fuzzy
+msgid "Manually move camera right"
+msgstr "Panorer (flytt) det forstørrede området til høyre"
+
+msgid "Camera in"
+msgstr ""
+
+msgid "Manually move camera closer to screen"
+msgstr ""
+
+msgid "Camera out"
+msgstr ""
+
+msgid "Manually move camera away from screen"
+msgstr ""
+
+msgid "Camera reset"
+msgstr ""
+
+msgid "Reset camera to default head position"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle mouse tracking"
+msgstr "Skru av/på skjermfiltrering"
+
+#, fuzzy
+msgid "Toggle mouse tracking on and off"
+msgstr "Slå av/på bevegelsesslør-effekt"
+
+msgid "Window depth"
+msgstr "Vindusdybde"
+
+msgid "How far apart windows are when stacked based on Z level"
+msgstr ""
+
+#, fuzzy
+msgid "Stack Padding"
+msgstr "Fyll"
+
+msgid "Make your windows pop out this far from the screen. 100 is cube size"
+msgstr ""
+
+#, fuzzy
+msgid "Enable WII Tracking"
+msgstr "Bruk fokussporing"
+
+msgid ""
+"Enable tracking using JCL's algorithm. You must have wiimote enabled to use "
+"this."
+msgstr ""
+
+#, fuzzy
+msgid "Enable Webcam Tracking"
+msgstr "Bruk fokussporing"
+
+msgid ""
+"Enable tracking using JCL's algorithm. You must have webcam enabled to use "
+"this."
+msgstr ""
+
+msgid "Fade Time"
+msgstr "Uttoningstid"
+
+msgid "Length of animation for 3d window stacking z-order changes"
+msgstr ""
+
+#, fuzzy
+msgid "Calibration"
+msgstr "Klikkvarighet"
+
+msgid "WiiMote or Cam Above Screen"
+msgstr ""
+
+msgid "Enable this if your Wiimote or your Webcam is above your screen."
+msgstr ""
+
+#, fuzzy
+msgid "Height adjustment"
+msgstr "Høydeverdier"
+
+msgid "Use this to adjust the head height"
+msgstr ""
+
+#, fuzzy
+msgid "Sensor Bar Width"
+msgstr "Kantbredde"
+
+msgid "Use this to adjust your distance from the screen"
+msgstr ""
+
+msgid "Wiimote or Cam Vertical Angle"
+msgstr ""
+
+msgid "Angle of wiimote or webcam in radians * 100"
+msgstr ""
+
+msgid "Webcam"
+msgstr ""
+
+msgid "Avoid jumpings and trembling"
+msgstr ""
+
+msgid "Use this if the windows are unstable when you don't move your head"
+msgstr ""
+
+#, fuzzy
+msgid "Smoothen the movements"
+msgstr "Bevegelse for forstørrelsesområde"
+
+msgid "Use this if the windows are jumping brutally"
+msgstr ""
+
+#, fuzzy
+msgid "Camera move increment"
+msgstr "Utløs nedskalering"
+
+msgid "How far to move the camera on one key press"
+msgstr ""
+
+msgid "Mouse Screen Percentage"
+msgstr ""
+
+msgid "How much of the screen represents the actual screen. 100 is \"exact\""
+msgstr ""
+
+#, fuzzy
+msgid "Lazy Pointer"
+msgstr "Plasser musepeker"
+
+#, fuzzy
+msgid "Warp the pointer around the screen on window events"
+msgstr "Plasser musepeker bruker midten av vinduet"
+
+#, fuzzy
+msgid "Center Mouse on Focussed Window"
+msgstr "Skarphetsnivå for fokuserte vinduer"
+
+msgid "Center the mouse in the middle of a window when it is focussed"
+msgstr ""
+
+#, fuzzy
+msgid "Center Mouse on Activated Window"
+msgstr "Aktiver vindu"
+
+msgid "Center the mouse in the middle of a window when it is activated"
+msgstr ""
+
+msgid "Center Mouse on Placed Window"
+msgstr ""
+
+msgid "Center the mouse in the middle of a window when it is placed"
+msgstr ""
+
+#, fuzzy
+msgid "Cursor Movement speed"
+msgstr "Hastighet for vindusbevegelse"
+
+msgid "How fast the cursor should move when animated"
+msgstr ""
+
+#, fuzzy
+msgid "Center the mouse in a window"
+msgstr "Sentrer musen"
+
+#, fuzzy
+msgid "Center the mouse in the activated window"
 msgstr "Aktiver et gitt vindu"
 
 #, fuzzy
-msgid "Should not selected windows be rotated"
-msgstr "Skal være vindustittelen fet."
+msgid "Center the mouse in a screen"
+msgstr "Sentrert på skjermen"
+
+msgid "Center the mouse in the activated screen"
+msgstr ""
 
 #, fuzzy
-msgid "Windows"
-msgstr "3D-vinduer"
+msgid "Move pointer left"
+msgstr "Flytt til venstre"
+
+msgid "Move the pointer left by specified amount"
+msgstr ""
 
 #, fuzzy
-msgid "Windows that should be shown in the switcher"
-msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+msgid "Move pointer right"
+msgstr "Flytt til høyre"
 
-msgid "Darken Background"
-msgstr "Gjør bakgrunn mørkere"
-
-#, fuzzy
-msgid "Darken background when showing the stack"
-msgstr "Gjør bakgrunnen mørkere når ringen vises"
-
-msgid "Show Minimized"
-msgstr "Vis minimerte"
-
-msgid "Show windows that are minimized, shaded or in show desktop mode."
-msgstr "Viser vinduer som er minimert, rullet opp eller i vis-skrivebord-modus"
-
-msgid "Tilt"
-msgstr "Skråstill"
+msgid "Move the pointer right by specified amount"
+msgstr ""
 
 #, fuzzy
-msgid "Tilt angle of the background."
-msgstr "Farge 1 av fargeoverganen i bakgrunnen"
-
-msgid "Window title display"
-msgstr "Vindustittelvisning"
-
-msgid "Show Window Title"
-msgstr "Vis vindustittel"
-
-msgid "Show window title of currently selected window."
-msgstr "Vis vindustittel av valgte vindu."
-
-msgid "Bold Font"
-msgstr "Fet skrift"
-
-msgid "Selects if the window title should be displayed in bold font or not."
-msgstr "Velg om vindustittelen skal bli vist i fet skrift eller ikke."
+msgid "Move pointer up"
+msgstr "Flytt langs veggen oppover"
 
 #, fuzzy
-msgid "Font Family"
-msgstr "Skriftstørrelse"
+msgid "Move the pointer up by specified amount"
+msgstr "Flytt vindu til musepekers posisjon"
 
 #, fuzzy
-msgid "Font family for the window title"
-msgstr "Skriftstørrelse for vindustittelen"
+msgid "Move pointer down"
+msgstr "Flytt ned"
+
+#, fuzzy
+msgid "Move the pointer down by specified amount"
+msgstr "Flytt vindu til musepekers posisjon"
+
+msgid "Maze"
+msgstr ""
+
+#, fuzzy
+msgid "Render a maze inside of the transparent cube"
+msgstr "Gjengir noen fisk på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+msgid "Max Speed"
+msgstr "Løvspredning"
+
+msgid "Maximum velocity the ball is allowed to travel at."
+msgstr ""
+
+#, fuzzy
+msgid "Scale"
+msgstr "Skaler-tillegg"
+
+#, fuzzy
+msgid "Scale the maze size up or down."
+msgstr "Skaler musepekeren"
+
+msgid "Height"
+msgstr "Høyde"
+
+#, fuzzy
+msgid "Where to place the maze within the cube"
+msgstr "Velger hvor vindustittelen plasseres."
+
+#, fuzzy
+msgid "Top Colour"
+msgstr "Kubens toppfarge"
+
+msgid "Colour to display on top"
+msgstr ""
+
+#, fuzzy
+msgid "Bottom Colour"
+msgstr "Kubens bunnfarge"
+
+#, fuzzy
+msgid "Colour to display on the bottom"
+msgstr "Flytt vindu til nederste arbeidsområde"
+
+#, fuzzy
+msgid "North Face Colour"
+msgstr "Brannpartikkels farge"
+
+msgid "Colour to display on the north face"
+msgstr ""
+
+#, fuzzy
+msgid "East Face Colour"
+msgstr "Basisfarge"
+
+msgid "Colour to display on the east face wall"
+msgstr ""
+
+#, fuzzy
+msgid "South Face Colour"
+msgstr "Skyggefarge"
+
+msgid "Colour to display on the south face wall"
+msgstr ""
+
+#, fuzzy
+msgid "West Face Colour"
+msgstr "Brannpartikkels farge"
+
+msgid "Colour to display on the west face wall"
+msgstr ""
+
+#, fuzzy
+msgid "First Ball Colour"
+msgstr "Brannpartikkels farge"
+
+#, fuzzy
+msgid "First colour to draw the ball in"
+msgstr "Første farge til pilen i byttevinduet."
+
+#, fuzzy
+msgid "Second Ball Colour"
+msgstr "Fargeovergang, farge 1"
+
+#, fuzzy
+msgid "Second colour to draw the ball in"
+msgstr "Andre farge for pilen i byttevinduet."
+
+#, fuzzy
+msgid "Border Colour"
+msgstr "Kantfarge"
+
+msgid "Colour to draw the surrounding border in"
+msgstr ""
+
+msgid "Mousegestures"
+msgstr "Musegester"
+
+msgid "Assign mousegestures to any existing action"
+msgstr "Tilegn musebevegelser til enhver eksisterende hendelse"
+
+msgid "Bindings"
+msgstr "Hurtigtast"
+
+#, fuzzy
+msgid "Start gesture"
+msgstr "Snøteksturer"
+
+msgid "Gestures"
+msgstr "Gester"
+
+msgid "Detect Diagonal Movements"
+msgstr "Gjenkjenn diagonale bevegelser"
+
+msgid ""
+"If this option is selected, diagonal movements are detected, which may lead "
+"to a decreased detection accuracy."
+msgstr ""
+"Hvis dette valget velges, vil diagonale bevegelser gjenkjennes, noe som kan "
+"føre til nedsatt gjenkjennelses-nøyaktighet."
+
+msgid "Gesture assignment"
+msgstr "Tilegning av gester"
+
+msgid "Gesture"
+msgstr "Gest"
+
+msgid "Mouse gesture to assign an action to."
+msgstr "Musebevegelser å tilegne en hendelse til."
+
+msgid "Plugin"
+msgstr "Tillegg"
+
+msgid "Plugin the action belongs to."
+msgstr "Tillegget som hendelsen tilhører."
+
+msgid "Action"
+msgstr "Hendelse"
+
+msgid "Action that is to be invoked."
+msgstr "Hendelse som skal utføres."
+
+msgid "Newton"
+msgstr ""
+
+msgid ""
+"Creates iconified windows that can be selected to select the main window and "
+"are affected by physics."
+msgstr ""
+
+#, fuzzy
+msgid "Trigger Physics on the window"
+msgstr "Utløs nedskalering"
+
+msgid "Toggle physics on the selected window."
+msgstr ""
+
+#, fuzzy
+msgid "Trigger rotation on the window"
+msgstr "Metning for utvalgte vinduer"
+
+#, fuzzy
+msgid "Toggle rotation on the selected window."
+msgstr "Metning for utvalgte vinduer"
+
+msgid "Invert mouse attraction/repulsion"
+msgstr ""
+
+msgid "Inverts mouse attraction or repulsion."
+msgstr ""
+
+#, fuzzy
+msgid "Detach the window"
+msgstr "Filtrerte vinduer"
+
+#, fuzzy
+msgid "Detaches the window from the desktop."
+msgstr "Skru av/på filtrering for alle vinduer på skjermen."
+
+#, fuzzy
+msgid "Attach the window"
+msgstr "Filtrerte vinduer"
+
+#, fuzzy
+msgid "Attaches the window to the desktop."
+msgstr "Skru av/på filtrering for alle vinduer på skjermen."
+
+msgid "Bounce elasticity"
+msgstr ""
+
+msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
+msgstr ""
+
+#, fuzzy
+msgid "Fluid friction"
+msgstr "Friksjon for plassdragning"
+
+msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
+msgstr ""
+
+msgid "Gravity"
+msgstr ""
+
+msgid "Constant force."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction"
+msgstr "Kanttiltrekning"
+
+#, fuzzy
+msgid "Attracts/repels the windows to the mouse."
+msgstr "Tilpass vinduet til forstørrelsesnivået"
+
+msgid "Attract by default"
+msgstr ""
+
+msgid ""
+"Attracts the windows to the mouse when the invert action key is not pressed."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction strength"
+msgstr "Styrke for Bevegelsesslør"
+
+#, fuzzy
+msgid "Strength of the attraction/repulsion force."
+msgstr "Deformeringens styrke i kurvemodus"
+
+#, fuzzy
+msgid "Stop Hovered windows"
+msgstr "Filtrerte vinduer"
+
+#, fuzzy
+msgid "Stops the windows under the pointer."
+msgstr "Flytt vindu til midten"
+
+msgid "Peek"
+msgstr ""
+
+#, fuzzy
+msgid "Show the window you are hovering hover in the taskbar"
+msgstr "Størrelsen på vindutittelens skrifttype i fanelinjen"
+
+msgid "Misc. Options"
+msgstr "Diverse valg"
+
+#, fuzzy
+msgid "Delay until Peeking"
+msgstr "Forsink til Dekning"
+
+#, fuzzy
+msgid "The delay (in ms) before Peek reveals the window you are hovering"
+msgstr ""
+"Forsinkelsen (i ms) før Dekk endrer dekkevne etter at det aktive vinduet har "
+"blitt endret."
+
+msgid "Window Match"
+msgstr "Samsvar mellom vinduer"
+
+#, fuzzy
+msgid "Windows that should become transparent"
+msgstr "Vinduer som skal bli Dekk-et"
+
+msgid "Opacity Levels"
+msgstr "Dekkevnenivåer"
+
+msgid "Active Opacity"
+msgstr "Aktiv dekkevne"
+
+msgid ""
+"The minimum opacity percentage to ensure a targeted window has. A target "
+"window will have either this opacity or the preset opacity, whichever is "
+"higher."
+msgstr ""
+"Minimum prosentandel dekkevne et siktet vindu har. Et målvindu vil enten ha "
+"denne dekkevnen eller den forhåndsinnstilte, etter hvilken som er høyest."
+
+msgid "Passive Opacity"
+msgstr "Passiv dekkevne"
+
+msgid ""
+"The maximum opacity percentage a window blocking the current targeted window "
+"can have. A blocking window will have either this opacity or the preset "
+"opacity, whichever is lower."
+msgstr ""
+"Maksimum prosentandel dekkevne et vindu som blokkerer det nåværende siktede "
+"vinduet kan ha. Et blokkerende vindu vil enten ha denne dekkevnen eller den "
+"forhåndsinnstilte, etter hvilken som er lavest."
+
+#, fuzzy
+msgid "Taskbar only shows windows of current viewport"
+msgstr "Oppgavelinje viser bare vinduer fra nåværende arbeidsområde"
+
+#, fuzzy
+msgid "Only dim the windows that the taskbar shows as on the current viewport"
+msgstr ""
+"Sett dette hvis oppgavelinjen kun viser vinduer fra nåværende arbeidsområde."
+
+msgid "Prompt"
+msgstr ""
+
+msgid "Compiz interface for the prompting the user."
+msgstr ""
+
+#, fuzzy
+msgid "Notification"
+msgstr "Feilmeldinger"
+
+msgid "Font Color"
+msgstr "Skriftfarge"
+
+msgid "Font color for the window title"
+msgstr "Skriftfarge for vindustittelen"
 
 msgid "Font Size"
 msgstr "Skriftstørrelse"
@@ -2238,1013 +922,2348 @@ msgstr "Bakgrunnsfarge"
 msgid "Background color for the window title"
 msgstr "Bakgrunnsfarge for vindustittelen"
 
-msgid "Font Color"
-msgstr "Skriftfarge"
-
-msgid "Font color for the window title"
-msgstr "Skriftfarge for vindustittelen"
-
-msgid "Text Placement"
-msgstr "Tekstplassering"
-
-msgid "Selects where to place the window title."
-msgstr "Velger hvor vindustittelen plasseres."
-
-#, fuzzy
-msgid "On Thumbnail"
-msgstr "Miniatyrbredde"
-
-msgid "Centered on screen"
-msgstr "Sentrert på skjermen"
-
-msgid "Above"
-msgstr "Over"
-
-msgid "Below"
-msgstr "Under"
-
-#, fuzzy
-msgid "Stars for Compiz"
-msgstr "Snø for Compiz"
-
-#, fuzzy
-msgid "Number Of Stars"
-msgstr "Antall partikler"
-
-#, fuzzy
-msgid "Maximum number of stars"
-msgstr "Maksimalt antall aktiver partikler"
-
-#, fuzzy
-msgid "Size Of Stars"
-msgstr "Snøfnuggenes størrelse"
-
-#, fuzzy
-msgid "Speed of traveling stars"
-msgstr "Hastighet for fallende snø"
-
-#, fuzzy
-msgid ""
-"How far outside the screen resolution stars can be before being removed. "
-"Needed because of FOV."
+msgid "Rubik's Cube"
 msgstr ""
-"Hvor langt utenfor skjermoppløsningen snøfnuggene kan være før de fjerne. "
-"Trengs pga. synsfelt."
+
+msgid "Turn cube into a Rubik's cube"
+msgstr ""
 
 #, fuzzy
-msgid "How deep into the screen stars can be drawn before being removed"
-msgstr "Hvor dypt inne i skjermen snøfnugg kan tegnes før de blir fjernet"
+msgid "Toggle Rubik's cube"
+msgstr "Skru av/på fullskjerm"
+
+msgid "Start/stop Rubik's cube effect."
+msgstr ""
 
 #, fuzzy
-msgid "Stars Over Windows"
-msgstr "Snø over vinduer"
+msgid "Speed factor"
+msgstr "Forstørrelsesfaktor"
+
+msgid "Multiply the speed of rotations by this factor."
+msgstr ""
 
 #, fuzzy
-msgid "Stars are drawn above windows"
-msgstr "Snø tegnes over vinduer"
+msgid "Rubik Size"
+msgstr "Miniatyrstørrelse"
 
 #, fuzzy
-msgid "Rotate Flakes. Redundant"
+msgid "Number of horizontal/vertical strips."
+msgstr "Antall horisontale bretter"
+
+#, fuzzy
+msgid "Rotate around all axes"
 msgstr "Roter snøfnugg"
 
-#, fuzzy
-msgid "Snow Direction. Redundant"
-msgstr "Snøretning"
+msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
+msgstr ""
 
-#, fuzzy
-msgid "Stars Textures"
-msgstr "Snøteksturer"
-
-msgid "Images to use as 'stars'"
+msgid "On manual rotate"
 msgstr ""
 
 #, fuzzy
-msgid "Enables textures snowflakes. If not selected, color gradients are used."
-msgstr "Slår på tekstur-snøfnugg. Hvis ikke valgt blir fargeoverganger brukt."
+msgid "Enable effect only on cube rotate."
+msgstr "Autoforstørr/forminsk kun ved muserotering"
 
 #, fuzzy
-msgid "Stars Toggle"
-msgstr "Slå av/på snø"
+msgid "Rotate desktop"
+msgstr "Flytt venstre"
 
-#, fuzzy
-msgid "Stars toggle key"
-msgstr "Tast for å slå av/på snø"
-
-#, fuzzy
-msgid "Static Windows"
-msgstr "Klistrede vinduer"
-
-msgid "Keep windows such as dock or panels static"
+msgid "Rotate desktop as well as windows."
 msgstr ""
 
-msgid "Window Match"
-msgstr "Samsvar mellom vinduer"
+#, fuzzy
+msgid "Colored Sides"
+msgstr "Skarphet"
+
+msgid "Replace wallpaper with colored sides."
+msgstr ""
 
 #, fuzzy
-msgid "Windows that should be kept static during transformations."
-msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+msgid "Enable Depth Test"
+msgstr "Slå på teksturer"
 
 #, fuzzy
-msgid "Swap Windows"
-msgstr "Smekkende vinduer"
+msgid "Hide windows that are behind other windows."
+msgstr "Avfokuser vinduer som flyttes bort fra arbeidsområdet"
 
 #, fuzzy
-msgid "Next window"
-msgstr "Neste vindu"
+msgid "Desktop caps"
+msgstr "Skrivebordsvegg"
+
+msgid "Display a desktop for each cap."
+msgstr ""
+
+msgid "Visual Event"
+msgstr ""
+
+msgid "Display information when various input events are raised"
+msgstr ""
 
 #, fuzzy
-msgid "Popup switcher if not visible and select next window"
-msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
+msgid "Behaviour"
+msgstr "Oppførsel"
 
-#, fuzzy
-msgid "Prev window"
-msgstr "Forrige vindu"
-
-#, fuzzy
-msgid "Popup switcher if not visible and select previous window"
-msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
-
-#, fuzzy
-msgid "Next window (All windows)"
-msgstr "Neste vindu (alle arbeidsområder)"
-
-#, fuzzy
-msgid "Popup switcher if not visible and select next window out of all windows"
-msgstr "Vis skifteren hvis ikke synlig, og velg neste vindu av alle vinduer."
-
-#, fuzzy
-msgid "Prev window (All windows)"
-msgstr "Forrige vindu (alle arbeidsområder)"
+msgid "Key/Button Release Timeout"
+msgstr ""
 
 #, fuzzy
 msgid ""
-"Popup switcher if not visible and select previous window out of all windows"
-msgstr "Vis skifter hvis ikke synlig, og velg forrige vindu av alle vinduer."
-
-#, fuzzy
-msgid "Next window (Group)"
-msgstr "Neste vindu (gruppe)"
-
-#, fuzzy
-msgid ""
-"Popup switcher if not visible and select next window of the current "
-"application."
+"Duration (in s) a key or button should remain visually pressed after being "
+"released."
 msgstr ""
-"Vis skifteren hvis den ikke er synlig, og velg neste vindu av nåværende "
-"program."
+"Varighet (i sek) forhåndsvisningen av byttemålet skal fortsette å være "
+"synlig etter bytting er ferdig."
+
+msgid "Key bindings"
+msgstr "Snarveier"
 
 #, fuzzy
-msgid "Prev window (Group)"
-msgstr "Forrige vindu (gruppe)"
+msgid "Toggle display"
+msgstr "Skru av/på miniprogram-visning"
 
 #, fuzzy
-msgid ""
-"Popup switcher if not visible and select previous window of the current "
-"application."
-msgstr ""
-"Vis skifteren hvis den ikke er synlig, og velg forrige vindu av nåværende "
-"program."
-
-#, fuzzy
-msgid "Next window (No popup)"
-msgstr "Neste vindu (gruppe)"
-
-msgid "Select next window without showing the popup window."
-msgstr ""
-
-#, fuzzy
-msgid "Prev window (No popup)"
-msgstr "Forrige vindu (gruppe)"
-
-msgid "Select previous window without showing the popup window."
-msgstr ""
-
-msgid "Next Panel"
-msgstr ""
-
-#, fuzzy
-msgid "Select next panel type window."
-msgstr "Velger hvor vindustittelen plasseres."
-
-msgid "Prev Panel"
-msgstr ""
-
-#, fuzzy
-msgid "Select previous panel type window."
-msgstr "Velger hvor vindustittelen plasseres."
-
-#, fuzzy
-msgid "Switcher speed"
-msgstr "Skiftermodus"
-
-#, fuzzy
-msgid "Switcher timestep"
-msgstr "Tidsskritt for Bytt"
-
-#, fuzzy
-msgid "Switcher windows"
-msgstr "Filtrerte vinduer"
-
-#, fuzzy
-msgid "Windows that should be shown in switcher"
-msgstr "Vinduer som skal bli vist i Bytt-skifteren"
-
-msgid "Show minimized windows"
-msgstr "Vis minimerte vinduer"
-
-#, fuzzy
-msgid "Auto Change Viewport"
-msgstr "Plasser på arbeidsområde"
-
-msgid "Change to the viewport of the selected window while switching"
-msgstr ""
-
-#, fuzzy
-msgid "Popup Window Delay"
-msgstr "Vinduer som skal grupperes"
-
-msgid "Time (in s) the popup window should be delayed before appearing"
-msgstr ""
+msgid "Toggle display."
+msgstr "Skru av/på miniprogram-visning"
 
 msgid "Appearance"
 msgstr "Utseende"
 
 #, fuzzy
-msgid "Amount of saturation in percent"
-msgstr "Ikke vis program i oversikt"
+msgid "Mouse border Color"
+msgstr "Fanekantens farge"
 
 #, fuzzy
-msgid "Amount of brightness in percent"
-msgstr "Bakgrunnens skarphet ved maling"
-
-msgid "Amount of opacity in percent"
-msgstr ""
+msgid "Color of the border of the mouse"
+msgstr "Farge på toppen av kuben"
 
 #, fuzzy
-msgid "Icon"
-msgstr "Inn"
+msgid "Mouse body Color"
+msgstr "Basisfarge"
 
 #, fuzzy
-msgid "Show icon next to thumbnail"
-msgstr "Vis vindustittel i miniatyr."
+msgid "Color of the body of the mouse"
+msgstr "Farge på toppen av kuben"
 
 #, fuzzy
-msgid "Mipmap"
-msgstr "MIP-kart"
+msgid "Left button Color"
+msgstr "Kubens bunnfarge"
 
 #, fuzzy
-msgid "Generate mipmaps when possible for higher quality scaling"
-msgstr "Lag MIP-kart når det er mulig for skalering med høyere kvalitet"
-
-msgid "Row Alignment"
-msgstr ""
-
-msgid "Alignment for rows that are not fully filled"
-msgstr ""
+msgid "Color of the left button"
+msgstr "Farge på bakken (nært)."
 
 #, fuzzy
-msgid "Centered"
-msgstr "Plasser i midten"
+msgid "Middle button Color"
+msgstr "Skriftfarge for vindustittel."
 
 #, fuzzy
-msgid "Selected Window Highlight"
-msgstr "Fremhev vindu"
+msgid "Color of the middle button"
+msgstr "Farge på bakken (nært)."
 
 #, fuzzy
-msgid "Highlight Mode"
+msgid "Right button Color"
 msgstr "Farge for fremheving"
 
 #, fuzzy
-msgid "Mode for highlighting the currently selected window"
-msgstr "Farge brukt for å fremheve det svevende vinduet"
-
-msgid "Bring Selected To Front"
-msgstr ""
+msgid "Color of the right button"
+msgstr "Farge på bakken (nært)."
 
 #, fuzzy
-msgid "Show Rectangle"
-msgstr "Rektangulær"
-
-#, fuzzy
-msgid "Minimized Window Highlight Rectangle"
-msgstr "Fremhev vindu"
-
-msgid "Where to draw highlight rectangle for minimized windows"
-msgstr ""
-
-#, fuzzy
-msgid "Taskbar Entry"
-msgstr "Oppgavelinje"
-
-msgid "Original Window Position"
-msgstr ""
-
-msgid "Highlight Color"
-msgstr "Farge for fremheving"
-
-#, fuzzy
-msgid "Color of highlight rectangle"
-msgstr "Fyllfarge for utvalgsrektangelet"
-
-#, fuzzy
-msgid "Highlight Border Color"
-msgstr "Farge for fremheving"
-
-msgid "Color of highlight rectangle border"
-msgstr ""
-
-#, fuzzy
-msgid "Highlight Border Inlay Color"
-msgstr "Farge for fremheving"
-
-msgid "Color of inlay in highlight rectangle border"
-msgstr ""
-
-#, fuzzy
-msgid "Throw Windows"
-msgstr "Grupper vinduer"
-
-msgid "Windows have a velocity once they are released after moving"
-msgstr ""
-
-#, fuzzy
-msgid "X Velocity Multiplier"
-msgstr "Bølgeamplitude"
-
-#, fuzzy
-msgid "X Velocity Multipler"
-msgstr "Bølgeamplitude"
-
-#, fuzzy
-msgid "Y Velocity Multiplier"
-msgstr "Bølgeamplitude"
-
-#, fuzzy
-msgid "Y Velocity Multipler"
-msgstr "Bølgeamplitude"
-
-#, fuzzy
-msgid "Friction constant"
-msgstr "Konstanthastighet for brann"
-
-msgid "How much friction the screen provides"
-msgstr ""
-
-msgid "Constrain X"
-msgstr ""
-
-#, fuzzy
-msgid "Constrain window in display width"
-msgstr "Skriftstørrelse for visning av vindustittel"
-
-msgid "Constrain Y"
-msgstr ""
-
-#, fuzzy
-msgid "Constrain window in display height"
-msgstr "Skriftstørrelse for visning av vindustittel"
-
-msgid "Tile"
-msgstr "Flislegg"
-
-msgid "Tile windows"
-msgstr "Flislegg vinduer"
-
-msgid "Tiling Animation Type"
-msgstr "Animasjonstype for flislegging"
-
-msgid "Selects the animation used while tiling"
-msgstr "Velger animasjonen som brukes ved flislegging"
-
-msgid "Filled Outline"
-msgstr "Fylt omriss"
-
-msgid "Slide"
-msgstr "Gli"
-
-msgid "Drop From Top"
-msgstr "Slipp fra toppen"
-
-msgid "Animation Duration"
-msgstr "Animasjonsvarighet"
-
-msgid "Duration (in ms) of the tiling animation"
-msgstr "Varighet (i ms) for flisleggingsanimasjonen"
-
-msgid "Tiling Method For Toggle"
-msgstr "Flisleggingsmetode for slå av/på"
-
-msgid "Choose the tiling type you want when using toggle."
-msgstr "Velg flisleggingstypen du vil bruke når du slår av/på."
-
-msgid "Tile Vertically"
-msgstr "Flislegg vertikalt"
-
-msgid "Tile Horizontally"
-msgstr "Flislegg horisontalt"
-
-msgid "Cascade"
-msgstr "Tett-i-tett"
-
-msgid "Join Windows (EXPERIMENTAL)"
-msgstr "Slå sammen vinduer (EKSPERIMENTELT)"
-
-msgid ""
-"Tries to join the windows together when horizontal, vertical or left tiling "
-"is enabled so that when you resize a window surrounding windows resize "
-"accordingly. This may cause problems if you dont leave them enough space."
-msgstr ""
-"Forsøker å slå vinduer sammen når horisontal, vertikal eller venstre "
-"flislegging brukes, slik at når du endrer størrelse på et vindu endres "
-"omkringliggende vinduer i tråd med dette. Dette kan forårsake problemer hvis "
-"du ikke gir dem nok plass."
-
-msgid "Cascade Delta"
-msgstr "Mellomrom for tett-i-tett"
-
-msgid "Distance between windows when using cascade"
-msgstr "Avstand mellom vinduer ved tett-i-tett"
-
-msgid "Left Occupancy"
-msgstr "Venstre oppdekning"
-
-msgid ""
-"Occupancy percentage for window placed left. This number is percentage of "
-"screen width, which the active window will have it as width when tiled. "
-"Applies to Left tiling type."
-msgstr ""
-"Prosentandel for oppdekning for vinduer plassert til venstre. Dette tallet "
-"er prosentandel av skjermbredde, som det aktive vinduet vil ha som dets "
-"bredde når det blir flislagt. Gjelder for Venstre flisleggingstype."
-
-msgid "Excluded Windows"
-msgstr "Ekskluderte vinduer"
-
-msgid "Windows which should be excluded from tiling"
-msgstr "Vinduer som skal ekskluderes fra flislegging"
-
-msgid "Tile Windows Vertically"
-msgstr "Flislegg vinduer vertikalt"
-
-msgid ""
-"Move and resize all visible windows so that they have full height, same "
-"width and occupy whole screen."
-msgstr ""
-"Flytt og gjør om størrelse på alle synlige, slik at de har full høyde, samme "
-"bredde og opptar hele skjermen."
-
-msgid "Tile Windows Horizontally"
-msgstr "Flislegg vinduer horisontalt"
-
-msgid ""
-"Move and resize all visible windows so that they have full width, same "
-"height and occupy whole screen."
-msgstr ""
-"Flytt og gjør om størrelse på alle synlige, slik at de har full bredde, "
-"samme høyde og opptar hele skjermen."
-
-msgid "Tile Windows"
-msgstr "Flislegg vinduer"
-
-msgid ""
-"Move and resize all visible windows both vertically and horizontally, so "
-"that the occupy whole screen and are in a grid."
-msgstr ""
-"Flytt og gjør om størrelse på alle synlige vinduer både vertikalt og "
-"horisontalt, slik at de opptar hele skjermen og er i et rutenett."
-
-msgid "Cascade Windows"
-msgstr "Legg vinduer tett i tett"
-
-msgid ""
-"Move and resize all visible windows with the delta value set for cascading."
-msgstr ""
-"Flytt og gjør om størrelse på alle synlige vinduer med deltaverdien satt for "
-"tett-i-tett-vinsing."
-
-msgid "Restore Windows"
-msgstr "Gjenopprett vinduer"
-
-msgid "Restore windows to their original position they had before tiling."
-msgstr "Gjenopprett vinduer til posisjonen de hadde før flislegging."
-
-msgid "Toggle Tiling"
-msgstr "Slå av/på flislegging"
-
-msgid "Toggle between tile and restore"
-msgstr "Bytt mellom flislegg og gjenopprett"
-
-#, fuzzy
-msgid "Toggle Decoration"
-msgstr "Speiling for deokrasjoner"
-
-#, fuzzy
-msgid "Toggles decoration."
-msgstr "Speiling for deokrasjoner"
-
-#, fuzzy
-msgid "Toggle decoration"
-msgstr "Skru av/på videresend"
-
-#, fuzzy
-msgid "Toggles decoration on/off."
-msgstr "Slå av/på bevegelsesslør-effekt"
-
-msgid "Toggle decoration on desktop"
-msgstr ""
-
-#, fuzzy
-msgid "Toggles decoration of every window on the desktop."
-msgstr "Skru av/på filtrering for alle vinduer på skjermen."
-
-msgid "Wizard"
-msgstr ""
-
-msgid ""
-"Wastes resources to create fancy particle systems for wizard-wannabes :)"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle all particle effects."
-msgstr "Slå av/på bevegelsesslør-effekt"
-
-#, fuzzy
-msgid "Enable wizard by default."
-msgstr "Vinduer som skal filtreres som standard."
-
-msgid "Gravity"
-msgstr ""
-
-msgid "Global gravity"
-msgstr ""
-
-msgid "Gravity X"
-msgstr ""
-
-#, fuzzy
-msgid "Global horizontal gravity"
-msgstr "Horisontale bretter"
-
-msgid "Gravity Y"
-msgstr ""
-
-msgid "Global vertical gravity"
-msgstr ""
-
-msgid "Point gravity sources"
-msgstr ""
-
-#, fuzzy
-msgid "Strength"
-msgstr "Kurvestyrke"
-
-msgid ""
-"The strength of this gravity source. Use negative values for a repulsing "
-"effect."
-msgstr ""
-
-#, fuzzy
-msgid "Position X"
+msgid "Position"
 msgstr "X-posisjon"
 
-msgid ""
-"The horizontal position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
+msgid "Keyboard left margin"
+msgstr ""
+
+msgid "Left margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Position Y"
-msgstr "X-posisjon"
+msgid "Keyboard bottom margin"
+msgstr "Neste bunnbilde"
 
-msgid ""
-"The vertical position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The speed of this gravity source. May be ignored or used for initialization, "
-"depending on the movement type."
-msgstr ""
-
-msgid ""
-"The angle for the movement of this gravity source. May be ignored or used "
-"for initialization, depending on the movement type."
+msgid "Bottom margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Movement Type"
-msgstr "Hastighet for musebevegelse"
+msgid "Mouse right margin"
+msgstr "Tilbakeholdingsmargin for mus"
 
-msgid ""
-"The movement type of this source: Fixed (not moving at all), Mouse Position "
-"(exactly on the core pointer), Follow Mouse (moving towards core pointer at "
-"set speed), Bounce (moving at constant speed, bouncing off the walls) or "
-"Wrap (moving at constant speed, jumping to the opposite side at a wall)."
+msgid "Right margin of the visual mouse"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse Position"
-msgstr "Gjenopprett posisjon"
+msgid "Mouse bottom margin"
+msgstr "Juster bunnbilde"
 
-#, fuzzy
-msgid "Follow Mouse"
-msgstr "Forsinkelse for fokusfølging"
+msgid "Bottom margin of the visual mouse"
+msgstr ""
 
-msgid "Wrap"
+msgid "Wii Remote"
+msgstr ""
+
+msgid "Compiz interface for the Nintendo Wii Remote."
 msgstr ""
 
 #, fuzzy
-msgid "Emitters"
-msgstr "Utsendere"
-
-#, fuzzy
-msgid "Active"
-msgstr "Aktiver"
+msgid "Toggle status reporting"
+msgstr "Speiling for deokrasjoner"
 
 msgid ""
-"Since emitters have a lot of options, you can simply deactivate and name "
-"them instead of deleting them."
+"Use this to enable status reporting from the Wii Remote. Remember to hold "
+"down (1)+(2)."
 msgstr ""
 
-msgid "Name"
+msgid "Disable status reporting"
 msgstr ""
 
-msgid "Trigger"
+msgid "Use this to disable status reporting from the Wii Remote."
 msgstr ""
+
+msgid "Status reporting"
+msgstr ""
+
+msgid "Togle status reporting from the Wii Remote."
+msgstr ""
+
+msgid "Wiimote Setup"
+msgstr ""
+
+#, fuzzy
+msgid "Reporting Timeout"
+msgstr "Ventetid før skjul"
 
 msgid ""
-"The trigger to create particles: Persitent (create particles all the time), "
-"Mouse Movement (create particles when the mouse is being moved), Random Shot "
-"(a single particle burst once in a while), Random Period (randomly turning "
-"on and off particle production) or Notification (a single particle burst on "
-"notification events)."
-msgstr ""
-
-msgid "Persistent"
+"The more often you call it, the higher the CPU usage will be, so be careful "
+"with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse Movement"
-msgstr "Hastighet for musebevegelse"
-
-#, fuzzy
-msgid "Random Shot"
-msgstr "Tilfeldig"
-
-#, fuzzy
-msgid "Random Period"
-msgstr "Tilfeldig"
+msgid "Gesture Timeout"
+msgstr "Tilegning av gester"
 
 msgid ""
-"The horizontal position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The vertical position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
+"The more often you call it, the higher the CPU usage will be and the faster "
+"you have to move"
 msgstr ""
 
 #, fuzzy
-msgid "Emitter Speed"
-msgstr "Skiftermodus"
+msgid "Gesture Sensitvity"
+msgstr "Musebytte"
 
-msgid ""
-"The speed of this emitter. May be ignored or used for initialization, "
-"depending on the movement type."
+msgid "How much the readings must differ between gesture checks"
+msgstr ""
+
+msgid "Individual Setup"
 msgstr ""
 
 #, fuzzy
-msgid "Emitter Angle"
-msgstr "Utsendere"
+msgid "X Calibration Multiplier"
+msgstr "Bølgeamplitude"
 
-msgid ""
-"The angle for the movement of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The movement type of this emitter: Mouse Position (exactly on the core "
-"pointer), Follow Mouse (moving towards core pointer at set speed), Bounce "
-"(moving at constant speed, bouncing off the walls) or Wrap (moving at "
-"constant speed, jumping to the opposite side at a wall)."
+msgid "Change this depending on your screen size"
 msgstr ""
 
 #, fuzzy
-msgid "Particle count"
-msgstr "Partikkelfarge"
+msgid "Y Calibration Multiplier"
+msgstr "Bølgeamplitude"
 
-msgid "The amount of particles generated each time this emitter is triggered."
+msgid "X Adjust"
+msgstr ""
+
+msgid "Used to adjust to the position of your screen"
+msgstr ""
+
+msgid "Y Adjust"
 msgstr ""
 
 #, fuzzy
-msgid "Color hue"
-msgstr "Farger"
+msgid "Gesturing"
+msgstr "Gest"
 
-msgid ""
-"The color of the particles. This is hue like in HSL colors. It is the center "
-"of the range given below."
+#, fuzzy
+msgid "Gesture List"
+msgstr "Gester"
+
+msgid "Wii Remote Number"
+msgstr ""
+
+msgid "The number of the wii remote on the list (starts at 0)"
 msgstr ""
 
 #, fuzzy
-msgid "Color hue range"
-msgstr "Fargeforandring for glød"
+msgid "Gesture Type"
+msgstr "Gest"
 
-msgid ""
-"The color of the particles can be any value from the hue (given above) plus/"
-"minus this range. A range of 500 means any color."
+msgid "Which gesture calls the action"
 msgstr ""
 
 #, fuzzy
-msgid "Color lightness"
-msgstr "Skarphet"
-
-msgid ""
-"The color of the particles. This is lightness like in HSL colors. It is the "
-"center of the range given below."
-msgstr ""
+msgid "Sensitivity"
+msgstr "Musebytte"
 
 #, fuzzy
-msgid "Color lightness range"
-msgstr "Fyllfarge for utvalgsrektangelet"
-
-msgid ""
-"The color of the particles can be any value from the lightness (given above) "
-"plus/minus this range."
-msgstr ""
-
-msgid "Alpha"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles. This is the center of the range given "
-"below."
-msgstr ""
-
-msgid "Alpha range"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles can be any value from the alpha (given "
-"above) plus/minus this range."
-msgstr ""
-
-msgid "X range"
-msgstr ""
-
-msgid "The horizontal range of the particles."
-msgstr ""
-
-msgid "Y range"
-msgstr ""
+msgid "How sensitive gestures should be"
+msgstr "Hvor fjær-lik forstørrelses/forminskings-animasjonen skal være."
 
 #, fuzzy
-msgid "The vertical range of the particles."
-msgstr "Ha tilfeldige farger for partiklene"
-
-msgid "Circular range"
-msgstr ""
+msgid "Reporting"
+msgstr "Arbeidsområde høyre"
 
 #, fuzzy
-msgid "The circular range of the particles."
-msgstr "Ha tilfeldige farger for partiklene"
-
-#, fuzzy
-msgid "X speed"
-msgstr "Ringhastighet"
-
-msgid "The horizontal speed of the particles."
-msgstr ""
-
-#, fuzzy
-msgid "Y speed"
-msgstr "Ringhastighet"
-
-#, fuzzy
-msgid "The vertical speed of the particles."
-msgstr "Ha tilfeldige farger for partiklene"
-
-#, fuzzy
-msgid "Aging speed"
-msgstr "Ringhastighet"
-
-msgid "The more negative the sooner particles disappear."
-msgstr ""
-
-msgid "Rotation speed"
-msgstr "Rotasjonshastighet"
-
-msgid ""
-"The rotation of the particles can probably only be seen on the really big "
-"ones."
-msgstr ""
-
-msgid "X speed range"
-msgstr ""
-
-msgid "The horizontal speed range of the particles."
-msgstr ""
-
-msgid "Y speed range"
-msgstr ""
-
-msgid "The vertical speed range of the particles."
-msgstr ""
-
-msgid "Circular speed range"
-msgstr ""
-
-msgid "The circular speed range of the particles."
-msgstr ""
-
-#, fuzzy
-msgid "Aging speed range"
-msgstr "Ringhastighet"
-
-msgid "The range of aging speeds"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation speed range"
-msgstr "Rotasjonshastighet"
-
-msgid "Particle Size"
-msgstr "Partikkelstørrelse"
-
-#, fuzzy
-msgid "The size of the particles."
-msgstr "Fanelinjens stil"
-
-#, fuzzy
-msgid "Particle Size Range"
-msgstr "Partikkelstørrelse"
-
-#, fuzzy
-msgid "The size range of the particles."
-msgstr "Fanelinjens stil"
-
-#, fuzzy
-msgid "New Size"
-msgstr "Glødstørrelse"
-
-#, fuzzy
-msgid "The size of the particles when they are new."
-msgstr "Mal brann eller andre partikler på skjermen"
-
-msgid "New Size Range"
-msgstr ""
-
-#, fuzzy
-msgid "The size range of the particles when they are new."
-msgstr "Mal brann eller andre partikler på skjermen"
-
-msgid ""
-"The strength of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Range"
-msgstr ""
-
-msgid ""
-"The strength range of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Probability"
-msgstr ""
-
-msgid ""
-"The probability that a particle has the gravity effect, that has been set up "
-"above. This value represents gravity particles out of 10000 particles. "
-"(Using gravity on too many particles may be very resource consuming)"
-msgstr ""
-
-msgid "Advanced"
-msgstr ""
-
-#, fuzzy
-msgid "Hard limit for particles"
-msgstr "Ha tilfeldige farger for partiklene"
-
-msgid "If this hard limit is reached, no new particles are created"
-msgstr ""
-
-#, fuzzy
-msgid "Soft limit for particles"
-msgstr "Fartsgrense for fjæringsmodell"
-
-msgid ""
-"This soft limit can be exceeded. If this happens, particles will die faster"
-msgstr ""
-
-msgid "Darken backgound"
-msgstr "Gjør bakgrunn mørkere"
-
-msgid "Darken background under particles"
-msgstr "Gjør bakgrunn mørkere under partiklene"
-
-msgid "Additive blending"
-msgstr "Tilleggsblanding"
-
-msgid "Additive blending of particles"
-msgstr "Tilleggsblanding av partikler"
-
-#, fuzzy
-msgid "New particle time"
-msgstr "Levetid for brannpartikkel."
-
-msgid ""
-"If the age of a particle is above this value, it is regarded as new and is "
-"especially bright and large. Particles are born at the age of 1.0 and die at "
-"the age of 0.0"
-msgstr ""
-
-#, fuzzy
-msgid "Old particle time"
-msgstr "Levetid for brannpartikkel."
-
-msgid ""
-"If the age of a particle is below this value, it is regarded as old and "
-"starts to fade. Particles are born at the age of 1.0 and die at the age of "
-"0.0"
-msgstr ""
-
-msgid "Workspace Naming"
-msgstr ""
-
-msgid "Allows assigning descriptions to workspaces"
-msgstr ""
-
-msgid "Names"
-msgstr ""
-
-msgid "Workspace Names"
-msgstr ""
-
-#, fuzzy
-msgid "Viewport"
-msgstr "Arbeidsområde øverst"
-
-#, fuzzy
-msgid "Number of viewport to be named"
-msgstr "Antall vinduer å holde rede på"
-
-#, fuzzy
-msgid "Viewport name"
+msgid "Reporter List"
 msgstr "Arbeidsområde venstre"
 
-msgid "Display Time"
-msgstr "Visningsvarighet"
-
-msgid "Timeout (in s) of the name display"
+msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr ""
 
-msgid "Fade Time"
-msgstr "Uttoningstid"
+#, fuzzy
+msgid "Report Type"
+msgstr "Arbeidsområde øverst"
+
+msgid "What to report"
+msgstr ""
 
 #, fuzzy
-msgid "Time (in s) the name display fades out after being shown."
-msgstr "Tid (i sek) fanelinjen er synlig etter fanebytte"
+msgid "Plugin to report to"
+msgstr "Tillegget som hendelsen tilhører."
+
+msgid "Action to report to"
+msgstr ""
+
+msgid "X Argument"
+msgstr ""
+
+msgid "What option name the plugin expects for the X value"
+msgstr ""
+
+msgid "Y Argument"
+msgstr ""
+
+msgid "What option name the plugin expects for the Y value"
+msgstr ""
+
+msgid "Z Argument"
+msgstr ""
+
+msgid "What option name the plugin expects for the Z value"
+msgstr ""
 
 #, fuzzy
-msgid "Text Display"
-msgstr "Visningsvarighet"
+msgid "Data Type"
+msgstr "Rotasjonsvinkel"
+
+msgid ""
+"What data type the plugin expects (Use the other one if the current one "
+"doesn't work)"
+msgstr ""
 
 #, fuzzy
-msgid "Selects if the text should be displayed in bold font or not."
-msgstr "Velg om vindustittelen skal bli vist i fet skrift eller ikke."
+msgid "How sensitive Wii Remote movements should be"
+msgstr "Hvor fjær-lik forstørrelses/forminskings-animasjonen skal være."
+
+msgid "WiiTrack"
+msgstr ""
+
+msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
+msgstr ""
 
 #, fuzzy
-msgid "Font family for the text display."
-msgstr "Skriftstørrelse for visning av vindustittel"
+msgid "Enable Tracking"
+msgstr "Bruk fokussporing"
 
 #, fuzzy
-msgid "Font size for the text display."
-msgstr "Skriftstørrelse for visning av vindustittel"
+msgid "WiiMote Above Screen"
+msgstr "Start skjermopptak"
+
+msgid "Enable this if your Wiimote is above your screen."
+msgstr ""
 
 #, fuzzy
-msgid "Selects where to place the text."
-msgstr "Velger hvor vindustittelen plasseres."
+msgid "Wiimote Vertical Angle"
+msgstr "Flislegg vertikalt"
+
+msgid "Angle of wiimote in radians * 100"
+msgstr ""
 
 #, fuzzy
-msgid "Top of screen"
-msgstr "Unngå utenfor skjermen"
+#~ msgid "Initiate Window"
+#~ msgstr "Aktiver vindu"
 
 #, fuzzy
-msgid "Bottom of screen"
-msgstr "Nederst til øverst"
-
-msgid "Colors"
-msgstr "Farger"
+#~ msgid "Start anaglyph window"
+#~ msgstr "Velger hvor vindustittelen plasseres."
 
 #, fuzzy
-msgid "Background color for the text display."
-msgstr "Bakgrunnsfarge for vindustittelen"
+#~ msgid "Initiate Window Button"
+#~ msgstr "Start (knapp)"
 
 #, fuzzy
-msgid "Font color for the text display."
-msgstr "Skriftfarge for vindustittelen"
+#~ msgid "Start anaglyph active window"
+#~ msgstr "Aktiver et gitt vindu"
+
+#, fuzzy
+#~ msgid "Initiate Screen Button"
+#~ msgstr "Start skjermopptak"
+
+#, fuzzy
+#~ msgid "Anaglyph Windows"
+#~ msgstr "Ringvinduer"
+
+#, fuzzy
+#~ msgid "Windows to be anaglyph by default"
+#~ msgstr "Vinduer som skal være negative som standard"
+
+#~ msgid "Exclude Windows"
+#~ msgstr "Ekskluder vinduer"
+
+#, fuzzy
+#~ msgid "Windows to exclude from anaglyph"
+#~ msgstr "Vinduer som skal ekskluderes fra å bli negative"
+
+#, fuzzy
+#~ msgid "Desaturate"
+#~ msgstr "Metning"
+
+#~ msgid "Mipmaps"
+#~ msgstr "MIP-kart"
+
+#, fuzzy
+#~ msgid "Animations Plus"
+#~ msgstr "Animasjoner"
+
+#, fuzzy
+#~ msgid "More window animations"
+#~ msgstr "Filtrer vindusdekorasjoner"
+
+#~ msgid "Effect Settings"
+#~ msgstr "Effektinnstillinger"
+
+#, fuzzy
+#~ msgid "Helix Number of Twists"
+#~ msgstr "Antall fisk"
+
+#, fuzzy
+#~ msgid "Number of twists to do in the animation"
+#~ msgstr "Vinduets vinkel når animasjonen slutter."
+
+#, fuzzy
+#~ msgid "Number of blocks in the animation"
+#~ msgstr "Antall fisk inne i kuben"
+
+#, fuzzy
+#~ msgid "Helix Thickness"
+#~ msgstr "Tykkelse"
+
+#, fuzzy
+#~ msgid "Thickness of blocks in the animation"
+#~ msgstr "Tykkelse på animerte polygoner"
+
+#, fuzzy
+#~ msgid "Vertical Helix"
+#~ msgstr "Flislegg vertikalt"
+
+#, fuzzy
+#~ msgid "Number of half twists to do in the animation"
+#~ msgstr "Vinduets vinkel når animasjonen slutter."
+
+#, fuzzy
+#~ msgid "Blinds Thickness"
+#~ msgstr "Tykkelse"
+
+#, fuzzy
+#~ msgid "Shatter number of spokes"
+#~ msgstr "Antall snøfnugg"
+
+#, fuzzy
+#~ msgid "Shatter Number of Tiers"
+#~ msgstr "Antall fisk"
+
+#~ msgid "Number Of Fire Particles"
+#~ msgstr "Antall brannpartikler"
+
+#~ msgid "Number of fire particles."
+#~ msgstr "Antall brannpartikler."
+
+#~ msgid "Fire Particle Size"
+#~ msgstr "Brannpartikkels størrelse"
+
+#~ msgid "Fire particle size."
+#~ msgstr "Størrelse for brannpartikkel."
+
+#~ msgid "Fire Particle Life"
+#~ msgstr "Brannpartikkels levetid"
+
+#~ msgid "Fire particle life."
+#~ msgstr "Levetid for brannpartikkel."
+
+#~ msgid "Fire particle color."
+#~ msgstr "Farge for brannpartikkel."
+
+#~ msgid "Randomly Colored Fire"
+#~ msgstr "Tilfeldig farget brann"
+
+#~ msgid "Have random colors for the fire effect, also known as Mystical Fire."
+#~ msgstr ""
+#~ "Ha tilfeldige farger for branneffekten, også kjent som mystisk brann"
+
+#, fuzzy
+#~ msgid "Simple Animations"
+#~ msgstr "Åpne-animasjon"
+
+#, fuzzy
+#~ msgid "Fly In Direction"
+#~ msgstr "Bretteretning"
+
+#, fuzzy
+#~ msgid "UD Direction X"
+#~ msgstr "Bretteretning"
+
+#, fuzzy
+#~ msgid "UD Direction Y"
+#~ msgstr "Bretteretning"
+
+#~ msgid "Fade"
+#~ msgstr "Ton ut/inn"
+
+#, fuzzy
+#~ msgid "Distance to fly in"
+#~ msgstr "Avstand"
+
+#, fuzzy
+#~ msgid "Rotate In"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Rotate In Direction"
+#~ msgstr "Bevegelsesretning"
+
+#, fuzzy
+#~ msgid "Angle"
+#~ msgstr "Vinkel ved bortglidning"
+
+#, fuzzy
+#~ msgid "Maximum Size"
+#~ msgstr "Maksimumer"
+
+#, fuzzy
+#~ msgid "Minimum Size"
+#~ msgstr "Maksimumer"
+
+#, fuzzy
+#~ msgid "Number of Bounces"
+#~ msgstr "Antall partikler"
+
+#, fuzzy
+#~ msgid "How many bounces during the animation"
+#~ msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+
+#, fuzzy
+#~ msgid "Starting Percent"
+#~ msgstr "Start gest"
+
+#, fuzzy
+#~ msgid "First expand horizontally"
+#~ msgstr "Flislegg horisontalt"
+
+#, fuzzy
+#~ msgid "Initial horizontal size"
+#~ msgstr "Flislegg horisontalt"
+
+#, fuzzy
+#~ msgid "Initial vertical size"
+#~ msgstr "Partikkelstørrelse."
+
+#, fuzzy
+#~ msgid "Delay"
+#~ msgstr "Visningsforsinkelse"
+
+#~ msgid "Cube Atlantis"
+#~ msgstr "Atlantiskube"
+
+#, fuzzy
+#~ msgid "Start crabs on the bottom of the cube."
+#~ msgstr "Gjengi bilder på toppen og bunnen av kuben"
+
+#, fuzzy
+#~ msgid "Creature Selection"
+#~ msgstr "Kuberefleksjon"
+
+#, fuzzy
+#~ msgid "Type"
+#~ msgstr "Glødtype"
+
+#, fuzzy
+#~ msgid "Color"
+#~ msgstr "Farger"
+
+#, fuzzy
+#~ msgid "The color of the sea creature."
+#~ msgstr "Kantfarge for fanelinjen"
+
+#, fuzzy
+#~ msgid "The number of the sea creature."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "Size"
+#~ msgstr "Gli"
+
+#, fuzzy
+#~ msgid "The size of the sea creature."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "Miscellaneous Selection"
+#~ msgstr "Tillat musevalg"
+
+#, fuzzy
+#~ msgid "The color of the sea plant."
+#~ msgstr "Kantfarge for fanelinjen"
+
+#, fuzzy
+#~ msgid "The number of the sea plants."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "The size of the sea plant."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "Render water inside the cube."
+#~ msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Render water wireframe inside the cube."
+#~ msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Render ground"
+#~ msgstr "Gjør bakgrunn mørkere"
+
+#, fuzzy
+#~ msgid "Render ground inside the cube."
+#~ msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Ground color"
+#~ msgstr "Bakkefarge (langt unna)"
+
+#, fuzzy
+#~ msgid "Color of ground in the cube."
+#~ msgstr "Farge på toppen av kuben"
+
+#, fuzzy
+#~ msgid "Height of water surface in the cube."
+#~ msgstr "Farge på toppen av kuben"
+
+#, fuzzy
+#~ msgid "Water color"
+#~ msgstr "Kantfarge"
+
+#, fuzzy
+#~ msgid "Waves"
+#~ msgstr "Bølge"
+
+#, fuzzy
+#~ msgid "Render water waves inside the cube."
+#~ msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Ripple effect"
+#~ msgstr "Åpne-effekt"
+
+#, fuzzy
+#~ msgid "Wave amplitude"
+#~ msgstr "Bølgeamplitude"
+
+#, fuzzy
+#~ msgid "Small wave amplitude"
+#~ msgstr "Max. bølgeamplitude for magisk lampe"
+
+#, fuzzy
+#~ msgid "Display"
+#~ msgstr "Visningsvarighet"
+
+#, fuzzy
+#~ msgid "Rescale for screen ratio"
+#~ msgstr "Speiling for deokrasjoner"
+
+#, fuzzy
+#~ msgid "Preserve light direction when rotating the cube."
+#~ msgstr "Hever vinduer mens kuben roterer"
+
+#, fuzzy
+#~ msgid "Render still/animated 3D mesh models inside of the transparent cube"
+#~ msgstr "Gjengir noen fisk på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Scale all factor"
+#~ msgstr "Minimum skaleringsfaktor"
+
+#, fuzzy
+#~ msgid "Model"
+#~ msgstr "Modus"
+
+#, fuzzy
+#~ msgid "Scale factor"
+#~ msgstr "Minimum skaleringsfaktor"
+
+#, fuzzy
+#~ msgid "X coordinate offset from the center of the cube."
+#~ msgstr "Plasser musepeker bruker midten av vinduet"
+
+#, fuzzy
+#~ msgid "Y coordinate offset from the center of the cube."
+#~ msgstr "Plasser musepeker bruker midten av vinduet"
+
+#, fuzzy
+#~ msgid "Z coordinate offset from the center of the cube."
+#~ msgstr "Plasser musepeker bruker midten av vinduet"
+
+#, fuzzy
+#~ msgid "Rotation plane"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Rotation rate"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Model type"
+#~ msgstr "Fylt omriss"
+
+#, fuzzy
+#~ msgid "Ambient light intensity"
+#~ msgstr "Refleksjonens intensitet"
+
+#, fuzzy
+#~ msgid "Diffuse light intensity"
+#~ msgstr "Refleksjonens intensitet"
+
+#, fuzzy
+#~ msgid "Loading"
+#~ msgstr "Fyll"
+
+#, fuzzy
+#~ msgid "Dialog Match"
+#~ msgstr "Samsvar mellom vinduer"
+
+#~ msgid "Speed"
+#~ msgstr "Hastighet"
+
+#, fuzzy
+#~ msgid "The speed of the animation"
+#~ msgstr "Endre farten på 3D-animasjonen"
+
+#~ msgid "Opacity"
+#~ msgstr "Dekkevne"
+
+#~ msgid "Saturation"
+#~ msgstr "Metning"
+
+#, fuzzy
+#~ msgid "The Saturation of windows with open dialogs"
+#~ msgstr "Metning for vinduer som ikke er miniprogrammer i miniprogram-modus."
+
+#~ msgid "Brightness"
+#~ msgstr "Skarphet"
+
+#, fuzzy
+#~ msgid "The Brightness of windows with open dialogs"
+#~ msgstr ""
+#~ "Skarphet for vinduer som ikke er miniprogram-vinduer i miniprogram-modus"
+
+#~ msgid "General"
+#~ msgstr "Generelt"
+
+#, fuzzy
+#~ msgid "Global Speed"
+#~ msgstr "Forstørrelseshastighet"
+
+#~ msgid ""
+#~ "How deep into the screen snowflakes can be drawn before being removed"
+#~ msgstr "Hvor dypt inne i skjermen snøfnugg kan tegnes før de blir fjernet"
+
+#, fuzzy
+#~ msgid "Draw Over Windows"
+#~ msgstr "Snø over vinduer"
+
+#, fuzzy
+#~ msgid "Elements drawn above windows"
+#~ msgstr "Snø tegnes over vinduer"
+
+#~ msgid "Snow"
+#~ msgstr "Snø"
+
+#~ msgid "Number Of Snowflakes"
+#~ msgstr "Antall snøfnugg"
+
+#~ msgid "Number of snowflakes"
+#~ msgstr "Antall snøfnugg"
+
+#~ msgid "Size Of Snowflakes"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#~ msgid "Size of snowflakes"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#~ msgid "Snow Speed"
+#~ msgstr "Snøhastighet"
+
+#~ msgid "Speed of falling snow"
+#~ msgstr "Hastighet for fallende snø"
+
+#, fuzzy
+#~ msgid "Snow sway"
+#~ msgstr "Visningsforsinkelse"
+
+#, fuzzy
+#~ msgid "Rotate Snowflakes"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Toggle snow"
+#~ msgstr "Slå av/på flislegging"
+
+#, fuzzy
+#~ msgid "Toggle Snow"
+#~ msgstr "Skru av/på klistre"
+
+#~ msgid "Snow Direction"
+#~ msgstr "Snøretning"
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "Snow Textures"
+#~ msgstr "Snøteksturer"
+
+#~ msgid "Snow textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid "Number Of leaves"
+#~ msgstr "Antall snøfnugg"
+
+#, fuzzy
+#~ msgid "Number of leaves"
+#~ msgstr "Antall partikler"
+
+#, fuzzy
+#~ msgid "Size Of leaves"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Size of leaves"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Speed of falling leaves"
+#~ msgstr "Hastighet for fallende snø"
+
+#, fuzzy
+#~ msgid "Rotate Leaves"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Toggle Autumn"
+#~ msgstr "Skru av/på klistre"
+
+#, fuzzy
+#~ msgid "Autumn Textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid "Autumn textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid "Fireflies"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid "Number Of fireflies"
+#~ msgstr "Antall brannpartikler"
+
+#, fuzzy
+#~ msgid "Number of fireflies"
+#~ msgstr "Antall brannpartikler."
+
+#, fuzzy
+#~ msgid "Size Of fireflies"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Size of fireflies"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Firefly Speed"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid "Rotate Fireflies"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Toggle Fireflies"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid "Fireflies Textures"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid "Fireflies textures"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid "Number Of stars"
+#~ msgstr "Antall partikler"
+
+#, fuzzy
+#~ msgid "Number of stars"
+#~ msgstr "Antall partikler"
+
+#, fuzzy
+#~ msgid "Size Of stars"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Size of stars"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Star Speed"
+#~ msgstr "Snøhastighet"
+
+#, fuzzy
+#~ msgid "Speed of stars"
+#~ msgstr "Forstørrelsesfaktor"
+
+#, fuzzy
+#~ msgid "Rotate Stars"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Toggle Stars"
+#~ msgstr "Skru av/på klistre"
+
+#, fuzzy
+#~ msgid "Star textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid "Fireflies for Compiz"
+#~ msgstr "Snø for Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Fireflies"
+#~ msgstr "Antall brannpartikler"
+
+#, fuzzy
+#~ msgid "The maximum number of fireflies allowed on screen"
+#~ msgstr "Maksimalt antall bølger for magisk lampe."
+
+#, fuzzy
+#~ msgid "Size Of Fireflies"
+#~ msgstr "Filterfiler"
+
+#, fuzzy
+#~ msgid ""
+#~ "How far outside the screen resolution fireflies can be before being "
+#~ "removed. Needed because of FOV."
+#~ msgstr ""
+#~ "Hvor langt utenfor skjermoppløsningen snøfnuggene kan være før de fjerne. "
+#~ "Trengs pga. synsfelt."
+
+#, fuzzy
+#~ msgid "How deep into the screen fireflies can be drawn before being removed"
+#~ msgstr "Hvor dypt inne i skjermen snøfnugg kan tegnes før de blir fjernet"
+
+#, fuzzy
+#~ msgid "Fireflies Over Windows"
+#~ msgstr "Snø over vinduer"
+
+#, fuzzy
+#~ msgid "Fireflies is drawn above windows"
+#~ msgstr "Snø tegnes over vinduer"
+
+#, fuzzy
+#~ msgid "Rotate Flies. Redundant"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Fireflies Direction. Redundant"
+#~ msgstr "Brannretning."
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Øverst til nederst"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Nederst til øverst"
+
+#~ msgid "Right to Left"
+#~ msgstr "Høyre til venstre"
+
+#~ msgid "Left to Right"
+#~ msgstr "Venstre til høyre"
+
+#, fuzzy
+#~ msgid "Enable fireflies by default."
+#~ msgstr "Vinduer som skal filtreres som standard."
+
+#, fuzzy
+#~ msgid "Firefly toggle key"
+#~ msgstr "Tast for å slå av/på snø"
+
+#, fuzzy
+#~ msgid "Freely Transformable Windows"
+#~ msgstr "Gjenopprett vinduer"
+
+#, fuzzy
+#~ msgid "Freely transform windows"
+#~ msgstr "Under andre vinduer"
+
+#, fuzzy
+#~ msgid "Free Transformation"
+#~ msgstr "Deformering"
+
+#, fuzzy
+#~ msgid "Initiate Rotation"
+#~ msgstr "Start (knapp)"
+
+#, fuzzy
+#~ msgid "Start Free Rotation"
+#~ msgstr "Metning"
+
+#, fuzzy
+#~ msgid "Initiate Scaling"
+#~ msgstr "Start skjermopptak"
+
+#, fuzzy
+#~ msgid "Reset Transformation"
+#~ msgstr "Deformering"
+
+#, fuzzy
+#~ msgid "Axis selection helper"
+#~ msgstr "Utvalgsfarge"
+
+#, fuzzy
+#~ msgid "Use this bindings to enable/disable snapping."
+#~ msgstr "Bruk disse hurtigtastene for å unngå smekking"
+
+#~ msgid "Shift"
+#~ msgstr "Shift"
+
+#~ msgid "Alt"
+#~ msgstr "Alt"
+
+#~ msgid "Control"
+#~ msgstr "Ctrl"
+
+#~ msgid "Meta"
+#~ msgstr "Windows"
+
+#, fuzzy
+#~ msgid "Rotation"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Use this bindings to invert the rotation mode."
+#~ msgstr "Bruk disse hurtigtastene for å unngå smekking"
+
+#, fuzzy
+#~ msgid "Scaling"
+#~ msgstr "Skaler-tillegg"
+
+#, fuzzy
+#~ msgid "Scale Down"
+#~ msgstr "Skaler-tillegg"
+
+#, fuzzy
+#~ msgid "Rotate Up"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Rotate Down"
+#~ msgstr "Flytt ned"
+
+#, fuzzy
+#~ msgid "Rotate Right"
+#~ msgstr "Flytt høyre"
+
+#, fuzzy
+#~ msgid "Rotate Clockwise"
+#~ msgstr "Roter ringen med klokken på neste"
+
+#, fuzzy
+#~ msgid "Rotate clockwise by one increment"
+#~ msgstr "Roter ringen med klokken på neste"
+
+#, fuzzy
+#~ msgid "Rotate Counter-Clockwise"
+#~ msgstr "Roter ringen med klokken på neste"
+
+#, fuzzy
+#~ msgid "Rotate counter-clockwise by one increment"
+#~ msgstr "Roter ringen med klokken på neste"
+
+#, fuzzy
+#~ msgid "Snap Threshold"
+#~ msgstr "Smekktype"
+
+#, fuzzy
+#~ msgid "Scale Mode"
+#~ msgstr "Skaler-tillegg"
+
+#, fuzzy
+#~ msgid "How to scale windows"
+#~ msgstr "Ikke-lukkbare vinduer"
+
+#, fuzzy
+#~ msgid "Allow negative"
+#~ msgstr "Negativ"
+
+#, fuzzy
+#~ msgid "Maintain aspect ratio"
+#~ msgstr "Størrelsesforhold for ekspo-modus"
+
+#, fuzzy
+#~ msgid "Minimum scale"
+#~ msgstr "Minimum skaleringsfaktor"
+
+#, fuzzy
+#~ msgid "2D/3D Rotation Type"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Rotation Axis"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "3D Rotation Percentage"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Auto-Zoom"
+#~ msgstr "Autoforstørr/forminsk"
+
+#, fuzzy
+#~ msgid "Disable on Transformed Screen"
+#~ msgstr "Bevegelsesslør på forvandlet skjerm"
+
+#, fuzzy
+#~ msgid "Speed of window rotation"
+#~ msgstr "Filtrer vindusdekorasjoner"
+
+#~ msgid "Misc"
+#~ msgstr "Div"
+
+#, fuzzy
+#~ msgid "Prevented Input Window Types"
+#~ msgstr "Vindustyper"
+
+#, fuzzy
+#~ msgid "Window types that should be Shaped. Disable problematic windows here"
+#~ msgstr "Vindustyper som skal håndteres av Følgfokus"
+
+#, fuzzy
+#~ msgid "Immediate Moves"
+#~ msgstr "Umiddelbare forflytninger"
+
+#, fuzzy
+#~ msgid "Helper Options"
+#~ msgstr "Partikkelvalg"
+
+#, fuzzy
+#~ msgid "Helper Circle Color"
+#~ msgstr "Partikkelfarge"
+
+#, fuzzy
+#~ msgid "Helper Line Color"
+#~ msgstr "Linjefarge"
+
+#, fuzzy
+#~ msgid "Helper line color around the circle"
+#~ msgstr "Linjefarge på utvalgsrektangelet."
+
+#, fuzzy
+#~ msgid "Helper Cross Line Color"
+#~ msgstr "Linjefarge"
+
+#, fuzzy
+#~ msgid "Show crosshair"
+#~ msgstr "Visningsforsinkelse"
+
+#, fuzzy
+#~ msgid "Show input regions"
+#~ msgstr "Visningsforsinkelse"
+
+#, fuzzy
+#~ msgid "Show input region rectangle"
+#~ msgstr "Rektangulær"
+
+#~ msgid "Color Opacity"
+#~ msgstr "Fargedekkevne"
+
+#~ msgid "Alter window opacity based on color."
+#~ msgstr "Endre vinduets dekkevne basert på farge."
+
+#~ msgid "Toggle Window Fake ARGB"
+#~ msgstr "Skru av/på falsk ARGB for vinduer"
+
+#~ msgid "Toggle window fake ARGB."
+#~ msgstr "Skru av/på falsk ARGB for vinduer"
+
+#, fuzzy
+#~ msgid "Toggle Ghost"
+#~ msgstr "Skru av/på klistre"
+
+#, fuzzy
+#~ msgid "Toggle ghost for all matching windows"
+#~ msgstr "Skru av/på alltid-øverst for det aktive vinduet"
+
+#, fuzzy
+#~ msgid "Toggle Ghost Window"
+#~ msgstr "Flislegg vinduer"
+
+#, fuzzy
+#~ msgid "Toggle ghosting of individual window"
+#~ msgstr "Skru av/på vindusfiltrering"
+
+#, fuzzy
+#~ msgid "Fade windows only on mousover"
+#~ msgstr "Sett vindu som ikke-bevegelig"
+
+#, fuzzy
+#~ msgid "The Opacity of Ghosted Windows"
+#~ msgstr "Dekkevne for utvalgte vinduer"
+
+#, fuzzy
+#~ msgid "The Brightness of Ghosted Windows"
+#~ msgstr "Skarphet for de valgte vinduene"
+
+#~ msgid "Mouse switch"
+#~ msgstr "Musebytte"
+
+#~ msgid "Switch viewport in response to mouse gesture"
+#~ msgstr "Bytt arbeidsområde ved musegest"
+
+#~ msgid "Begin Gesture"
+#~ msgstr "Start gest"
+
+#~ msgid "Begin Mouse Gesture"
+#~ msgstr "Start musegester"
+
+#, fuzzy
+#~ msgid "Render photo turn wheel inside of the transparent cube"
+#~ msgstr "Gjengir tannhjul på innsiden av den gjennomsiktige kuben"
+
+#, fuzzy
+#~ msgid "Photo Textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid "Photo textures"
+#~ msgstr "Snøteksturer"
+
+#~ msgid "Width"
+#~ msgstr "Bredde"
+
+#, fuzzy
+#~ msgid "X Offset"
+#~ msgstr "Bevegelsesforskyvelse"
+
+#, fuzzy
+#~ msgid "Y Offset"
+#~ msgstr "Bevegelsesforskyvelse"
+
+#, fuzzy
+#~ msgid "Z Offset"
+#~ msgstr "Bevegelsesforskyvelse"
+
+#, fuzzy
+#~ msgid "Color of top face of the photo wheel"
+#~ msgstr "Farge på toppen av kuben"
+
+#, fuzzy
+#~ msgid "Color of bottom face of the photo wheel"
+#~ msgstr "Farge på bunnen av kuben"
+
+#, fuzzy
+#~ msgid "Put Plus window"
+#~ msgstr "Plasser vindu"
+
+#~ msgid "Put On Viewport"
+#~ msgstr "Plasser på arbeidsområde"
+
+#~ msgid "Move window to a certain viewport"
+#~ msgstr "Flytt vindu til et spesifikt arbeidsområde"
+
+#~ msgid "Put to arbitrary viewport"
+#~ msgstr "Plasser på tilfeldig arbeidsområde"
+
+#~ msgid "Put On Viewport 1"
+#~ msgstr "Plasser på arbeidsområde 1"
+
+#~ msgid "Put On Viewport 2"
+#~ msgstr "Plasser på arbeidsområde 2"
+
+#~ msgid "Move window to viewport 2"
+#~ msgstr "Flytt vindu til arbeidsområde 2"
+
+#~ msgid "Put On Viewport 3"
+#~ msgstr "Plasser på arbeidsområde 3"
+
+#~ msgid "Move window to viewport 3"
+#~ msgstr "Flytt vindu til arbeidsområde 3"
+
+#~ msgid "Put On Viewport 4"
+#~ msgstr "Plasser på arbeidsområde 4"
+
+#~ msgid "Move window to viewport 4"
+#~ msgstr "Flytt vindu til arbeidsområde 4"
+
+#~ msgid "Put On Viewport 5"
+#~ msgstr "Plasser på arbeidsområde 5"
+
+#~ msgid "Move window to viewport 5"
+#~ msgstr "Flytt vindu til arbeidsområde 5"
+
+#~ msgid "Put On Viewport 6"
+#~ msgstr "Plasser på arbeidsområde 6"
+
+#~ msgid "Move window to viewport 6"
+#~ msgstr "Flytt vindu til arbeidsområde 6"
+
+#~ msgid "Put On Viewport 7"
+#~ msgstr "Plasser på arbeidsområde 7"
+
+#~ msgid "Move window to viewport 7"
+#~ msgstr "Flytt vindu til arbeidsområde 7"
+
+#~ msgid "Put On Viewport 8"
+#~ msgstr "Plasser på arbeidsområde 8"
+
+#~ msgid "Move window to viewport 8"
+#~ msgstr "Flytt vindu til arbeidsområde 8"
+
+#~ msgid "Put On Viewport 9"
+#~ msgstr "Plasser på arbeidsområde 9"
+
+#~ msgid "Move window to viewport 9"
+#~ msgstr "Flytt vindu til arbeidsområde 9"
+
+#~ msgid "Put On Viewport 10"
+#~ msgstr "Plasser på arbeidsområde 10"
+
+#~ msgid "Move window to viewport 10"
+#~ msgstr "Flytt vindu til arbeidsområde 10"
+
+#~ msgid "Put On Viewport 11"
+#~ msgstr "Plasser på arbeidsområde 11"
+
+#~ msgid "Move window to viewport 11"
+#~ msgstr "Flytt vindu til arbeidsområde 11"
+
+#~ msgid "Put On Viewport 12"
+#~ msgstr "Plasser på arbeidsområde 12"
+
+#~ msgid "Move window to viewport 12"
+#~ msgstr "Flytt vindu til arbeidsområde 12"
+
+#~ msgid "Put to adjacent viewport"
+#~ msgstr "Plasser på arbeidsområdet ved siden av"
+
+#~ msgid "Move window to the viewport on the left"
+#~ msgstr "Fltt vindu til venstre arbeidsområde"
+
+#~ msgid "Move window to the viewport on the right"
+#~ msgstr "Flytt vindu til høyre arbeidsområde"
+
+#~ msgid "Move window to the viewport on the top"
+#~ msgstr "Flytt vindu til øverste arbeidsområde"
+
+#~ msgid "Viewport Bottom"
+#~ msgstr "Arbeidsområde nederst"
+
+#~ msgid "Put within viewport"
+#~ msgstr "Plasser innen arbeidsområde"
+
+#~ msgid "Put Center"
+#~ msgstr "Plasser i midten"
+
+#~ msgid "Put Left"
+#~ msgstr "Plasser venstre"
+
+#~ msgid "Move window to the left edge"
+#~ msgstr "Flytt vindu til venstre kant"
+
+#~ msgid "Put Right"
+#~ msgstr "Plasser høyre"
+
+#~ msgid "Move window to the right edge"
+#~ msgstr "Flytt vindu ti høyre kant"
+
+#~ msgid "Put Top"
+#~ msgstr "Plasser øverst"
+
+#~ msgid "Move window to the top edge"
+#~ msgstr "Flytt vindu til øverste kant"
+
+#~ msgid "Put Bottom"
+#~ msgstr "Plasser bunn"
+
+#~ msgid "Move window to the bottom edge"
+#~ msgstr "Flytt vindu til nederste kant"
+
+#~ msgid "Put Top Left"
+#~ msgstr "Plasser øverst, venstre"
+
+#~ msgid "Move window to the top left corner"
+#~ msgstr "Flytt vindu til øverste venstre hjørne"
+
+#~ msgid "Put Top Right"
+#~ msgstr "Plasser øverst, høyre"
+
+#~ msgid "Move window to the top right corner"
+#~ msgstr "Flytt vindu til øverste høyre hjørne"
+
+#~ msgid "Put Bottom Left"
+#~ msgstr "Plasser bunn, venstre"
+
+#~ msgid "Move window to the bottom left corner"
+#~ msgstr "Flytt vindu til nederste venstre hjørne"
+
+#~ msgid "Put Bottom Right"
+#~ msgstr "Plasser bunn, høyre"
+
+#~ msgid "Move window to the bottom right corner"
+#~ msgstr "Flytt vindu til nederste høyre hjørne"
+
+#~ msgid "Move window to the last position"
+#~ msgstr "Flytt vindu til siste posisjon"
+
+#~ msgid "Put"
+#~ msgstr "Plasser"
+
+#~ msgid "Move window arbitrarily by passing x, y and type."
+#~ msgstr "Flytt vinduer tilfeldig ved å sende x, y og type."
+
+#~ msgid "Pad Left"
+#~ msgstr "Fyll venstre"
+
+#~ msgid ""
+#~ "Number of pixels from the left edge where the window will come to rest"
+#~ msgstr "Antall piksler fra venstre kant hvor vinduet vil plasseres"
+
+#~ msgid "Pad Right"
+#~ msgstr "Fyll høyre"
+
+#~ msgid ""
+#~ "Number of pixels from the right edge where the window will come to rest"
+#~ msgstr "Antall piksler fra høyre kant hvor vinduet vil plasseres"
+
+#~ msgid "Pad Top"
+#~ msgstr "Fyll toppen"
+
+#~ msgid ""
+#~ "Number of pixels from the top edge where the window will come to rest"
+#~ msgstr "Antall piksler fra øverste kant hvor vinduet vil plassere"
+
+#~ msgid "Pad Bottom"
+#~ msgstr "Fyll bunnen"
+
+#~ msgid ""
+#~ "Number of pixels from the bottom edge where the window will come to rest"
+#~ msgstr "Antall piksler fra nederste kant hvor vinduet vil plasseres"
+
+#~ msgid "Unfocus Window"
+#~ msgstr "Avfokuser vindu"
+
+#~ msgid "Window Center"
+#~ msgstr "Sentrer vindu"
+
+#~ msgid "Avoids putting window borders offscreen"
+#~ msgstr "Unngår å sette vinduskanter utenfor skjermen"
+
+#~ msgid "Animation"
+#~ msgstr "Animasjon"
+
+#~ msgid "Animation speed"
+#~ msgstr "Animasjonshastighet"
+
+#~ msgid "Timestep"
+#~ msgstr "Tidsskritt"
+
+#~ msgid "Animation timestep"
+#~ msgstr "Tidsskritt for animasjon"
+
+#, fuzzy
+#~ msgid "Screen Saver"
+#~ msgstr "Skjermdybde"
+
+#, fuzzy
+#~ msgid "Screensaver mode"
+#~ msgstr "Skjermkanter"
+
+#, fuzzy
+#~ msgid "Screensaver mode."
+#~ msgstr "Skiftermodus."
+
+#, fuzzy
+#~ msgid "Start Automatically"
+#~ msgstr "Automatisk"
+
+#, fuzzy
+#~ msgid "Start Automatically."
+#~ msgstr "Automatisk"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)"
+#~ msgstr "Varighet for inn-/ut-toning"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)."
+#~ msgstr "Varighet for inn-/ut-toning i sekunder"
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)"
+#~ msgstr "Varighet for inn-/ut-toning"
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)."
+#~ msgstr "Varighet for inn-/ut-toning i sekunder"
+
+#, fuzzy
+#~ msgid "Flying windows"
+#~ msgstr "Ringvinduer"
+
+#, fuzzy
+#~ msgid "ScreenSaver Windows"
+#~ msgstr "Snø over vinduer"
+
+#~ msgid "Generate mipmaps"
+#~ msgstr "Lag MIP-kart"
+
+#, fuzzy
+#~ msgid "Attraction Depth"
+#~ msgstr "Avstand for kanttiltrekning"
+
+#, fuzzy
+#~ msgid "Attraction Depth."
+#~ msgstr "Avstand for kanttiltrekning"
+
+#, fuzzy
+#~ msgid "Rotating cube"
+#~ msgstr "Rotasjonsvinkel"
+
+#, fuzzy
+#~ msgid "Cube rotation speed"
+#~ msgstr "Rotasjonshastighet"
+
+#~ msgid "Zoom"
+#~ msgstr "Forstørr/forminsk"
+
+#, fuzzy
+#~ msgid "Smart way to fit windows."
+#~ msgstr "Metning for vinduer"
+
+#~ msgid "Options"
+#~ msgstr "Valg"
+
+#, fuzzy
+#~ msgid "Allow stack windows"
+#~ msgstr "Alle vinduer"
+
+#, fuzzy
+#~ msgid "Allow windows shrink"
+#~ msgstr "Alle vinduer"
+
+#, fuzzy
+#~ msgid "Minimal window height"
+#~ msgstr "Tegn vindusfremheving"
+
+#, fuzzy
+#~ msgid "Minimal window width"
+#~ msgstr "Maks vindusstørrelse"
+
+#, fuzzy
+#~ msgid "Window margin"
+#~ msgstr "Vindustreff"
+
+#~ msgid ""
+#~ "How far outside the screen resolution snow flakes can be before being "
+#~ "removed. Needed because of FOV."
+#~ msgstr ""
+#~ "Hvor langt utenfor skjermoppløsningen snøfnuggene kan være før de fjerne. "
+#~ "Trengs pga. synsfelt."
+
+#~ msgid "Snow Over Windows"
+#~ msgstr "Snø over vinduer"
+
+#~ msgid "Snow is drawn above windows"
+#~ msgstr "Snø tegnes over vinduer"
+
+#~ msgid "Flakes rotate if checked."
+#~ msgstr "Snøfnugg roterer hvis avkrysset"
+
+#~ msgid "Enables alpha blending of snowflakes."
+#~ msgstr "Slår på alfa-blanding av snøfnugg."
+
+#~ msgid ""
+#~ "Enables textured snowflakes. If not selected, color gradients are used."
+#~ msgstr ""
+#~ "Slår på tekstur-snøfnugg. Hvis ikke valgt blir fargeoverganger brukt."
+
+#~ msgid "Snow Toggle"
+#~ msgstr "Slå av/på snø"
+
+#, fuzzy
+#~ msgid "Maximum number of snowflakes."
+#~ msgstr "Antall snøfnugg"
+
+#, fuzzy
+#~ msgid "Size of snowflakes."
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Size of snowman"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Size of snowman inside the cube."
+#~ msgstr "Antall fisk inne i kuben"
+
+#, fuzzy
+#~ msgid "Stack Window Switcher"
+#~ msgstr "Ringskifter"
+
+#~ msgid "Show switcher if not visible and select next window."
+#~ msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
+
+#~ msgid "Previous Window"
+#~ msgstr "Forrige vindu"
+
+#~ msgid "Show switcher if not visible and select previous window."
+#~ msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
+
+#~ msgid "Next Window (All Workspaces)"
+#~ msgstr "Neste vindu (alle arbeidsområder)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window out of all windows."
+#~ msgstr ""
+#~ "Vis skifteren hvis ikke synlig, og velg neste vindu av alle vinduer."
+
+#~ msgid "Previous Window (All Workspaces)"
+#~ msgstr "Forrige vindu (alle arbeidsområder)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select previous window out of all "
+#~ "windows."
+#~ msgstr ""
+#~ "Vis skifter hvis ikke synlig, og velg forrige vindu av alle vinduer."
+
+#~ msgid "Next Window (Group)"
+#~ msgstr "Neste vindu (gruppe)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Vis skifteren hvis den ikke er synlig, og velg neste vindu av nåværende "
+#~ "program."
+
+#~ msgid "Previous Window (Group)"
+#~ msgstr "Forrige vindu (gruppe)"
+
+#~ msgid ""
+#~ "Show switcher if not visible and select previous window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Vis skifteren hvis den ikke er synlig, og velg forrige vindu av nåværende "
+#~ "program."
+
+#~ msgid "Inactive Window Opacity"
+#~ msgstr "Dekkevne for inaktivt vindu"
+
+#, fuzzy
+#~ msgid ""
+#~ "Amount of opacity (in percent) for windows in the switcher which are not "
+#~ "selected"
+#~ msgstr "Dekkevne (i prosent) for vinduer i i ringen, som ikke er valgt"
+
+#, fuzzy
+#~ msgid "Should not selected windows be rotated"
+#~ msgstr "Skal være vindustittelen fet."
+
+#, fuzzy
+#~ msgid "Windows"
+#~ msgstr "3D-vinduer"
+
+#, fuzzy
+#~ msgid "Windows that should be shown in the switcher"
+#~ msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+
+#~ msgid "Darken Background"
+#~ msgstr "Gjør bakgrunn mørkere"
+
+#, fuzzy
+#~ msgid "Darken background when showing the stack"
+#~ msgstr "Gjør bakgrunnen mørkere når ringen vises"
+
+#~ msgid "Show Minimized"
+#~ msgstr "Vis minimerte"
+
+#~ msgid "Show windows that are minimized, shaded or in show desktop mode."
+#~ msgstr ""
+#~ "Viser vinduer som er minimert, rullet opp eller i vis-skrivebord-modus"
+
+#~ msgid "Tilt"
+#~ msgstr "Skråstill"
+
+#, fuzzy
+#~ msgid "Tilt angle of the background."
+#~ msgstr "Farge 1 av fargeoverganen i bakgrunnen"
+
+#~ msgid "Window title display"
+#~ msgstr "Vindustittelvisning"
+
+#~ msgid "Show Window Title"
+#~ msgstr "Vis vindustittel"
+
+#~ msgid "Show window title of currently selected window."
+#~ msgstr "Vis vindustittel av valgte vindu."
+
+#~ msgid "Bold Font"
+#~ msgstr "Fet skrift"
+
+#~ msgid "Selects if the window title should be displayed in bold font or not."
+#~ msgstr "Velg om vindustittelen skal bli vist i fet skrift eller ikke."
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Skriftstørrelse"
+
+#, fuzzy
+#~ msgid "Font family for the window title"
+#~ msgstr "Skriftstørrelse for vindustittelen"
+
+#~ msgid "Text Placement"
+#~ msgstr "Tekstplassering"
+
+#, fuzzy
+#~ msgid "On Thumbnail"
+#~ msgstr "Miniatyrbredde"
+
+#~ msgid "Above"
+#~ msgstr "Over"
+
+#~ msgid "Below"
+#~ msgstr "Under"
+
+#, fuzzy
+#~ msgid "Stars for Compiz"
+#~ msgstr "Snø for Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Stars"
+#~ msgstr "Antall partikler"
+
+#, fuzzy
+#~ msgid "Maximum number of stars"
+#~ msgstr "Maksimalt antall aktiver partikler"
+
+#, fuzzy
+#~ msgid "Size Of Stars"
+#~ msgstr "Snøfnuggenes størrelse"
+
+#, fuzzy
+#~ msgid "Speed of traveling stars"
+#~ msgstr "Hastighet for fallende snø"
+
+#, fuzzy
+#~ msgid "Rotate Flakes. Redundant"
+#~ msgstr "Roter snøfnugg"
+
+#, fuzzy
+#~ msgid "Snow Direction. Redundant"
+#~ msgstr "Snøretning"
+
+#, fuzzy
+#~ msgid "Stars Textures"
+#~ msgstr "Snøteksturer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enables textures snowflakes. If not selected, color gradients are used."
+#~ msgstr ""
+#~ "Slår på tekstur-snøfnugg. Hvis ikke valgt blir fargeoverganger brukt."
+
+#, fuzzy
+#~ msgid "Stars Toggle"
+#~ msgstr "Slå av/på snø"
+
+#, fuzzy
+#~ msgid "Stars toggle key"
+#~ msgstr "Tast for å slå av/på snø"
+
+#, fuzzy
+#~ msgid "Static Windows"
+#~ msgstr "Klistrede vinduer"
+
+#, fuzzy
+#~ msgid "Windows that should be kept static during transformations."
+#~ msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+
+#, fuzzy
+#~ msgid "Swap Windows"
+#~ msgstr "Smekkende vinduer"
+
+#, fuzzy
+#~ msgid "Next window"
+#~ msgstr "Neste vindu"
+
+#, fuzzy
+#~ msgid "Popup switcher if not visible and select next window"
+#~ msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
+
+#, fuzzy
+#~ msgid "Prev window"
+#~ msgstr "Forrige vindu"
+
+#, fuzzy
+#~ msgid "Popup switcher if not visible and select previous window"
+#~ msgstr "Vis skifter hvis ikke synlig og velg neste vindu."
+
+#, fuzzy
+#~ msgid "Next window (All windows)"
+#~ msgstr "Neste vindu (alle arbeidsområder)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window out of all windows"
+#~ msgstr ""
+#~ "Vis skifteren hvis ikke synlig, og velg neste vindu av alle vinduer."
+
+#, fuzzy
+#~ msgid "Prev window (All windows)"
+#~ msgstr "Forrige vindu (alle arbeidsområder)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window out of all "
+#~ "windows"
+#~ msgstr ""
+#~ "Vis skifter hvis ikke synlig, og velg forrige vindu av alle vinduer."
+
+#, fuzzy
+#~ msgid "Next window (Group)"
+#~ msgstr "Neste vindu (gruppe)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Vis skifteren hvis den ikke er synlig, og velg neste vindu av nåværende "
+#~ "program."
+
+#, fuzzy
+#~ msgid "Prev window (Group)"
+#~ msgstr "Forrige vindu (gruppe)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Vis skifteren hvis den ikke er synlig, og velg forrige vindu av nåværende "
+#~ "program."
+
+#, fuzzy
+#~ msgid "Next window (No popup)"
+#~ msgstr "Neste vindu (gruppe)"
+
+#, fuzzy
+#~ msgid "Prev window (No popup)"
+#~ msgstr "Forrige vindu (gruppe)"
+
+#, fuzzy
+#~ msgid "Select next panel type window."
+#~ msgstr "Velger hvor vindustittelen plasseres."
+
+#, fuzzy
+#~ msgid "Select previous panel type window."
+#~ msgstr "Velger hvor vindustittelen plasseres."
+
+#, fuzzy
+#~ msgid "Switcher speed"
+#~ msgstr "Skiftermodus"
+
+#, fuzzy
+#~ msgid "Switcher timestep"
+#~ msgstr "Tidsskritt for Bytt"
+
+#, fuzzy
+#~ msgid "Windows that should be shown in switcher"
+#~ msgstr "Vinduer som skal bli vist i Bytt-skifteren"
+
+#~ msgid "Show minimized windows"
+#~ msgstr "Vis minimerte vinduer"
+
+#, fuzzy
+#~ msgid "Auto Change Viewport"
+#~ msgstr "Plasser på arbeidsområde"
+
+#, fuzzy
+#~ msgid "Popup Window Delay"
+#~ msgstr "Vinduer som skal grupperes"
+
+#, fuzzy
+#~ msgid "Amount of saturation in percent"
+#~ msgstr "Ikke vis program i oversikt"
+
+#, fuzzy
+#~ msgid "Amount of brightness in percent"
+#~ msgstr "Bakgrunnens skarphet ved maling"
+
+#, fuzzy
+#~ msgid "Icon"
+#~ msgstr "Inn"
+
+#, fuzzy
+#~ msgid "Show icon next to thumbnail"
+#~ msgstr "Vis vindustittel i miniatyr."
+
+#, fuzzy
+#~ msgid "Mipmap"
+#~ msgstr "MIP-kart"
+
+#, fuzzy
+#~ msgid "Generate mipmaps when possible for higher quality scaling"
+#~ msgstr "Lag MIP-kart når det er mulig for skalering med høyere kvalitet"
+
+#, fuzzy
+#~ msgid "Centered"
+#~ msgstr "Plasser i midten"
+
+#, fuzzy
+#~ msgid "Selected Window Highlight"
+#~ msgstr "Fremhev vindu"
+
+#, fuzzy
+#~ msgid "Highlight Mode"
+#~ msgstr "Farge for fremheving"
+
+#, fuzzy
+#~ msgid "Mode for highlighting the currently selected window"
+#~ msgstr "Farge brukt for å fremheve det svevende vinduet"
+
+#, fuzzy
+#~ msgid "Show Rectangle"
+#~ msgstr "Rektangulær"
+
+#, fuzzy
+#~ msgid "Minimized Window Highlight Rectangle"
+#~ msgstr "Fremhev vindu"
+
+#, fuzzy
+#~ msgid "Taskbar Entry"
+#~ msgstr "Oppgavelinje"
+
+#, fuzzy
+#~ msgid "Color of highlight rectangle"
+#~ msgstr "Fyllfarge for utvalgsrektangelet"
+
+#, fuzzy
+#~ msgid "Highlight Border Color"
+#~ msgstr "Farge for fremheving"
+
+#, fuzzy
+#~ msgid "Highlight Border Inlay Color"
+#~ msgstr "Farge for fremheving"
+
+#, fuzzy
+#~ msgid "Throw Windows"
+#~ msgstr "Grupper vinduer"
+
+#, fuzzy
+#~ msgid "X Velocity Multipler"
+#~ msgstr "Bølgeamplitude"
+
+#, fuzzy
+#~ msgid "Y Velocity Multipler"
+#~ msgstr "Bølgeamplitude"
+
+#, fuzzy
+#~ msgid "Friction constant"
+#~ msgstr "Konstanthastighet for brann"
+
+#, fuzzy
+#~ msgid "Constrain window in display width"
+#~ msgstr "Skriftstørrelse for visning av vindustittel"
+
+#, fuzzy
+#~ msgid "Constrain window in display height"
+#~ msgstr "Skriftstørrelse for visning av vindustittel"
+
+#~ msgid "Tile"
+#~ msgstr "Flislegg"
+
+#~ msgid "Tile windows"
+#~ msgstr "Flislegg vinduer"
+
+#~ msgid "Tiling Animation Type"
+#~ msgstr "Animasjonstype for flislegging"
+
+#~ msgid "Selects the animation used while tiling"
+#~ msgstr "Velger animasjonen som brukes ved flislegging"
+
+#~ msgid "Filled Outline"
+#~ msgstr "Fylt omriss"
+
+#~ msgid "Slide"
+#~ msgstr "Gli"
+
+#~ msgid "Drop From Top"
+#~ msgstr "Slipp fra toppen"
+
+#~ msgid "Animation Duration"
+#~ msgstr "Animasjonsvarighet"
+
+#~ msgid "Duration (in ms) of the tiling animation"
+#~ msgstr "Varighet (i ms) for flisleggingsanimasjonen"
+
+#~ msgid "Tiling Method For Toggle"
+#~ msgstr "Flisleggingsmetode for slå av/på"
+
+#~ msgid "Choose the tiling type you want when using toggle."
+#~ msgstr "Velg flisleggingstypen du vil bruke når du slår av/på."
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Flislegg horisontalt"
+
+#~ msgid "Cascade"
+#~ msgstr "Tett-i-tett"
+
+#~ msgid "Join Windows (EXPERIMENTAL)"
+#~ msgstr "Slå sammen vinduer (EKSPERIMENTELT)"
+
+#~ msgid ""
+#~ "Tries to join the windows together when horizontal, vertical or left "
+#~ "tiling is enabled so that when you resize a window surrounding windows "
+#~ "resize accordingly. This may cause problems if you dont leave them enough "
+#~ "space."
+#~ msgstr ""
+#~ "Forsøker å slå vinduer sammen når horisontal, vertikal eller venstre "
+#~ "flislegging brukes, slik at når du endrer størrelse på et vindu endres "
+#~ "omkringliggende vinduer i tråd med dette. Dette kan forårsake problemer "
+#~ "hvis du ikke gir dem nok plass."
+
+#~ msgid "Cascade Delta"
+#~ msgstr "Mellomrom for tett-i-tett"
+
+#~ msgid "Distance between windows when using cascade"
+#~ msgstr "Avstand mellom vinduer ved tett-i-tett"
+
+#~ msgid "Left Occupancy"
+#~ msgstr "Venstre oppdekning"
+
+#~ msgid ""
+#~ "Occupancy percentage for window placed left. This number is percentage of "
+#~ "screen width, which the active window will have it as width when tiled. "
+#~ "Applies to Left tiling type."
+#~ msgstr ""
+#~ "Prosentandel for oppdekning for vinduer plassert til venstre. Dette "
+#~ "tallet er prosentandel av skjermbredde, som det aktive vinduet vil ha som "
+#~ "dets bredde når det blir flislagt. Gjelder for Venstre flisleggingstype."
+
+#~ msgid "Excluded Windows"
+#~ msgstr "Ekskluderte vinduer"
+
+#~ msgid "Windows which should be excluded from tiling"
+#~ msgstr "Vinduer som skal ekskluderes fra flislegging"
+
+#~ msgid "Tile Windows Vertically"
+#~ msgstr "Flislegg vinduer vertikalt"
+
+#~ msgid ""
+#~ "Move and resize all visible windows so that they have full height, same "
+#~ "width and occupy whole screen."
+#~ msgstr ""
+#~ "Flytt og gjør om størrelse på alle synlige, slik at de har full høyde, "
+#~ "samme bredde og opptar hele skjermen."
+
+#~ msgid "Tile Windows Horizontally"
+#~ msgstr "Flislegg vinduer horisontalt"
+
+#~ msgid ""
+#~ "Move and resize all visible windows so that they have full width, same "
+#~ "height and occupy whole screen."
+#~ msgstr ""
+#~ "Flytt og gjør om størrelse på alle synlige, slik at de har full bredde, "
+#~ "samme høyde og opptar hele skjermen."
+
+#~ msgid "Tile Windows"
+#~ msgstr "Flislegg vinduer"
+
+#~ msgid ""
+#~ "Move and resize all visible windows both vertically and horizontally, so "
+#~ "that the occupy whole screen and are in a grid."
+#~ msgstr ""
+#~ "Flytt og gjør om størrelse på alle synlige vinduer både vertikalt og "
+#~ "horisontalt, slik at de opptar hele skjermen og er i et rutenett."
+
+#~ msgid "Cascade Windows"
+#~ msgstr "Legg vinduer tett i tett"
+
+#~ msgid ""
+#~ "Move and resize all visible windows with the delta value set for "
+#~ "cascading."
+#~ msgstr ""
+#~ "Flytt og gjør om størrelse på alle synlige vinduer med deltaverdien satt "
+#~ "for tett-i-tett-vinsing."
+
+#~ msgid "Restore Windows"
+#~ msgstr "Gjenopprett vinduer"
+
+#~ msgid "Restore windows to their original position they had before tiling."
+#~ msgstr "Gjenopprett vinduer til posisjonen de hadde før flislegging."
+
+#~ msgid "Toggle between tile and restore"
+#~ msgstr "Bytt mellom flislegg og gjenopprett"
+
+#, fuzzy
+#~ msgid "Toggle Decoration"
+#~ msgstr "Speiling for deokrasjoner"
+
+#, fuzzy
+#~ msgid "Toggle decoration"
+#~ msgstr "Skru av/på videresend"
+
+#, fuzzy
+#~ msgid "Toggle all particle effects."
+#~ msgstr "Slå av/på bevegelsesslør-effekt"
+
+#, fuzzy
+#~ msgid "Global horizontal gravity"
+#~ msgstr "Horisontale bretter"
+
+#, fuzzy
+#~ msgid "Strength"
+#~ msgstr "Kurvestyrke"
+
+#, fuzzy
+#~ msgid "Position Y"
+#~ msgstr "X-posisjon"
+
+#, fuzzy
+#~ msgid "Movement Type"
+#~ msgstr "Hastighet for musebevegelse"
+
+#, fuzzy
+#~ msgid "Mouse Position"
+#~ msgstr "Gjenopprett posisjon"
+
+#, fuzzy
+#~ msgid "Follow Mouse"
+#~ msgstr "Forsinkelse for fokusfølging"
+
+#, fuzzy
+#~ msgid "Emitters"
+#~ msgstr "Utsendere"
+
+#, fuzzy
+#~ msgid "Active"
+#~ msgstr "Aktiver"
+
+#, fuzzy
+#~ msgid "Mouse Movement"
+#~ msgstr "Hastighet for musebevegelse"
+
+#, fuzzy
+#~ msgid "Random Shot"
+#~ msgstr "Tilfeldig"
+
+#, fuzzy
+#~ msgid "Random Period"
+#~ msgstr "Tilfeldig"
+
+#, fuzzy
+#~ msgid "Emitter Speed"
+#~ msgstr "Skiftermodus"
+
+#, fuzzy
+#~ msgid "Emitter Angle"
+#~ msgstr "Utsendere"
+
+#, fuzzy
+#~ msgid "Particle count"
+#~ msgstr "Partikkelfarge"
+
+#, fuzzy
+#~ msgid "Color hue"
+#~ msgstr "Farger"
+
+#, fuzzy
+#~ msgid "Color hue range"
+#~ msgstr "Fargeforandring for glød"
+
+#, fuzzy
+#~ msgid "Color lightness range"
+#~ msgstr "Fyllfarge for utvalgsrektangelet"
+
+#, fuzzy
+#~ msgid "The vertical range of the particles."
+#~ msgstr "Ha tilfeldige farger for partiklene"
+
+#, fuzzy
+#~ msgid "The circular range of the particles."
+#~ msgstr "Ha tilfeldige farger for partiklene"
+
+#, fuzzy
+#~ msgid "X speed"
+#~ msgstr "Ringhastighet"
+
+#, fuzzy
+#~ msgid "Y speed"
+#~ msgstr "Ringhastighet"
+
+#, fuzzy
+#~ msgid "The vertical speed of the particles."
+#~ msgstr "Ha tilfeldige farger for partiklene"
+
+#, fuzzy
+#~ msgid "Aging speed"
+#~ msgstr "Ringhastighet"
+
+#~ msgid "Rotation speed"
+#~ msgstr "Rotasjonshastighet"
+
+#, fuzzy
+#~ msgid "Aging speed range"
+#~ msgstr "Ringhastighet"
+
+#, fuzzy
+#~ msgid "Rotation speed range"
+#~ msgstr "Rotasjonshastighet"
+
+#~ msgid "Particle Size"
+#~ msgstr "Partikkelstørrelse"
+
+#, fuzzy
+#~ msgid "The size of the particles."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "Particle Size Range"
+#~ msgstr "Partikkelstørrelse"
+
+#, fuzzy
+#~ msgid "The size range of the particles."
+#~ msgstr "Fanelinjens stil"
+
+#, fuzzy
+#~ msgid "New Size"
+#~ msgstr "Glødstørrelse"
+
+#, fuzzy
+#~ msgid "The size of the particles when they are new."
+#~ msgstr "Mal brann eller andre partikler på skjermen"
+
+#, fuzzy
+#~ msgid "The size range of the particles when they are new."
+#~ msgstr "Mal brann eller andre partikler på skjermen"
+
+#, fuzzy
+#~ msgid "Hard limit for particles"
+#~ msgstr "Ha tilfeldige farger for partiklene"
+
+#, fuzzy
+#~ msgid "Soft limit for particles"
+#~ msgstr "Fartsgrense for fjæringsmodell"
+
+#~ msgid "Darken backgound"
+#~ msgstr "Gjør bakgrunn mørkere"
+
+#~ msgid "Darken background under particles"
+#~ msgstr "Gjør bakgrunn mørkere under partiklene"
+
+#~ msgid "Additive blending"
+#~ msgstr "Tilleggsblanding"
+
+#~ msgid "Additive blending of particles"
+#~ msgstr "Tilleggsblanding av partikler"
+
+#, fuzzy
+#~ msgid "New particle time"
+#~ msgstr "Levetid for brannpartikkel."
+
+#, fuzzy
+#~ msgid "Old particle time"
+#~ msgstr "Levetid for brannpartikkel."
+
+#, fuzzy
+#~ msgid "Viewport"
+#~ msgstr "Arbeidsområde øverst"
+
+#, fuzzy
+#~ msgid "Number of viewport to be named"
+#~ msgstr "Antall vinduer å holde rede på"
+
+#, fuzzy
+#~ msgid "Viewport name"
+#~ msgstr "Arbeidsområde venstre"
+
+#~ msgid "Display Time"
+#~ msgstr "Visningsvarighet"
+
+#, fuzzy
+#~ msgid "Time (in s) the name display fades out after being shown."
+#~ msgstr "Tid (i sek) fanelinjen er synlig etter fanebytte"
+
+#, fuzzy
+#~ msgid "Text Display"
+#~ msgstr "Visningsvarighet"
+
+#, fuzzy
+#~ msgid "Selects if the text should be displayed in bold font or not."
+#~ msgstr "Velg om vindustittelen skal bli vist i fet skrift eller ikke."
+
+#, fuzzy
+#~ msgid "Font family for the text display."
+#~ msgstr "Skriftstørrelse for visning av vindustittel"
+
+#, fuzzy
+#~ msgid "Font size for the text display."
+#~ msgstr "Skriftstørrelse for visning av vindustittel"
+
+#, fuzzy
+#~ msgid "Selects where to place the text."
+#~ msgstr "Velger hvor vindustittelen plasseres."
+
+#, fuzzy
+#~ msgid "Top of screen"
+#~ msgstr "Unngå utenfor skjermen"
+
+#, fuzzy
+#~ msgid "Bottom of screen"
+#~ msgstr "Nederst til øverst"
+
+#~ msgid "Colors"
+#~ msgstr "Farger"
+
+#, fuzzy
+#~ msgid "Background color for the text display."
+#~ msgstr "Bakgrunnsfarge for vindustittelen"
+
+#, fuzzy
+#~ msgid "Font color for the text display."
+#~ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "3D Only On Mouse Rotate"
 #~ msgstr "3D bare ved muserotasjon"
@@ -3288,9 +3307,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Color of an inactive window's depth"
 #~ msgstr "Farge på et inaktivt vindus dybde"
 
-#~ msgid "Color of the active window's depth"
-#~ msgstr "Farge på det aktive vinduets dybde"
-
 #~ msgid "Elevates windows while rotating the cube"
 #~ msgstr "Hever vinduer mens kuben roterer"
 
@@ -3314,14 +3330,8 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Window Color (Inactive)"
 #~ msgstr "Vindusfarge (inaktivt)"
 
-#~ msgid "Window Depth"
-#~ msgstr "Vindusdybde"
-
 #~ msgid "Window Space"
 #~ msgstr "Avstand mellom vinduer"
-
-#~ msgid "Window depth"
-#~ msgstr "Vindusdybde"
 
 #~ msgid "Windows that should be handled by 3D"
 #~ msgstr "Vinduer som skal bli håndtert av 3D"
@@ -3433,9 +3443,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Fire Smoke"
 #~ msgstr "Røyk"
-
-#~ msgid "Fire direction"
-#~ msgstr "Brannretning"
 
 #~ msgid "Fire particle slowdown."
 #~ msgstr "Nedbremsing for brannpartikkel."
@@ -3651,9 +3658,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Curved Fold Amplitude Multiplier"
 #~ msgstr "Amplitude for rundede bretter"
 
-#~ msgid "Dodge"
-#~ msgstr "Unngå"
-
 #~ msgid "Dodge Gap Ratio"
 #~ msgstr "Mellomromsratio for Unngå"
 
@@ -3717,9 +3721,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Minimize/Unminimize Only"
 #~ msgstr "Kun minimer/avminimer"
-
-#~ msgid "Number of Horizontal Folds"
-#~ msgstr "Antall horisontale bretter"
 
 #~ msgid "Number of rotations for Sidekick (plus or minus 10% for randomness)."
 #~ msgstr ""
@@ -3834,9 +3835,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "The width of the wave relative to the window height."
 #~ msgstr "Bølgebredden, relativ til vindushøyden."
 
-#~ msgid "The windows that will be animated."
-#~ msgstr "Vinduene som vil bli animert."
-
 #~ msgid "Use various animations as window effects"
 #~ msgstr "Bruk diverse animasjoner som vinduseffekter"
 
@@ -3919,9 +3917,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Window that should animate with this effect when shaded."
 #~ msgstr "Vindu som skal animeres med denne effekten når det blir skyggelagt."
 
-#~ msgid "Zoom Springiness"
-#~ msgstr "Fjæring ved forstørring/forminsking"
-
 #~ msgid "Zoom from Center"
 #~ msgstr "Forstørr/forminsk fra midten"
 
@@ -3999,9 +3994,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Filter colors for accessibility purposes"
 #~ msgstr "Filtrer farger for tilgjengelighetshensyn"
 
-#~ msgid "Filtered windows"
-#~ msgstr "Filtrerte vinduer"
-
 #~ msgid "Filters files"
 #~ msgstr "Filterfiler"
 
@@ -4026,9 +4018,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Toggle filtering for currently focused window."
 #~ msgstr "Skru av/på filtrering for vinduet som nå er fokusert."
-
-#~ msgid "Toggle screen filtering"
-#~ msgstr "Skru av/på skjermfiltrering"
 
 #~ msgid "Toggle window filtering"
 #~ msgstr "Skru av/på vindusfiltrering"
@@ -4075,9 +4064,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Adjust bottom face image to rotation"
 #~ msgstr "Juster bunnbilde til rotasjon"
-
-#~ msgid "Adjust bottom image"
-#~ msgstr "Juster bunnbilde"
 
 #~ msgid "Adjust top face image to rotation"
 #~ msgstr "Juster toppbilde til rotasjon"
@@ -4153,10 +4139,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr "Deformering"
 
 #, fuzzy
-#~ msgid "Deform only on mouse rotate"
-#~ msgstr "Autoforstørr/forminsk kun ved muserotering"
-
-#, fuzzy
 #~ msgid "Deformation in unfold cube mode."
 #~ msgstr "Deformeringens styrke i kurvemodus"
 
@@ -4224,9 +4206,6 @@ msgstr "Skriftfarge for vindustittelen"
 #, fuzzy
 #~ msgid "Maintain top cap image aspect ratio."
 #~ msgstr "Juster toppbilde til rotasjon"
-
-#~ msgid "Next bottom image"
-#~ msgstr "Neste bunnbilde"
 
 #~ msgid "Next top image"
 #~ msgstr "Neste toppbilde"
@@ -4448,9 +4427,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Show a reflection of the viewports on the ground"
 #~ msgstr "Vis et speil av arbeidsområdene på bakken"
 
-#~ msgid "Strength of the deformation in curve mode"
-#~ msgstr "Deformeringens styrke i kurvemodus"
-
 #~ msgid "Timeframe to execute a double click"
 #~ msgstr "Tidsramme for å utføre et dobbelklikk"
 
@@ -4508,9 +4484,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ "Prøv å holde den forstørrede musen synlig ved å kaste den tilbake når den "
 #~ "beveges utenfor det forstørrede området."
 
-#~ msgid "Center the mouse"
-#~ msgstr "Sentrer musen"
-
 #, fuzzy
 #~ msgid "Dynamic mouse pointer scale"
 #~ msgstr "Skaler musepekeren"
@@ -4536,9 +4509,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Filter Linear"
 #~ msgstr "Filtrer lineært"
 
-#~ msgid "Fit the window to the zoom level"
-#~ msgstr "Tilpass vinduet til forstørrelsesnivået"
-
 #~ msgid ""
 #~ "Fit the zoomed area to the window when the zoomed area moves as a result "
 #~ "of focus tracking."
@@ -4563,9 +4533,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Fitting"
 #~ msgstr "Tilpasning"
 
-#~ msgid "Focus Tracking"
-#~ msgstr "Fokussporing"
-
 #~ msgid "Hide original mouse pointer"
 #~ msgstr "Skjul original musepeker"
 
@@ -4579,9 +4546,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Mouse Behavior"
 #~ msgstr "Oppførsel for mus"
-
-#~ msgid "Mouse Restrain Margin"
-#~ msgstr "Tilbakeholdingsmargin for mus"
 
 #~ msgid "Mouse panning"
 #~ msgstr "Musepanorering"
@@ -4608,9 +4572,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Pan (move) the zoom area left"
 #~ msgstr "Panorer (flytt) det forstørrede området til venstre"
-
-#~ msgid "Pan (move) the zoom area right"
-#~ msgstr "Panorer (flytt) det forstørrede området til høyre"
 
 #~ msgid "Pan (move) the zoom area up"
 #~ msgstr "Panorer (flytt) det forstørrede området oppover"
@@ -4651,9 +4612,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Restrain the mouse to the zoom area"
 #~ msgstr "Hold musen innefor det forstørrede området"
 
-#~ msgid "Scale the mouse pointer"
-#~ msgstr "Skaler musepekeren"
-
 #~ msgid "Specific Zoom"
 #~ msgstr "Spesifikk forstørrelse"
 
@@ -4691,9 +4649,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Use linear filter when zoomed in"
 #~ msgstr "Bruk lineært filter når forstørret"
-
-#~ msgid "Zoom Area Movement"
-#~ msgstr "Bevegelse for forstørrelsesområde"
 
 #, fuzzy
 #~ msgid "Zoom Box"
@@ -4808,17 +4763,11 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Border Radius"
 #~ msgstr "Kantradius"
 
-#~ msgid "Border Width"
-#~ msgstr "Kantbredde"
-
 #~ msgid "Border color of the tab bar"
 #~ msgstr "Kantfarge for fanelinjen"
 
 #~ msgid "Change Tab Left"
 #~ msgstr "Bytt fane venstre"
-
-#~ msgid "Change Tab Right"
-#~ msgstr "Bytt fane høyre"
 
 #~ msgid "Change tab animation duration"
 #~ msgstr "Varighet for animasjon for fanebytte"
@@ -4879,9 +4828,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Glow"
 #~ msgstr "Glød"
-
-#~ msgid "Glow Type"
-#~ msgstr "Glødtype"
 
 #~ msgid "Glow ring"
 #~ msgstr "Glødering"
@@ -5017,26 +4963,14 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Select"
 #~ msgstr "Velg"
 
-#~ msgid "Select Single Window"
-#~ msgstr "Velg enkelt vindu"
-
 #~ msgid "Selection"
 #~ msgstr "Utvalg"
 
 #~ msgid "Shade with group"
 #~ msgstr "Rull med gruppe"
 
-#~ msgid "Simple"
-#~ msgstr "Enkel"
-
-#~ msgid "Slot Drag Spring K"
-#~ msgstr "K for fjæring for plassdragning"
-
 #~ msgid "Slot Dragging"
 #~ msgstr "Plassdragning"
-
-#~ msgid "Slot drag friction"
-#~ msgstr "Friksjon for plassdragning"
 
 #~ msgid "Space"
 #~ msgstr "Mellomrom"
@@ -5052,9 +4986,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Tab Base Color"
 #~ msgstr "Fanegrunnlagets farge"
-
-#~ msgid "Tab Border Color"
-#~ msgstr "Fanekantens farge"
 
 #~ msgid "Tab Group"
 #~ msgstr "Fanegruppe"
@@ -5129,9 +5060,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "The size of the window thumbs in the task bar"
 #~ msgstr "Størrelsen på vindusminiatyrer i oppgavelinjen"
 
-#~ msgid "The size of the window title font in the tab bar"
-#~ msgstr "Størrelsen på vindutittelens skrifttype i fanelinjen"
-
 #~ msgid "The space between the thumbs"
 #~ msgstr "Mellomrommet mellom miniatyrene"
 
@@ -5143,9 +5071,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "The width of the tab bar outline"
 #~ msgstr "Bredden på fanelinjens omriss"
-
-#~ msgid "Thumb Size"
-#~ msgstr "Miniatyrstørrelse"
 
 #~ msgid "Time (in s) before the tab bar is shown after hovering the title bar"
 #~ msgstr "Tid (i sek) før fanelinjen vises etter å sveve over tittellinjen"
@@ -5162,9 +5087,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Tidsspenn (i sek) hvoretter et gruppert vindu er aktivert hvis et vindu "
 #~ "fra en annen gruppe er dratt over det"
-
-#~ msgid "Ungroup Windows"
-#~ msgstr "Avgrupper vinduer"
 
 #~ msgid "Ungroup the windows if only one window is left"
 #~ msgstr "Avgrupper vinduene hvis bare ett vindu er igjen"
@@ -5243,9 +5165,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Window opacity."
 #~ msgstr "Dekkevne for vindu."
-
-#~ msgid "Border color"
-#~ msgstr "Kantfarge"
 
 #~ msgid "Border width"
 #~ msgstr "Kantbredde"
@@ -5485,9 +5404,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Motion Blur render mode."
 #~ msgstr "Gjengivelsesmodus for Bevegelsesslør"
 
-#~ msgid "Motion Blur strength."
-#~ msgstr "Styrke for Bevegelsesslør"
-
 #~ msgid "Motion blur"
 #~ msgstr "Bevegelsesslør"
 
@@ -5502,46 +5418,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Visibility/Performance"
 #~ msgstr "Synlighet/ytelse"
-
-#~ msgid "Action"
-#~ msgstr "Hendelse"
-
-#~ msgid "Action that is to be invoked."
-#~ msgstr "Hendelse som skal utføres."
-
-#~ msgid "Assign mousegestures to any existing action"
-#~ msgstr "Tilegn musebevegelser til enhver eksisterende hendelse"
-
-#~ msgid "Detect Diagonal Movements"
-#~ msgstr "Gjenkjenn diagonale bevegelser"
-
-#~ msgid "Gesture"
-#~ msgstr "Gest"
-
-#~ msgid "Gesture assignment"
-#~ msgstr "Tilegning av gester"
-
-#~ msgid "Gestures"
-#~ msgstr "Gester"
-
-#~ msgid ""
-#~ "If this option is selected, diagonal movements are detected, which may "
-#~ "lead to a decreased detection accuracy."
-#~ msgstr ""
-#~ "Hvis dette valget velges, vil diagonale bevegelser gjenkjennes, noe som "
-#~ "kan føre til nedsatt gjenkjennelses-nøyaktighet."
-
-#~ msgid "Mouse gesture to assign an action to."
-#~ msgstr "Musebevegelser å tilegne en hendelse til."
-
-#~ msgid "Mousegestures"
-#~ msgstr "Musegester"
-
-#~ msgid "Plugin"
-#~ msgstr "Tillegg"
-
-#~ msgid "Plugin the action belongs to."
-#~ msgstr "Tillegget som hendelsen tilhører."
 
 #~ msgid ""
 #~ "How often to poll the mouse position, in miliseconds. Reduce this to "
@@ -5583,14 +5459,8 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Error"
 #~ msgstr "Feil"
 
-#~ msgid "Error Notifications"
-#~ msgstr "Feilmeldinger"
-
 #~ msgid "Fatal"
 #~ msgstr "Fatal"
-
-#~ msgid "Hide Timeout"
-#~ msgstr "Ventetid før skjul"
 
 #~ msgid "Info"
 #~ msgstr "Info"
@@ -5611,9 +5481,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Warning"
 #~ msgstr "Advarsel"
 
-#~ msgid "Active Opacity"
-#~ msgstr "Aktiv dekkevne"
-
 #~ msgid ""
 #~ "Bypass delay when Opacify is reducing the opacity on one or more windows "
 #~ "already."
@@ -5624,9 +5491,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Bypass delay when the new active window is the focused window."
 #~ msgstr ""
 #~ "Gå forbi forsinkelse når det nye aktive vinduet er vinduet med fokus."
-
-#~ msgid "Delay until Opacification"
-#~ msgstr "Forsink til Dekning"
 
 #~ msgid ""
 #~ "Do not wait if the window we are hovering is the focused window. This "
@@ -5653,12 +5517,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Opacify"
 #~ msgstr "Dekk"
 
-#~ msgid "Opacity Levels"
-#~ msgstr "Dekkevnenivåer"
-
-#~ msgid "Passive Opacity"
-#~ msgstr "Passiv dekkevne"
-
 #~ msgid "Reset opacity to original values when toggling"
 #~ msgstr "Tilbakestill dekkevne til utgangsverider ved å slå av/på"
 
@@ -5668,31 +5526,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Tilbakestill dekkevnen til alle vinduer som er modifisert av Dekk når du "
 #~ "slår av/på Dekk med den definerte tastekombinasjonen."
-
-#~ msgid ""
-#~ "The delay (in ms) before Opacify changes opacity after the active window "
-#~ "has changed."
-#~ msgstr ""
-#~ "Forsinkelsen (i ms) før Dekk endrer dekkevne etter at det aktive vinduet "
-#~ "har blitt endret."
-
-#~ msgid ""
-#~ "The maximum opacity percentage a window blocking the current targeted "
-#~ "window can have. A blocking window will have either this opacity or the "
-#~ "preset opacity, whichever is lower."
-#~ msgstr ""
-#~ "Maksimum prosentandel dekkevne et vindu som blokkerer det nåværende "
-#~ "siktede vinduet kan ha. Et blokkerende vindu vil enten ha denne dekkevnen "
-#~ "eller den forhåndsinnstilte, etter hvilken som er lavest."
-
-#~ msgid ""
-#~ "The minimum opacity percentage to ensure a targeted window has. A target "
-#~ "window will have either this opacity or the preset opacity, whichever is "
-#~ "higher."
-#~ msgstr ""
-#~ "Minimum prosentandel dekkevne et siktet vindu har. Et målvindu vil enten "
-#~ "ha denne dekkevnen eller den forhåndsinnstilte, etter hvilken som er "
-#~ "høyest."
 
 #~ msgid ""
 #~ "This enables you to let Opacify instantly opacify new windows when you're "
@@ -5715,9 +5548,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Bruk dette for å slå av/på Dekk mens du arbeider. Tidligere Dekk-ede "
 #~ "vinduer vil ikke bli tilbakestil når du slår det av på denne måten."
-
-#~ msgid "Windows that should be opacified."
-#~ msgstr "Vinduer som skal bli Dekk-et"
 
 #~ msgid ""
 #~ "With this enabled, opacify will be on when you load Opacify, which is "
@@ -6085,9 +5915,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ "skaleringsnivået henholdsvis økes eller senkes manuelt. Høyere tall betyr "
 #~ "finere endringer."
 
-#~ msgid "Trigger scale down"
-#~ msgstr "Utløs nedskalering"
-
 #~ msgid ""
 #~ "Visually scales a window down to allow easy monitoring without true/"
 #~ "traditional resizing."
@@ -6100,9 +5927,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Background intensity."
 #~ msgstr "Bakgrunnsintensitet"
-
-#~ msgid "Click duration"
-#~ msgstr "Klikkvarighet"
 
 #~ msgid "Cover"
 #~ msgstr "Dekk"
@@ -6219,9 +6043,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Window Part Size"
 #~ msgstr "Størrelse for vindusdel"
 
-#~ msgid "Window movement speed"
-#~ msgstr "Hastighet for vindusbevegelse"
-
 #~ msgid "Window movement timestep"
 #~ msgstr "Tidsskritt for vindusbevegelse"
 
@@ -6284,9 +6105,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Edge Resistance Distance"
 #~ msgstr "Avstand for kantmotstand"
 
-#~ msgid "Edge attraction"
-#~ msgstr "Kanttiltrekning"
-
 #~ msgid "Edge resistance"
 #~ msgstr "Kantmotstand"
 
@@ -6347,9 +6165,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Splash"
 #~ msgstr "Plask"
 
-#~ msgid "Start Splash."
-#~ msgstr "Start Plask"
-
 #, fuzzy
 #~ msgid "Allow selection of windows from the switcher window with the mouse"
 #~ msgstr ""
@@ -6379,11 +6194,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Paint Window Like Background instead of Glow."
 #~ msgstr "Mal vindu som bakgrunn i stedet for glød"
 
-#~ msgid "Set it if the Taskbar shows only Windows of Current Viewport."
-#~ msgstr ""
-#~ "Sett dette hvis oppgavelinjen kun viser vinduer fra nåværende "
-#~ "arbeidsområde."
-
 #~ msgid "Should be the window title Bold."
 #~ msgstr "Skal være vindustittelen fet."
 
@@ -6395,9 +6205,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Taskbar"
 #~ msgstr "Oppgavelinje"
-
-#~ msgid "Taskbar Shows Only Windows of Current Viewport"
-#~ msgstr "Oppgavelinje viser bare vinduer fra nåværende arbeidsområde"
 
 #~ msgid "Thumbnail Background and Border Glow Color."
 #~ msgstr "Miniatyrbakgrunn og kantens glødefarge"
@@ -6429,9 +6236,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Window title"
 #~ msgstr "Vindustittel"
 
-#~ msgid "Window title Font Color."
-#~ msgstr "Skriftfarge for vindustittel."
-
 #~ msgid "Window title Font Size."
 #~ msgstr "Skriftstørrelse for vindustittelen."
 
@@ -6441,9 +6245,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Juster dekkevne, metning og skarphet for vinduer basert på når de sist "
 #~ "hadde fokus."
-
-#~ msgid "Brightness Level of Focused Windows"
-#~ msgstr "Skarphetsnivå for fokuserte vinduer"
 
 #~ msgid "Brightness Level of Unfocused Windows"
 #~ msgstr "Skarphetsnivå for ikke-fokuserte vinduer"
@@ -6542,9 +6343,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Go to specific viewport"
 #~ msgstr "Gå til spesifikt arbeidsområde"
 
-#~ msgid "Initiate plugin action"
-#~ msgstr "Begynn hendelse for tillegg"
-
 #~ msgid "Initiate viewport changes through several events"
 #~ msgstr "Begynn endringer for arbeidsområde gjennom flere hendelser"
 
@@ -6560,20 +6358,11 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Move Up"
 #~ msgstr "Flytt opp"
 
-#~ msgid "Move down"
-#~ msgstr "Flytt ned"
-
-#~ msgid "Move to the left"
-#~ msgstr "Flytt til venstre"
-
 #~ msgid "Move to the next viewport"
 #~ msgstr "Flytt til neste arbeidsområde"
 
 #~ msgid "Move to the previous viewport"
 #~ msgstr "Flytt til forrige arbeidsområde"
-
-#~ msgid "Move to the right"
-#~ msgstr "Flytt til høyre"
 
 #~ msgid "Move up"
 #~ msgstr "Flytt opp"
@@ -6674,24 +6463,11 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Background Gradient"
 #~ msgstr "Bakgrunnens fargeovergang"
 
-#~ msgid "Base Color"
-#~ msgstr "Basisfarge"
-
-#~ msgid "Desktop Wall"
-#~ msgstr "Skrivebordsvegg"
-
 #~ msgid "Desktop Wall Plugin"
 #~ msgstr "Skrivebordsvegg-tillegg"
 
 #~ msgid "Duration (in s) for wall sliding viewport switching animation"
 #~ msgstr "Varighet (i sek) for animasjon for glidende arbeidsområde-bytting"
-
-#~ msgid ""
-#~ "Duration (in s) the switch target preview should remain visible after "
-#~ "switching ends."
-#~ msgstr ""
-#~ "Varighet (i sek) forhåndsvisningen av byttemålet skal fortsette å være "
-#~ "synlig etter bytting er ferdig."
 
 #~ msgid "Edge Flip DnD"
 #~ msgstr "Kantbytt dra-og-slipp"
@@ -6721,9 +6497,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Første farge for fargeovergangen for miniatyrfremhevingen til "
 #~ "byttevinduet."
-
-#~ msgid "First color of the arrow of the switcher window."
-#~ msgstr "Første farge til pilen i byttevinduet."
 
 #~ msgid "Flip Down"
 #~ msgstr "Bytt ned"
@@ -6791,9 +6564,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Move along the wall to the right"
 #~ msgstr "Flytt langs veggen til høyre"
 
-#~ msgid "Move along the wall up"
-#~ msgstr "Flytt langs veggen oppover"
-
 #~ msgid "Move with window along the wall down"
 #~ msgstr "Flytt med vindu langs veggen nedover"
 
@@ -6839,12 +6609,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr ""
 #~ "Andre farge for fargeovergangen i fremhevningen av miniatyren i "
 #~ "byttevinduet."
-
-#~ msgid "Second color of the arrow of the switcher window."
-#~ msgstr "Andre farge for pilen i byttevinduet."
-
-#~ msgid "Shadow Color"
-#~ msgstr "Skyggefarge"
 
 #~ msgid "Show Live Viewport Previews"
 #~ msgstr "Vis levende forhåndsvisning av arbeidsområde"
@@ -6921,10 +6685,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgstr "Skaler-tillegg"
 
 #, fuzzy
-#~ msgid "Second gradient color."
-#~ msgstr "Fargeovergang, farge 1"
-
-#, fuzzy
 #~ msgid "Tiled"
 #~ msgstr "Flislegg"
 
@@ -6956,9 +6716,6 @@ msgstr "Skriftfarge for vindustittelen"
 #~ msgid "Time (in s) for fading into/out of the widget layer."
 #~ msgstr "Tid (i sek) for inn- og uttoning av miniprogram-laget."
 
-#~ msgid "Toggle Widget Display"
-#~ msgstr "Skru av/på miniprogram-visning"
-
 #~ msgid "Widget Layer"
 #~ msgstr "Miniprogram-lag"
 
@@ -6985,9 +6742,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Fullscreen windows"
 #~ msgstr "Fullskjermvinduer"
-
-#~ msgid "Height values"
-#~ msgstr "Høydeverdier"
 
 #~ msgid "Matches"
 #~ msgstr "Treff"
@@ -7293,9 +7047,6 @@ msgstr "Skriftfarge for vindustittelen"
 
 #~ msgid "Tilt window view in expo mode"
 #~ msgstr "Skråstill i ekspo-modus"
-
-#~ msgid "Move window to x, y"
-#~ msgstr "Flytt vindu til x, y"
 
 #~ msgid "Put Exact"
 #~ msgstr "Plasser nøyaktig"

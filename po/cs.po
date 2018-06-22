@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compiz-plugins\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
-"community/issues\n"
-"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: 2009-09-20 21:03+0200\n"
 "Last-Translator: Jan Vlnas <l10n@syntax.oib.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
@@ -18,747 +17,80 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-msgid "Anaglyph"
-msgstr ""
-
-msgid "Anaglyph window and Desktop"
+msgid "Boing"
 msgstr ""
 
 #, fuzzy
-msgid "Initiate Window"
-msgstr "Aktivovat okno"
+msgid "Boing for Compiz"
+msgstr "Sníh pro Compiz"
 
-msgid "Start anaglyph window"
-msgstr ""
-
-#, fuzzy
-msgid "Initiate Screen"
-msgstr "Spustit"
-
-msgid "Start anaglyph screen"
-msgstr ""
+msgid "Settings"
+msgstr "Nastavení"
 
 #, fuzzy
-msgid "Initiate Window Button"
-msgstr "Smazat (tlačítko)"
+msgid "Number Of balls"
+msgstr "Počet částic"
 
 #, fuzzy
-msgid "Start anaglyph active window"
-msgstr "Aktivuje dané okno"
-
-#, fuzzy
-msgid "Initiate Screen Button"
-msgstr "Smazat (tlačítko)"
-
-#, fuzzy
-msgid "Anaglyph Windows"
-msgstr "Přichytávající se okna"
-
-#, fuzzy
-msgid "Windows to be anaglyph by default"
-msgstr "Okna budou implicitně negativní"
-
-msgid "Exclude Windows"
-msgstr ""
-
-msgid "Windows to exclude from anaglyph"
-msgstr ""
-
-msgid "Offset"
-msgstr ""
-
-msgid "offset anaglyph"
-msgstr ""
-
-msgid "Increase Desktop deep"
-msgstr ""
-
-#, fuzzy
-msgid "Desaturate"
-msgstr "Sytost"
-
-msgid "Mipmaps"
-msgstr ""
-
-#, fuzzy
-msgid "Animations Plus"
-msgstr "Animace"
-
-#, fuzzy
-msgid "More window animations"
-msgstr "Filtrovat dekorace oken"
-
-msgid "Effect Settings"
-msgstr "Nastavení efektu"
-
-msgid "Helix"
-msgstr ""
-
-#, fuzzy
-msgid "Helix Number of Twists"
-msgstr "Počet rotací odkopnutí"
-
-msgid "Number of twists to do in the animation"
-msgstr ""
-
-msgid "Helix Gridsize Y"
-msgstr ""
-
-msgid "Number of blocks in the animation"
-msgstr ""
-
-#, fuzzy
-msgid "Helix Thickness"
-msgstr "Tloušťka"
-
-#, fuzzy
-msgid "Thickness of blocks in the animation"
-msgstr "Tloušťka animovaných polygonů."
-
-#, fuzzy
-msgid "Spin Direction"
-msgstr "Směr zkosení"
-
-msgid "Direction the strips spin."
-msgstr ""
-
-msgid "Counter-Clockwise"
-msgstr ""
-
-msgid "Clockwise"
-msgstr ""
-
-#, fuzzy
-msgid "Vertical Helix"
-msgstr "Svislý přechod"
-
-msgid ""
-"Whether Helix should rotate with its axis up/down or in/out of the screen"
-msgstr ""
-
-msgid "Blinds"
-msgstr ""
-
-msgid "Blinds Number of Half Twists"
-msgstr ""
-
-msgid "Number of half twists to do in the animation"
-msgstr ""
-
-#, fuzzy
-msgid "Blinds Thickness"
-msgstr "Tloušťka"
-
-msgid "Shatter"
-msgstr ""
-
-#, fuzzy
-msgid "Shatter number of spokes"
-msgstr "Počet vloček"
-
-msgid "Number of spokes (divided by 4) in the animation"
-msgstr ""
-
-msgid "Shatter Number of Tiers"
-msgstr ""
-
-msgid "Number of concentric circles in the animation"
-msgstr ""
-
-msgid "Bonanza"
-msgstr ""
-
-msgid "Number Of Fire Particles"
+msgid "Number of balls"
 msgstr "Počet částic ohně"
 
-msgid "Number of fire particles."
-msgstr "Množství částic plamene."
-
-msgid "Fire Particle Size"
-msgstr "Velikost plamenu"
-
-msgid "Fire particle size."
-msgstr "Velikost částic plamenu."
-
-msgid "Fire Particle Life"
-msgstr "Životnost plamenu"
-
-msgid "Fire particle life."
-msgstr "Živostnost částic plamenu."
-
-msgid "Fire Particle Color"
-msgstr "Barva plamenu"
-
-msgid "Fire particle color."
-msgstr "Barva částic plamenu."
-
-msgid "Randomly Colored Fire"
-msgstr "Náhodné barvy plamene"
-
-msgid "Have random colors for the fire effect, also known as Mystical Fire."
-msgstr "Náhodné barvy efektu hoření, označováno jako Mystický oheň"
+#, fuzzy
+msgid "Size Of balls"
+msgstr "Pravidla velikosti"
 
 #, fuzzy
-msgid "Simple Animations"
-msgstr "Animace otevření"
+msgid "Size of balls"
+msgstr "Pravidla velikosti"
 
-msgid "Animations that are simple on the eye"
-msgstr ""
-
-msgid "Fly In"
-msgstr ""
-
-#, fuzzy
-msgid "Fly In Direction"
-msgstr "Směr skládání"
-
-msgid "The direction in which the fly in should take place"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction X"
-msgstr "Směr skládání"
-
-msgid "Direction and Distance X for user defined fly in"
-msgstr ""
-
-#, fuzzy
-msgid "UD Direction Y"
-msgstr "Směr skládání"
-
-msgid "Direction and Distance Y for user defined fly in"
-msgstr ""
-
-msgid "Fade"
-msgstr "Rozplynutí"
-
-msgid "Fade when flying in"
-msgstr ""
-
-msgid "Distance"
-msgstr "Vzdálenost"
-
-#, fuzzy
-msgid "Distance to fly in"
-msgstr "Vzdálenost"
-
-#, fuzzy
-msgid "Rotate In"
-msgstr "Rotovat vločky"
-
-#, fuzzy
-msgid "Rotate In Direction"
-msgstr "Směr odsunutí"
-
-msgid "The direction in which the window rotates"
-msgstr ""
-
-#, fuzzy
-msgid "Angle"
-msgstr "Úhel zmizení"
-
-msgid "Angle to start from"
-msgstr ""
-
-msgid "Bounce"
-msgstr ""
-
-#, fuzzy
-msgid "Maximum Size"
-msgstr "Maximalizované"
-
-msgid "Maximum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum Size"
-msgstr "Minimální velikost kostky"
-
-msgid "Minimum scale factor of window when bouncing"
-msgstr ""
-
-#, fuzzy
-msgid "Number of Bounces"
-msgstr "Počet částic ohně"
-
-msgid "How many bounces during the animation"
-msgstr ""
-
-msgid "Sheet"
-msgstr ""
-
-msgid "Starting Percent"
+msgid "Update Delay"
 msgstr ""
 
 msgid ""
-"How wide the begginning of the sheet animation should be compared to the end"
+"Delay (in ms) between screen updates. Decreasing this value may make leaves "
+"fall more smoothly, but will also increase CPU usage."
 msgstr ""
 
-msgid "Expand Piecewise"
-msgstr ""
-
-#, fuzzy
-msgid "First expand horizontally"
-msgstr "Vodorovné dlaždice"
-
-msgid "If checked, initially expand horizontally, then vertically"
-msgstr ""
-
-#, fuzzy
-msgid "Initial horizontal size"
-msgstr "Vodorovné dlaždice"
-
-msgid "Number of pixels initially in horizontal direction"
-msgstr ""
-
-#, fuzzy
-msgid "Initial vertical size"
-msgstr "Velikost částic."
-
-msgid "Number of pixels initially in vertical direction"
-msgstr ""
-
-#, fuzzy
-msgid "Delay"
-msgstr "Prodleva zobrazení"
-
-msgid ""
-"Delay between expanding horizontally and vertically (expressed as a fraction)"
-msgstr ""
-
-msgid "Expand"
-msgstr ""
-
-msgid "Cube Atlantis"
-msgstr ""
-
-msgid "Render some sea animals inside of the transparent cube"
-msgstr ""
-
-msgid "Speed factor"
-msgstr ""
-
-msgid "Multiply the speed of the fish by this factor."
-msgstr ""
-
-msgid "Start crabs on bottom"
-msgstr ""
-
-msgid "Start crabs on the bottom of the cube."
-msgstr ""
-
-msgid "School similar groups"
-msgstr ""
-
-msgid "Fish in different groups, but of the same type, swim together."
-msgstr ""
-
-msgid "Low detail models"
-msgstr "Nízká detailnost modelů"
-
-msgid "Use less detailed models for increased performance."
-msgstr ""
-
-msgid "Creature Selection"
-msgstr "Výběr tvorů"
-
-msgid "Type"
-msgstr "Typ"
-
-msgid "Type of sea creature."
-msgstr "Druh vodních tvorů."
-
-msgid "Color"
-msgstr "Barva"
-
-msgid "The color of the sea creature."
-msgstr "Barva vodních tvorů."
-
-#, fuzzy
-msgid "Number"
-msgstr "Číslo"
-
-msgid "The number of the sea creature."
-msgstr "Množství vodních tvorů."
-
-msgid "Size"
-msgstr "Velikost"
-
-msgid "The size of the sea creature."
-msgstr "Velikost vodních tvorů."
-
-msgid "Miscellaneous Selection"
-msgstr ""
-
-msgid "Type of sea plant."
-msgstr "Druh vodních rostlin."
-
-msgid "The color of the sea plant."
-msgstr "Barva vodních rostlin."
-
-msgid "The number of the sea plants."
-msgstr "Množství vodních rostlin."
-
-msgid "The size of the sea plant."
-msgstr "Velikost vodních rostlin."
-
-msgid "Water / Ground"
-msgstr "Voda / země"
-
-msgid "Render water"
-msgstr "Vykreslovat vodu"
-
-msgid "Render water inside the cube."
-msgstr ""
-
-msgid "Render water wireframe"
-msgstr "Vykreslovat drátový model vody"
-
-msgid "Render water wireframe inside the cube."
-msgstr ""
-
-msgid "Render ground"
-msgstr "Vykreslovat zemi"
-
-msgid "Render ground inside the cube."
-msgstr ""
-
-msgid "Ground color"
-msgstr "Barva země"
-
-msgid "Color of ground in the cube."
-msgstr "Barva země v kostce."
-
-msgid "Water surface height"
-msgstr "Výška vodní hladiny"
-
-msgid "Height of water surface in the cube."
-msgstr ""
-
-msgid "Water color"
-msgstr "Barva vody"
-
-msgid "Color of water in the cube."
-msgstr "Barva vody v kostce."
-
-msgid "Water/Ground grid smoothness"
-msgstr ""
-
-msgid "Number of subdivisions that create a finer grid."
-msgstr ""
-
-msgid "Waves"
-msgstr "Vlny"
-
-msgid "Render waves"
-msgstr "Vykreslovat vlny"
-
-msgid "Render water waves inside the cube."
-msgstr ""
-
-msgid "Ripple effect"
-msgstr "Efekt čeření"
-
-msgid "Semi-randomize light scattering off water waves."
-msgstr ""
-
-msgid "Wave amplitude"
-msgstr ""
-
-msgid "Amplitude of water waves."
-msgstr "Velikost vodních vln."
-
-msgid "Wave frequency"
-msgstr ""
-
-msgid "Frequency of water waves."
-msgstr "Četnost vodních vln."
-
-msgid "Small wave amplitude"
-msgstr "Rozsah vlnek"
-
-msgid "Amplitude of small water waves on the bigger ones."
-msgstr ""
-
-msgid "Small wave frequency"
-msgstr "Četnost vlnek"
-
-msgid "Frequency of small water waves on the bigger ones."
-msgstr ""
-
-msgid "Display"
-msgstr "Zobrazení"
-
-msgid "Rescale for screen ratio"
-msgstr "Zvětšit na poměr obrazovky"
-
-msgid ""
-"Rescale along the sides of the cube by the ratio of screen width to height."
-msgstr ""
-
-# Neznám kontext ale blesky to asi nebudou.
-msgid "Lighting"
-msgstr "Osvětlení"
-
-msgid "Rotate lighting"
-msgstr ""
-
-msgid "Preserve light direction when rotating the cube."
-msgstr ""
-
-msgid "Light inclination"
+msgid "Screen Boxing"
 msgstr ""
 
 msgid ""
-"The angle of light rays from the horizon in degrees (0 is from the viewer's "
-"perspective, 90 is from on top). Only has effect when Rotate Lighting is "
-"false."
-msgstr ""
-
-msgid "Ambient light"
-msgstr ""
-
-msgid "Component of light coming from all directions equally."
-msgstr ""
-
-msgid "Cube 3D Models"
-msgstr "3D modely kostky"
-
-msgid "Render still/animated 3D mesh models inside of the transparent cube"
-msgstr ""
-
-msgid "Scale all factor"
-msgstr ""
-
-msgid "Scale all the 3D models by this factor."
-msgstr ""
-
-msgid "3D Models"
-msgstr "3D modely"
-
-msgid "Model"
-msgstr "Model"
-
-msgid "Full path to 3D wavefront (.obj) model file."
-msgstr ""
-
-msgid "Scale factor"
-msgstr ""
-
-msgid "Scale the 3D model by this factor."
-msgstr ""
-
-msgid "X"
-msgstr "X"
-
-msgid "X coordinate offset from the center of the cube."
-msgstr ""
-
-msgid "Y"
-msgstr "Y"
-
-msgid "Y coordinate offset from the center of the cube."
-msgstr ""
-
-msgid "Z"
-msgstr "Z"
-
-msgid "Z coordinate offset from the center of the cube."
-msgstr ""
-
-msgid "Rotation plane"
-msgstr ""
-
-msgid "Plane of rotation for the 3D model."
-msgstr ""
-
-msgid "Rotation rate"
-msgstr ""
-
-msgid "Rate of rotation of 3D model (in rotations per second)."
-msgstr ""
-
-msgid "Model type"
-msgstr "Typ modelu"
-
-msgid "Type of 3D model (still or animated)."
-msgstr ""
-
-msgid "Frames per second"
-msgstr "Snímky za sekundu"
-
-msgid "Framerate (per second) for the animated series of obj files."
-msgstr ""
-
-msgid "Render front and back sides"
-msgstr ""
-
-msgid ""
-"Renders the front surface and then the back surface. This can be useful for "
-"models which show black spots but can cause a performance hit."
-msgstr ""
-
-msgid "Ambient light intensity"
-msgstr ""
-
-msgid "Diffuse light intensity"
-msgstr ""
-
-msgid ""
-"Component of light coming from the direction set by inclination or from the "
-"viewer if Rotate Lighting is true."
-msgstr ""
-
-msgid "Specular light intensity"
-msgstr ""
-
-msgid ""
-"Highly directional component of light coming from the direction set by "
-"inclination or from the viewer if Rotate Lighting is true."
-msgstr ""
-
-#, fuzzy
-msgid "Loading"
-msgstr "Načítání"
-
-msgid "Use separate threads"
-msgstr ""
-
-msgid ""
-"Use separate threads to load each model faster and allow other interaction "
-"whilst loading."
-msgstr ""
-
-#, fuzzy
-msgid "Dialog Match"
-msgstr "Typy oken"
-
-msgid "Dialogs which will trigger fading"
-msgstr ""
-
-msgid "Speed"
-msgstr "Rychlost"
-
-#, fuzzy
-msgid "The speed of the animation"
-msgstr "Zmnit rychlost 3D animace"
-
-msgid "Opacity"
-msgstr "Průhlednost"
-
-msgid "The Opacity of windows with open dialogs"
-msgstr ""
-
-msgid "Saturation"
-msgstr "Sytost"
-
-#, fuzzy
-msgid "The Saturation of windows with open dialogs"
-msgstr "Sytost oken v pozadí"
-
-msgid "Brightness"
-msgstr "Jas"
-
-#, fuzzy
-msgid "The Brightness of windows with open dialogs"
-msgstr "Jas ztmavených oken"
-
-msgid "Elements"
-msgstr ""
-
-msgid "Snow, Stars, Autumn, Fireflies and Bubbles, all in one neat package"
-msgstr ""
-
-msgid "General"
-msgstr "Obecné"
-
-#, fuzzy
-msgid "Global Speed"
-msgstr "Rychlost přiblížení"
-
-msgid "Elements speed will be multiplied by this value"
+"How far outside the screen resolution leaves can be before being removed. "
+"Needed because of FOV."
 msgstr ""
 
 msgid "Screen Depth"
 msgstr ""
 
-msgid "How deep into the screen snowflakes can be drawn before being removed"
-msgstr ""
-
-msgid "Apply Screen Transform"
-msgstr ""
-
-msgid "Moves particles with screen transforms when over_windows is enabled"
-msgstr ""
-
-msgid "Draw Over Windows"
-msgstr ""
-
-msgid "Elements drawn above windows"
-msgstr ""
-
-msgid "Toggle Elements with Keys:"
-msgstr ""
-
-msgid ""
-"If enabled, Elements will toggle with keys. Otherwise, it will toggle by "
-"checkboxes."
-msgstr ""
-
-msgid "Snow"
-msgstr "Sníh"
-
-msgid "Number Of Snowflakes"
-msgstr "Počet vloček"
-
-msgid "Number of snowflakes"
-msgstr "Počet vloček"
-
-msgid "Size Of Snowflakes"
-msgstr "Velikost vloček"
-
-msgid "Size of snowflakes"
-msgstr "Velikost vloček"
-
-msgid "Snow Speed"
-msgstr "Rychlost sněžení"
-
-msgid "Speed of falling snow"
-msgstr "Rychlost padajícího sněhu"
-
-msgid "Snow sway"
-msgstr ""
-
-msgid ""
-"Side-to-side movement of Snow. Snow now uses the old Autumn movement engine."
+msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr ""
 
 #, fuzzy
-msgid "Rotate Snowflakes"
+msgid "Balls Over Windows"
+msgstr "Sněžit přes okna"
+
+msgid "Balls are drawn above windows"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Balls"
 msgstr "Rotovat vločky"
 
 #, fuzzy
-msgid "Toggle snow"
-msgstr "Okno vždy na vrchu"
-
-msgid "Toggle Snow. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
+msgid "Balls rotate if checked."
+msgstr "Zdali vločky budou rotovat."
 
 #, fuzzy
-msgid "Toggle Snow"
-msgstr "Přepnout negativ okna"
+msgid "Wind Direction"
+msgstr "Směr zkosení"
 
-msgid "Toggle Snow Only works if Toggle Elements with Keys is enabled."
-msgstr ""
+#, fuzzy
+msgid "Select the wind direction"
+msgstr "Směr odsunutí"
 
-msgid "Snow Direction"
-msgstr ""
-
-msgid "Select snow flake movement direction"
-msgstr ""
-
-msgid "None"
-msgstr "Nic"
+#, fuzzy
+msgid "No Wind"
+msgstr "Další okno"
 
 msgid "Up"
 msgstr "Nahoru"
@@ -769,300 +101,23 @@ msgstr "Zleva"
 msgid "Right"
 msgstr "Vpravo"
 
-msgid "Snow Textures"
-msgstr "Textury sněhu"
-
-msgid "Snow textures"
-msgstr "Textury sněhu"
-
-msgid "Autumn"
-msgstr "Podzim"
-
-#, fuzzy
-msgid "Number Of leaves"
-msgstr "Počet vloček"
-
-#, fuzzy
-msgid "Number of leaves"
-msgstr "Počet vloček"
-
-#, fuzzy
-msgid "Size Of leaves"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Size of leaves"
-msgstr "Velikost vloček"
-
-msgid "Sway Of leaves"
-msgstr ""
-
-msgid "sway of leaves"
+msgid "Textures"
 msgstr ""
 
 #, fuzzy
-msgid "Leaf Speed"
-msgstr "Roztříštění"
-
-msgid "Speed of falling leaves"
-msgstr "Rychlost padajících listů"
-
-#, fuzzy
-msgid "Rotate Leaves"
-msgstr "Rotovat vločky"
-
-#, fuzzy
-msgid "Toggle Autumn"
-msgstr "Podzim"
-
-msgid "Toggle Autumn. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Autumn Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Autumn Textures"
-msgstr "Textury sněhu"
-
-#, fuzzy
-msgid "Autumn textures"
-msgstr "Textury sněhu"
-
-msgid "Bubbles"
-msgstr "Bubliny"
-
-#, fuzzy
-msgid "Number Of bubbles"
-msgstr "Počet částic"
-
-#, fuzzy
-msgid "Number of bubbles"
-msgstr "Počet částic ohně"
-
-#, fuzzy
-msgid "Size Of bubbles"
-msgstr "Pravidla velikosti"
-
-#, fuzzy
-msgid "Size of bubbles"
-msgstr "Pravidla velikosti"
-
-msgid "Viscosity of liquid"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Bubbles"
-msgstr "Rotovat vločky"
-
-#, fuzzy
-msgid "Toggle Bubbles"
-msgstr "Bubliny"
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Bubbles. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Bubble Textures"
+msgid "Ball Textures"
 msgstr "Povolit textury"
 
 #, fuzzy
-msgid "Bubble textures"
+msgid "Ball textures"
 msgstr "Povolit textury"
-
-# Možná tu bude lepší Vzplanutí
-msgid "Fireflies"
-msgstr ""
-
-#, fuzzy
-msgid "Number Of fireflies"
-msgstr "Počet částic ohně"
-
-#, fuzzy
-msgid "Number of fireflies"
-msgstr "Množství částic plamene."
-
-#, fuzzy
-msgid "Size Of fireflies"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Size of fireflies"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Firefly Speed"
-msgstr "Kouř"
-
-msgid "Speed of firefly lifecycle and movement"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Fireflies"
-msgstr "Rotovat vločky"
-
-msgid "When using \"glows\", you definitely want this ON"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Fireflies"
-msgstr "Celá obrazovka"
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Fireflies. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Fireflies Textures"
-msgstr "Povolit textury"
-
-#, fuzzy
-msgid "Fireflies textures"
-msgstr "Povolit textury"
-
-msgid "Stars"
-msgstr "Hvězdy"
-
-#, fuzzy
-msgid "Number Of stars"
-msgstr "Počet částic"
-
-#, fuzzy
-msgid "Number of stars"
-msgstr "Počet částic ohně"
-
-#, fuzzy
-msgid "Size Of stars"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Size of stars"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Star Speed"
-msgstr "Rychlost sněžení"
-
-#, fuzzy
-msgid "Speed of stars"
-msgstr "Rychlost padajícího sněhu"
-
-msgid "Star X Offset"
-msgstr ""
-
-msgid "The X point on the screen where stars should start"
-msgstr ""
-
-msgid "Star Y Offset"
-msgstr ""
-
-msgid "The Y point on the screen where stars should start"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Stars"
-msgstr "Rotovat vločky"
-
-#, fuzzy
-msgid "Toggle Stars"
-msgstr "Přepnout rozmáznutí pohybem"
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is disabled."
-msgstr ""
-
-msgid "Toggle Stars. Only works if Toggle Elements with Keys is enabled."
-msgstr ""
-
-#, fuzzy
-msgid "Star Textures"
-msgstr "Textury sněhu"
-
-#, fuzzy
-msgid "Star textures"
-msgstr "Textury sněhu"
-
-#, fuzzy
-msgid "Fireflies for Compiz"
-msgstr "Sníh pro Compiz"
-
-msgid "Settings"
-msgstr "Nastavení"
-
-#, fuzzy
-msgid "Number Of Fireflies"
-msgstr "Počet částic ohně"
-
-msgid "The maximum number of fireflies allowed on screen"
-msgstr ""
-
-#, fuzzy
-msgid "Size Of Fireflies"
-msgstr "Velikost vloček"
-
-msgid "Update Delay"
-msgstr ""
-
-msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make snow "
-"fall more smoothly, but will also increase CPU usage."
-msgstr ""
-
-msgid "Screen Boxing"
-msgstr ""
-
-msgid ""
-"How far outside the screen resolution fireflies can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-
-msgid "How deep into the screen fireflies can be drawn before being removed"
-msgstr ""
-
-#, fuzzy
-msgid "Fireflies Over Windows"
-msgstr "Sněžit přes okna"
-
-msgid "Fireflies is drawn above windows"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Flies. Redundant"
-msgstr "Rotovat vločky"
-
-#, fuzzy
-msgid "Flies rotate if checked."
-msgstr "Zdali vločky budou rotovat."
-
-#, fuzzy
-msgid "Fireflies Direction. Redundant"
-msgstr "Směr hoření."
-
-msgid "Top to Bottom"
-msgstr "Shora dolů"
-
-msgid "Bottom to Top"
-msgstr "Zdola nahoru"
-
-msgid "Right to Left"
-msgstr "Zprava doleva"
-
-msgid "Left to Right"
-msgstr "Zleva doprava"
 
 msgid "Enable by default"
 msgstr ""
 
 #, fuzzy
-msgid "Enable fireflies by default."
+msgid "Enable boing by default."
 msgstr "Okna, které budou implicitně filtrována"
-
-msgid "Textures"
-msgstr ""
 
 msgid "Debug"
 msgstr "Ladění"
@@ -1071,1069 +126,746 @@ msgid "Enable Blending"
 msgstr "Povolit míchání"
 
 #, fuzzy
-msgid "Enables alpha blending of flies."
+msgid "Enables alpha blending of balls."
 msgstr "Povolí alfa míchání vloček."
 
 msgid "Enable Textures"
 msgstr "Povolit textury"
 
-msgid "Enables textures flies. If not selected, color cradients are used."
+msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
 
 msgid "Key Bindings"
 msgstr "Mapování kláves"
 
 #, fuzzy
-msgid "Firefly toggle key"
+msgid "Toggle Boing"
+msgstr "Okno vždy na vrchu"
+
+#, fuzzy
+msgid "Boing toggle key"
 msgstr "Klávesa pro zapnutí/vypnutí sněžení"
 
-#, fuzzy
-msgid "Freely Transformable Windows"
-msgstr "Obnovit okna"
+msgid "Desktop Click"
+msgstr ""
 
-#, fuzzy
-msgid "Freely transform windows"
-msgstr "Pod ostatními okny"
+msgid "Perform actions on desktop clicks"
+msgstr ""
 
-#, fuzzy
-msgid "Free Transformation"
-msgstr "Deformace"
-
-#, fuzzy
-msgid "Initiate Rotation"
-msgstr "Smazat (tlačítko)"
-
-#, fuzzy
-msgid "Start Free Rotation"
-msgstr "Sytost"
-
-#, fuzzy
-msgid "Initiate Scaling"
-msgstr "Spustit kreslení ohněm"
-
-msgid "Reset"
+msgid "Click List"
 msgstr ""
 
 #, fuzzy
-msgid "Reset Transformation"
-msgstr "Deformace"
+msgid "Button Number"
+msgstr "Číslo"
 
-msgid "Axis help toggle"
+msgid "Modifiers"
+msgstr ""
+
+msgid "What Modifiers must be used in order to trigger the action"
 msgstr ""
 
 #, fuzzy
-msgid "Axis selection helper"
-msgstr "Barva výběru"
+msgid "Plugin Name"
+msgstr "Zásuvný modul"
 
-msgid "Transformation Behavior"
-msgstr ""
-
-msgid "Snap Modifier"
+msgid "Initiation Plugin Name"
 msgstr ""
 
 #, fuzzy
-msgid "Use this bindings to enable/disable snapping."
-msgstr "Použijte pro zapnutí/vypnutí AddHelperu za běhu"
+msgid "Action Name"
+msgstr "Akce"
 
-msgid "Shift"
+#, fuzzy
+msgid "Initiation Action Name"
+msgstr "Výběr animace"
+
+#, fuzzy
+msgid "Call Type"
+msgstr "Typ záře"
+
+msgid "How to handle the action calling"
 msgstr ""
 
-msgid "Alt"
-msgstr ""
+msgid "Dodge"
+msgstr "Odskočit"
 
-msgid "Control"
-msgstr ""
-
-msgid "Meta"
+msgid "Makes windows stay out of your way"
 msgstr ""
 
 #, fuzzy
-msgid "Rotation"
-msgstr "Úhel otáčení"
-
-msgid "Invert Modifier"
-msgstr ""
-
-msgid "Use this bindings to invert the rotation mode."
-msgstr ""
-
-msgid "Manual Transformation"
-msgstr ""
-
-#, fuzzy
-msgid "Scaling"
-msgstr "Zvětšený"
-
-#, fuzzy
-msgid "Scale Up"
-msgstr "Zvětšený"
-
-msgid "Scale up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Scale Down"
-msgstr "Přesunout dolů"
-
-#, fuzzy
-msgid "Scale down by one increment"
-msgstr "Přepnout zmenšení podle obrazovky"
-
-#, fuzzy
-msgid "Rotate Up"
-msgstr "Rotovat vločky"
-
-msgid "Rotate up by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Down"
-msgstr "Přesunout dolů"
-
-msgid "Rotate down by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Left"
-msgstr "Přesunout doleva"
-
-msgid "Rotate left by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Right"
-msgstr "Přesunout doprava"
-
-msgid "Rotate right by one increment"
-msgstr ""
-
-#, fuzzy
-msgid "Rotate Clockwise"
-msgstr "Rotovat vločky"
-
-msgid "Rotate clockwise by one increment"
-msgstr ""
-
-msgid "Rotate Counter-Clockwise"
-msgstr ""
-
-msgid "Rotate counter-clockwise by one increment"
-msgstr ""
-
-msgid "Snap by default"
-msgstr ""
-
-msgid "Snap to common points by default"
-msgstr ""
-
-#, fuzzy
-msgid "Snap Threshold"
-msgstr "Typ přichycení"
-
-msgid "Snap to every one of these angles"
-msgstr ""
-
-msgid "Mouse sensitivity"
-msgstr ""
-
-msgid "How sensitive the mouse movement should be"
-msgstr ""
-
-#, fuzzy
-msgid "Scale Mode"
-msgstr "Zvětšený"
-
-#. Comment out 'To Opposite Corner' for now as it is EXTREMELY BROKEN !
-#, fuzzy
-msgid "How to scale windows"
-msgstr "Okna která nelze zavřít"
-
-#, fuzzy
-msgid "Allow negative"
-msgstr "Negativ"
-
-msgid "Allow negative scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Maintain aspect ratio"
-msgstr "Poměr stran"
-
-msgid "Keep aspect ratio constant when scaling"
-msgstr ""
-
-#, fuzzy
-msgid "Minimum scale"
-msgstr "Minimální velikost kostky"
-
-msgid ""
-"How small the scale is allowed to be when 'Allow Negative' is not toggled"
-msgstr ""
-
-#, fuzzy
-msgid "Rotation Type"
-msgstr "Rychlost rotace"
-
-#, fuzzy
-msgid "2D/3D Rotation Type"
-msgstr "Rychlost rotace"
-
-#, fuzzy
-msgid "Rotation Axis"
-msgstr "Úhel otáčení"
-
-msgid "How Freely Transformable Windows should determine the rotation axis"
-msgstr ""
-
-#, fuzzy
-msgid "3D Rotation Percentage"
-msgstr "Úhel otáčení"
-
-msgid "Percentage of the window area used for 3D rotation"
-msgstr ""
-
-#, fuzzy
-msgid "Auto-Zoom"
-msgstr "Přiblížení"
-
-msgid "Auto-Zoom when rotating so that windows do not get too large"
-msgstr ""
-
-msgid "Disable on Transformed Screen"
-msgstr ""
-
-msgid ""
-"Disable rotation on transformed screen. This prevents ugly looking clipped "
-"windows when the screen is transformed"
-msgstr ""
-
-#, fuzzy
-msgid "Speed of window rotation"
-msgstr "Filtrovat dekorace oken"
-
-msgid "How fast the window should rotate"
-msgstr ""
-
-msgid "Rotate increment amount"
-msgstr ""
-
-msgid "How far to rotate a window when rotating an 'increment'"
-msgstr ""
-
-msgid "Scale increment amount"
-msgstr ""
-
-msgid "How much to scale a window by when scaling by an 'increment'"
-msgstr ""
-
-msgid "Misc"
-msgstr "Ostatní"
-
-msgid "Input Prevention"
-msgstr ""
-
-#, fuzzy
-msgid "Prevented Input Window Types"
-msgstr "Typy oken"
-
-#, fuzzy
-msgid "Window types that should be Shaped. Disable problematic windows here"
-msgstr "Typy oken, která budou zprůhledněna."
-
-msgid "Prevent input"
-msgstr ""
-
-msgid "Prevent input in transformed windows"
-msgstr ""
-
-msgid "Immediate Moves"
-msgstr ""
-
-msgid ""
-"Don't allow plugins like wobbly to transform the transformed window while "
-"it's being moved"
-msgstr ""
-
-#, fuzzy
-msgid "Helper Options"
-msgstr "Nastavení částic"
-
-#, fuzzy
-msgid "Helper Circle Color"
-msgstr "Barva částic"
-
-#, fuzzy
-msgid "Color of the circle."
-msgstr "Barva země (dále)"
-
-#, fuzzy
-msgid "Helper Line Color"
-msgstr "Barva čáry"
-
-#, fuzzy
-msgid "Helper line color around the circle"
-msgstr "Barva čáry obdélníku pro výběr"
-
-#, fuzzy
-msgid "Helper Cross Line Color"
-msgstr "Barva čáry"
-
-#, fuzzy
-msgid "Color of the cross line"
-msgstr "Barva země (dále)"
-
-msgid "Show 3D rotation circle"
-msgstr ""
-
-msgid "Show click area for 3D rotation"
-msgstr ""
-
-msgid "Show rotation gizmo"
-msgstr ""
-
-msgid "Show rotation axis info"
-msgstr ""
-
-#, fuzzy
-msgid "Show crosshair"
-msgstr "Sněžit při spuštění"
-
-msgid "Show crosshair (for scaling click regions)"
-msgstr ""
-
-msgid "Show input regions"
-msgstr ""
-
-#, fuzzy
-msgid "Show input region rectangle"
-msgstr "Zobrazit obdélník"
-
-msgid "Color Opacity"
-msgstr ""
-
-msgid "Alter window opacity based on color."
-msgstr ""
-
-msgid "Toggle Window Fake ARGB"
-msgstr ""
-
-msgid "Toggle window fake ARGB."
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Ghost"
+msgid "Toggle Dodging"
 msgstr "Přepnout rozmáznutí pohybem"
-
-msgid "Toggle ghost for all matching windows"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Ghost Window"
-msgstr "Zavřít okno"
-
-msgid "Toggle ghosting of individual window"
-msgstr ""
 
 msgid "Window Types"
 msgstr "Typy oken"
 
 #, fuzzy
-msgid "Windows which should become ghosts"
+msgid "Windows which should dodge"
 msgstr "Okna která se rozplynou"
 
 #, fuzzy
-msgid "Ghost Active Window"
-msgstr "Aktivovat okno"
+msgid "Select Window"
+msgstr "Vybrat jedno okno"
 
-msgid "Whether a ghosted active window will accept input or not"
+#, fuzzy
+msgid "Mark the active window so it will dodge"
+msgstr "Barva hloubky aktivního okna"
+
+#, fuzzy
+msgid "Dodge Model"
+msgstr "3D modely"
+
+msgid "What model Dodge should use when dodging"
 msgstr ""
 
 #, fuzzy
-msgid "Fade windows only on mousover"
-msgstr "Nastavit okno jako nezavíratelné"
+msgid "Simple Avoid"
+msgstr "Animace otevření"
+
+#, fuzzy
+msgid "Return to position"
+msgstr "Obnovit předchozí umístění"
+
+#, fuzzy
+msgid "Off Screen"
+msgstr "Druh vodních tvorů."
+
+#, fuzzy
+msgid "Dodge the active window"
+msgstr "Barva hloubky aktivního okna"
+
+#, fuzzy
+msgid "Controls whether the active window will be dodged"
+msgstr "Barva hloubky aktivního okna"
+
+msgid "Spring K"
+msgstr ""
+
+#, fuzzy
+msgid "Spring Stiffness"
+msgstr "Pružnost přiblížení"
+
+#, fuzzy
+msgid "Friction"
+msgstr "Směr vzplanutí"
+
+msgid "Padding"
+msgstr ""
+
+#, fuzzy
+msgid "Padding around windows"
+msgstr "Všechna okna"
+
+# Neznám kontext ale blesky to asi nebudou.
+#, fuzzy
+msgid "Lightning Bolts"
+msgstr "Osvětlení"
+
+msgid "Lightning bolts between your cursor and the nearest window"
+msgstr ""
+
+msgid "Initiate"
+msgstr "Spustit"
+
+#, fuzzy
+msgid "Start flash"
+msgstr "Hvězdy"
+
+#, fuzzy
+msgid "Distance max"
+msgstr "Vzdálenost"
+
+msgid "Distance max between pointer and active window."
+msgstr ""
+
+msgid "Digression max"
+msgstr ""
+
+msgid "Digression max between pointer's projection and lightning's impact."
+msgstr ""
+
+msgid "Minimum interval between two lightning"
+msgstr ""
+
+msgid "Interval in milliseconde between two lightning"
+msgstr ""
+
+msgid "Time of lightnings"
+msgstr ""
+
+msgid "Time in milliseconds of lightnings"
+msgstr ""
+
+msgid "Side of lightnings color"
+msgstr ""
+
+msgid "Middle of lightnings color"
+msgstr ""
+
+msgid "The other side of lightnings color"
+msgstr ""
+
+#, fuzzy
+msgid "The window types that lightning bolts will hit"
+msgstr "Okna která budou animovaná."
+
+msgid "HeadTracking"
+msgstr ""
 
 msgid ""
-"Whether a ghosted window will always be faded or only when the cursor is "
-"over it"
+"Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
 msgstr ""
 
 #, fuzzy
-msgid "The Opacity of Ghosted Windows"
-msgstr "Průhlednost vybraných oken"
+msgid "Keybindings"
+msgstr "Klávesové zkratky"
 
 #, fuzzy
-msgid "The Saturation of Ghosted Windows"
-msgstr "Sytost vybraných oken"
+msgid "Move Window Closer"
+msgstr "Přesunout okno na plochu 1"
 
-#, fuzzy
-msgid "The Brightness of Ghosted Windows"
-msgstr "Jas vybraných oken"
-
-msgid "Mouse switch"
-msgstr ""
-
-msgid "Switch viewport in response to mouse gesture"
-msgstr ""
-
-msgid "Begin Gesture"
-msgstr ""
-
-msgid "Begin Mouse Gesture"
-msgstr ""
-
-msgid "Photowheel"
-msgstr ""
-
-msgid "Render photo turn wheel inside of the transparent cube"
+msgid "Manually move a window closer. Z-depth is ignored"
 msgstr ""
 
 #, fuzzy
-msgid "Photo Textures"
-msgstr "Textury sněhu"
+msgid "Move Window Away"
+msgstr "Sněžit přes okna"
+
+msgid "Manually move a window further out. Z-depth is ignored"
+msgstr ""
 
 #, fuzzy
-msgid "Photo textures"
-msgstr "Textury sněhu"
+msgid "Reset Window Depth"
+msgstr "Hloubka okna"
+
+#, fuzzy
+msgid "Reset the window's depth so it uses Z level"
+msgstr "Obnovit původní velikost okna"
+
+#, fuzzy
+msgid "Debugging"
+msgstr "Ladění"
+
+#, fuzzy
+msgid "Enable debugging keys"
+msgstr "Povolit míchání"
+
+msgid "Enable the debugging key combinations"
+msgstr ""
+
+msgid "Camera up"
+msgstr ""
+
+msgid "Manually move camera up"
+msgstr ""
+
+msgid "Camera down"
+msgstr ""
+
+msgid "Manually move camera down"
+msgstr ""
+
+msgid "Camera left"
+msgstr ""
+
+msgid "Manually move camera left"
+msgstr ""
+
+msgid "Camera right"
+msgstr ""
+
+msgid "Manually move camera right"
+msgstr ""
+
+msgid "Camera in"
+msgstr ""
+
+msgid "Manually move camera closer to screen"
+msgstr ""
+
+msgid "Camera out"
+msgstr ""
+
+msgid "Manually move camera away from screen"
+msgstr ""
+
+msgid "Camera reset"
+msgstr ""
+
+msgid "Reset camera to default head position"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle mouse tracking"
+msgstr "Přepnout filtrování obrazovky"
+
+msgid "Toggle mouse tracking on and off"
+msgstr ""
+
+msgid "Window depth"
+msgstr "Hloubka oken"
+
+msgid "How far apart windows are when stacked based on Z level"
+msgstr ""
+
+msgid "Stack Padding"
+msgstr ""
+
+msgid "Make your windows pop out this far from the screen. 100 is cube size"
+msgstr ""
+
+msgid "Enable WII Tracking"
+msgstr ""
+
+msgid ""
+"Enable tracking using JCL's algorithm. You must have wiimote enabled to use "
+"this."
+msgstr ""
+
+msgid "Enable Webcam Tracking"
+msgstr ""
+
+msgid ""
+"Enable tracking using JCL's algorithm. You must have webcam enabled to use "
+"this."
+msgstr ""
+
+msgid "Fade Time"
+msgstr "Doba rozplynutí"
+
+msgid "Length of animation for 3d window stacking z-order changes"
+msgstr ""
+
+#, fuzzy
+msgid "Calibration"
+msgstr "Délka kliknutí"
+
+msgid "WiiMote or Cam Above Screen"
+msgstr ""
+
+msgid "Enable this if your Wiimote or your Webcam is above your screen."
+msgstr ""
+
+msgid "Height adjustment"
+msgstr ""
+
+msgid "Use this to adjust the head height"
+msgstr ""
+
+#, fuzzy
+msgid "Sensor Bar Width"
+msgstr "Šířka okraje"
+
+msgid "Use this to adjust your distance from the screen"
+msgstr ""
+
+msgid "Wiimote or Cam Vertical Angle"
+msgstr ""
+
+msgid "Angle of wiimote or webcam in radians * 100"
+msgstr ""
+
+msgid "Webcam"
+msgstr ""
+
+msgid "Avoid jumpings and trembling"
+msgstr ""
+
+msgid "Use this if the windows are unstable when you don't move your head"
+msgstr ""
+
+msgid "Smoothen the movements"
+msgstr ""
+
+msgid "Use this if the windows are jumping brutally"
+msgstr ""
+
+#, fuzzy
+msgid "Camera move increment"
+msgstr "Přepnout zmenšení podle obrazovky"
+
+msgid "How far to move the camera on one key press"
+msgstr ""
+
+msgid "Mouse Screen Percentage"
+msgstr ""
+
+msgid "How much of the screen represents the actual screen. 100 is \"exact\""
+msgstr ""
+
+#, fuzzy
+msgid "Lazy Pointer"
+msgstr "Umístit na kurzor"
+
+msgid "Warp the pointer around the screen on window events"
+msgstr ""
+
+#, fuzzy
+msgid "Center Mouse on Focussed Window"
+msgstr "Jas zaměřených oken"
+
+msgid "Center the mouse in the middle of a window when it is focussed"
+msgstr ""
+
+#, fuzzy
+msgid "Center Mouse on Activated Window"
+msgstr "Aktivovat okno"
+
+msgid "Center the mouse in the middle of a window when it is activated"
+msgstr ""
+
+msgid "Center Mouse on Placed Window"
+msgstr ""
+
+msgid "Center the mouse in the middle of a window when it is placed"
+msgstr ""
+
+#, fuzzy
+msgid "Cursor Movement speed"
+msgstr "Rychlost odsunutí okna"
+
+msgid "How fast the cursor should move when animated"
+msgstr ""
+
+msgid "Center the mouse in a window"
+msgstr ""
+
+msgid "Center the mouse in the activated window"
+msgstr ""
+
+msgid "Center the mouse in a screen"
+msgstr ""
+
+msgid "Center the mouse in the activated screen"
+msgstr ""
+
+#, fuzzy
+msgid "Move pointer left"
+msgstr "Přesunout okno k levé hraně obrazovky"
+
+msgid "Move the pointer left by specified amount"
+msgstr ""
+
+#, fuzzy
+msgid "Move pointer right"
+msgstr "Přesunout okno k pravé hraně obrazovky"
+
+msgid "Move the pointer right by specified amount"
+msgstr ""
+
+msgid "Move pointer up"
+msgstr ""
+
+#, fuzzy
+msgid "Move the pointer up by specified amount"
+msgstr "Přesunout okno na pozici kurzoru"
+
+#, fuzzy
+msgid "Move pointer down"
+msgstr "Nad ostatními okny"
+
+#, fuzzy
+msgid "Move the pointer down by specified amount"
+msgstr "Přesunout okno na pozici kurzoru"
+
+msgid "Maze"
+msgstr ""
+
+msgid "Render a maze inside of the transparent cube"
+msgstr ""
+
+#, fuzzy
+msgid "Max Speed"
+msgstr "Roztříštění"
+
+msgid "Maximum velocity the ball is allowed to travel at."
+msgstr ""
+
+#, fuzzy
+msgid "Scale"
+msgstr "Zvětšený"
+
+#, fuzzy
+msgid "Scale the maze size up or down."
+msgstr "Zvětšit ukazatel myši"
 
 msgid "Height"
 msgstr "Výška"
 
-msgid "Width"
-msgstr "Šířka"
-
-msgid "X Offset"
-msgstr ""
-
-msgid "X Offset (this is width)"
-msgstr ""
-
-msgid "Y Offset"
-msgstr ""
-
-msgid "Y Offset (this is height)"
-msgstr ""
-
-msgid "Z Offset"
-msgstr ""
-
-msgid "Z Offset (this is depth)"
-msgstr ""
-
-msgid "Rotate Around Axis"
-msgstr ""
-
-msgid "Otherwise rotate around its center of cube"
+msgid "Where to place the maze within the cube"
 msgstr ""
 
 #, fuzzy
-msgid "Top Color"
+msgid "Top Colour"
 msgstr "Barva vrchní strany"
 
-#, fuzzy
-msgid "Color of top face of the photo wheel"
-msgstr "Barva vrchní strany kostky"
+msgid "Colour to display on top"
+msgstr ""
 
 #, fuzzy
-msgid "Bottom Color"
+msgid "Bottom Colour"
 msgstr "Barva spodní strany"
 
-#, fuzzy
-msgid "Color of bottom face of the photo wheel"
-msgstr "Barva spodní strany kostky"
-
-msgid "Backface Culling"
-msgstr ""
-
-msgid "Enable backface culling"
-msgstr ""
-
-msgid "Put Plus"
+msgid "Colour to display on the bottom"
 msgstr ""
 
 #, fuzzy
-msgid "Put Plus window"
-msgstr "Tažení okna"
+msgid "North Face Colour"
+msgstr "Barva plamenu"
 
-msgid "Put On Viewport"
-msgstr "Umístit na plochu"
+msgid "Colour to display on the north face"
+msgstr ""
 
-msgid "Move window to a certain viewport"
+#, fuzzy
+msgid "East Face Colour"
+msgstr "Barva základní barvy"
+
+msgid "Colour to display on the east face wall"
+msgstr ""
+
+#, fuzzy
+msgid "South Face Colour"
+msgstr "Barva stínu"
+
+msgid "Colour to display on the south face wall"
+msgstr ""
+
+#, fuzzy
+msgid "West Face Colour"
+msgstr "Barva plamenu"
+
+msgid "Colour to display on the west face wall"
+msgstr ""
+
+#, fuzzy
+msgid "First Ball Colour"
+msgstr "Barva plamenu"
+
+msgid "First colour to draw the ball in"
+msgstr ""
+
+#, fuzzy
+msgid "Second Ball Colour"
+msgstr "Druhá barva přechodu"
+
+msgid "Second colour to draw the ball in"
+msgstr ""
+
+#, fuzzy
+msgid "Border Colour"
+msgstr "Barva okraje"
+
+msgid "Colour to draw the surrounding border in"
+msgstr ""
+
+#, fuzzy
+msgid "Mousegestures"
+msgstr "Gesta"
+
+msgid "Assign mousegestures to any existing action"
 msgstr ""
 
 msgid "Bindings"
 msgstr "Klávesové zkratky"
 
-msgid "Put to arbitrary viewport"
+#, fuzzy
+msgid "Start gesture"
+msgstr "Textury sněhu"
+
+msgid "Gestures"
+msgstr "Gesta"
+
+msgid "Detect Diagonal Movements"
 msgstr ""
 
-msgid "Put On Viewport 1"
-msgstr "Umístit na plochu 1"
-
-msgid "Move window to viewport 1"
-msgstr "Přesunout okno na plochu 1"
-
-msgid "Put On Viewport 2"
-msgstr "Umístit na plochu 2"
-
-msgid "Move window to viewport 2"
-msgstr "Přesunout okno na plochu 2"
-
-msgid "Put On Viewport 3"
-msgstr "Umístit na plochu 3"
-
-msgid "Move window to viewport 3"
-msgstr "Přesunout okno na plochu 3"
-
-msgid "Put On Viewport 4"
-msgstr "Umístit na plochu 4"
-
-msgid "Move window to viewport 4"
-msgstr "Přesunout okno na plochu 4"
-
-msgid "Put On Viewport 5"
-msgstr "Umístit na plochu 5"
-
-msgid "Move window to viewport 5"
-msgstr "Přesunout okno na plochu 5"
-
-msgid "Put On Viewport 6"
-msgstr "Umístit na plochu 6"
-
-msgid "Move window to viewport 6"
-msgstr "Přesunout okno na plochu 6"
-
-msgid "Put On Viewport 7"
-msgstr "Umístit na plochu 7"
-
-msgid "Move window to viewport 7"
-msgstr "Přesunout okno na plochu 7"
-
-msgid "Put On Viewport 8"
-msgstr "Umístit na plochu 8"
-
-msgid "Move window to viewport 8"
-msgstr "Přesunout okno na plochu 8"
-
-msgid "Put On Viewport 9"
-msgstr "Umístit na plochu 9"
-
-msgid "Move window to viewport 9"
-msgstr "Přesunout okno na plochu 9"
-
-msgid "Put On Viewport 10"
-msgstr "Umístit na plochu 10"
-
-msgid "Move window to viewport 10"
-msgstr "Přesunout okno na plochu 10"
-
-msgid "Put On Viewport 11"
-msgstr "Umístit na plochu 11"
-
-msgid "Move window to viewport 11"
-msgstr "Přesunout okno na plochu 11"
-
-msgid "Put On Viewport 12"
-msgstr "Umístit na plochu 12"
-
-msgid "Move window to viewport 12"
-msgstr "Přesunout okno na plochu 12"
-
-msgid "Put to adjacent viewport"
+msgid ""
+"If this option is selected, diagonal movements are detected, which may lead "
+"to a decreased detection accuracy."
 msgstr ""
 
-msgid "Viewport Left"
+#, fuzzy
+msgid "Gesture assignment"
+msgstr "Gesta"
+
+#, fuzzy
+msgid "Gesture"
+msgstr "Gesta"
+
+msgid "Mouse gesture to assign an action to."
 msgstr ""
 
-msgid "Move window to the viewport on the left"
+msgid "Plugin"
+msgstr "Zásuvný modul"
+
+msgid "Plugin the action belongs to."
+msgstr "Zásuvný modul ke kterému náleží akce."
+
+msgid "Action"
+msgstr "Akce"
+
+msgid "Action that is to be invoked."
 msgstr ""
 
-msgid "Viewport Right"
+msgid "Newton"
 msgstr ""
 
-msgid "Move window to the viewport on the right"
+msgid ""
+"Creates iconified windows that can be selected to select the main window and "
+"are affected by physics."
 msgstr ""
 
-msgid "Viewport Top"
+#, fuzzy
+msgid "Trigger Physics on the window"
+msgstr "Přepnout zmenšení"
+
+msgid "Toggle physics on the selected window."
 msgstr ""
 
-msgid "Move window to the viewport on the top"
+#, fuzzy
+msgid "Trigger rotation on the window"
+msgstr "Sytost vybraných oken"
+
+#, fuzzy
+msgid "Toggle rotation on the selected window."
+msgstr "Sytost vybraných oken"
+
+msgid "Invert mouse attraction/repulsion"
 msgstr ""
 
-msgid "Viewport Bottom"
+msgid "Inverts mouse attraction or repulsion."
 msgstr ""
 
-msgid "Move window to the viewport on the bottom"
+#, fuzzy
+msgid "Detach the window"
+msgstr "Nad ostatními okny"
+
+msgid "Detaches the window from the desktop."
 msgstr ""
 
-msgid "Put within viewport"
-msgstr ""
+#, fuzzy
+msgid "Attach the window"
+msgstr "Nad ostatními okny"
 
-msgid "Put Center"
-msgstr "Přesunout na střed"
-
-msgid "Move window to the center"
-msgstr "Přesunout okno na střed obrazovky"
-
-msgid "Put Left"
-msgstr "Přesunout vlevo"
-
-msgid "Move window to the left edge"
-msgstr "Přesunout okno k levé hraně obrazovky"
-
-msgid "Put Right"
-msgstr "Přesunout vpravo"
-
-msgid "Move window to the right edge"
-msgstr "Přesunout okno k pravé hraně obrazovky"
-
-msgid "Put Top"
-msgstr "Přesunout nahoru"
-
-msgid "Move window to the top edge"
+#, fuzzy
+msgid "Attaches the window to the desktop."
 msgstr "Přesunout okno k horní hraně obrazovky"
 
-msgid "Put Bottom"
-msgstr "Přesunout dolů"
-
-msgid "Move window to the bottom edge"
-msgstr "Přesunout okno ke spodní hraně obrazovky"
-
-msgid "Put Top Left"
-msgstr "Přesunout vlevo nahoru"
-
-msgid "Move window to the top left corner"
-msgstr "Přesunout okno do levého horního rohu"
-
-msgid "Put Top Right"
-msgstr "Přesunout vpravo nahoru"
-
-msgid "Move window to the top right corner"
-msgstr "Přesunout okno do pravého horního rohu"
-
-msgid "Put Bottom Left"
-msgstr "Přesunout vlevo dolů"
-
-msgid "Move window to the bottom left corner"
-msgstr "Přesunout okno do levého dolního rohu"
-
-msgid "Put Bottom Right"
-msgstr "Přesunout vpravo dolů"
-
-msgid "Move window to the bottom right corner"
-msgstr "Přesunout okno do pravého dolního rohu"
-
-msgid "Put on empty regions"
+msgid "Bounce elasticity"
 msgstr ""
 
-msgid "Restore Position"
+msgid "Elasticity of the windows (0 means no bounce, 1 is perfect elasticity)."
+msgstr ""
+
+#, fuzzy
+msgid "Fluid friction"
+msgstr "Směr vzplanutí"
+
+msgid "Fluidity of the desktop (0 means solid, and 1 totally liquid)."
+msgstr ""
+
+msgid "Gravity"
+msgstr ""
+
+msgid "Constant force."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction"
 msgstr "Obnovit předchozí umístění"
 
-msgid "Move window to the last position"
+msgid "Attracts/repels the windows to the mouse."
 msgstr ""
 
-msgid "Put Pointer"
-msgstr "Umístit na kurzor"
-
-msgid "Move window to the pointer position"
-msgstr "Přesunout okno na pozici kurzoru"
-
-msgid "Put"
+msgid "Attract by default"
 msgstr ""
 
-msgid "Move window arbitrarily by passing x, y and type."
+msgid ""
+"Attracts the windows to the mouse when the invert action key is not pressed."
+msgstr ""
+
+#, fuzzy
+msgid "Mouse attraction strength"
+msgstr "Míra rozmazání pohybu"
+
+msgid "Strength of the attraction/repulsion force."
+msgstr ""
+
+#, fuzzy
+msgid "Stop Hovered windows"
+msgstr "Filtrovaná okna"
+
+#, fuzzy
+msgid "Stops the windows under the pointer."
+msgstr "Přesunout okno na střed obrazovky"
+
+msgid "Peek"
+msgstr ""
+
+msgid "Show the window you are hovering hover in the taskbar"
 msgstr ""
 
 msgid "Misc. Options"
 msgstr "Další možnosti"
 
-msgid "Padding"
+msgid "Delay until Peeking"
 msgstr ""
 
-msgid "Pad Left"
+msgid "The delay (in ms) before Peek reveals the window you are hovering"
 msgstr ""
 
-msgid "Number of pixels from the left edge where the window will come to rest"
-msgstr ""
+msgid "Window Match"
+msgstr "Typy oken"
 
-msgid "Pad Right"
-msgstr ""
+#, fuzzy
+msgid "Windows that should become transparent"
+msgstr "Okna která se rozplynou"
 
-msgid "Number of pixels from the right edge where the window will come to rest"
-msgstr ""
+#, fuzzy
+msgid "Opacity Levels"
+msgstr "Průhlednost"
 
-msgid "Pad Top"
-msgstr ""
-
-msgid "Number of pixels from the top edge where the window will come to rest"
-msgstr ""
-
-msgid "Pad Bottom"
-msgstr ""
+#, fuzzy
+msgid "Active Opacity"
+msgstr "Průhlednost"
 
 msgid ""
-"Number of pixels from the bottom edge where the window will come to rest"
-msgstr ""
-
-msgid "Unfocus Window"
-msgstr ""
-
-msgid "Unfocus windows that are moved off the viewport"
-msgstr ""
-
-msgid "Window Center"
-msgstr ""
-
-msgid "Put pointer uses the center of the window"
-msgstr ""
-
-msgid "Avoid Offscreen"
-msgstr ""
-
-msgid "Avoids putting window borders offscreen"
-msgstr ""
-
-msgid "Animation"
-msgstr "Animace"
-
-msgid "Animation speed"
-msgstr "Rychlost animace"
-
-msgid "Timestep"
-msgstr "Časový krok"
-
-msgid "Animation timestep"
+"The minimum opacity percentage to ensure a targeted window has. A target "
+"window will have either this opacity or the preset opacity, whichever is "
+"higher."
 msgstr ""
 
 #, fuzzy
-msgid "Screen Saver"
-msgstr "Okraje obrazovky"
-
-msgid "Initiate"
-msgstr "Spustit"
-
-msgid "Start and stop the screensaver"
-msgstr ""
-
-#, fuzzy
-msgid "Screensaver mode"
-msgstr "Okraje obrazovky"
-
-#, fuzzy
-msgid "Screensaver mode."
-msgstr "Okraje obrazovky"
-
-#, fuzzy
-msgid "Start Automatically"
-msgstr "Automaticky"
-
-#, fuzzy
-msgid "Start Automatically."
-msgstr "Automaticky"
-
-msgid "After (min)"
-msgstr ""
-
-msgid "After (min)."
-msgstr ""
-
-#, fuzzy
-msgid "Fade In duration (sec)"
-msgstr "Délka rozplynutí"
-
-#, fuzzy
-msgid "Fade In duration (sec)."
-msgstr "Délka rozplynutí v sekundách."
-
-#, fuzzy
-msgid "Fade Out duration (sec)"
-msgstr "Délka rozplynutí"
-
-#, fuzzy
-msgid "Fade Out duration (sec)."
-msgstr "Délka rozplynutí v sekundách."
-
-#, fuzzy
-msgid "Flying windows"
-msgstr "Všechna okna"
-
-#, fuzzy
-msgid "ScreenSaver Windows"
-msgstr "Sněžit přes okna"
-
-msgid ":)"
-msgstr ""
-
-msgid "Generate mipmaps"
-msgstr "Generovat mipmapy"
-
-msgid "Attraction Depth"
-msgstr ""
-
-msgid "Attraction Depth."
-msgstr ""
-
-msgid "Attraction/Repulsion ratio"
-msgstr ""
-
-msgid "Attraction/Repulsion ratio."
-msgstr ""
+msgid "Passive Opacity"
+msgstr "Průhlednost"
 
 msgid ""
-"Make windows bounce on the floor, still buggy, but essential with cube "
-"reflexion."
+"The maximum opacity percentage a window blocking the current targeted window "
+"can have. A blocking window will have either this opacity or the preset "
+"opacity, whichever is lower."
+msgstr ""
+
+msgid "Taskbar only shows windows of current viewport"
+msgstr ""
+
+msgid "Only dim the windows that the taskbar shows as on the current viewport"
+msgstr ""
+
+msgid "Prompt"
+msgstr ""
+
+msgid "Compiz interface for the prompting the user."
 msgstr ""
 
 #, fuzzy
-msgid "Rotating cube"
-msgstr "Úhel otáčení"
+msgid "Notification"
+msgstr "Upozornění na chyby"
 
-#, fuzzy
-msgid "Cube rotation speed"
-msgstr "Rychlost rotace"
+msgid "Font Color"
+msgstr "Barva písma"
 
-msgid "Zoom"
-msgstr "Přiblížení"
-
-msgid "Smart Put"
+msgid "Font color for the window title"
 msgstr ""
-
-#, fuzzy
-msgid "Smart way to fit windows."
-msgstr "Sytost vybraných oken"
-
-msgid "Apply Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current window."
-msgstr ""
-
-msgid "Initiate Smart Put on current window."
-msgstr ""
-
-msgid "Initiate Smartput on current viewport"
-msgstr ""
-
-msgid "Smart Put!!!"
-msgstr ""
-
-msgid "Undo Smart Put on last \"smartputed\" window"
-msgstr ""
-
-msgid "Undo!!!"
-msgstr ""
-
-msgid "Also use apply-key to undo"
-msgstr ""
-
-msgid "If set, you can also use the same key for undo as you use for applying."
-msgstr ""
-
-msgid "Options"
-msgstr "Nastavení"
-
-#, fuzzy
-msgid "Allow stack windows"
-msgstr "Všechna okna"
-
-msgid "Stack windows on each other if there is no place left to place them."
-msgstr ""
-
-#, fuzzy
-msgid "Allow windows shrink"
-msgstr "Všechna okna"
-
-msgid "Just place the window when the new size is larger than the old one."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window height"
-msgstr "Zvýraznit okno barvou"
-
-msgid "Minimal height that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Minimal window width"
-msgstr "Maximální velikost okna"
-
-msgid "Minimal width that the new window must have at least."
-msgstr ""
-
-#, fuzzy
-msgid "Window margin"
-msgstr "Velikost části okna"
-
-msgid "The distance between windows."
-msgstr ""
-
-msgid "Snow for Compiz"
-msgstr "Sníh pro Compiz"
-
-msgid ""
-"How far outside the screen resolution snow flakes can be before being "
-"removed. Needed because of FOV."
-msgstr ""
-
-#, fuzzy
-msgid "Snow Over Windows"
-msgstr "Sněžit přes okna"
-
-msgid "Snow is drawn above windows"
-msgstr ""
-
-msgid "Rotate Flakes"
-msgstr "Rotovat vločky"
-
-msgid "Flakes rotate if checked."
-msgstr "Zdali vločky budou rotovat."
-
-msgid "Enable snow by default."
-msgstr ""
-
-#, fuzzy
-msgid "Enables alpha blending of snowflakes."
-msgstr "Povolí alfa míchání vloček."
-
-msgid "Enables textured snowflakes. If not selected, color gradients are used."
-msgstr ""
-
-msgid "Snow Toggle"
-msgstr "Přepnout sněžení"
-
-msgid "Snow toggle key"
-msgstr "Klávesa pro zapnutí/vypnutí sněžení"
-
-#, fuzzy
-msgid "Maximum number of snowflakes."
-msgstr "Počet vloček"
-
-#, fuzzy
-msgid "Size of snowflakes."
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Size of snowman"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Size of snowman inside the cube."
-msgstr "Barva vody v kostce."
-
-msgid "Stack Window Switcher"
-msgstr ""
-
-msgid "Key bindings"
-msgstr "Klávesové zkratky"
-
-msgid "Next Window"
-msgstr "Další okno"
-
-msgid "Show switcher if not visible and select next window."
-msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat další okno."
-
-msgid "Previous Window"
-msgstr "Předchozí okno"
-
-msgid "Show switcher if not visible and select previous window."
-msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno."
-
-msgid "Next Window (All Workspaces)"
-msgstr ""
-
-msgid "Show switcher if not visible and select next window out of all windows."
-msgstr ""
-"Zobrazit přepínač, pokud není viditelný, a vybrat další okno ze všech oken."
-
-msgid "Previous Window (All Workspaces)"
-msgstr ""
-
-msgid ""
-"Show switcher if not visible and select previous window out of all windows."
-msgstr ""
-"Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno ze všech "
-"oken."
-
-msgid "Next Window (Group)"
-msgstr ""
-
-msgid ""
-"Show switcher if not visible and select next window of the current "
-"application."
-msgstr ""
-"Zobrazit přepínač, pokud není viditelný, a vybrat další okno aktivní "
-"aplikace."
-
-msgid "Previous Window (Group)"
-msgstr ""
-
-msgid ""
-"Show switcher if not visible and select previous window of the current "
-"application."
-msgstr ""
-
-msgid "Behavior"
-msgstr "Chování"
-
-msgid "Inactive Window Opacity"
-msgstr ""
-
-msgid ""
-"Amount of opacity (in percent) for windows in the switcher which are not "
-"selected"
-msgstr ""
-
-msgid "Rotate inactive windows"
-msgstr ""
-
-msgid "Should not selected windows be rotated"
-msgstr ""
-
-msgid "Windows"
-msgstr "Okna"
-
-msgid "Windows that should be shown in the switcher"
-msgstr ""
-
-msgid "Darken Background"
-msgstr "Ztmavit pozadí"
-
-msgid "Darken background when showing the stack"
-msgstr ""
-
-msgid "Show Minimized"
-msgstr "Zobrazit minimalizovaná okna"
-
-msgid "Show windows that are minimized, shaded or in show desktop mode."
-msgstr ""
-
-msgid "Tilt"
-msgstr "Náklon"
-
-msgid "Tilt angle of the background."
-msgstr ""
-
-msgid "Window title display"
-msgstr "Zobrazit titulek okna"
-
-msgid "Show Window Title"
-msgstr "Zobrazit titulek okna"
-
-msgid "Show window title of currently selected window."
-msgstr "Zobrazit titulek práve vybraného okna."
-
-msgid "Bold Font"
-msgstr "Tučné písmo"
-
-msgid "Selects if the window title should be displayed in bold font or not."
-msgstr ""
-
-#, fuzzy
-msgid "Font Family"
-msgstr "Velikost písma"
-
-#, fuzzy
-msgid "Font family for the window title"
-msgstr "Barva textu v titulku okna"
 
 msgid "Font Size"
 msgstr "Velikost písma"
@@ -2147,936 +879,1674 @@ msgstr "Barva pozadí"
 msgid "Background color for the window title"
 msgstr ""
 
-msgid "Font Color"
-msgstr "Barva písma"
-
-msgid "Font color for the window title"
+msgid "Rubik's Cube"
 msgstr ""
 
-msgid "Text Placement"
-msgstr "Umístění textu"
-
-msgid "Selects where to place the window title."
-msgstr ""
-
-msgid "On Thumbnail"
-msgstr ""
-
-msgid "Centered on screen"
-msgstr ""
-
-msgid "Above"
-msgstr "Nad"
-
-msgid "Below"
-msgstr "Pod"
-
-#, fuzzy
-msgid "Stars for Compiz"
-msgstr "Sníh pro Compiz"
-
-#, fuzzy
-msgid "Number Of Stars"
-msgstr "Počet částic"
-
-#, fuzzy
-msgid "Maximum number of stars"
-msgstr "Maximální množství aktivních částic"
-
-#, fuzzy
-msgid "Size Of Stars"
-msgstr "Velikost vloček"
-
-#, fuzzy
-msgid "Speed of traveling stars"
-msgstr "Rychlost padajících listů"
-
-msgid ""
-"How far outside the screen resolution stars can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-
-msgid "How deep into the screen stars can be drawn before being removed"
+msgid "Turn cube into a Rubik's cube"
 msgstr ""
 
 #, fuzzy
-msgid "Stars Over Windows"
-msgstr "Sněžit přes okna"
+msgid "Toggle Rubik's cube"
+msgstr "Bubliny"
 
-msgid "Stars are drawn above windows"
+msgid "Start/stop Rubik's cube effect."
+msgstr ""
+
+msgid "Speed factor"
+msgstr ""
+
+msgid "Multiply the speed of rotations by this factor."
+msgstr ""
+
+msgid "Rubik Size"
 msgstr ""
 
 #, fuzzy
-msgid "Rotate Flakes. Redundant"
+msgid "Number of horizontal/vertical strips."
+msgstr "Počet vodorovných skladů"
+
+#, fuzzy
+msgid "Rotate around all axes"
 msgstr "Rotovat vločky"
 
-msgid "Snow Direction. Redundant"
+msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
+msgstr ""
+
+msgid "On manual rotate"
 msgstr ""
 
 #, fuzzy
-msgid "Stars Textures"
-msgstr "Textury sněhu"
+msgid "Enable effect only on cube rotate."
+msgstr "Deformovat pouze při otáčení myší"
 
-msgid "Images to use as 'stars'"
-msgstr ""
+#, fuzzy
+msgid "Rotate desktop"
+msgstr "Přesunout doleva"
 
-msgid "Enables textures snowflakes. If not selected, color gradients are used."
+msgid "Rotate desktop as well as windows."
 msgstr ""
 
 #, fuzzy
-msgid "Stars Toggle"
-msgstr "Přepnout sněžení"
+msgid "Colored Sides"
+msgstr "Jas"
 
-#, fuzzy
-msgid "Stars toggle key"
-msgstr "Klávesa pro zapnutí/vypnutí sněžení"
-
-#, fuzzy
-msgid "Static Windows"
-msgstr "Přichycená okna"
-
-msgid "Keep windows such as dock or panels static"
+msgid "Replace wallpaper with colored sides."
 msgstr ""
 
-msgid "Window Match"
-msgstr "Typy oken"
+#, fuzzy
+msgid "Enable Depth Test"
+msgstr "Povolit textury"
+
+msgid "Hide windows that are behind other windows."
+msgstr ""
+
+msgid "Desktop caps"
+msgstr ""
+
+msgid "Display a desktop for each cap."
+msgstr ""
+
+msgid "Visual Event"
+msgstr ""
+
+msgid "Display information when various input events are raised"
+msgstr ""
 
 #, fuzzy
-msgid "Windows that should be kept static during transformations."
-msgstr "Okna která se rozplynou"
+msgid "Behaviour"
+msgstr "Chování"
 
-#, fuzzy
-msgid "Swap Windows"
-msgstr "Přichytávající se okna"
-
-msgid "Next window"
-msgstr "Další okno"
-
-msgid "Popup switcher if not visible and select next window"
+msgid "Key/Button Release Timeout"
 msgstr ""
-
-msgid "Prev window"
-msgstr "Předchozí okno"
-
-msgid "Popup switcher if not visible and select previous window"
-msgstr ""
-
-msgid "Next window (All windows)"
-msgstr "Další okno (ze všech oken)"
-
-msgid "Popup switcher if not visible and select next window out of all windows"
-msgstr ""
-
-msgid "Prev window (All windows)"
-msgstr "Předchozí okno (ze všech oken)"
 
 msgid ""
-"Popup switcher if not visible and select previous window out of all windows"
+"Duration (in s) a key or button should remain visually pressed after being "
+"released."
 msgstr ""
 
-msgid "Next window (Group)"
-msgstr "Další okno (ze skupiny)"
+msgid "Key bindings"
+msgstr "Klávesové zkratky"
 
-msgid ""
-"Popup switcher if not visible and select next window of the current "
-"application."
-msgstr ""
+#, fuzzy
+msgid "Toggle display"
+msgstr "Nezobrazovat"
 
-msgid "Prev window (Group)"
-msgstr "Předchozí okno (ze skupiny)"
-
-msgid ""
-"Popup switcher if not visible and select previous window of the current "
-"application."
-msgstr ""
-
-msgid "Next window (No popup)"
-msgstr "Další okno (bez přepínače)"
-
-msgid "Select next window without showing the popup window."
-msgstr "Vybrat další okno bez zobrazení přepínače"
-
-msgid "Prev window (No popup)"
-msgstr "Předchozí okno (bez přepínače)"
-
-msgid "Select previous window without showing the popup window."
-msgstr "Vybrat předchozí okno bez zobrazení přepínače"
-
-msgid "Next Panel"
-msgstr "Další panel"
-
-msgid "Select next panel type window."
-msgstr ""
-
-msgid "Prev Panel"
-msgstr "Předchozí panel"
-
-msgid "Select previous panel type window."
-msgstr ""
-
-msgid "Switcher speed"
-msgstr "Rychlost přepínače"
-
-msgid "Switcher timestep"
-msgstr "Časový krok přepínače"
-
-msgid "Switcher windows"
-msgstr ""
-
-msgid "Windows that should be shown in switcher"
-msgstr "Typy oken, která mají být zobrazena v přepínači"
-
-msgid "Show minimized windows"
-msgstr "Zobrazit minimalizovaná okna"
-
-msgid "Auto Change Viewport"
-msgstr ""
-
-msgid "Change to the viewport of the selected window while switching"
-msgstr ""
-
-msgid "Popup Window Delay"
-msgstr ""
-
-msgid "Time (in s) the popup window should be delayed before appearing"
-msgstr ""
+#, fuzzy
+msgid "Toggle display."
+msgstr "Nezobrazovat"
 
 msgid "Appearance"
 msgstr "Vzhled"
 
-msgid "Amount of saturation in percent"
-msgstr "Hodnota sytosti v procentech"
+#, fuzzy
+msgid "Mouse border Color"
+msgstr "Barva okraje"
 
-msgid "Amount of brightness in percent"
-msgstr "Hodnota jasu v procentech"
+#, fuzzy
+msgid "Color of the border of the mouse"
+msgstr "Barva vody v kostce."
 
-msgid "Amount of opacity in percent"
-msgstr "Hodnota krytí v procentech"
+#, fuzzy
+msgid "Mouse body Color"
+msgstr "Barva základní barvy"
 
-msgid "Icon"
-msgstr "Ikona"
+#, fuzzy
+msgid "Color of the body of the mouse"
+msgstr "Barva vody v kostce."
 
-msgid "Show icon next to thumbnail"
-msgstr "Zobrazit ikonu vedle náhledu"
+#, fuzzy
+msgid "Left button Color"
+msgstr "Barva spodní strany"
 
-msgid "Mipmap"
-msgstr ""
+#, fuzzy
+msgid "Color of the left button"
+msgstr "Barva země (dále)"
 
-msgid "Generate mipmaps when possible for higher quality scaling"
-msgstr "Jeli to možné, vytvářet pro kvalitní škálování mipmapy"
+#, fuzzy
+msgid "Middle button Color"
+msgstr "Barva titulku okna"
 
-msgid "Row Alignment"
-msgstr "Zarovnání řádku"
+#, fuzzy
+msgid "Color of the middle button"
+msgstr "Barva země (dále)"
 
-msgid "Alignment for rows that are not fully filled"
-msgstr ""
-
-msgid "Centered"
-msgstr "Vystředit"
-
-msgid "Selected Window Highlight"
-msgstr "Zvýraznění vybraného okna"
-
-msgid "Highlight Mode"
-msgstr "Režim zvýrazňování"
-
-msgid "Mode for highlighting the currently selected window"
-msgstr ""
-
-msgid "Bring Selected To Front"
-msgstr "Přenést vybrané okno na popředí"
-
-msgid "Show Rectangle"
-msgstr "Zobrazit obdélník"
-
-msgid "Minimized Window Highlight Rectangle"
-msgstr ""
-
-msgid "Where to draw highlight rectangle for minimized windows"
-msgstr ""
-
-msgid "Taskbar Entry"
-msgstr ""
-
-msgid "Original Window Position"
-msgstr "Původní poloha okna"
-
-msgid "Highlight Color"
+#, fuzzy
+msgid "Right button Color"
 msgstr "Barva zvýraznění"
 
-msgid "Color of highlight rectangle"
-msgstr ""
-
-msgid "Highlight Border Color"
-msgstr ""
-
-msgid "Color of highlight rectangle border"
-msgstr ""
-
-msgid "Highlight Border Inlay Color"
-msgstr ""
-
-msgid "Color of inlay in highlight rectangle border"
-msgstr ""
-
 #, fuzzy
-msgid "Throw Windows"
-msgstr "Okna"
-
-msgid "Windows have a velocity once they are released after moving"
-msgstr ""
-
-#, fuzzy
-msgid "X Velocity Multiplier"
-msgstr "Rozsah vlny"
-
-#, fuzzy
-msgid "X Velocity Multipler"
-msgstr "Rozsah vlny"
-
-#, fuzzy
-msgid "Y Velocity Multiplier"
-msgstr "Rozsah vlny"
-
-#, fuzzy
-msgid "Y Velocity Multipler"
-msgstr "Rozsah vlny"
-
-#, fuzzy
-msgid "Friction constant"
-msgstr "Rychlost vzplanutí"
-
-msgid "How much friction the screen provides"
-msgstr ""
-
-msgid "Constrain X"
-msgstr ""
-
-msgid "Constrain window in display width"
-msgstr ""
-
-msgid "Constrain Y"
-msgstr ""
-
-msgid "Constrain window in display height"
-msgstr ""
-
-msgid "Tile"
-msgstr "Dlaždice"
-
-msgid "Tile windows"
-msgstr ""
-
-msgid "Tiling Animation Type"
-msgstr ""
-
-msgid "Selects the animation used while tiling"
-msgstr ""
-
-msgid "Filled Outline"
-msgstr ""
-
-msgid "Slide"
-msgstr "Snímek"
-
-msgid "Drop From Top"
-msgstr ""
-
-msgid "Animation Duration"
-msgstr "Délka animace"
-
-msgid "Duration (in ms) of the tiling animation"
-msgstr ""
-
-msgid "Tiling Method For Toggle"
-msgstr ""
-
-msgid "Choose the tiling type you want when using toggle."
-msgstr ""
-
-msgid "Tile Vertically"
-msgstr "Svislé dlaždice"
-
-msgid "Tile Horizontally"
-msgstr "Vodorovné dlaždice"
-
-msgid "Cascade"
-msgstr "Kaskáda"
-
-msgid "Join Windows (EXPERIMENTAL)"
-msgstr "Spojit okna (EXPERIMENTÁLNÍ)"
-
-msgid ""
-"Tries to join the windows together when horizontal, vertical or left tiling "
-"is enabled so that when you resize a window surrounding windows resize "
-"accordingly. This may cause problems if you dont leave them enough space."
-msgstr ""
-
-msgid "Cascade Delta"
-msgstr ""
-
-msgid "Distance between windows when using cascade"
-msgstr ""
-
-msgid "Left Occupancy"
-msgstr ""
-
-msgid ""
-"Occupancy percentage for window placed left. This number is percentage of "
-"screen width, which the active window will have it as width when tiled. "
-"Applies to Left tiling type."
-msgstr ""
-
-msgid "Excluded Windows"
-msgstr ""
-
-msgid "Windows which should be excluded from tiling"
-msgstr ""
-
-msgid "Tile Windows Vertically"
-msgstr ""
-
-msgid ""
-"Move and resize all visible windows so that they have full height, same "
-"width and occupy whole screen."
-msgstr ""
-
-msgid "Tile Windows Horizontally"
-msgstr ""
-
-msgid ""
-"Move and resize all visible windows so that they have full width, same "
-"height and occupy whole screen."
-msgstr ""
-
-msgid "Tile Windows"
-msgstr ""
-
-msgid ""
-"Move and resize all visible windows both vertically and horizontally, so "
-"that the occupy whole screen and are in a grid."
-msgstr ""
-
-msgid "Cascade Windows"
-msgstr ""
-
-msgid ""
-"Move and resize all visible windows with the delta value set for cascading."
-msgstr ""
-
-msgid "Restore Windows"
-msgstr "Obnovit okna"
-
-msgid "Restore windows to their original position they had before tiling."
-msgstr ""
-
-msgid "Toggle Tiling"
-msgstr ""
-
-msgid "Toggle between tile and restore"
-msgstr ""
-
-#, fuzzy
-msgid "Toggle Decoration"
-msgstr "Přepnout rozmáznutí pohybem"
-
-#, fuzzy
-msgid "Toggles decoration."
-msgstr "Přepnout rozmáznutí pohybem"
-
-#, fuzzy
-msgid "Toggle decoration"
-msgstr "Přepnout rozmáznutí pohybem"
-
-msgid "Toggles decoration on/off."
-msgstr ""
-
-msgid "Toggle decoration on desktop"
-msgstr ""
-
-msgid "Toggles decoration of every window on the desktop."
-msgstr ""
-
-msgid "Wizard"
-msgstr ""
-
-msgid ""
-"Wastes resources to create fancy particle systems for wizard-wannabes :)"
-msgstr ""
-
-msgid "Toggle all particle effects."
-msgstr ""
-
-#, fuzzy
-msgid "Enable wizard by default."
-msgstr "Okna, které budou implicitně filtrována"
-
-msgid "Gravity"
-msgstr ""
-
-msgid "Global gravity"
-msgstr ""
-
-msgid "Gravity X"
-msgstr ""
-
-#, fuzzy
-msgid "Global horizontal gravity"
-msgstr "Vodorovný přechod"
-
-msgid "Gravity Y"
-msgstr ""
-
-#, fuzzy
-msgid "Global vertical gravity"
-msgstr "Svislý přechod"
-
-msgid "Point gravity sources"
-msgstr ""
-
-msgid "Strength"
-msgstr ""
-
-msgid ""
-"The strength of this gravity source. Use negative values for a repulsing "
-"effect."
-msgstr ""
+msgid "Color of the right button"
+msgstr "Barva země (dále)"
 
 # hmm ?
 #, fuzzy
-msgid "Position X"
+msgid "Position"
 msgstr "Umístění"
 
-msgid ""
-"The horizontal position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
+msgid "Keyboard left margin"
 msgstr ""
 
-# hmm ?
-#, fuzzy
-msgid "Position Y"
-msgstr "Umístění"
-
-msgid ""
-"The vertical position of this gravity source. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The speed of this gravity source. May be ignored or used for initialization, "
-"depending on the movement type."
-msgstr ""
-
-msgid ""
-"The angle for the movement of this gravity source. May be ignored or used "
-"for initialization, depending on the movement type."
+msgid "Left margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Movement Type"
-msgstr "Rychlost pohybu myši"
+msgid "Keyboard bottom margin"
+msgstr "Další spodní obrázek"
 
-msgid ""
-"The movement type of this source: Fixed (not moving at all), Mouse Position "
-"(exactly on the core pointer), Follow Mouse (moving towards core pointer at "
-"set speed), Bounce (moving at constant speed, bouncing off the walls) or "
-"Wrap (moving at constant speed, jumping to the opposite side at a wall)."
+msgid "Bottom margin of the visual keyboard"
 msgstr ""
 
 #, fuzzy
-msgid "Mouse Position"
+msgid "Mouse right margin"
 msgstr "Obnovit předchozí umístění"
 
-#, fuzzy
-msgid "Follow Mouse"
-msgstr "Zobrazit myš"
-
-msgid "Wrap"
-msgstr ""
-
-msgid "Emitters"
+msgid "Right margin of the visual mouse"
 msgstr ""
 
 #, fuzzy
-msgid "Active"
-msgstr "Aktivovat"
+msgid "Mouse bottom margin"
+msgstr "Přizpůsobit spodní obrázek"
+
+msgid "Bottom margin of the visual mouse"
+msgstr ""
+
+msgid "Wii Remote"
+msgstr ""
+
+msgid "Compiz interface for the Nintendo Wii Remote."
+msgstr ""
+
+#, fuzzy
+msgid "Toggle status reporting"
+msgstr "Přepnout rozmáznutí pohybem"
 
 msgid ""
-"Since emitters have a lot of options, you can simply deactivate and name "
-"them instead of deleting them."
+"Use this to enable status reporting from the Wii Remote. Remember to hold "
+"down (1)+(2)."
 msgstr ""
 
-msgid "Name"
+msgid "Disable status reporting"
 msgstr ""
 
-msgid "Trigger"
+msgid "Use this to disable status reporting from the Wii Remote."
 msgstr ""
 
-msgid ""
-"The trigger to create particles: Persitent (create particles all the time), "
-"Mouse Movement (create particles when the mouse is being moved), Random Shot "
-"(a single particle burst once in a while), Random Period (randomly turning "
-"on and off particle production) or Notification (a single particle burst on "
-"notification events)."
+msgid "Status reporting"
 msgstr ""
 
-msgid "Persistent"
+msgid "Togle status reporting from the Wii Remote."
 msgstr ""
 
-#, fuzzy
-msgid "Mouse Movement"
-msgstr "Rychlost pohybu myši"
+msgid "Wiimote Setup"
+msgstr ""
 
-#, fuzzy
-msgid "Random Shot"
-msgstr "Náhodně"
-
-#, fuzzy
-msgid "Random Period"
-msgstr "Náhodně"
-
-msgid ""
-"The horizontal position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
+msgid "Reporting Timeout"
 msgstr ""
 
 msgid ""
-"The vertical position of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
+"The more often you call it, the higher the CPU usage will be, so be careful "
+"with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
 
 #, fuzzy
-msgid "Emitter Speed"
-msgstr "Rychlost přepínače"
+msgid "Gesture Timeout"
+msgstr "Gesta"
 
 msgid ""
-"The speed of this emitter. May be ignored or used for initialization, "
-"depending on the movement type."
-msgstr ""
-
-msgid "Emitter Angle"
-msgstr ""
-
-msgid ""
-"The angle for the movement of this emitter. May be ignored or used for "
-"initialization, depending on the movement type."
-msgstr ""
-
-msgid ""
-"The movement type of this emitter: Mouse Position (exactly on the core "
-"pointer), Follow Mouse (moving towards core pointer at set speed), Bounce "
-"(moving at constant speed, bouncing off the walls) or Wrap (moving at "
-"constant speed, jumping to the opposite side at a wall)."
+"The more often you call it, the higher the CPU usage will be and the faster "
+"you have to move"
 msgstr ""
 
 #, fuzzy
-msgid "Particle count"
-msgstr "Barva částic."
+msgid "Gesture Sensitvity"
+msgstr "Gesta"
 
-msgid "The amount of particles generated each time this emitter is triggered."
+msgid "How much the readings must differ between gesture checks"
+msgstr ""
+
+msgid "Individual Setup"
 msgstr ""
 
 #, fuzzy
-msgid "Color hue"
-msgstr "Barva 1"
+msgid "X Calibration Multiplier"
+msgstr "Rozsah vlny"
 
-msgid ""
-"The color of the particles. This is hue like in HSL colors. It is the center "
-"of the range given below."
-msgstr ""
-
-msgid "Color hue range"
-msgstr ""
-
-msgid ""
-"The color of the particles can be any value from the hue (given above) plus/"
-"minus this range. A range of 500 means any color."
+msgid "Change this depending on your screen size"
 msgstr ""
 
 #, fuzzy
-msgid "Color lightness"
-msgstr "Jas"
+msgid "Y Calibration Multiplier"
+msgstr "Rozsah vlny"
 
-msgid ""
-"The color of the particles. This is lightness like in HSL colors. It is the "
-"center of the range given below."
+msgid "X Adjust"
+msgstr ""
+
+msgid "Used to adjust to the position of your screen"
+msgstr ""
+
+msgid "Y Adjust"
 msgstr ""
 
 #, fuzzy
-msgid "Color lightness range"
-msgstr "Filtr barev"
+msgid "Gesturing"
+msgstr "Gesta"
 
-msgid ""
-"The color of the particles can be any value from the lightness (given above) "
-"plus/minus this range."
+#, fuzzy
+msgid "Gesture List"
+msgstr "Gesta"
+
+msgid "Wii Remote Number"
 msgstr ""
 
-msgid "Alpha"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles. This is the center of the range given "
-"below."
-msgstr ""
-
-msgid "Alpha range"
-msgstr ""
-
-msgid ""
-"The alpha (opacity) of the particles can be any value from the alpha (given "
-"above) plus/minus this range."
-msgstr ""
-
-msgid "X range"
-msgstr ""
-
-msgid "The horizontal range of the particles."
-msgstr ""
-
-msgid "Y range"
+msgid "The number of the wii remote on the list (starts at 0)"
 msgstr ""
 
 #, fuzzy
-msgid "The vertical range of the particles."
-msgstr "Použít náhodné barvy částic"
+msgid "Gesture Type"
+msgstr "Gesta"
 
-msgid "Circular range"
+msgid "Which gesture calls the action"
+msgstr ""
+
+msgid "Sensitivity"
+msgstr ""
+
+msgid "How sensitive gestures should be"
+msgstr ""
+
+msgid "Reporting"
+msgstr ""
+
+msgid "Reporter List"
+msgstr ""
+
+msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr ""
 
 #, fuzzy
-msgid "The circular range of the particles."
-msgstr "Použít náhodné barvy částic"
+msgid "Report Type"
+msgstr "Rychlost rotace"
 
-#, fuzzy
-msgid "X speed"
-msgstr "Rychlost rozplynutí"
-
-msgid "The horizontal speed of the particles."
+msgid "What to report"
 msgstr ""
 
 #, fuzzy
-msgid "Y speed"
-msgstr "Rychlost rozplynutí"
+msgid "Plugin to report to"
+msgstr "Zásuvný modul ke kterému náleží akce."
 
-#, fuzzy
-msgid "The vertical speed of the particles."
-msgstr "Použít náhodné barvy částic"
-
-#, fuzzy
-msgid "Aging speed"
-msgstr "Rychlost animace"
-
-msgid "The more negative the sooner particles disappear."
+msgid "Action to report to"
 msgstr ""
 
-msgid "Rotation speed"
+#, fuzzy
+msgid "X Argument"
+msgstr "Zarovnání řádku"
+
+msgid "What option name the plugin expects for the X value"
+msgstr ""
+
+#, fuzzy
+msgid "Y Argument"
+msgstr "Zarovnání řádku"
+
+msgid "What option name the plugin expects for the Y value"
+msgstr ""
+
+#, fuzzy
+msgid "Z Argument"
+msgstr "Zarovnání řádku"
+
+msgid "What option name the plugin expects for the Z value"
+msgstr ""
+
+#, fuzzy
+msgid "Data Type"
 msgstr "Rychlost rotace"
 
 msgid ""
-"The rotation of the particles can probably only be seen on the really big "
-"ones."
+"What data type the plugin expects (Use the other one if the current one "
+"doesn't work)"
 msgstr ""
 
-msgid "X speed range"
+msgid "How sensitive Wii Remote movements should be"
 msgstr ""
 
-msgid "The horizontal speed range of the particles."
+msgid "WiiTrack"
 msgstr ""
 
-msgid "Y speed range"
-msgstr ""
-
-msgid "The vertical speed range of the particles."
-msgstr ""
-
-msgid "Circular speed range"
-msgstr ""
-
-msgid "The circular speed range of the particles."
-msgstr ""
-
-msgid "Aging speed range"
-msgstr ""
-
-msgid "The range of aging speeds"
+msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
 msgstr ""
 
 #, fuzzy
-msgid "Rotation speed range"
-msgstr "Rychlost rotace"
-
-msgid "Particle Size"
-msgstr "Velikost částic"
+msgid "Enable Tracking"
+msgstr "Povolit míchání"
 
 #, fuzzy
-msgid "The size of the particles."
-msgstr "Velikost vodních rostlin."
+msgid "WiiMote Above Screen"
+msgstr "Spustit"
 
-#, fuzzy
-msgid "Particle Size Range"
-msgstr "Velikost částic"
-
-#, fuzzy
-msgid "The size range of the particles."
-msgstr "Velikost vodních rostlin."
-
-#, fuzzy
-msgid "New Size"
-msgstr "Velikost záře"
-
-#, fuzzy
-msgid "The size of the particles when they are new."
-msgstr "Kreslit oheň nebo jiné částice na obrazovku"
-
-msgid "New Size Range"
+msgid "Enable this if your Wiimote is above your screen."
 msgstr ""
 
 #, fuzzy
-msgid "The size range of the particles when they are new."
-msgstr "Kreslit oheň nebo jiné částice na obrazovku"
+msgid "Wiimote Vertical Angle"
+msgstr "Svislé dlaždice"
 
-msgid ""
-"The strength of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Range"
-msgstr ""
-
-msgid ""
-"The strength range of the gravity effect, these particles have. (See gravity "
-"probability. May be especially resource consuming."
-msgstr ""
-
-msgid "Gravity Probability"
-msgstr ""
-
-msgid ""
-"The probability that a particle has the gravity effect, that has been set up "
-"above. This value represents gravity particles out of 10000 particles. "
-"(Using gravity on too many particles may be very resource consuming)"
-msgstr ""
-
-msgid "Advanced"
+msgid "Angle of wiimote in radians * 100"
 msgstr ""
 
 #, fuzzy
-msgid "Hard limit for particles"
-msgstr "Použít náhodné barvy částic"
-
-msgid "If this hard limit is reached, no new particles are created"
-msgstr ""
+#~ msgid "Initiate Window"
+#~ msgstr "Aktivovat okno"
 
 #, fuzzy
-msgid "Soft limit for particles"
-msgstr "Množství částic plamene."
-
-msgid ""
-"This soft limit can be exceeded. If this happens, particles will die faster"
-msgstr ""
-
-msgid "Darken backgound"
-msgstr "Ztmavit pozadí"
-
-msgid "Darken background under particles"
-msgstr "Ztmavit pozadí pod částicemi"
-
-msgid "Additive blending"
-msgstr ""
-
-msgid "Additive blending of particles"
-msgstr ""
+#~ msgid "Initiate Window Button"
+#~ msgstr "Smazat (tlačítko)"
 
 #, fuzzy
-msgid "New particle time"
-msgstr "Živostnost částic plamenu."
-
-msgid ""
-"If the age of a particle is above this value, it is regarded as new and is "
-"especially bright and large. Particles are born at the age of 1.0 and die at "
-"the age of 0.0"
-msgstr ""
+#~ msgid "Start anaglyph active window"
+#~ msgstr "Aktivuje dané okno"
 
 #, fuzzy
-msgid "Old particle time"
-msgstr "Živostnost částic plamenu."
-
-msgid ""
-"If the age of a particle is below this value, it is regarded as old and "
-"starts to fade. Particles are born at the age of 1.0 and die at the age of "
-"0.0"
-msgstr ""
-
-msgid "Workspace Naming"
-msgstr ""
-
-msgid "Allows assigning descriptions to workspaces"
-msgstr ""
-
-msgid "Names"
-msgstr ""
-
-msgid "Workspace Names"
-msgstr ""
+#~ msgid "Initiate Screen Button"
+#~ msgstr "Smazat (tlačítko)"
 
 #, fuzzy
-msgid "Viewport"
-msgstr "Umístit na plochu"
+#~ msgid "Anaglyph Windows"
+#~ msgstr "Přichytávající se okna"
 
 #, fuzzy
-msgid "Number of viewport to be named"
-msgstr "Počet sledovaných oken"
+#~ msgid "Windows to be anaglyph by default"
+#~ msgstr "Okna budou implicitně negativní"
 
 #, fuzzy
-msgid "Viewport name"
-msgstr "Umístit na plochu 1"
-
-msgid "Display Time"
-msgstr ""
-
-msgid "Timeout (in s) of the name display"
-msgstr ""
-
-msgid "Fade Time"
-msgstr "Doba rozplynutí"
-
-msgid "Time (in s) the name display fades out after being shown."
-msgstr ""
+#~ msgid "Desaturate"
+#~ msgstr "Sytost"
 
 #, fuzzy
-msgid "Text Display"
-msgstr "Zobrazení"
-
-msgid "Selects if the text should be displayed in bold font or not."
-msgstr ""
-
-msgid "Font family for the text display."
-msgstr ""
+#~ msgid "Animations Plus"
+#~ msgstr "Animace"
 
 #, fuzzy
-msgid "Font size for the text display."
-msgstr "Velikost vodních rostlin."
+#~ msgid "More window animations"
+#~ msgstr "Filtrovat dekorace oken"
 
-msgid "Selects where to place the text."
-msgstr ""
-
-#, fuzzy
-msgid "Top of screen"
-msgstr "Druh vodních tvorů."
+#~ msgid "Effect Settings"
+#~ msgstr "Nastavení efektu"
 
 #, fuzzy
-msgid "Bottom of screen"
-msgstr "Zdola nahoru"
-
-msgid "Colors"
-msgstr "Barvy"
-
-msgid "Background color for the text display."
-msgstr ""
+#~ msgid "Helix Number of Twists"
+#~ msgstr "Počet rotací odkopnutí"
 
 #, fuzzy
-msgid "Font color for the text display."
-msgstr "Barva textu v titulku okna"
+#~ msgid "Helix Thickness"
+#~ msgstr "Tloušťka"
+
+#, fuzzy
+#~ msgid "Thickness of blocks in the animation"
+#~ msgstr "Tloušťka animovaných polygonů."
+
+#, fuzzy
+#~ msgid "Vertical Helix"
+#~ msgstr "Svislý přechod"
+
+#, fuzzy
+#~ msgid "Blinds Thickness"
+#~ msgstr "Tloušťka"
+
+#, fuzzy
+#~ msgid "Shatter number of spokes"
+#~ msgstr "Počet vloček"
+
+#~ msgid "Number Of Fire Particles"
+#~ msgstr "Počet částic ohně"
+
+#~ msgid "Number of fire particles."
+#~ msgstr "Množství částic plamene."
+
+#~ msgid "Fire Particle Size"
+#~ msgstr "Velikost plamenu"
+
+#~ msgid "Fire particle size."
+#~ msgstr "Velikost částic plamenu."
+
+#~ msgid "Fire Particle Life"
+#~ msgstr "Životnost plamenu"
+
+#~ msgid "Fire particle life."
+#~ msgstr "Živostnost částic plamenu."
+
+#~ msgid "Fire particle color."
+#~ msgstr "Barva částic plamenu."
+
+#~ msgid "Randomly Colored Fire"
+#~ msgstr "Náhodné barvy plamene"
+
+#~ msgid "Have random colors for the fire effect, also known as Mystical Fire."
+#~ msgstr "Náhodné barvy efektu hoření, označováno jako Mystický oheň"
+
+#, fuzzy
+#~ msgid "Fly In Direction"
+#~ msgstr "Směr skládání"
+
+#, fuzzy
+#~ msgid "UD Direction X"
+#~ msgstr "Směr skládání"
+
+#, fuzzy
+#~ msgid "UD Direction Y"
+#~ msgstr "Směr skládání"
+
+#~ msgid "Fade"
+#~ msgstr "Rozplynutí"
+
+#, fuzzy
+#~ msgid "Distance to fly in"
+#~ msgstr "Vzdálenost"
+
+#, fuzzy
+#~ msgid "Rotate In"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Angle"
+#~ msgstr "Úhel zmizení"
+
+#, fuzzy
+#~ msgid "Maximum Size"
+#~ msgstr "Maximalizované"
+
+#, fuzzy
+#~ msgid "Minimum Size"
+#~ msgstr "Minimální velikost kostky"
+
+#, fuzzy
+#~ msgid "Number of Bounces"
+#~ msgstr "Počet částic ohně"
+
+#, fuzzy
+#~ msgid "First expand horizontally"
+#~ msgstr "Vodorovné dlaždice"
+
+#, fuzzy
+#~ msgid "Initial horizontal size"
+#~ msgstr "Vodorovné dlaždice"
+
+#, fuzzy
+#~ msgid "Initial vertical size"
+#~ msgstr "Velikost částic."
+
+#, fuzzy
+#~ msgid "Delay"
+#~ msgstr "Prodleva zobrazení"
+
+#~ msgid "Low detail models"
+#~ msgstr "Nízká detailnost modelů"
+
+#~ msgid "Creature Selection"
+#~ msgstr "Výběr tvorů"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Type of sea creature."
+#~ msgstr "Druh vodních tvorů."
+
+#~ msgid "Color"
+#~ msgstr "Barva"
+
+#~ msgid "The color of the sea creature."
+#~ msgstr "Barva vodních tvorů."
+
+#~ msgid "The number of the sea creature."
+#~ msgstr "Množství vodních tvorů."
+
+#~ msgid "Size"
+#~ msgstr "Velikost"
+
+#~ msgid "The size of the sea creature."
+#~ msgstr "Velikost vodních tvorů."
+
+#~ msgid "Type of sea plant."
+#~ msgstr "Druh vodních rostlin."
+
+#~ msgid "The color of the sea plant."
+#~ msgstr "Barva vodních rostlin."
+
+#~ msgid "The number of the sea plants."
+#~ msgstr "Množství vodních rostlin."
+
+#~ msgid "The size of the sea plant."
+#~ msgstr "Velikost vodních rostlin."
+
+#~ msgid "Water / Ground"
+#~ msgstr "Voda / země"
+
+#~ msgid "Render water"
+#~ msgstr "Vykreslovat vodu"
+
+#~ msgid "Render water wireframe"
+#~ msgstr "Vykreslovat drátový model vody"
+
+#~ msgid "Render ground"
+#~ msgstr "Vykreslovat zemi"
+
+#~ msgid "Ground color"
+#~ msgstr "Barva země"
+
+#~ msgid "Color of ground in the cube."
+#~ msgstr "Barva země v kostce."
+
+#~ msgid "Water surface height"
+#~ msgstr "Výška vodní hladiny"
+
+#~ msgid "Water color"
+#~ msgstr "Barva vody"
+
+#~ msgid "Waves"
+#~ msgstr "Vlny"
+
+#~ msgid "Render waves"
+#~ msgstr "Vykreslovat vlny"
+
+#~ msgid "Ripple effect"
+#~ msgstr "Efekt čeření"
+
+#~ msgid "Amplitude of water waves."
+#~ msgstr "Velikost vodních vln."
+
+#~ msgid "Frequency of water waves."
+#~ msgstr "Četnost vodních vln."
+
+#~ msgid "Small wave amplitude"
+#~ msgstr "Rozsah vlnek"
+
+#~ msgid "Small wave frequency"
+#~ msgstr "Četnost vlnek"
+
+#~ msgid "Display"
+#~ msgstr "Zobrazení"
+
+#~ msgid "Rescale for screen ratio"
+#~ msgstr "Zvětšit na poměr obrazovky"
+
+#~ msgid "Cube 3D Models"
+#~ msgstr "3D modely kostky"
+
+#~ msgid "Model"
+#~ msgstr "Model"
+
+#~ msgid "X"
+#~ msgstr "X"
+
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Z"
+#~ msgstr "Z"
+
+#~ msgid "Model type"
+#~ msgstr "Typ modelu"
+
+#~ msgid "Frames per second"
+#~ msgstr "Snímky za sekundu"
+
+#, fuzzy
+#~ msgid "Loading"
+#~ msgstr "Načítání"
+
+#, fuzzy
+#~ msgid "Dialog Match"
+#~ msgstr "Typy oken"
+
+#~ msgid "Speed"
+#~ msgstr "Rychlost"
+
+#, fuzzy
+#~ msgid "The speed of the animation"
+#~ msgstr "Zmnit rychlost 3D animace"
+
+#~ msgid "Saturation"
+#~ msgstr "Sytost"
+
+#, fuzzy
+#~ msgid "The Saturation of windows with open dialogs"
+#~ msgstr "Sytost oken v pozadí"
+
+#~ msgid "Brightness"
+#~ msgstr "Jas"
+
+#, fuzzy
+#~ msgid "The Brightness of windows with open dialogs"
+#~ msgstr "Jas ztmavených oken"
+
+#~ msgid "General"
+#~ msgstr "Obecné"
+
+#, fuzzy
+#~ msgid "Global Speed"
+#~ msgstr "Rychlost přiblížení"
+
+#~ msgid "Snow"
+#~ msgstr "Sníh"
+
+#~ msgid "Number Of Snowflakes"
+#~ msgstr "Počet vloček"
+
+#~ msgid "Number of snowflakes"
+#~ msgstr "Počet vloček"
+
+#~ msgid "Size Of Snowflakes"
+#~ msgstr "Velikost vloček"
+
+#~ msgid "Size of snowflakes"
+#~ msgstr "Velikost vloček"
+
+#~ msgid "Snow Speed"
+#~ msgstr "Rychlost sněžení"
+
+#~ msgid "Speed of falling snow"
+#~ msgstr "Rychlost padajícího sněhu"
+
+#, fuzzy
+#~ msgid "Rotate Snowflakes"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Toggle Snow"
+#~ msgstr "Přepnout negativ okna"
+
+#~ msgid "None"
+#~ msgstr "Nic"
+
+#~ msgid "Snow Textures"
+#~ msgstr "Textury sněhu"
+
+#~ msgid "Snow textures"
+#~ msgstr "Textury sněhu"
+
+#~ msgid "Autumn"
+#~ msgstr "Podzim"
+
+#, fuzzy
+#~ msgid "Number Of leaves"
+#~ msgstr "Počet vloček"
+
+#, fuzzy
+#~ msgid "Number of leaves"
+#~ msgstr "Počet vloček"
+
+#, fuzzy
+#~ msgid "Size Of leaves"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Size of leaves"
+#~ msgstr "Velikost vloček"
+
+#~ msgid "Speed of falling leaves"
+#~ msgstr "Rychlost padajících listů"
+
+#, fuzzy
+#~ msgid "Rotate Leaves"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Toggle Autumn"
+#~ msgstr "Podzim"
+
+#, fuzzy
+#~ msgid "Autumn Textures"
+#~ msgstr "Textury sněhu"
+
+#, fuzzy
+#~ msgid "Autumn textures"
+#~ msgstr "Textury sněhu"
+
+#~ msgid "Bubbles"
+#~ msgstr "Bubliny"
+
+#, fuzzy
+#~ msgid "Number Of fireflies"
+#~ msgstr "Počet částic ohně"
+
+#, fuzzy
+#~ msgid "Number of fireflies"
+#~ msgstr "Množství částic plamene."
+
+#, fuzzy
+#~ msgid "Size Of fireflies"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Size of fireflies"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Firefly Speed"
+#~ msgstr "Kouř"
+
+#, fuzzy
+#~ msgid "Rotate Fireflies"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Toggle Fireflies"
+#~ msgstr "Celá obrazovka"
+
+#, fuzzy
+#~ msgid "Fireflies Textures"
+#~ msgstr "Povolit textury"
+
+#, fuzzy
+#~ msgid "Fireflies textures"
+#~ msgstr "Povolit textury"
+
+#, fuzzy
+#~ msgid "Number Of stars"
+#~ msgstr "Počet částic"
+
+#, fuzzy
+#~ msgid "Number of stars"
+#~ msgstr "Počet částic ohně"
+
+#, fuzzy
+#~ msgid "Size Of stars"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Size of stars"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Star Speed"
+#~ msgstr "Rychlost sněžení"
+
+#, fuzzy
+#~ msgid "Speed of stars"
+#~ msgstr "Rychlost padajícího sněhu"
+
+#, fuzzy
+#~ msgid "Rotate Stars"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Toggle Stars"
+#~ msgstr "Přepnout rozmáznutí pohybem"
+
+#, fuzzy
+#~ msgid "Star textures"
+#~ msgstr "Textury sněhu"
+
+#, fuzzy
+#~ msgid "Fireflies for Compiz"
+#~ msgstr "Sníh pro Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Fireflies"
+#~ msgstr "Počet částic ohně"
+
+#, fuzzy
+#~ msgid "Size Of Fireflies"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Fireflies Over Windows"
+#~ msgstr "Sněžit přes okna"
+
+#, fuzzy
+#~ msgid "Rotate Flies. Redundant"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Fireflies Direction. Redundant"
+#~ msgstr "Směr hoření."
+
+#~ msgid "Top to Bottom"
+#~ msgstr "Shora dolů"
+
+#~ msgid "Bottom to Top"
+#~ msgstr "Zdola nahoru"
+
+#~ msgid "Right to Left"
+#~ msgstr "Zprava doleva"
+
+#~ msgid "Left to Right"
+#~ msgstr "Zleva doprava"
+
+#, fuzzy
+#~ msgid "Enable fireflies by default."
+#~ msgstr "Okna, které budou implicitně filtrována"
+
+#, fuzzy
+#~ msgid "Firefly toggle key"
+#~ msgstr "Klávesa pro zapnutí/vypnutí sněžení"
+
+#, fuzzy
+#~ msgid "Freely Transformable Windows"
+#~ msgstr "Obnovit okna"
+
+#, fuzzy
+#~ msgid "Freely transform windows"
+#~ msgstr "Pod ostatními okny"
+
+#, fuzzy
+#~ msgid "Free Transformation"
+#~ msgstr "Deformace"
+
+#, fuzzy
+#~ msgid "Initiate Rotation"
+#~ msgstr "Smazat (tlačítko)"
+
+#, fuzzy
+#~ msgid "Start Free Rotation"
+#~ msgstr "Sytost"
+
+#, fuzzy
+#~ msgid "Initiate Scaling"
+#~ msgstr "Spustit kreslení ohněm"
+
+#, fuzzy
+#~ msgid "Reset Transformation"
+#~ msgstr "Deformace"
+
+#, fuzzy
+#~ msgid "Axis selection helper"
+#~ msgstr "Barva výběru"
+
+#, fuzzy
+#~ msgid "Use this bindings to enable/disable snapping."
+#~ msgstr "Použijte pro zapnutí/vypnutí AddHelperu za běhu"
+
+#, fuzzy
+#~ msgid "Rotation"
+#~ msgstr "Úhel otáčení"
+
+#, fuzzy
+#~ msgid "Scaling"
+#~ msgstr "Zvětšený"
+
+#, fuzzy
+#~ msgid "Scale Down"
+#~ msgstr "Přesunout dolů"
+
+#, fuzzy
+#~ msgid "Rotate Up"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Rotate Down"
+#~ msgstr "Přesunout dolů"
+
+#, fuzzy
+#~ msgid "Rotate Right"
+#~ msgstr "Přesunout doprava"
+
+#, fuzzy
+#~ msgid "Rotate Clockwise"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Snap Threshold"
+#~ msgstr "Typ přichycení"
+
+#, fuzzy
+#~ msgid "Scale Mode"
+#~ msgstr "Zvětšený"
+
+#, fuzzy
+#~ msgid "How to scale windows"
+#~ msgstr "Okna která nelze zavřít"
+
+#, fuzzy
+#~ msgid "Allow negative"
+#~ msgstr "Negativ"
+
+#, fuzzy
+#~ msgid "Maintain aspect ratio"
+#~ msgstr "Poměr stran"
+
+#, fuzzy
+#~ msgid "Minimum scale"
+#~ msgstr "Minimální velikost kostky"
+
+#, fuzzy
+#~ msgid "2D/3D Rotation Type"
+#~ msgstr "Rychlost rotace"
+
+#, fuzzy
+#~ msgid "Rotation Axis"
+#~ msgstr "Úhel otáčení"
+
+#, fuzzy
+#~ msgid "3D Rotation Percentage"
+#~ msgstr "Úhel otáčení"
+
+#, fuzzy
+#~ msgid "Auto-Zoom"
+#~ msgstr "Přiblížení"
+
+#, fuzzy
+#~ msgid "Speed of window rotation"
+#~ msgstr "Filtrovat dekorace oken"
+
+#~ msgid "Misc"
+#~ msgstr "Ostatní"
+
+#, fuzzy
+#~ msgid "Prevented Input Window Types"
+#~ msgstr "Typy oken"
+
+#, fuzzy
+#~ msgid "Window types that should be Shaped. Disable problematic windows here"
+#~ msgstr "Typy oken, která budou zprůhledněna."
+
+#, fuzzy
+#~ msgid "Helper Options"
+#~ msgstr "Nastavení částic"
+
+#, fuzzy
+#~ msgid "Helper Circle Color"
+#~ msgstr "Barva částic"
+
+#, fuzzy
+#~ msgid "Helper Line Color"
+#~ msgstr "Barva čáry"
+
+#, fuzzy
+#~ msgid "Helper line color around the circle"
+#~ msgstr "Barva čáry obdélníku pro výběr"
+
+#, fuzzy
+#~ msgid "Helper Cross Line Color"
+#~ msgstr "Barva čáry"
+
+#, fuzzy
+#~ msgid "Show crosshair"
+#~ msgstr "Sněžit při spuštění"
+
+#, fuzzy
+#~ msgid "Show input region rectangle"
+#~ msgstr "Zobrazit obdélník"
+
+#, fuzzy
+#~ msgid "Toggle Ghost"
+#~ msgstr "Přepnout rozmáznutí pohybem"
+
+#, fuzzy
+#~ msgid "Toggle Ghost Window"
+#~ msgstr "Zavřít okno"
+
+#, fuzzy
+#~ msgid "Fade windows only on mousover"
+#~ msgstr "Nastavit okno jako nezavíratelné"
+
+#, fuzzy
+#~ msgid "The Opacity of Ghosted Windows"
+#~ msgstr "Průhlednost vybraných oken"
+
+#, fuzzy
+#~ msgid "The Brightness of Ghosted Windows"
+#~ msgstr "Jas vybraných oken"
+
+#, fuzzy
+#~ msgid "Photo Textures"
+#~ msgstr "Textury sněhu"
+
+#, fuzzy
+#~ msgid "Photo textures"
+#~ msgstr "Textury sněhu"
+
+#~ msgid "Width"
+#~ msgstr "Šířka"
+
+#, fuzzy
+#~ msgid "Color of top face of the photo wheel"
+#~ msgstr "Barva vrchní strany kostky"
+
+#, fuzzy
+#~ msgid "Color of bottom face of the photo wheel"
+#~ msgstr "Barva spodní strany kostky"
+
+#, fuzzy
+#~ msgid "Put Plus window"
+#~ msgstr "Tažení okna"
+
+#~ msgid "Put On Viewport"
+#~ msgstr "Umístit na plochu"
+
+#~ msgid "Put On Viewport 1"
+#~ msgstr "Umístit na plochu 1"
+
+#~ msgid "Put On Viewport 2"
+#~ msgstr "Umístit na plochu 2"
+
+#~ msgid "Move window to viewport 2"
+#~ msgstr "Přesunout okno na plochu 2"
+
+#~ msgid "Put On Viewport 3"
+#~ msgstr "Umístit na plochu 3"
+
+#~ msgid "Move window to viewport 3"
+#~ msgstr "Přesunout okno na plochu 3"
+
+#~ msgid "Put On Viewport 4"
+#~ msgstr "Umístit na plochu 4"
+
+#~ msgid "Move window to viewport 4"
+#~ msgstr "Přesunout okno na plochu 4"
+
+#~ msgid "Put On Viewport 5"
+#~ msgstr "Umístit na plochu 5"
+
+#~ msgid "Move window to viewport 5"
+#~ msgstr "Přesunout okno na plochu 5"
+
+#~ msgid "Put On Viewport 6"
+#~ msgstr "Umístit na plochu 6"
+
+#~ msgid "Move window to viewport 6"
+#~ msgstr "Přesunout okno na plochu 6"
+
+#~ msgid "Put On Viewport 7"
+#~ msgstr "Umístit na plochu 7"
+
+#~ msgid "Move window to viewport 7"
+#~ msgstr "Přesunout okno na plochu 7"
+
+#~ msgid "Put On Viewport 8"
+#~ msgstr "Umístit na plochu 8"
+
+#~ msgid "Move window to viewport 8"
+#~ msgstr "Přesunout okno na plochu 8"
+
+#~ msgid "Put On Viewport 9"
+#~ msgstr "Umístit na plochu 9"
+
+#~ msgid "Move window to viewport 9"
+#~ msgstr "Přesunout okno na plochu 9"
+
+#~ msgid "Put On Viewport 10"
+#~ msgstr "Umístit na plochu 10"
+
+#~ msgid "Move window to viewport 10"
+#~ msgstr "Přesunout okno na plochu 10"
+
+#~ msgid "Put On Viewport 11"
+#~ msgstr "Umístit na plochu 11"
+
+#~ msgid "Move window to viewport 11"
+#~ msgstr "Přesunout okno na plochu 11"
+
+#~ msgid "Put On Viewport 12"
+#~ msgstr "Umístit na plochu 12"
+
+#~ msgid "Move window to viewport 12"
+#~ msgstr "Přesunout okno na plochu 12"
+
+#~ msgid "Put Center"
+#~ msgstr "Přesunout na střed"
+
+#~ msgid "Put Left"
+#~ msgstr "Přesunout vlevo"
+
+#~ msgid "Put Right"
+#~ msgstr "Přesunout vpravo"
+
+#~ msgid "Put Top"
+#~ msgstr "Přesunout nahoru"
+
+#~ msgid "Put Bottom"
+#~ msgstr "Přesunout dolů"
+
+#~ msgid "Move window to the bottom edge"
+#~ msgstr "Přesunout okno ke spodní hraně obrazovky"
+
+#~ msgid "Put Top Left"
+#~ msgstr "Přesunout vlevo nahoru"
+
+#~ msgid "Move window to the top left corner"
+#~ msgstr "Přesunout okno do levého horního rohu"
+
+#~ msgid "Put Top Right"
+#~ msgstr "Přesunout vpravo nahoru"
+
+#~ msgid "Move window to the top right corner"
+#~ msgstr "Přesunout okno do pravého horního rohu"
+
+#~ msgid "Put Bottom Left"
+#~ msgstr "Přesunout vlevo dolů"
+
+#~ msgid "Move window to the bottom left corner"
+#~ msgstr "Přesunout okno do levého dolního rohu"
+
+#~ msgid "Put Bottom Right"
+#~ msgstr "Přesunout vpravo dolů"
+
+#~ msgid "Move window to the bottom right corner"
+#~ msgstr "Přesunout okno do pravého dolního rohu"
+
+#~ msgid "Animation"
+#~ msgstr "Animace"
+
+#~ msgid "Animation speed"
+#~ msgstr "Rychlost animace"
+
+#~ msgid "Timestep"
+#~ msgstr "Časový krok"
+
+#, fuzzy
+#~ msgid "Screen Saver"
+#~ msgstr "Okraje obrazovky"
+
+#, fuzzy
+#~ msgid "Screensaver mode"
+#~ msgstr "Okraje obrazovky"
+
+#, fuzzy
+#~ msgid "Screensaver mode."
+#~ msgstr "Okraje obrazovky"
+
+#, fuzzy
+#~ msgid "Start Automatically"
+#~ msgstr "Automaticky"
+
+#, fuzzy
+#~ msgid "Start Automatically."
+#~ msgstr "Automaticky"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)"
+#~ msgstr "Délka rozplynutí"
+
+#, fuzzy
+#~ msgid "Fade In duration (sec)."
+#~ msgstr "Délka rozplynutí v sekundách."
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)"
+#~ msgstr "Délka rozplynutí"
+
+#, fuzzy
+#~ msgid "Fade Out duration (sec)."
+#~ msgstr "Délka rozplynutí v sekundách."
+
+#, fuzzy
+#~ msgid "ScreenSaver Windows"
+#~ msgstr "Sněžit přes okna"
+
+#~ msgid "Generate mipmaps"
+#~ msgstr "Generovat mipmapy"
+
+#, fuzzy
+#~ msgid "Rotating cube"
+#~ msgstr "Úhel otáčení"
+
+#, fuzzy
+#~ msgid "Cube rotation speed"
+#~ msgstr "Rychlost rotace"
+
+#~ msgid "Zoom"
+#~ msgstr "Přiblížení"
+
+#, fuzzy
+#~ msgid "Smart way to fit windows."
+#~ msgstr "Sytost vybraných oken"
+
+#~ msgid "Options"
+#~ msgstr "Nastavení"
+
+#, fuzzy
+#~ msgid "Allow stack windows"
+#~ msgstr "Všechna okna"
+
+#, fuzzy
+#~ msgid "Allow windows shrink"
+#~ msgstr "Všechna okna"
+
+#, fuzzy
+#~ msgid "Minimal window height"
+#~ msgstr "Zvýraznit okno barvou"
+
+#, fuzzy
+#~ msgid "Minimal window width"
+#~ msgstr "Maximální velikost okna"
+
+#, fuzzy
+#~ msgid "Window margin"
+#~ msgstr "Velikost části okna"
+
+#~ msgid "Flakes rotate if checked."
+#~ msgstr "Zdali vločky budou rotovat."
+
+#, fuzzy
+#~ msgid "Enables alpha blending of snowflakes."
+#~ msgstr "Povolí alfa míchání vloček."
+
+#~ msgid "Snow Toggle"
+#~ msgstr "Přepnout sněžení"
+
+#, fuzzy
+#~ msgid "Maximum number of snowflakes."
+#~ msgstr "Počet vloček"
+
+#, fuzzy
+#~ msgid "Size of snowflakes."
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Size of snowman"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Size of snowman inside the cube."
+#~ msgstr "Barva vody v kostce."
+
+#~ msgid "Show switcher if not visible and select next window."
+#~ msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat další okno."
+
+#~ msgid "Previous Window"
+#~ msgstr "Předchozí okno"
+
+#~ msgid "Show switcher if not visible and select previous window."
+#~ msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno."
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window out of all windows."
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat další okno ze všech "
+#~ "oken."
+
+#~ msgid ""
+#~ "Show switcher if not visible and select previous window out of all "
+#~ "windows."
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno ze všech "
+#~ "oken."
+
+#~ msgid ""
+#~ "Show switcher if not visible and select next window of the current "
+#~ "application."
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat další okno aktivní "
+#~ "aplikace."
+
+#~ msgid "Windows"
+#~ msgstr "Okna"
+
+#~ msgid "Darken Background"
+#~ msgstr "Ztmavit pozadí"
+
+#~ msgid "Show Minimized"
+#~ msgstr "Zobrazit minimalizovaná okna"
+
+#~ msgid "Tilt"
+#~ msgstr "Náklon"
+
+#~ msgid "Window title display"
+#~ msgstr "Zobrazit titulek okna"
+
+#~ msgid "Show Window Title"
+#~ msgstr "Zobrazit titulek okna"
+
+#~ msgid "Show window title of currently selected window."
+#~ msgstr "Zobrazit titulek práve vybraného okna."
+
+#~ msgid "Bold Font"
+#~ msgstr "Tučné písmo"
+
+#, fuzzy
+#~ msgid "Font Family"
+#~ msgstr "Velikost písma"
+
+#, fuzzy
+#~ msgid "Font family for the window title"
+#~ msgstr "Barva textu v titulku okna"
+
+#~ msgid "Text Placement"
+#~ msgstr "Umístění textu"
+
+#~ msgid "Above"
+#~ msgstr "Nad"
+
+#~ msgid "Below"
+#~ msgstr "Pod"
+
+#, fuzzy
+#~ msgid "Stars for Compiz"
+#~ msgstr "Sníh pro Compiz"
+
+#, fuzzy
+#~ msgid "Number Of Stars"
+#~ msgstr "Počet částic"
+
+#, fuzzy
+#~ msgid "Maximum number of stars"
+#~ msgstr "Maximální množství aktivních částic"
+
+#, fuzzy
+#~ msgid "Size Of Stars"
+#~ msgstr "Velikost vloček"
+
+#, fuzzy
+#~ msgid "Speed of traveling stars"
+#~ msgstr "Rychlost padajících listů"
+
+#, fuzzy
+#~ msgid "Rotate Flakes. Redundant"
+#~ msgstr "Rotovat vločky"
+
+#, fuzzy
+#~ msgid "Stars Textures"
+#~ msgstr "Textury sněhu"
+
+#, fuzzy
+#~ msgid "Stars Toggle"
+#~ msgstr "Přepnout sněžení"
+
+#, fuzzy
+#~ msgid "Stars toggle key"
+#~ msgstr "Klávesa pro zapnutí/vypnutí sněžení"
+
+#, fuzzy
+#~ msgid "Static Windows"
+#~ msgstr "Přichycená okna"
+
+#, fuzzy
+#~ msgid "Windows that should be kept static during transformations."
+#~ msgstr "Okna která se rozplynou"
+
+#, fuzzy
+#~ msgid "Swap Windows"
+#~ msgstr "Přichytávající se okna"
+
+#~ msgid "Next window"
+#~ msgstr "Další okno"
+
+#~ msgid "Prev window"
+#~ msgstr "Předchozí okno"
+
+#~ msgid "Next window (All windows)"
+#~ msgstr "Další okno (ze všech oken)"
+
+#~ msgid "Prev window (All windows)"
+#~ msgstr "Předchozí okno (ze všech oken)"
+
+#~ msgid "Next window (Group)"
+#~ msgstr "Další okno (ze skupiny)"
+
+#~ msgid "Prev window (Group)"
+#~ msgstr "Předchozí okno (ze skupiny)"
+
+#~ msgid "Next window (No popup)"
+#~ msgstr "Další okno (bez přepínače)"
+
+#~ msgid "Select next window without showing the popup window."
+#~ msgstr "Vybrat další okno bez zobrazení přepínače"
+
+#~ msgid "Prev window (No popup)"
+#~ msgstr "Předchozí okno (bez přepínače)"
+
+#~ msgid "Select previous window without showing the popup window."
+#~ msgstr "Vybrat předchozí okno bez zobrazení přepínače"
+
+#~ msgid "Next Panel"
+#~ msgstr "Další panel"
+
+#~ msgid "Prev Panel"
+#~ msgstr "Předchozí panel"
+
+#~ msgid "Switcher speed"
+#~ msgstr "Rychlost přepínače"
+
+#~ msgid "Switcher timestep"
+#~ msgstr "Časový krok přepínače"
+
+#~ msgid "Windows that should be shown in switcher"
+#~ msgstr "Typy oken, která mají být zobrazena v přepínači"
+
+#~ msgid "Show minimized windows"
+#~ msgstr "Zobrazit minimalizovaná okna"
+
+#~ msgid "Amount of saturation in percent"
+#~ msgstr "Hodnota sytosti v procentech"
+
+#~ msgid "Amount of brightness in percent"
+#~ msgstr "Hodnota jasu v procentech"
+
+#~ msgid "Amount of opacity in percent"
+#~ msgstr "Hodnota krytí v procentech"
+
+#~ msgid "Icon"
+#~ msgstr "Ikona"
+
+#~ msgid "Show icon next to thumbnail"
+#~ msgstr "Zobrazit ikonu vedle náhledu"
+
+#~ msgid "Generate mipmaps when possible for higher quality scaling"
+#~ msgstr "Jeli to možné, vytvářet pro kvalitní škálování mipmapy"
+
+#~ msgid "Centered"
+#~ msgstr "Vystředit"
+
+#~ msgid "Selected Window Highlight"
+#~ msgstr "Zvýraznění vybraného okna"
+
+#~ msgid "Highlight Mode"
+#~ msgstr "Režim zvýrazňování"
+
+#~ msgid "Bring Selected To Front"
+#~ msgstr "Přenést vybrané okno na popředí"
+
+#~ msgid "Show Rectangle"
+#~ msgstr "Zobrazit obdélník"
+
+#~ msgid "Original Window Position"
+#~ msgstr "Původní poloha okna"
+
+#, fuzzy
+#~ msgid "Throw Windows"
+#~ msgstr "Okna"
+
+#, fuzzy
+#~ msgid "X Velocity Multipler"
+#~ msgstr "Rozsah vlny"
+
+#, fuzzy
+#~ msgid "Y Velocity Multipler"
+#~ msgstr "Rozsah vlny"
+
+#, fuzzy
+#~ msgid "Friction constant"
+#~ msgstr "Rychlost vzplanutí"
+
+#~ msgid "Tile"
+#~ msgstr "Dlaždice"
+
+#~ msgid "Slide"
+#~ msgstr "Snímek"
+
+#~ msgid "Animation Duration"
+#~ msgstr "Délka animace"
+
+#~ msgid "Tile Horizontally"
+#~ msgstr "Vodorovné dlaždice"
+
+#~ msgid "Cascade"
+#~ msgstr "Kaskáda"
+
+#~ msgid "Join Windows (EXPERIMENTAL)"
+#~ msgstr "Spojit okna (EXPERIMENTÁLNÍ)"
+
+#~ msgid "Restore Windows"
+#~ msgstr "Obnovit okna"
+
+#, fuzzy
+#~ msgid "Toggle decoration"
+#~ msgstr "Přepnout rozmáznutí pohybem"
+
+#, fuzzy
+#~ msgid "Global horizontal gravity"
+#~ msgstr "Vodorovný přechod"
+
+#, fuzzy
+#~ msgid "Global vertical gravity"
+#~ msgstr "Svislý přechod"
+
+# hmm ?
+#, fuzzy
+#~ msgid "Position Y"
+#~ msgstr "Umístění"
+
+#, fuzzy
+#~ msgid "Movement Type"
+#~ msgstr "Rychlost pohybu myši"
+
+#, fuzzy
+#~ msgid "Follow Mouse"
+#~ msgstr "Zobrazit myš"
+
+#, fuzzy
+#~ msgid "Active"
+#~ msgstr "Aktivovat"
+
+#, fuzzy
+#~ msgid "Mouse Movement"
+#~ msgstr "Rychlost pohybu myši"
+
+#, fuzzy
+#~ msgid "Random Shot"
+#~ msgstr "Náhodně"
+
+#, fuzzy
+#~ msgid "Random Period"
+#~ msgstr "Náhodně"
+
+#, fuzzy
+#~ msgid "Emitter Speed"
+#~ msgstr "Rychlost přepínače"
+
+#, fuzzy
+#~ msgid "Particle count"
+#~ msgstr "Barva částic."
+
+#, fuzzy
+#~ msgid "Color hue"
+#~ msgstr "Barva 1"
+
+#, fuzzy
+#~ msgid "Color lightness range"
+#~ msgstr "Filtr barev"
+
+#, fuzzy
+#~ msgid "The vertical range of the particles."
+#~ msgstr "Použít náhodné barvy částic"
+
+#, fuzzy
+#~ msgid "The circular range of the particles."
+#~ msgstr "Použít náhodné barvy částic"
+
+#, fuzzy
+#~ msgid "X speed"
+#~ msgstr "Rychlost rozplynutí"
+
+#, fuzzy
+#~ msgid "Y speed"
+#~ msgstr "Rychlost rozplynutí"
+
+#, fuzzy
+#~ msgid "The vertical speed of the particles."
+#~ msgstr "Použít náhodné barvy částic"
+
+#, fuzzy
+#~ msgid "Aging speed"
+#~ msgstr "Rychlost animace"
+
+#~ msgid "Rotation speed"
+#~ msgstr "Rychlost rotace"
+
+#, fuzzy
+#~ msgid "Rotation speed range"
+#~ msgstr "Rychlost rotace"
+
+#~ msgid "Particle Size"
+#~ msgstr "Velikost částic"
+
+#, fuzzy
+#~ msgid "The size of the particles."
+#~ msgstr "Velikost vodních rostlin."
+
+#, fuzzy
+#~ msgid "Particle Size Range"
+#~ msgstr "Velikost částic"
+
+#, fuzzy
+#~ msgid "The size range of the particles."
+#~ msgstr "Velikost vodních rostlin."
+
+#, fuzzy
+#~ msgid "New Size"
+#~ msgstr "Velikost záře"
+
+#, fuzzy
+#~ msgid "The size of the particles when they are new."
+#~ msgstr "Kreslit oheň nebo jiné částice na obrazovku"
+
+#, fuzzy
+#~ msgid "The size range of the particles when they are new."
+#~ msgstr "Kreslit oheň nebo jiné částice na obrazovku"
+
+#, fuzzy
+#~ msgid "Hard limit for particles"
+#~ msgstr "Použít náhodné barvy částic"
+
+#, fuzzy
+#~ msgid "Soft limit for particles"
+#~ msgstr "Množství částic plamene."
+
+#~ msgid "Darken backgound"
+#~ msgstr "Ztmavit pozadí"
+
+#~ msgid "Darken background under particles"
+#~ msgstr "Ztmavit pozadí pod částicemi"
+
+#, fuzzy
+#~ msgid "New particle time"
+#~ msgstr "Živostnost částic plamenu."
+
+#, fuzzy
+#~ msgid "Old particle time"
+#~ msgstr "Živostnost částic plamenu."
+
+#, fuzzy
+#~ msgid "Viewport"
+#~ msgstr "Umístit na plochu"
+
+#, fuzzy
+#~ msgid "Number of viewport to be named"
+#~ msgstr "Počet sledovaných oken"
+
+#, fuzzy
+#~ msgid "Viewport name"
+#~ msgstr "Umístit na plochu 1"
+
+#, fuzzy
+#~ msgid "Text Display"
+#~ msgstr "Zobrazení"
+
+#, fuzzy
+#~ msgid "Font size for the text display."
+#~ msgstr "Velikost vodních rostlin."
+
+#, fuzzy
+#~ msgid "Bottom of screen"
+#~ msgstr "Zdola nahoru"
+
+#~ msgid "Colors"
+#~ msgstr "Barvy"
+
+#, fuzzy
+#~ msgid "Font color for the text display."
+#~ msgstr "Barva textu v titulku okna"
 
 #~ msgid "3D Only On Mouse Rotate"
 #~ msgstr "3D pouze při otáčení myší"
@@ -3119,9 +2589,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Color of an inactive window's depth"
 #~ msgstr "Barva hloubky neaktivního okna"
 
-#~ msgid "Color of the active window's depth"
-#~ msgstr "Barva hloubky aktivního okna"
-
 #~ msgid "Minimum cube size (in percent)."
 #~ msgstr "Minimální velikost kostky (v procentech)"
 
@@ -3134,14 +2601,8 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Window Color (Inactive)"
 #~ msgstr "Barva okna (neaktivní)"
 
-#~ msgid "Window Depth"
-#~ msgstr "Hloubka okna"
-
 #~ msgid "Window Space"
 #~ msgstr "Prostor mezi okny"
-
-#~ msgid "Window depth"
-#~ msgstr "Hloubka oken"
 
 #~ msgid "Windows that should be handled by 3D"
 #~ msgstr "Okna, která která budou 3D"
@@ -3232,9 +2693,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Fire Particle Slowdown"
 #~ msgstr "Zpomalení plamenu"
 
-#~ msgid "Fire direction"
-#~ msgstr "Směr vzplanutí"
-
 #~ msgid "Fire particle slowdown."
 #~ msgstr "Zpomalení částic plamenu."
 
@@ -3319,9 +2777,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Window folding direction."
 #~ msgstr "Směr skládání okna."
 
-#~ msgid "Animation Selection"
-#~ msgstr "Výběr animace"
-
 #~ msgid "Animation Time Step"
 #~ msgstr "Časový krok animace"
 
@@ -3344,9 +2799,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Curved Fold Amplitude Multiplier"
 #~ msgstr "Rozsah zakřiveného ohybu"
-
-#~ msgid "Dodge"
-#~ msgstr "Odskočit"
 
 #~ msgid "Dream"
 #~ msgstr "Sen"
@@ -3383,9 +2835,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Minimize Effect"
 #~ msgstr "Efekt minimalizace"
-
-#~ msgid "Number of Horizontal Folds"
-#~ msgstr "Počet vodorovných skladů"
 
 #~ msgid "Off"
 #~ msgstr "Vypnuto"
@@ -3442,9 +2891,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "The animation effect shown when shading a window."
 #~ msgstr "Efekt zobrazený při svinutí okna."
 
-#~ msgid "The windows that will be animated."
-#~ msgstr "Okna která budou animovaná."
-
 #~ msgid "Vacuum"
 #~ msgstr "Vysavač"
 
@@ -3459,9 +2905,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Wave Width"
 #~ msgstr "Šířka vlny"
-
-#~ msgid "Zoom Springiness"
-#~ msgstr "Pružnost přiblížení"
 
 #~ msgid "Zoom from Center"
 #~ msgstr "Přibližovat ze středu"
@@ -3523,17 +2966,11 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Exclude windows"
 #~ msgstr "Vynechaná okna"
 
-#~ msgid "Filtered windows"
-#~ msgstr "Filtrovaná okna"
-
 #~ msgid "Filters files"
 #~ msgstr "Soubory filtrů"
 
 #~ msgid "Switch filter"
 #~ msgstr "Přepnout filtry"
-
-#~ msgid "Toggle screen filtering"
-#~ msgstr "Přepnout filtrování obrazovky"
 
 #~ msgid "Toggle window filtering"
 #~ msgstr "Přepnout filtrování okna"
@@ -3559,9 +2996,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Adjust bottom face image to rotation"
 #~ msgstr "Přizpůsobit spodní obrázek rotaci"
 
-#~ msgid "Adjust bottom image"
-#~ msgstr "Přizpůsobit spodní obrázek"
-
 #~ msgid "Adjust top face image to rotation"
 #~ msgstr "Přizpůsobit vrchní obrázek rotaci"
 
@@ -3585,9 +3019,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Cylinder"
 #~ msgstr "Válec"
-
-#~ msgid "Deform only on mouse rotate"
-#~ msgstr "Deformovat pouze při otáčení myší"
 
 #~ msgid "Deformation mode."
 #~ msgstr "Způsob deformace."
@@ -3618,9 +3049,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgstr ""
 #~ "Seznam PNG a SVG souborů, které mají být vykresleny na vrchní straně "
 #~ "kostky"
-
-#~ msgid "Next bottom image"
-#~ msgstr "Další spodní obrázek"
 
 #~ msgid "Next top image"
 #~ msgstr "Další vrchní obrázek"
@@ -3697,9 +3125,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Mouse Behavior"
 #~ msgstr "Chování myši"
 
-#~ msgid "Scale the mouse pointer"
-#~ msgstr "Zvětšit ukazatel myši"
-
 #~ msgid "Use linear filter when zoomed in"
 #~ msgstr "Při přiblížení používat lineární filtr"
 
@@ -3750,9 +3175,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Border Radius"
 #~ msgstr "Zaoblení okraje"
 
-#~ msgid "Border Width"
-#~ msgstr "Šířka okraje"
-
 #~ msgid "Close Group"
 #~ msgstr "Uzavřít skupinu"
 
@@ -3764,9 +3186,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Glow"
 #~ msgstr "Záření"
-
-#~ msgid "Glow Type"
-#~ msgstr "Typ záře"
 
 #~ msgid "Glow ring"
 #~ msgstr "Prstenec záře"
@@ -3795,9 +3214,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Select"
 #~ msgstr "Vybrat"
 
-#~ msgid "Select Single Window"
-#~ msgstr "Vybrat jedno okno"
-
 #~ msgid "Selection"
 #~ msgstr "Výběr"
 
@@ -3825,9 +3241,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Logout"
 #~ msgstr "Odhlášení"
 
-#~ msgid "Border color"
-#~ msgstr "Barva okraje"
-
 #~ msgid "Border width"
 #~ msgstr "Šířka okraje"
 
@@ -3846,9 +3259,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Radius"
 #~ msgstr "Poloměr"
 
-#~ msgid "Motion Blur Strength"
-#~ msgstr "Míra rozmazání pohybu"
-
 #~ msgid "Motion Blur mode"
 #~ msgstr "Typ rozmazání pohybu"
 
@@ -3861,18 +3271,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Texture Copy"
 #~ msgstr "Kopírovat texturu"
 
-#~ msgid "Action"
-#~ msgstr "Akce"
-
-#~ msgid "Gestures"
-#~ msgstr "Gesta"
-
-#~ msgid "Plugin"
-#~ msgstr "Zásuvný modul"
-
-#~ msgid "Plugin the action belongs to."
-#~ msgstr "Zásuvný modul ke kterému náleží akce."
-
 #~ msgid "Toggle Screen Negative"
 #~ msgstr "Přepnout negativ obrazovky"
 
@@ -3884,9 +3282,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Error"
 #~ msgstr "Chyba"
-
-#~ msgid "Error Notifications"
-#~ msgstr "Upozornění na chyby"
 
 #~ msgid "Fatal"
 #~ msgstr "Fatální"
@@ -3933,9 +3328,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Highlighted window only"
 #~ msgstr "Pouze zvýrazněná okna"
-
-#~ msgid "No display"
-#~ msgstr "Nezobrazovat"
 
 #~ msgid "Normal"
 #~ msgstr "Normální"
@@ -3985,23 +3377,14 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Make the window smaller"
 #~ msgstr "Zmenšit okno"
 
-#~ msgid "Reset the window to original size"
-#~ msgstr "Obnovit původní velikost okna"
-
 #~ msgid "Scale interval"
 #~ msgstr "Míra zvětšení"
-
-#~ msgid "Trigger scale down"
-#~ msgstr "Přepnout zmenšení"
 
 #~ msgid "Background intensity"
 #~ msgstr "Intenzita pozadí"
 
 #~ msgid "Background intensity."
 #~ msgstr "Intenzita pozadí."
-
-#~ msgid "Click duration"
-#~ msgstr "Délka kliknutí"
 
 #~ msgid "Cover"
 #~ msgstr "Zakrýt"
@@ -4053,9 +3436,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Window Opacity"
 #~ msgstr "Průhlednost okna"
-
-#~ msgid "Window movement speed"
-#~ msgstr "Rychlost odsunutí okna"
 
 #~ msgid "Window opacity when showdesktop'd"
 #~ msgstr "Průhlednost okna při zobrazení plochy"
@@ -4171,14 +3551,8 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Window title"
 #~ msgstr "Titulek okna"
 
-#~ msgid "Window title Font Color."
-#~ msgstr "Barva titulku okna"
-
 #~ msgid "Window title Font Size."
 #~ msgstr "Velikost titulku okna"
-
-#~ msgid "Brightness Level of Focused Windows"
-#~ msgstr "Jas zaměřených oken"
 
 #~ msgid "Brightness Level of Unfocused Windows"
 #~ msgstr "Jas nezaměřených oken"
@@ -4220,9 +3594,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Background Gradient"
 #~ msgstr "Barevný přechod"
 
-#~ msgid "Base Color"
-#~ msgstr "Barva základní barvy"
-
 #~ msgid "Edge Flip Move"
 #~ msgstr "Překlápění hran při přesunu"
 
@@ -4257,9 +3628,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Radius of the rounded edge"
 #~ msgstr "Poloměr zaoblených rohů"
-
-#~ msgid "Shadow Color"
-#~ msgstr "Barva stínu"
 
 #~ msgid "Size of the preview in %"
 #~ msgstr "Velikost náhledu v procentech"
@@ -4304,9 +3672,6 @@ msgstr "Barva textu v titulku okna"
 #~ msgid "Scale and Crop"
 #~ msgstr "Zvětšit a oříznout"
 
-#~ msgid "Second gradient color."
-#~ msgstr "Druhá barva přechodu"
-
 #~ msgid "Solid fill"
 #~ msgstr "Jednobarevná výplň"
 
@@ -4321,9 +3686,6 @@ msgstr "Barva textu v titulku okna"
 
 #~ msgid "Background Saturation"
 #~ msgstr "Sytost pozadí"
-
-#~ msgid "Above others windows"
-#~ msgstr "Nad ostatními okny"
 
 #~ msgid "Don't show application in pager"
 #~ msgstr "Nezobrazovat aplikaci v seznamu úloh"

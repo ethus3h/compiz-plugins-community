@@ -7,9 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-"
-"community/issues\n"
-"POT-Creation-Date: 2017-01-12 18:19+0300\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Boing"
+msgstr ""
+
+msgid "Boing for Compiz"
+msgstr ""
+
+msgid "Settings"
 msgstr ""
 
 msgid "Number Of balls"
@@ -36,11 +41,10 @@ msgstr ""
 msgid "Update Delay"
 msgstr ""
 
-#, fuzzy
-msgid "Delay (in ms) between screen updates. Decreasing this value may make leaves"
+msgid ""
+"Delay (in ms) between screen updates. Decreasing this value may make leaves "
 "fall more smoothly, but will also increase CPU usage."
 msgstr ""
-""
 
 msgid "Screen Boxing"
 msgstr ""
@@ -49,13 +53,10 @@ msgid ""
 "How far outside the screen resolution leaves can be before being removed. "
 "Needed because of FOV."
 msgstr ""
-""
-""
 
 msgid "Screen Depth"
 msgstr ""
 
-#, fuzzy
 msgid "How deep into the screen leaves can be drawn before being removed"
 msgstr ""
 
@@ -69,12 +70,27 @@ msgid "Rotate Balls"
 msgstr ""
 
 msgid "Balls rotate if checked."
-msgstr "Rotar bolas al seleccionar."
+msgstr ""
 
 msgid "Wind Direction"
 msgstr ""
 
 msgid "Select the wind direction"
+msgstr ""
+
+msgid "No Wind"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Textures"
 msgstr ""
 
 msgid "Ball Textures"
@@ -89,6 +105,9 @@ msgstr ""
 msgid "Enable boing by default."
 msgstr ""
 
+msgid "Debug"
+msgstr ""
+
 msgid "Enable Blending"
 msgstr ""
 
@@ -100,15 +119,14 @@ msgstr ""
 
 msgid "Enables textured balls. If not selected, color gradients are used."
 msgstr ""
-""
+
+msgid "Key Bindings"
+msgstr ""
 
 msgid "Toggle Boing"
 msgstr ""
 
 msgid "Boing toggle key"
-msgstr ""
-
-msgid "Boing for Compiz"
 msgstr ""
 
 msgid "Desktop Click"
@@ -126,11 +144,9 @@ msgstr ""
 msgid "Modifiers"
 msgstr ""
 
-#, fuzzy
 msgid "What Modifiers must be used in order to trigger the action"
 msgstr ""
 
-#, fuzzy
 msgid "Plugin Name"
 msgstr ""
 
@@ -140,7 +156,6 @@ msgstr ""
 msgid "Action Name"
 msgstr ""
 
-#, fuzzy
 msgid "Initiation Action Name"
 msgstr ""
 
@@ -159,10 +174,6 @@ msgstr ""
 msgid "Toggle Dodging"
 msgstr ""
 
-#, fuzzy
-msgid "Toggle Dodging"
-msgstr ""
-
 msgid "Window Types"
 msgstr ""
 
@@ -172,7 +183,6 @@ msgstr ""
 msgid "Select Window"
 msgstr ""
 
-#, fuzzy
 msgid "Mark the active window so it will dodge"
 msgstr ""
 
@@ -182,7 +192,15 @@ msgstr ""
 msgid "What model Dodge should use when dodging"
 msgstr ""
 
-#, fuzzy
+msgid "Simple Avoid"
+msgstr ""
+
+msgid "Return to position"
+msgstr ""
+
+msgid "Off Screen"
+msgstr ""
+
 msgid "Dodge the active window"
 msgstr ""
 
@@ -192,94 +210,71 @@ msgstr ""
 msgid "Spring K"
 msgstr ""
 
-#, fuzzy
 msgid "Spring Stiffness"
 msgstr ""
 
-#, fuzzy
 msgid "Friction"
 msgstr ""
 
 msgid "Padding"
 msgstr ""
 
-#, fuzzy
 msgid "Padding around windows"
 msgstr ""
 
 msgid "Lightning Bolts"
 msgstr ""
 
-#, fuzzy
 msgid "Lightning bolts between your cursor and the nearest window"
 msgstr ""
 
 msgid "Initiate"
 msgstr ""
 
-#, fuzzy
-msgid "Start flash"
-msgstr ""
-
-msgid "Initiate"
-msgstr ""
-
-#, fuzzy
 msgid "Start flash"
 msgstr ""
 
 msgid "Distance max"
 msgstr ""
 
-#, fuzzy
 msgid "Distance max between pointer and active window."
 msgstr ""
 
 msgid "Digression max"
 msgstr ""
 
-#, fuzzy
 msgid "Digression max between pointer's projection and lightning's impact."
 msgstr ""
 
 msgid "Minimum interval between two lightning"
 msgstr ""
 
-#, fuzzy
 msgid "Interval in milliseconde between two lightning"
 msgstr ""
 
 msgid "Time of lightnings"
 msgstr ""
 
-#, fuzzy
 msgid "Time in milliseconds of lightnings"
 msgstr ""
 
 msgid "Side of lightnings color"
 msgstr ""
 
-#, fuzzy
 msgid "Middle of lightnings color"
 msgstr ""
 
 msgid "The other side of lightnings color"
 msgstr ""
 
-msgid "Window Types"
-msgstr ""
-
-#, fuzzy
 msgid "The window types that lightning bolts will hit"
 msgstr ""
 
 msgid "HeadTracking"
 msgstr ""
 
-msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
-msgstr ""
-
-msgid "HeadTracking"
+msgid ""
+"Create a true 3d desktop with a Wiimote some IR-enabled shades or a Webcam."
 msgstr ""
 
 msgid "Keybindings"
@@ -288,84 +283,75 @@ msgstr ""
 msgid "Move Window Closer"
 msgstr ""
 
-#, fuzzy
-msgid "anually move a window closer. Z-depth is ignored"
+msgid "Manually move a window closer. Z-depth is ignored"
 msgstr ""
 
 msgid "Move Window Away"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move a window further out. Z-depth is ignored"
 msgstr ""
 
 msgid "Reset Window Depth"
 msgstr ""
 
-#, fuzzy
 msgid "Reset the window's depth so it uses Z level"
+msgstr ""
+
+msgid "Debugging"
 msgstr ""
 
 msgid "Enable debugging keys"
 msgstr ""
 
-#, fuzzy
 msgid "Enable the debugging key combinations"
 msgstr ""
 
 msgid "Camera up"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera up"
 msgstr ""
 
 msgid "Camera down"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera down"
 msgstr ""
 
 msgid "Camera left"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera left"
 msgstr ""
 
 msgid "Camera right"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera right"
 msgstr ""
 
 msgid "Camera in"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera closer to screen"
 msgstr ""
 
 msgid "Camera out"
 msgstr ""
 
-#, fuzzy
 msgid "Manually move camera away from screen"
 msgstr ""
 
 msgid "Camera reset"
 msgstr ""
 
-#, fuzzy
 msgid "Reset camera to default head position"
 msgstr ""
 
 msgid "Toggle mouse tracking"
 msgstr ""
 
-#, fuzzy
 msgid "Toggle mouse tracking on and off"
 msgstr ""
 
@@ -384,19 +370,26 @@ msgstr ""
 msgid "Enable WII Tracking"
 msgstr ""
 
-msgid "Enable tracking using JCL's algorithm. You must have wiimote enabled to use this."
+msgid ""
+"Enable tracking using JCL's algorithm. You must have wiimote enabled to use "
+"this."
 msgstr ""
 
 msgid "Enable Webcam Tracking"
 msgstr ""
 
-msgid "Enable tracking using JCL's algorithm. You must have webcam enabled to use this."
+msgid ""
+"Enable tracking using JCL's algorithm. You must have webcam enabled to use "
+"this."
 msgstr ""
 
 msgid "Fade Time"
 msgstr ""
 
 msgid "Length of animation for 3d window stacking z-order changes"
+msgstr ""
+
+msgid "Calibration"
 msgstr ""
 
 msgid "WiiMote or Cam Above Screen"
@@ -423,6 +416,9 @@ msgstr ""
 msgid "Angle of wiimote or webcam in radians * 100"
 msgstr ""
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Avoid jumpings and trembling"
 msgstr ""
 
@@ -444,7 +440,7 @@ msgstr ""
 msgid "Mouse Screen Percentage"
 msgstr ""
 
-msgid "Wave amplitude"
+msgid "How much of the screen represents the actual screen. 100 is \"exact\""
 msgstr ""
 
 msgid "Lazy Pointer"
@@ -480,7 +476,12 @@ msgstr ""
 msgid "Center the mouse in a window"
 msgstr ""
 
-#, fuzzy
+msgid "Center the mouse in the activated window"
+msgstr ""
+
+msgid "Center the mouse in a screen"
+msgstr ""
+
 msgid "Center the mouse in the activated screen"
 msgstr ""
 
@@ -592,7 +593,7 @@ msgstr ""
 msgid "Assign mousegestures to any existing action"
 msgstr ""
 
-msgid "Initiate"
+msgid "Bindings"
 msgstr ""
 
 msgid "Start gesture"
@@ -605,9 +606,9 @@ msgid "Detect Diagonal Movements"
 msgstr ""
 
 msgid ""
-"If this option is selected, diagonal movements are detected, which may lead to a decreased detection accuracy."
+"If this option is selected, diagonal movements are detected, which may lead "
+"to a decreased detection accuracy."
 msgstr ""
-""
 
 msgid "Gesture assignment"
 msgstr ""
@@ -633,13 +634,9 @@ msgstr ""
 msgid "Newton"
 msgstr ""
 
-#, fuzzy
 msgid ""
-"Creates iconified windows that can be selected to select the main window and are affected by physics."
-msgstr "" 
-""
-
-msgid "Bindings"
+"Creates iconified windows that can be selected to select the main window and "
+"are affected by physics."
 msgstr ""
 
 msgid "Trigger Physics on the window"
@@ -699,7 +696,8 @@ msgstr ""
 msgid "Attract by default"
 msgstr ""
 
-msgid "Attracts the windows to the mouse when the invert action key is not pressed."
+msgid ""
+"Attracts the windows to the mouse when the invert action key is not pressed."
 msgstr ""
 
 msgid "Mouse attraction strength"
@@ -720,6 +718,9 @@ msgstr ""
 msgid "Show the window you are hovering hover in the taskbar"
 msgstr ""
 
+msgid "Misc. Options"
+msgstr ""
+
 msgid "Delay until Peeking"
 msgstr ""
 
@@ -729,28 +730,28 @@ msgstr ""
 msgid "Window Match"
 msgstr ""
 
-#, fuzzy
 msgid "Windows that should become transparent"
 msgstr ""
 
 msgid "Opacity Levels"
 msgstr ""
 
-#, fuzzy
 msgid "Active Opacity"
 msgstr ""
 
-#, fuzzy
 msgid ""
-"The minimum opacity percentage to ensure a targeted window has. A target window will have either this opacity or the preset opacity, whichever is higher."
+"The minimum opacity percentage to ensure a targeted window has. A target "
+"window will have either this opacity or the preset opacity, whichever is "
+"higher."
 msgstr ""
 
 msgid "Passive Opacity"
 msgstr ""
 
-#, fuzzy
 msgid ""
-"The maximum opacity percentage a window blocking the current targeted window can have. A blocking window will have either this opacity or the preset opacity, whichever is lower."
+"The maximum opacity percentage a window blocking the current targeted window "
+"can have. A blocking window will have either this opacity or the preset "
+"opacity, whichever is lower."
 msgstr ""
 
 msgid "Taskbar only shows windows of current viewport"
@@ -762,7 +763,6 @@ msgstr ""
 msgid "Prompt"
 msgstr ""
 
-#, fuzzy
 msgid "Compiz interface for the prompting the user."
 msgstr ""
 
@@ -787,76 +787,10 @@ msgstr ""
 msgid "Background color for the window title"
 msgstr ""
 
-msgid "roach"
-msgstr ""
-
-msgid "Roaches for Compiz"
-msgstr ""
-
-msgid "Number Of roaches"
-msgstr ""
-
-msgid "Number of roaches"
-msgstr ""
-
-msgid "Size Of roaches"
-msgstr ""
-
-msgid "Size Of roaches"
-msgstr ""
-
-msgid "Update Delay"
-msgstr ""
-
-msgid ""
-"Delay (in ms) between screen updates. Decreasing this value may make leaves fall more smoothly, but will also increase CPU usage."
-msgstr ""
-""
-
-msgid "Screen Boxing"
-msgstr ""
-
-msgid ""
-"How far outside the screen resolution leaves can be before being removed. "
-"Needed because of FOV."
-msgstr ""
-""
-""
-
-msgid "Screen Depth"
-msgstr ""
-
-msgid "How deep into the screen leaves can be drawn before being removed"
-msgstr ""
-
-msgid "Roaches Over Windows"
-msgstr ""
-
-msgid "Roaches are drawn above windows"
-msgstr ""
-
-msgid "Roach Textures"
-msgstr ""
-
-msgid "Roach Textures"
-msgstr ""
-
-msgid "Toggle Roaches"
-msgstr ""
-
-msgid "Roach toggle key"
-msgstr ""
-
 msgid "Rubik's Cube"
 msgstr ""
 
 msgid "Turn cube into a Rubik's cube"
-msgstr ""
-
-msgid "Toggle Rubik's cube"
-msgstr ""
-
-msgid "Start/stop Rubik's cube effect."
 msgstr ""
 
 msgid "Toggle Rubik's cube"
@@ -883,7 +817,6 @@ msgstr ""
 msgid "Rotate Rubik's cube around all axes (convert windows to pixmaps also)."
 msgstr ""
 
-#, fuzzy
 msgid "On manual rotate"
 msgstr ""
 
@@ -926,7 +859,9 @@ msgstr ""
 msgid "Key/Button Release Timeout"
 msgstr ""
 
-msgid "Duration (in s) a key or button should remain visually pressed after being released."
+msgid ""
+"Duration (in s) a key or button should remain visually pressed after being "
+"released."
 msgstr ""
 
 msgid "Key bindings"
@@ -936,6 +871,9 @@ msgid "Toggle display"
 msgstr ""
 
 msgid "Toggle display."
+msgstr ""
+
+msgid "Appearance"
 msgstr ""
 
 msgid "Mouse border Color"
@@ -953,17 +891,22 @@ msgstr ""
 msgid "Left button Color"
 msgstr ""
 
-#, fuzzy
 msgid "Color of the left button"
 msgstr ""
 
 msgid "Middle button Color"
 msgstr ""
 
+msgid "Color of the middle button"
+msgstr ""
+
 msgid "Right button Color"
 msgstr ""
 
 msgid "Color of the right button"
+msgstr ""
+
+msgid "Position"
 msgstr ""
 
 msgid "Keyboard left margin"
@@ -999,7 +942,9 @@ msgstr ""
 msgid "Toggle status reporting"
 msgstr ""
 
-msgid "Use this to enable status reporting from the Wii Remote. Remember to hold down (1)+(2)."
+msgid ""
+"Use this to enable status reporting from the Wii Remote. Remember to hold "
+"down (1)+(2)."
 msgstr ""
 
 msgid "Disable status reporting"
@@ -1021,14 +966,16 @@ msgid "Reporting Timeout"
 msgstr ""
 
 msgid ""
-"The more often you call it, the higher the CPU usage will be, so be careful with this! The less you call it however, means the jerkier the reporting"
+"The more often you call it, the higher the CPU usage will be, so be careful "
+"with this! The less you call it however, means the jerkier the reporting"
 msgstr ""
-""
 
 msgid "Gesture Timeout"
 msgstr ""
 
-msgid "The more often you call it, the higher the CPU usage will be and the faster you have to move"
+msgid ""
+"The more often you call it, the higher the CPU usage will be and the faster "
+"you have to move"
 msgstr ""
 
 msgid "Gesture Sensitvity"
@@ -1049,49 +996,31 @@ msgstr ""
 msgid "Y Calibration Multiplier"
 msgstr ""
 
-msgid "Change this depending on your screen size"
-msgstr ""
-
 msgid "X Adjust"
-msgstr "X Ajustar"
+msgstr ""
 
 msgid "Used to adjust to the position of your screen"
 msgstr ""
-
 
 msgid "Y Adjust"
-msgstr ""
-
-msgid "Used to adjust to the position of your screen"
 msgstr ""
 
 msgid "Gesturing"
 msgstr ""
 
+msgid "Gesture List"
+msgstr ""
+
 msgid "Wii Remote Number"
 msgstr ""
 
-#, fuzzy
 msgid "The number of the wii remote on the list (starts at 0)"
 msgstr ""
-
 
 msgid "Gesture Type"
 msgstr ""
 
 msgid "Which gesture calls the action"
-msgstr ""
-
-msgid "Plugin Name"
-msgstr ""
-
-msgid "Initiation Plugin Name"
-msgstr ""
-
-msgid "Action Name"
-msgstr ""
-
-msgid "Initiation Action Name"
 msgstr ""
 
 msgid "Sensitivity"
@@ -1106,29 +1035,18 @@ msgstr ""
 msgid "Reporter List"
 msgstr ""
 
-msgid "Wii Remote Number"
-msgstr ""
-
 msgid "Wii Remote Number (In order of the wiimote settings list. Starts at 0)"
 msgstr ""
 
-
 msgid "Report Type"
-msgstr "Tipo de informe"
+msgstr ""
 
 msgid "What to report"
-msgstr "Que reportar"
-
-msgid "Plugin Name"
 msgstr ""
 
 msgid "Plugin to report to"
 msgstr ""
 
-msgid "Action Name"
-msgstr ""
-
-#, fuzzy
 msgid "Action to report to"
 msgstr ""
 
@@ -1153,28 +1071,31 @@ msgstr ""
 msgid "Data Type"
 msgstr ""
 
-msgid "What data type the plugin expects (Use the other one if the current one doesn't work)"
-msgstr ""
-
-
-msgid "Sensitivity"
+msgid ""
+"What data type the plugin expects (Use the other one if the current one "
+"doesn't work)"
 msgstr ""
 
 msgid "How sensitive Wii Remote movements should be"
 msgstr ""
 
-msgid "Notification"
-msgstr ""
-
-msgid "Font size for the window title"
-msgstr ""
-
-msgid "Font color for the window title"
-msgstr ""
-
-
 msgid "WiiTrack"
 msgstr ""
 
 msgid "Create a true 3d desktop with a Wiimote some IR-enabled shades."
+msgstr ""
+
+msgid "Enable Tracking"
+msgstr ""
+
+msgid "WiiMote Above Screen"
+msgstr ""
+
+msgid "Enable this if your Wiimote is above your screen."
+msgstr ""
+
+msgid "Wiimote Vertical Angle"
+msgstr ""
+
+msgid "Angle of wiimote in radians * 100"
 msgstr ""
