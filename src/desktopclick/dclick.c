@@ -18,6 +18,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
+ * TODO: cleanup indentation
  */
 
 #include <compiz-core.h>
@@ -189,11 +190,6 @@ dclickHandleDesktopButtonPress (CompDisplay    *d,
 	{
 
 	DCLICK_DISPLAY (d);
-
-	CompWindow *w = findWindowAtDisplay (d, win); 
-	if ((!w || (w->type & CompWindowTypeDesktopMask) == 0) && 
-	(win != s->root)) 
-	return FALSE; 	/* Oops, we didn't hit the desktop window */
 
 	CompListValue *cModsEnum = dclickGetClickMods (d);
 	CompListValue *cButtonEnum = dclickGetClickButtons (d);
