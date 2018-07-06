@@ -1152,6 +1152,60 @@ msgstr "Ángulo vertical Wiimote"
 msgid "Angle of wiimote in radians * 100"
 msgstr "Ángulo de wiimote en radianes * 100"
 
+msgid "Window Capture"
+msgstr "Captura de ventana"
+
+msgid "Window capture plugin similar to Mac OS X."
+msgstr "Plugin de captura de ventana similar a Mac OS X."
+
+msgid "Capture"
+msgstr "Capturar"
+
+msgid "Capture current window."
+msgstr "Capture la ventana actual."
+
+msgid "Capture window under mouse."
+msgstr "Capturar ventana debajo del mouse."
+
+msgid "roach"
+msgstr "Cucaracha"
+
+msgid "Roaches for Compiz"
+msgstr "Cucarachas para Compiz"
+
+msgid "Number Of roaches"
+msgstr "Número de Cucarachas"
+
+msgid "Size Of roaches"
+msgstr "Tamaño de las cucarachas"
+
+msgid "Roaches Over Windows"
+msgstr "cucarachas sobre las ventanas"
+
+msgid "Roaches are drawn above windows"
+msgstr "Dibujar las cucarachas sobre las ventanas"
+
+msgid "Roach Textures"
+msgstr "Textura de las cucarachas"
+
+msgid "Toggle Roaches"
+msgstr "Habilitar o deshabilitar cucarachas"
+
+msgid "Roach toggle key"
+msgstr "Tecla de habilitación o deshabilitación cucarachas"
+
+msgid "Enable roaches by default."
+msgstr "Permitir cucarachas por defecto."
+
+msgid "Roach textures"
+msgstr "Textura de las cucarachas"
+
+msgid "Number of roaches"
+msgstr "Número de Cucarachas"
+
+msgid "Size of roaches"
+msgstr "Tamaño de las cucarachas"
+
 #~ msgid ""
 #~ "Delay (in ms) between screen updates. Decreasing this value may make "
 #~ "leavesfall more smoothly, but will also increase CPU usage."
@@ -1167,41 +1221,4 @@ msgstr "Ángulo de wiimote en radianes * 100"
 #~ msgid "Wave amplitude"
 #~ msgstr "Amplitud de onda"
 
-#~ msgid "roach"
-#~ msgstr "Cucaracha"
 
-#~ msgid "Roaches for Compiz"
-#~ msgstr "Cucarachas para Compiz"
-
-#~ msgid "Number Of roaches"
-#~ msgstr "Número de Cucarachas"
-
-#~ msgid "Size Of roaches"
-#~ msgstr "Tamaño de las cucarachas"
-
-#~ msgid "Roaches Over Windows"
-#~ msgstr "cucarachas sobre las ventanas"
-
-#~ msgid "Roaches are drawn above windows"
-#~ msgstr "Dibujar las cucarachas sobre las ventanas"
-
-#~ msgid "Roach Textures"
-#~ msgstr "Textura de las cucarachas"
-
-#~ msgid "Toggle Roaches"
-#~ msgstr "Habilitar o deshabilitar cucarachas"
-
-#~ msgid "Roach toggle key"
-#~ msgstr "Tecla de habilitación o deshabilitación cucarachas"
-
-#~ msgid "Enable roaches by default."
-#~ msgstr "Permitir cucarachas por defecto."
-
-#~ msgid "Roach textures"
-#~ msgstr "Textura de las cucarachas"
-
-#~ msgid "Number of roaches"
-#~ msgstr "Número de Cucarachas"
-
-#~ msgid "Size of roaches"
-#~ msgstr "Tamaño de las cucarachas"

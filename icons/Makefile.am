@@ -16,7 +16,8 @@ icons_DATA =              \
   plugin-showrepaint.svg  \
   plugin-visualevent.svg  \
   plugin-wiimote.svg      \
-  plugin-wiitrack.svg
+  plugin-wiitrack.svg     \
+  plugin-windowcapture.svg
 
 install-data-hook:
 	$(shell which gtk-update-icon-cache &> /dev/null &&	\

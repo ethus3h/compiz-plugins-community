@@ -17,7 +17,8 @@ xml_in_files =           \
 	showrepaint.xml.in   \
 	visualevent.xml.in   \
 	wiimote.xml.in       \
-	wiitrack.xml.in
+	wiitrack.xml.in      \
+	windowcapture.xml.in
 
 xml_files    = $(xml_in_files:.xml.in=.xml)
 xml_DATA     = $(xml_files)

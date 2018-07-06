@@ -17,4 +17,5 @@ SUBDIRS =              \
 	showrepaint        \
 	visualevent        \
 	wiimote            \
-	wiitrack
+	wiitrack           \
+	windowcapture

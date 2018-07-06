@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="windowcapture" useBcop="true">
+		<_short>Window Capture</_short>
+		<_long>Window capture plugin similar to Mac OS X.</_long>
+		<category>Extras</category>
+		<deps>
+		</deps>
+		<display>
+			<option name="window_capture_key" type="key">
+				<_short>Capture</_short>
+				<_long>Capture current window.</_long>
+				<default>&lt;Shift&gt;&lt;Super&gt;numbersign</default>
+			</option>
+			<option name="window_capture_button" type="button">
+				<_short>Capture</_short>
+				<_long>Capture window under mouse.</_long>
+				<default>&lt;Shift&gt;&lt;Super&gt;Button1</default>
+			</option>
+		</display>
+	</plugin>
+</compiz>
+
