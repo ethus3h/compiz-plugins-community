@@ -17,6 +17,7 @@
 - Add wiimote plugin. (test plugin and view works all right).
 - Add wiitrack plugin.
 - add wiimote in prompt thanks soreau.
+- add windowcapture
 - Fixes to roach from matijaskala.
 - cgit.compiz.org test and add plugins in compiz-plugins-community thanks Eignar17.
 
