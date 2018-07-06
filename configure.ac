@@ -168,5 +168,6 @@ src/showrepaint/Makefile
 src/visualevent/Makefile
 src/wiimote/Makefile
 src/wiitrack/Makefile
+src/windowcapture/Makefile
 po/Makefile.in
 ])
