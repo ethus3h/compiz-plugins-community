@@ -30,11 +30,7 @@
  *    http://cvsweb.xfree86.org/cvsweb/xc/programs/glxgears/glxgears.c
  */
 
-#include <stdlib.h>
 #include <string.h>
-#include <stdio.h>
-#include <signal.h>
-#include <unistd.h>
 #include <math.h>
 #include <GL/glu.h>
 
