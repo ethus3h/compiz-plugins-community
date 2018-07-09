@@ -1099,3 +1099,18 @@ msgstr ""
 
 msgid "Angle of wiimote in radians * 100"
 msgstr ""
+
+msgid "Window Capture"
+msgstr ""
+
+msgid "Window capture plugin similar to Mac OS X."
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "Capture current window."
+msgstr ""
+
+msgid "Capture window under mouse."
+msgstr ""
