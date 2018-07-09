@@ -989,7 +989,7 @@ toggleRubikEffect (CompScreen *s)
 	}
 	else {
 		initFaces (s);
-		cs->desktopOpacity = rs->desktopOpac
+		cs->desktopOpacity = rs->desktopOpacity;
 
 		//cs->rotationState = RotationNone;
 		
