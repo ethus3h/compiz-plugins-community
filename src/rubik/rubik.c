@@ -970,7 +970,7 @@ toggleRubikEffect (CompScreen *s)
 {
 	
 	RUBIK_SCREEN(s);
-	//CUBE_SCREEN (s);
+	CUBE_SCREEN (s);
 	
 	rs->initiated = !(rs->initiated);
 	
