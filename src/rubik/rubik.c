@@ -94,13 +94,13 @@ initRubik (CompScreen *s)
 
     //sides
     setSpecifiedColor(rs->faces[0].color, RED);
-    setSpecifiedColor(rs->faces[1].color, YELLOW);
+    setSpecifiedColor(rs->faces[1].color, ORANGE);
     setSpecifiedColor(rs->faces[2].color, BLUE);
     setSpecifiedColor(rs->faces[3].color, GREEN);
 
     //top and bottom
     setSpecifiedColor(rs->faces[4].color, WHITE);
-    setSpecifiedColor(rs->faces[5].color, ORANGE);
+    setSpecifiedColor(rs->faces[5].color, YELLOW);
 
     initFaces(s);
 }
