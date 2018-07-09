@@ -1031,7 +1031,9 @@ rubikDonePaintScreen (CompScreen * s)
 }
 
 static Bool RubikPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib, 
-	const CompTransform *transform, Region region, CompOutput *output, unsigned int mask){
+	const CompTransform *transform, Region region, CompOutput *output, unsigned int mask)
+{
+    Bool status;
 
     RUBIK_SCREEN(s);
 
