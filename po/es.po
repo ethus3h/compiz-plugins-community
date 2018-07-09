@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compiz-plugins\n"
-"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins/issues\n"
+"Report-Msgid-Bugs-To: https://github.com/ethus3h/compiz-plugins-community/issues\n"
 "POT-Creation-Date: 2018-06-20 08:40+0200\n"
 "PO-Revision-Date: 2018-06-15 16:55+0200\n"
 "Last-Translator: Eignar Samaniego <eignar17@gmail.com>\n"
