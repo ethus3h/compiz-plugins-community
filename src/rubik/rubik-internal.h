@@ -131,6 +131,8 @@ typedef struct _RubikScreen
     float *psi;
     float *oldPsi;
 
+    float desktopOpacity;
+    
     CompWindow ** w;
 
     Box * oldClip;
