@@ -980,13 +980,17 @@ toggleRubikEffect (CompScreen *s)
 		currentStripDirection = NRAND(2)*2-1;
 		rotationAxis = NRAND(3);
 
-		
+		rs->desktopOpacity = cs->toOpacity;
+		cs->toOpacity = 0;
+		cs->desktopOpacity = 0;
+	
 		//cs->rotationState = RotationManual;
 		//WRAP( rs, cs, getRotation, rubikGetRotation );
 	}
 	else {
 		initFaces (s);
-		
+		cs->desktopOpacity = rs->desktopOpac
+
 		//cs->rotationState = RotationNone;
 		
 		//UNWRAP (rs, cs, getRotation);
