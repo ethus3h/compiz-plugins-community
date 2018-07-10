@@ -592,9 +592,13 @@ static void rubikPaintInside (CompScreen *s,
 
 							
 							wv1+=((float) vs-square->x   )/((float) vStrips);	
-							wv2+=((float) vs-square->x   )/((float) vStrips);	
+							wv2+=((float) vs-square->x   )/((float) vStrips);
 
+							glColor4us (0xffff, 0xffff, 0xffff, cs->desktopOpacity);
+							glBlendFunc (GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 
+							glEnable (GL_COLOR_MATERIAL);
+							glTexEnvf (GL_TEXTURE_ENV, GL_TEXTURE_ENV_MODE, GL_MODULATE);
 							
 							glBegin(GL_QUADS); 
 
