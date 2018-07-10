@@ -705,9 +705,16 @@ static void rubikPaintInside (CompScreen *s,
 	glDisable (GL_DEPTH_TEST);
 
 	if (enabledCull)
-		glDisable (GL_CULL_FACE);
+	glDisable (GL_CULL_FACE);
 
 	glPopMatrix();
+
+
+	glColor3usv (defaultColor);
+	glDisable (GL_BLEND);
+	glBlendFunc (GL_ONE, GL_ONE_MINUS_SRC_ALPHA);
+	screenTexEnvMode (s, GL_REPLACE);
+
 
 	glPopAttrib();
 
