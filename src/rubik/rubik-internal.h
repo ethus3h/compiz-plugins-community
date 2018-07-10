@@ -66,6 +66,9 @@ extern int cubeDisplayPrivateIndex;
 #define YELLOW		12
 #define WHITE		13
 
+typedef struct _orderedFaceRec orderedFaceRec;
+
+
 typedef struct _RubikDisplay
 {
     int screenPrivateIndex;
@@ -82,7 +85,6 @@ typedef struct _squareRec
 }
 squareRec;
 
-
 typedef struct _faceRec
 {
     float  color[4];
@@ -91,6 +93,12 @@ typedef struct _faceRec
 }
 faceRec;
 
+struct _orderedFaceRec
+{ //not used yet
+    squareRec *square;
+    orderedFaceRec *nextOrderedFace;
+    CompWindow *w;
+};
 
 
 typedef struct _RubikScreen
@@ -131,6 +139,8 @@ typedef struct _RubikScreen
     float *psi;
     float *oldPsi;
 
+    float desktopOpacity;
+    
     CompWindow ** w;
 
     Box * oldClip;
@@ -142,7 +152,6 @@ typedef struct _RubikScreen
     float radius;      //radius on which the hSize points lie
 
     float speedFactor; // multiply rotation speed by this value
-
 }
 RubikScreen;
 

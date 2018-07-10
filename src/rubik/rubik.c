@@ -94,13 +94,13 @@ initRubik (CompScreen *s)
 
     //sides
     setSpecifiedColor(rs->faces[0].color, RED);
-    setSpecifiedColor(rs->faces[1].color, YELLOW);
+    setSpecifiedColor(rs->faces[1].color, ORANGE);
     setSpecifiedColor(rs->faces[2].color, BLUE);
     setSpecifiedColor(rs->faces[3].color, GREEN);
 
     //top and bottom
     setSpecifiedColor(rs->faces[4].color, WHITE);
-    setSpecifiedColor(rs->faces[5].color, ORANGE);
+    setSpecifiedColor(rs->faces[5].color, YELLOW);
 
     initFaces(s);
 }
@@ -592,9 +592,13 @@ static void rubikPaintInside (CompScreen *s,
 
 							
 							wv1+=((float) vs-square->x   )/((float) vStrips);	
-							wv2+=((float) vs-square->x   )/((float) vStrips);	
+							wv2+=((float) vs-square->x   )/((float) vStrips);
 
+							glColor4us (0xffff, 0xffff, 0xffff, cs->desktopOpacity);
+							glBlendFunc (GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 
+							glEnable (GL_COLOR_MATERIAL);
+							glTexEnvf (GL_TEXTURE_ENV, GL_TEXTURE_ENV_MODE, GL_MODULATE);
 							
 							glBegin(GL_QUADS); 
 
@@ -701,9 +705,16 @@ static void rubikPaintInside (CompScreen *s,
 	glDisable (GL_DEPTH_TEST);
 
 	if (enabledCull)
-		glDisable (GL_CULL_FACE);
+	glDisable (GL_CULL_FACE);
 
 	glPopMatrix();
+
+
+	glColor3usv (defaultColor);
+	glDisable (GL_BLEND);
+	glBlendFunc (GL_ONE, GL_ONE_MINUS_SRC_ALPHA);
+	screenTexEnvMode (s, GL_REPLACE);
+
 
 	glPopAttrib();
 
@@ -970,7 +981,7 @@ toggleRubikEffect (CompScreen *s)
 {
 	
 	RUBIK_SCREEN(s);
-	//CUBE_SCREEN (s);
+	CUBE_SCREEN (s);
 	
 	rs->initiated = !(rs->initiated);
 	
@@ -980,13 +991,17 @@ toggleRubikEffect (CompScreen *s)
 		currentStripDirection = NRAND(2)*2-1;
 		rotationAxis = NRAND(3);
 
-		
+		rs->desktopOpacity = cs->toOpacity;
+		cs->toOpacity = 0;
+		cs->desktopOpacity = 0;
+	
 		//cs->rotationState = RotationManual;
 		//WRAP( rs, cs, getRotation, rubikGetRotation );
 	}
 	else {
 		initFaces (s);
-		
+		cs->desktopOpacity = rs->desktopOpacity;
+
 		//cs->rotationState = RotationNone;
 		
 		//UNWRAP (rs, cs, getRotation);
