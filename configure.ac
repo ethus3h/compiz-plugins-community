@@ -140,6 +140,8 @@ fi
 PKG_CHECK_MODULES(COMPIZMOUSEPOLL, compiz-mousepoll, [have_compiz_mousepoll=yes], [have_compiz_mousepoll=no])
 AM_CONDITIONAL(DODGE_PLUGIN, test "x$have_compiz_dodge" = "xyes")
 
+AC_PATH_PROG(UPDATE_ICON_CACHE, gtk-update-icon-cache)
+
 AC_OUTPUT([
 compiz-visualevent.pc
 Makefile
