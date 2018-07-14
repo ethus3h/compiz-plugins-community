@@ -217,7 +217,7 @@ rubikClearTargetOutput (CompScreen *s,
 	(*cs->clearTargetOutput) (s, xRotate, vRotate);
 	WRAP (rs, cs, clearTargetOutput, rubikClearTargetOutput);
 
-	glClear (GL_DEPTH_BUFFER_BIT);
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 }
 
 
@@ -233,12 +233,10 @@ static void rubikPaintInside (CompScreen *s,
 	if (rs->hsize!=s->hsize) updateRubik (s);
 
 	
-	/*static const float mat_shininess[]      = { 60.0 };
-	static const float mat_specular[]       = { 0.8, 0.8, 0.8, 1.0 };
-	static const float mat_diffuse[]        = { 0.46, 0.66, 0.795, 1.0 };
-	static const float mat_ambient[]        = { 0.1, 0.1, 0.3, 1.0 };
-	static const float lmodel_ambient[]     = { 1.0, 1.0, 1.0, 1.0 };
-	static const float lmodel_localviewer[] = { 0.0 };*/
+	static const float  mat_diffuse[] = { 0.7, 0.7, 0.7, 1.0 };
+	static const float  mat_specular[] = { 0.0, 0.0, 0.0, 1.0 };
+	static const float  mat_shininess[] = { 10.0 };
+	static const float  light_position[] = { 1.0, 1.0, 1.0, 0.0 };
 	
 	ScreenPaintAttrib sA = *sAttrib;
 	CompTransform mT = *transform;
@@ -278,17 +276,21 @@ static void rubikPaintInside (CompScreen *s,
 
 	glPushMatrix();
 
-	/*glMaterialfv (GL_FRONT_AND_BACK, GL_SHININESS, mat_shininess);
-	glMaterialfv (GL_FRONT_AND_BACK, GL_SPECULAR, mat_specular);
-	glMaterialfv (GL_FRONT_AND_BACK, GL_DIFFUSE, mat_diffuse);
-	glMaterialfv (GL_FRONT_AND_BACK, GL_AMBIENT, mat_ambient);
-	glLightModelfv (GL_LIGHT_MODEL_AMBIENT, lmodel_ambient);
-	glLightModelfv (GL_LIGHT_MODEL_LOCAL_VIEWER, lmodel_localviewer);
-	 */
+	glClearColor (0.0, 0.0, 0.0, 0.0);
+	glMaterialfv(GL_FRONT, GL_DIFFUSE, mat_diffuse);
+	glMaterialfv(GL_FRONT, GL_SPECULAR, mat_specular);
+	glMaterialfv(GL_FRONT, GL_SHININESS, mat_shininess);
+	glLightfv(GL_LIGHT0, GL_POSITION, light_position);
+
+	glEnable(GL_LIGHTING);
+	glEnable(GL_LIGHT0);
+	glEnable(GL_DEPTH_TEST);
+	glEnable(GL_AUTO_NORMAL);
 	glEnable (GL_NORMALIZE);
-	//glEnable (GL_LIGHTING);
-	//glEnable (GL_LIGHT1);
-	//glEnable (GL_LIGHT0);
+
+	glClearColor(0,0,0,1.0);
+	glClearDepth(20.0f);       // Set background depth to farthest
+	glDepthFunc(GL_LEQUAL);    // Set the type of depth-test
 
 	if (rs->initiated && rubikGetRotateDesktop(s)) {
 
