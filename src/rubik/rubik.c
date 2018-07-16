@@ -287,6 +287,7 @@ static void rubikPaintInside (CompScreen *s,
 	glEnable(GL_DEPTH_TEST);
 	glEnable(GL_AUTO_NORMAL);
 	glEnable (GL_NORMALIZE);
+	glEnable(GL_RESCALE_NORMAL);
 
 	glClearColor(0,0,0,1.0);
 	glClearDepth(20.0f);       // Set background depth to farthest
