@@ -926,7 +926,7 @@ rubikPreparePaintScreen (CompScreen *s,
 	(*s->preparePaintScreen) (s, ms);
 	WRAP (rs, s, preparePaintScreen, rubikPreparePaintScreen);
 	
-	if (rs->initiated && cs->rotationState!=RotationNone && rubikGetRotateDesktop(s)) {
+	if (rs->initiated && cs->rotationState!=RotationNone && rs->hsize > 2 && rubikGetRotateDesktop(s)) {
 		cs->toOpacity = 0;
 		cs->desktopOpacity = 0;
 	}
@@ -939,7 +939,7 @@ static Bool RubikDamageWindowRect(CompWindow *w, Bool initial, BoxPtr rect){
 	CUBE_SCREEN (w->screen);
 	//RUBIK_WINDOW(w);
 
-	if (w->damaged || (rs->initiated && (cs->rotationState!=RotationNone || !rubikGetEnableOnManualRotate(w->screen))))
+	if (w->damaged || (rs->initiated && (cs->rotationState!=RotationNone || rs->hsize > 2 || !rubikGetEnableOnManualRotate(w->screen))))
 		damageScreen(w->screen);
 
 	UNWRAP(rs, w->screen, damageWindowRect);
@@ -1068,7 +1068,7 @@ RubikDrawWindow (CompWindow           *w,
     CUBE_SCREEN (s);
 
     if (rs->initiated) {
-    	if (w->desktop && cs->rotationState!=RotationNone && rubikGetRotateDesktop(s))
+    	if (w->desktop && cs->rotationState!=RotationNone && rs->hsize > 2 && rubikGetRotateDesktop(s))
     		fA.opacity = 0;
     	
     	if (!w->desktop && rubikGetRotateAllAxes(s) && cs->rotationState!=RotationNone)
@@ -1131,7 +1131,7 @@ RubikAddWindowGeometry(CompWindow * w,
         	}
     		
     	}
-    	else if (w->desktop && cs->rotationState!=RotationNone && rubikGetRotateDesktop(w->screen)) {
+    	else if (w->desktop && cs->rotationState!=RotationNone && rs->hsize > 2 && rubikGetRotateDesktop(w->screen)) {
     		for (i=0; i<clip->numRects; i++) {
     			clip->rects[i].x1 = 0;
     			clip->rects[i].x2 = 0;
@@ -1188,7 +1188,7 @@ static Bool RubikPaintWindow(CompWindow *w, const WindowPaintAttrib *attrib,
 
 	UNWRAP(rs, w->screen, paintWindow);
 
-	if (rs->initiated && !(rubikGetEnableOnManualRotate(w->screen) && cs->rotationState==RotationNone)) {
+	if (rs->initiated && !(rubikGetEnableOnManualRotate(w->screen) && cs->rotationState==RotationNone && rs->hsize > 2)) {
 
 		mask |= PAINT_WINDOW_TRANSFORMED_MASK;
 		//mask |= PAINT_SCREEN_REGION_MASK;
@@ -1205,7 +1205,7 @@ static Bool RubikPaintWindow(CompWindow *w, const WindowPaintAttrib *attrib,
 		if (!w->desktop && !w->hidden) {
 			
 			GLboolean oldDepthTestStatus = glIsEnabled(GL_DEPTH_TEST);
-			if (rubikGetEnableDepthTest(w->screen) && cs->rotationState!=RotationNone)
+			if (rubikGetEnableDepthTest(w->screen) && cs->rotationState!=RotationNone && rs->hsize > 2)
 				glEnable (GL_DEPTH_TEST);
 			
 			GLdouble oldClipPlane4[4];
