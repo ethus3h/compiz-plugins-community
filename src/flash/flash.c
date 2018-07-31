@@ -53,12 +53,25 @@
  * Helpers
  *
  */
-#define GET_FLASH_DISPLAY(d) ((FlashDisplay *) (d)->base.privates[displayPrivateIndex].ptr)
-#define FLASH_DISPLAY(d) FlashDisplay *fd = GET_FLASH_DISPLAY (d)
-#define GET_FLASH_SCREEN(s, fd) ((FlashScreen *) (s)->base.privates[(fd)->screenPrivateIndex].ptr)
-#define FLASH_SCREEN(s) FlashScreen *fs = GET_FLASH_SCREEN (s, GET_FLASH_DISPLAY (s->display))
-#define GET_FLASH_WINDOW(w, fs) ((FlashWindow *) (w)->base.privates[(fs)->windowPrivateIndex].ptr)
-#define FLASH_WINDOW(w) FlashWindow *fw = GET_FLASH_WINDOW  (w, GET_FLASH_SCREEN  (w->screen, GET_FLASH_DISPLAY (w->screen->display)))
+#define GET_FLASH_DISPLAY(d) \
+	((FlashDisplay *) (d)->base.privates[displayPrivateIndex].ptr)
+
+#define FLASH_DISPLAY(d)  \
+	FlashDisplay *fd = GET_FLASH_DISPLAY (d)
+
+#define GET_FLASH_SCREEN(s, fd)  \
+	((FlashScreen *) (s)->base.privates[(fd)->screenPrivateIndex].ptr)
+
+#define FLASH_SCREEN(s)  \
+	FlashScreen *fs = GET_FLASH_SCREEN (s, GET_FLASH_DISPLAY (s->display))
+
+#define GET_FLASH_WINDOW(w, fs)  \
+	((FlashWindow *) (w)->base.privates[(fs)->windowPrivateIndex].ptr)
+
+#define FLASH_WINDOW(w)  \
+	FlashWindow *fw = GET_FLASH_WINDOW  \
+				(w, GET_FLASH_SCREEN  (w->screen,  \
+				GET_FLASH_DISPLAY (w->screen->display)))
 
 #define NUM_OPTIONS(s) (sizeof ((s)->opt) / sizeof (CompOption))
 
