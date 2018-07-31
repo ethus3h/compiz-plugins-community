@@ -752,6 +752,10 @@ flashInitDisplay (CompPlugin *p, CompDisplay *d)
 {
     FlashDisplay *fd;
 
+    if (!checkPluginABI ("core", CORE_ABIVERSION))
+	return FALSE;
+
+
     fd = malloc (sizeof (FlashDisplay));
     if (!fd)
         return FALSE;
