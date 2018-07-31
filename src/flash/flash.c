@@ -452,7 +452,7 @@ flashPreparePaintOutput (CompScreen *s, int msSinceLastPaint)
 		
 
 		//test if an other plugin is used at this time.
-		if(otherScreenGrabExist(s,0))
+		if(otherScreenGrabExist(s, NULL))
 		    fs->anotherPluginIsUsing = TRUE;
 		else
 		    fs->anotherPluginIsUsing = FALSE;
