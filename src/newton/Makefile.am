@@ -3,8 +3,37 @@ PFLAGS=-module -avoid-version -no-undefined
 
 libnewton_la_LDFLAGS = $(PFLAGS)
 libnewton_la_LIBADD = @COMPIZ_LIBS@
-nodist_libnewton_la_SOURCES = newton_options.c newton_options.h
-dist_libnewton_la_SOURCES = chipmunk.c chipmunk.h cpArbiter.c cpArbiter.h cpArray.c cpArray.h cpBB.c cpBB.h cpBody.c cpBody.h cpCollision.c cpCollision.h cpHashSet.c cpHashSet.h cpJoint.c cpJoint.h cpPolyShape.c cpPolyShape.h cpShape.c cpShape.h cpSpace.c cpSpace.h cpSpaceHash.c cpSpaceHash.h cpVect.c cpVect.h newton.c prime.h
+nodist_libnewton_la_SOURCES = newton_options.c  \
+			        newton_options.h
+dist_libnewton_la_SOURCES = \
+	chipmunk.c  \
+	chipmunk.h \
+	cpArbiter.c \
+	cpArbiter.h \
+	cpArray.c \
+	cpArray.h \
+	cpBB.c \
+	cpBB.h \
+	cpBody.c \
+	cpBody.h \
+	cpCollision.c \
+	cpCollision.h \
+	cpHashSet.c \
+	cpHashSet.h \
+	cpJoint.c \
+	cpJoint.h \
+	cpPolyShape.c \
+	cpPolyShape.h \
+	cpShape.c \
+	cpShape.h \
+	cpSpace.c \
+	cpSpace.h \
+	cpSpaceHash.c \
+	cpSpaceHash.h \
+	cpVect.c \
+	cpVect.h \
+	newton.c \
+	prime.h
 
 BUILT_SOURCES = $(nodist_libnewton_la_SOURCES)
 
