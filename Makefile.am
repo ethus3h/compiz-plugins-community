@@ -9,7 +9,7 @@ EXTRA_DIST =		         \
 	README.md	         \
 	VERSION		         \
 	autogen.sh	         \
-        compiz-visualevent.pc.in \
+       compiz-visualevent.pc.in \
 	intltool-extract.in      \
 	intltool-merge.in        \
 	intltool-update.in
