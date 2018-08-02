@@ -4,7 +4,7 @@ PFLAGS=-module -avoid-version -no-undefined
 libnewton_la_LDFLAGS = $(PFLAGS)
 libnewton_la_LIBADD = @COMPIZ_LIBS@
 nodist_libnewton_la_SOURCES = newton_options.c  \
-			        newton_options.h
+			      newton_options.h
 dist_libnewton_la_SOURCES = \
 	chipmunk.c  \
 	chipmunk.h \
