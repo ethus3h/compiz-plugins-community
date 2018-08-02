@@ -1,7 +1,22 @@
-# compiz-plugins-community
+# compiz-plugins-community: Additional plugins for the Compiz-Reloaded window manager
 
-This package is part of Wreathe, and is maintained by the Ember project.
+## List of plugins provided
 
-Learn about Wreathe at the Ember Web site: http://futuramerlin.com/ancillary/wreathe/
-
-Please report any issues you find with this repository to the Ember project's issue tracker at http://futuramerlin.com/issue-tracker/.
+- boing
+- desktopclick
+- dodge
+- flash
+- headtracking
+- lazypointer
+- maze
+- mousegestures
+- newton
+- peek
+- prompt
+- roach
+- rubik
+- showrepaint
+- visualevent
+- wiimote
+- wiitrack
+- windowcapture
