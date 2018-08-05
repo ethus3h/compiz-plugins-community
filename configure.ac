@@ -140,6 +140,15 @@ fi
 PKG_CHECK_MODULES(COMPIZMOUSEPOLL, compiz-mousepoll, [have_compiz_mousepoll=yes], [have_compiz_mousepoll=no])
 AM_CONDITIONAL(DODGE_PLUGIN, test "x$have_compiz_dodge" = "xyes")
 
+PKG_CHECK_MODULES(CWIID, cwiid, have_cwiid=yes, have_cwiid=no)
+AM_CONDITIONAL(WIITRACK_PLUGIN, test "x$have_cwiid=yes" = "xyes" && test "x$have_cwiid" = "xyes")
+
+PKG_CHECK_MODULES(CWIID,cwiid, have_cwiid=yes, have_cwiid=no)
+AM_CONDITIONAL(WIIMOTE_PLUGIN, test "x$have_cwiid=yes" = "xyes" && test "x$have_cwiid" = "xyes")
+
+PKG_CHECK_MODULES(OPENCV,opencv >= 2.0, have_opencv=yes, have_opencv=no)
+AM_CONDITIONAL(HEADTRACKING_PLUGIN, test "x$have_opencv=yes" = "xyes" && test "x$have_opencv" = "xyes")
+
 AC_PATH_PROG(UPDATE_ICON_CACHE, gtk-update-icon-cache)
 
 AC_OUTPUT([
