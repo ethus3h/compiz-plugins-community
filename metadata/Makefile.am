@@ -40,11 +40,11 @@ xml_in_files =           \
 	rubik.xml.in            \
 	showrepaint.xml.in      \
 	windowcapture.xml.in    \
-        $(dodge.xml.in)         \
-        $(headtracking.xml.in)  \
-        $(visualevent.xml.in)   \
-        $(wiimote.xml.in)       \
-        $(wiitrack.xml.in)      
+       $(dodge.xml.in)         \
+       $(headtracking.xml.in)  \
+       $(visualevent.xml.in)   \
+       $(wiimote.xml.in)       \
+       $(wiitrack.xml.in)      
 
 
 xml_files    = $(xml_in_files:.xml.in=.xml)
