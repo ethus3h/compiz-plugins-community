@@ -1,10 +1,12 @@
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
+if DODGE_PLUGIN
 libdodge_la_LDFLAGS = $(PFLAGS)
 libdodge_la_LIBADD = @COMPIZ_LIBS@
 nodist_libdodge_la_SOURCES = dodge_options.c dodge_options.h
 dist_libdodge_la_SOURCES = dodge.c
+endif
 
 BUILT_SOURCES = $(nodist_libdodge_la_SOURCES)
 
@@ -18,7 +20,9 @@ AM_CPPFLAGS =                              \
 
 moduledir = $(plugindir)
 
+if DODGE_PLUGIN
 module_LTLIBRARIES = libdodge.la
+endif
 
 CLEANFILES = *_options.c *_options.h
 
