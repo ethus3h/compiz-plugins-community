@@ -27,24 +27,24 @@ wiitrackxml = wiitrack.xml.in
 endif
 
 xml_in_files =           \
-	boing.xml.in         \
-	dclick.xml.in        \	
-	flash.xml.in         \
-	lazypointer.xml.in   \
-	maze.xml.in          \
-	mousegestures.xml.in \
-	newton.xml.in        \
-	peek.xml.in          \
-	prompt.xml.in        \
-	roach.xml.in         \
-	rubik.xml.in         \
-	showrepaint.xml.in   \
-	windowcapture.xml.in \
-     $(dodge.xml.in)         \
-     $(headtracking.xml.in)  \
-     $(visualevent.xml.in)   \
-     $(wiimote.xml.in)       \
-     $(wiitrack.xml.in)      
+	boing.xml.in            \
+	dclick.xml.in           \	
+	flash.xml.in            \
+	lazypointer.xml.in      \
+	maze.xml.in             \
+	mousegestures.xml.in    \
+	newton.xml.in           \
+	peek.xml.in             \
+	prompt.xml.in           \
+	roach.xml.in            \
+	rubik.xml.in            \
+	showrepaint.xml.in      \
+	windowcapture.xml.in    \
+        $(dodge.xml.in)         \
+        $(headtracking.xml.in)  \
+        $(visualevent.xml.in)   \
+        $(wiimote.xml.in)       \
+        $(wiitrack.xml.in)      
 
 
 xml_files    = $(xml_in_files:.xml.in=.xml)
