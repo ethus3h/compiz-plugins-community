@@ -1,8 +1,9 @@
 ## Process this file with automake to produce Makefile.in
 PFLAGS=-module -avoid-version -no-undefined
 
+if HEADTRACKING_PLUGIN
 libheadtracking_la_LDFLAGS = $(PFLAGS)
-libheadtracking_la_LIBADD = @COMPIZ_LIBS@
+libheadtracking_la_LIBADD = @COMPIZ_LIBS@ @OPENCV_LIBS@
 nodist_libheadtracking_la_SOURCES = headtracking_options.c  \
 			             headtracking_options.h
 dist_libheadtracking_la_SOURCES = \
@@ -10,6 +11,7 @@ dist_libheadtracking_la_SOURCES = \
 	headtracking.c  \
 	facedetect.h  \
 	compiz-wiimote.h
+endif
 
 BUILT_SOURCES = $(nodist_libheadtracking_la_SOURCES)
 
@@ -24,7 +26,9 @@ AM_CPPFLAGS =                              \
 
 moduledir = $(plugindir)
 
+if HEADTRACKING_PLUGIN
 module_LTLIBRARIES = libheadtracking.la
+endif
 
 CLEANFILES = *_options.c *_options.h
 
