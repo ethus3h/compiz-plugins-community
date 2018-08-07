@@ -13,7 +13,7 @@
 	    </requirement>
         </deps>
      <display>
-      <option name="abi" read_only="true"/>
+      <option name="abi" type="int" read_only="true"/>
       <option name="index" read_only="true"/>
       <group>
         <_short>Bindings</_short>
