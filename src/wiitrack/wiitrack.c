@@ -752,4 +752,3 @@ CompPluginVTable wiitrackVTable = {
 };
 
 CompPluginVTable *getCompPluginInfo (void){ return &wiitrackVTable; }
-
