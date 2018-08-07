@@ -28,6 +28,7 @@
 
 #include <X11/extensions/shape.h>
 #include "wiitrack_options.h"
+#include "facedetect.h"
 
 #define PI 3.14159265358979323846
 #define ADEG2RAD(DEG) ((DEG)*((PI)/(180.0)))
@@ -222,7 +223,7 @@ static Bool shouldPaintStacked(CompWindow *w) {
     if (cubeDisplayPrivateIndex >= 0) {
         // Cube is enabled, is it rotating?
         CUBE_SCREEN(w->screen);
-        if (cs->rotationState != RotationNone)
+        if (cs->rotationState != RotationNone || cs->paintAllViewports || otherScreenGrabExist (w->screen, "wiitrack", "move", "resize", 0))
     	    return FALSE;
     }
     return TRUE;
@@ -250,6 +251,11 @@ static Bool WTPaintWindow(CompWindow *w, const WindowPaintAttrib *attrib,
         	matrixTranslate(&wTransform, 0.0, 0.0, 0.0);
         }
     }
+    else {
+	    wts->head.x = 0.0;
+	    wts->head.y = 0.0;
+	    wts->head.z = 1.0;
+    }
     
     damageScreen(w->screen);
     
@@ -276,13 +282,13 @@ static void WTLeeTrackPosition (CompScreen *s, float x1, float y1,
                                 
     WIITRACK_SCREEN (s);
     // How many radians does one camera pixel represent?
-    float radPerPix = (PI / 4.0f) / 1024.0f;
+    float radPerPix = (PI / 3.0f) / 1024.0f;
     // Where is the middle of the head?
     float dx = x1 - x2, dy = y1 - y2;
     float pointDist = (float)sqrt(dx * dx + dy * dy);
     float angle = radPerPix * pointDist / 2.0;
     // Set the head distance in units of screen size
-    wts->head.z = ((float)wiitrackGetBarWidth (s) / 100.0) / (float)tan(angle);
+    wts->head.z = ((float)wiitrackGetBarWidth (s) / 500.0) / (float)tan(angle);
     float aX = (x1 + x2) / 2.0f, aY = (y1 + y2) / 2.0f;
     // Set the head position horizontally
     wts->head.x = (float)sin(radPerPix * (aX - 512.0)) * wts->head.z;
@@ -294,7 +300,6 @@ static void WTLeeTrackPosition (CompScreen *s, float x1, float y1,
     // And if our Wiimote is above our screen, adjust appropriately
     if (wiitrackGetWiimoteAbove (s))
         wts->head.y = wts->head.y + 0.5;
-    
 }
 
 static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib, 
@@ -304,7 +309,7 @@ static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib,
 	WIITRACK_SCREEN(s);
 	CompTransform zTransform = *transform;
 	mask |= PAINT_SCREEN_CLEAR_MASK;
-	
+
 	if (wiitrackGetEnableTracking (s)) {
 	    // Headtracking is enabled in options, so let's track your head...
 	    // Grab data from the Wiimote and run it through our tracking algorithm
@@ -312,8 +317,19 @@ static Bool WTPaintOutput(CompScreen *s, const ScreenPaintAttrib *sAttrib,
 	    if (ad->cWiimote[0].ir[0].valid && ad->cWiimote[0].ir[1].valid) {
 	        WTLeeTrackPosition (s, (float)ad->cWiimote[0].ir[0].x, (float)ad->cWiimote[0].ir[0].y,
 	                           (float)ad->cWiimote[0].ir[1].x, (float)ad->cWiimote[0].ir[1].y);
+            }
+	}
+	if (wiitrackGetEnableCamtracking(s)) {
+	    int x1, y1, x2, y2;
+	    Bool cond = TRUE;
+	    CompWindow *w;
+	    for (w = s->windows ; cond && w ; w = w->next) cond = cond && shouldPaintStacked(w);
+	    if (cond) {
+	        if (headtrack(&x1, &y1, &x2, &y2, wiitrackGetWebcamTrackpoint(s), wiitrackGetWebcamLissage(s), wiitrackGetWebcamSmooth(s), wiitrackGetWebcamDelay(s))) {
+	            WTLeeTrackPosition(s, (float)x1, (float)y1, (float)x2, (float)y2);
+	        }
+	    }
         }
-    }
     
     if (wts->trackMouse) {
 	    // Mouse-Tracking is enabled, and overides true tracking.
@@ -647,7 +663,7 @@ static Bool wiitrackInitDisplay(CompPlugin *p, CompDisplay *d){
     // but for our cube, let's see if it's enabled so we know whether or not 
     // to check the rotation status before setting window depths
     getPluginDisplayIndex (d, "cube", &cubeDisplayPrivateIndex);
-     
+ 
     if( (wtd->screenPrivateIndex = allocateScreenPrivateIndex(d)) < 0 ){
 	free(wtd);
 	return FALSE;
@@ -737,6 +753,7 @@ static void wiitrackFini(CompPlugin *p){
 	glMatrixMode(GL_PROJECTION);
     glPopMatrix();
     glMatrixMode(GL_MODELVIEW);
+    endThread();
 }
 
 // Plugin implementation export
@@ -752,4 +769,3 @@ CompPluginVTable wiitrackVTable = {
 };
 
 CompPluginVTable *getCompPluginInfo (void){ return &wiitrackVTable; }
-
