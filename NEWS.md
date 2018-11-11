@@ -1,6 +1,10 @@
-## Release 0.8.15 (????-??-?? Elliot Chandler <elliot@futuramerlin.com>)
+## Release 0.8.17 (????-??-?? Elliot Chandler <elliot@futuramerlin.com>)
 ================================================================
 
+## Release 0.8.16 (2018-11-11 Elliot Chandler <elliot@futuramerlin.com>)
+================================================================
+
+- **Many thanks** to @Eignar17 and @soreau! <3
 - Add boing plugin.
 - Add desktopclick plugin.
 - Add flash plugin.
@@ -13,7 +17,7 @@
 - Add prompt plugin.
 - Add rubik plugin.
 - Add showrepaint plugin.
-- Add visualevent plugin. (warning:crash random).
+- Add visualevent plugin. (warning: crashes randomly).
 - Add wiimote plugin. (test plugin and view works all right).
 - Add wiitrack plugin.
 - add wiimote in prompt thanks soreau.
