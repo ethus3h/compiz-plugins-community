@@ -1,5 +1,7 @@
-## Release 0.8.17 (????-??-?? Elli Chandler <elli@futuramerlin.com>)
+## Release 0.8.18 (2020-04-18 Elli Chandler <elli@futuramerlin.com>)
 ================================================================
+
+- Version bump to match compiz-reloaded upstream
 
 ## Release 0.8.16 (2018-11-11 Elli Chandler <elli@futuramerlin.com>)
 ================================================================
