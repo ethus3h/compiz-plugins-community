@@ -1,7 +1,7 @@
-## Release 0.8.17 (????-??-?? Elliot Chandler <elliot@futuramerlin.com>)
+## Release 0.8.17 (????-??-?? Elli Chandler <elli@futuramerlin.com>)
 ================================================================
 
-## Release 0.8.16 (2018-11-11 Elliot Chandler <elliot@futuramerlin.com>)
+## Release 0.8.16 (2018-11-11 Elli Chandler <elli@futuramerlin.com>)
 ================================================================
 
 - **Many thanks** to @Eignar17 and @soreau! <3
@@ -25,6 +25,6 @@
 - Fixes to roach from matijaskala.
 - cgit.compiz.org test and add plugins in compiz-plugins-community thanks Eignar17.
 
-## Release 0.8.14 (2017-05-31 Elliot Chandler <elliot@futuramerlin.com>)
+## Release 0.8.14 (2017-05-31 Elli Chandler <elli@futuramerlin.com>)
 
 - Initial release, containing one plugin (roach).
