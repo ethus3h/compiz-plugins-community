@@ -7,7 +7,6 @@ EXTRA_DIST =		         \
 	LICENSE.md	         \
 	NEWS		         \
 	README.md	         \
-	VERSION		         \
 	autogen.sh	         \
        compiz-visualevent.pc.in \
 	intltool-extract.in      \
